@@ -1,0 +1,22 @@
+# OS/Editor-specific
+.DS_Store
+Thumbs.db
+test2.html
+*.log
+
+# Node dependencies (if you’re using npm for Eleventy or similar tools)
+node_modules/
+
+# Eleventy output folder (you probably don’t want to commit this)
+_site/
+dist/
+build/
+
+# VSCode or other editor settings
+.vscode/
+
+# Environment or secret config
+.env
+
+html_creator.py
+id_counter.txt

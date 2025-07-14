@@ -12,7 +12,8 @@ Along with the first movie there was the original Soundtrack from Diana Ross (If
 Next to the songs and the soundtrack there were audioplays/audiobooks of The Land Before Time. Not extremely popular in the USA, these can mainly be found in other languages.
 
 
-<table style="width:100%; border-collapse:collapse;">
+<div class="table-wrapper">
+  <table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -285,3 +286,4 @@ Overall main theme also becomes the beautiful mega-hit song, “If We Hold On To
 
 
 </table>
+</div>

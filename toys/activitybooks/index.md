@@ -7,7 +7,8 @@ title: The Land Before Time Activity Books
 
 An archive of The Land Before Time Activity Books released over the years. If you'd like to see books with words in them instead, please check out [books](/media/books).
 
-<table style="width:100%; border-collapse:collapse;">
+<div class="table-wrapper">
+  <table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -80,3 +81,4 @@ An archive of The Land Before Time Activity Books released over the years. If yo
   </tr>
 
 </table>
+</div>

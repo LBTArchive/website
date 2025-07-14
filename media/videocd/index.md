@@ -8,7 +8,8 @@ title: Land Before Time on Video CD
 
 An archive of The Land Before Time Video CDs released over the years. Seemingly these were mostly distributed in Asia.
 
-<table style="width:100%; border-collapse:collapse;">
+<div class="table-wrapper">
+  <table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -340,3 +341,4 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
 
 
 </table>
+</div>

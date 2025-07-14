@@ -7,7 +7,8 @@ title: Land Before Time in Books
 
 An archive of The Land Before Time books released over the years. These books all tell a story. If you'd rather see [activity books](/toys/activitybooks/), you should check out that page.
 
-<table style="width:100%; border-collapse:collapse;">
+<div class="table-wrapper">
+  <table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -585,3 +586,4 @@ And 2 small folders:
 
 
 </table>
+</div>
