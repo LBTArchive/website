@@ -1,0 +1,122 @@
+
+/* Reset some browser defaults */
+body, h1, h2, h3, p, ul, li, table, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #222222;
+  color: #9da5ab;
+  font-size: 16px;
+  line-height: 1.6;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+a {
+  color: #abdbe3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  margin-bottom: 20px;
+  padding: 10px 0;
+  font-size: 18px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 8px;
+}
+
+main {
+  padding-top: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+}
+
+tr {
+  border-bottom: 1px solid #444; /* Dark grey line between rows */
+}
+
+td {
+  vertical-align: middle;
+  padding: 20px;
+  padding-top: 10px;  /* added top padding */
+  text-align: left;
+}
+
+td ul {
+  margin-left: 20px; /* add some space to bullet lists */
+  padding-left: 0; /* reset default if needed */
+}
+
+th {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 2px solid #666; /* Stronger line for header */
+}
+
+img {
+  max-width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 10px auto;
+  background-color: #222222; /* matches site background */
+}
+
+.img-box {
+  width: 250px;
+  height: 250px;
+  background-color: #222222;
+  display: block; /* make block so each img-box stacks */
+  margin: 0 auto 10px auto; /* center and add bottom spacing */
+  padding-top: 5px;  /* added top padding */
+  overflow: hidden;
+  position: relative;
+}
+
+.img-box img {
+  width: 250px;
+  height: auto;
+  object-position: top; /* crop from top */
+  display: block;
+  margin: 0 auto;
+}
+
+/* Lightbox close button styling */
+.lb-close {
+  font-size: 36px !important;
+  color: white !important;
+  top: 10px !important;
+  right: 10px !important;
+  opacity: 1 !important;
+}
+
+/* Headings */
+h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #efefef;
+}
+
+h2 {
+  font-size: 24px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  color: #efefef;
+}

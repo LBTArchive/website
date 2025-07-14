@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ title }}</title>
+  <link href="/css/lightbox.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/style.css">
+
+</head>
+<body>
+  <nav>
+    <a href="/">Home</a> | <a href="/about/">About</a> | <a href="/toys/">Toys</a> | <a href="/media/">Media</a> | <a href="/misc/">Miscellaneous</a> | 
+  </nav>
+  <hr />
+  <main>
+    {{ content | safe }}
+  </main>
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="/js/lightbox.js"></script>
+</body>
+</html>
