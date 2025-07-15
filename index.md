@@ -38,7 +38,7 @@ Last updated: July 14th, 2025
 <p style="text-align: center;">You're guest number:</p>
   <div id="counter"></div>
 <script>
-  fetch('/.netlify/functions/guestCounter')
+  fetch('/.netlify/functions/guestcounter')
     .then(async res => {
       const text = await res.text();
       try {
