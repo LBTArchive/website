@@ -12,8 +12,15 @@ exports.handler = async function (event) {
     const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
 
     // Check if this IP has already been counted today
-    const ipRes = await fetch(withKey(ipKey));
-    const lastSeen = await ipRes.text();
+const ipRes = await fetch(withKey(ipKey));
+let lastSeen = null;
+if (ipRes.ok) {
+  lastSeen = await ipRes.text();
+} else {
+  lastSeen = null; // or ''
+  console.warn(`Failed to fetch IP key: ${ipRes.status} ${ipRes.statusText}`);
+}
+
 
     if (lastSeen === today) {
       // Already counted today, don't increment

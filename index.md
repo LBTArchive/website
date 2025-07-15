@@ -39,9 +39,17 @@ Last updated: July 14th, 2025
   <div id="counter"></div>
 <script>
   fetch('/.netlify/functions/guestCounter')
-    .then(res => res.json())
+    .then(async res => {
+      const text = await res.text();
+      try {
+        return JSON.parse(text);
+      } catch (e) {
+        console.error('Failed to parse JSON from guestCounter:', text);
+        throw e;
+      }
+    })
     .then(data => {
-      const digits = String(data.count).split(''); // ← no padStart
+      const digits = String(data.count).split('');
       document.getElementById('counter').innerHTML = digits.map(d =>
         `<img src="/images/counter/${d}.png" alt="${d}">`
       ).join('');
