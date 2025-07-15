@@ -8,7 +8,8 @@ title: The Big Freeze - DVD
 An archive of The Land Before Time DVDs released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -22,7 +23,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/8/lbt8-english2003.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img src="/images/media/dvd/8/lbt8-english2003.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/8/lbt8-english2003.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -37,7 +38,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/8/lbt8-swedish-dvd.jpg" data-lightbox="books" data-title="Landet för längesedan - När isen kom">
         <div class="img-box">
-          <img src="/images/media/dvd/8/lbt8-swedish-dvd.jpg" alt="Landet för längesedan - När isen kom" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/8/lbt8-swedish-dvd.jpg" alt="Landet för längesedan - När isen kom" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -53,7 +54,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/8/platvoet-en-zijn-vriendjes-de-barre-kou-dvd-nl_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes - De barre kou">
         <div class="img-box">
-          <img src="/images/media/dvd/8/platvoet-en-zijn-vriendjes-de-barre-kou-dvd-nl_orig.jpg" alt="Platvoet en z'n Vriendjes - De barre kou" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/8/platvoet-en-zijn-vriendjes-de-barre-kou-dvd-nl_orig.jpg" alt="Platvoet en z'n Vriendjes - De barre kou" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -69,7 +70,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/8/le-petit-dinosaure-vol-8-la-pluie-d-etoile-glacee-18563201022007_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - La pluie des étoiles glacées">
         <div class="img-box">
-          <img src="/images/media/dvd/8/le-petit-dinosaure-vol-8-la-pluie-d-etoile-glacee-18563201022007_orig.jpg" alt="Le Petit Dinosaure - La pluie des étoiles glacées" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/8/le-petit-dinosaure-vol-8-la-pluie-d-etoile-glacee-18563201022007_orig.jpg" alt="Le Petit Dinosaure - La pluie des étoiles glacées" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -84,7 +85,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/8/lbt8-ja-2005.jpg" data-lightbox="books" data-title="リトルフットアイス・フリーズ">
         <div class="img-box">
-          <img src="/images/media/dvd/8/lbt8-ja-2005.jpg" alt="リトルフットアイス・フリーズ" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/8/lbt8-ja-2005.jpg" alt="リトルフットアイス・フリーズ" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -99,7 +100,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/8/russianlbt8dvd2005_orig.jpg" data-lightbox="books" data-title="Земля до начала времен VIII: Великая стужа">
         <div class="img-box">
-          <img src="/images/media/dvd/8/russianlbt8dvd2005_orig.jpg" alt="Земля до начала времен VIII: Великая стужа" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/8/russianlbt8dvd2005_orig.jpg" alt="Земля до начала времен VIII: Великая стужа" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -115,7 +116,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/8/lbt8dvdregions2-4-2011_orig.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img src="/images/media/dvd/8/lbt8dvdregions2-4-2011_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/8/lbt8dvdregions2-4-2011_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -130,7 +131,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/8/lbt8-chineser3_orig.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img src="/images/media/dvd/8/lbt8-chineser3_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/8/lbt8-chineser3_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -147,7 +148,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/8/2017-07-27-597a3b8e68067-dvd-landbeforetimebigfreezedvd-2017-r1_orig.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img src="/images/media/dvd/8/2017-07-27-597a3b8e68067-dvd-landbeforetimebigfreezedvd-2017-r1_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/8/2017-07-27-597a3b8e68067-dvd-landbeforetimebigfreezedvd-2017-r1_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -160,4 +161,5 @@ An archive of The Land Before Time DVDs released over the years.
 
 
 </table>
+</div>
 </div>

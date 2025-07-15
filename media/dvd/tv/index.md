@@ -8,7 +8,8 @@ title: The Land Before Time TV Series - DVD
 An archive of The Land Before Time DVDs released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -22,7 +23,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/tv/amazingadventures.jpg" data-lightbox="books" data-title="Amazing Adventures">
         <div class="img-box">
-          <img src="/images/media/dvd/tv/amazingadventures.jpg" alt="Amazing Adventures" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/tv/amazingadventures.jpg" alt="Amazing Adventures" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -41,7 +42,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/tv/goodtimesgoodfriends.jpg" data-lightbox="books" data-title="Good Times & Good Friends">
         <div class="img-box">
-          <img src="/images/media/dvd/tv/goodtimesgoodfriends.jpg" alt="Good Times & Good Friends" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/tv/goodtimesgoodfriends.jpg" alt="Good Times & Good Friends" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -60,7 +61,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/tv/amazingadventures-sv.jpg" data-lightbox="books" data-title="Landet för Längesedan - 4 Fantastiska Äventyr">
         <div class="img-box">
-          <img src="/images/media/dvd/tv/amazingadventures-sv.jpg" alt="Landet för Längesedan - 4 Fantastiska Äventyr" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/tv/amazingadventures-sv.jpg" alt="Landet för Längesedan - 4 Fantastiska Äventyr" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -77,7 +78,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/tv/adventuring.jpg" data-lightbox="books" data-title="Adventuring in the Mysterious Beyond">
         <div class="img-box">
-          <img src="/images/media/dvd/tv/adventuring.jpg" alt="Adventuring in the Mysterious Beyond" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/tv/adventuring.jpg" alt="Adventuring in the Mysterious Beyond" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -97,7 +98,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/tv/eyes.jpg" data-lightbox="books" data-title="Through the Eyes of a Spiketail">
         <div class="img-box">
-          <img src="/images/media/dvd/tv/eyes.jpg" alt="Through the Eyes of a Spiketail" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/tv/eyes.jpg" alt="Through the Eyes of a Spiketail" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -117,7 +118,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/tv/magicaldiscoveries.jpg" data-lightbox="books" data-title="Magical Discoveries">
         <div class="img-box">
-          <img src="/images/media/dvd/tv/magicaldiscoveries.jpg" alt="Magical Discoveries" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/tv/magicaldiscoveries.jpg" alt="Magical Discoveries" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -136,7 +137,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/tv/THE-LAND-BEFORE-TIME-FRIENDS-FOREVER.jpg" data-lightbox="books" data-title="Friends Forever">
         <div class="img-box">
-          <img src="/images/media/dvd/tv/THE-LAND-BEFORE-TIME-FRIENDS-FOREVER.jpg" alt="Friends Forever" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/tv/THE-LAND-BEFORE-TIME-FRIENDS-FOREVER.jpg" alt="Friends Forever" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -156,7 +157,7 @@ An archive of The Land Before Time DVDs released over the years.
       
       <a href="/images/media/dvd/collection/tvcompletede.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/tvcompletede.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/collection/tvcompletede.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -170,4 +171,5 @@ An archive of The Land Before Time DVDs released over the years.
   </tr>
 
 </table>
+</div>
 </div>

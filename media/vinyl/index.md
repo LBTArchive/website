@@ -9,7 +9,8 @@ title: Land Before Time on Vinyl
 An archive of The Land Before Time Vinyls released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -24,12 +25,12 @@ An archive of The Land Before Time Vinyls released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images//media/vinyl/OSTVinyl.jpg" data-lightbox="books" data-title="Original Motion Picture Soundtrack">
         <div class="img-box">
-          <img src="/images//media/vinyl/OSTVinyl.jpg" alt="Original Motion Picture Soundtrack" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images//media/vinyl/OSTVinyl.jpg" alt="Original Motion Picture Soundtrack" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images//media/vinyl/OSTVinyl-back.jpg" data-lightbox="books" data-title="Original Motion Picture Soundtrack">
         <div class="img-box">
-          <img src="/images//media/vinyl/OSTVinyl-back.jpg" alt="Original Motion Picture Soundtrack" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images//media/vinyl/OSTVinyl-back.jpg" alt="Original Motion Picture Soundtrack" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -46,17 +47,17 @@ An archive of The Land Before Time Vinyls released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vinyl/7inchdianaross.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/vinyl/7inchdianaross.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vinyl/7inchdianaross.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/vinyl/7inchdianaross-back.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/vinyl/7inchdianaross-back.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vinyl/7inchdianaross-back.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/vinyl/7inchdianaross-disc.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/vinyl/7inchdianaross-disc.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vinyl/7inchdianaross-disc.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -74,17 +75,17 @@ An archive of The Land Before Time Vinyls released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vinyl/ifweholdontogether1992.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together (Movie Version)">
         <div class="img-box">
-          <img src="/images/media/vinyl/ifweholdontogether1992.jpg" alt="Diana Ross - If we hold on together (Movie Version)" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vinyl/ifweholdontogether1992.jpg" alt="Diana Ross - If we hold on together (Movie Version)" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/vinyl/ifweholdontogether1992-back.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together (Movie Version)">
         <div class="img-box">
-          <img src="/images/media/vinyl/ifweholdontogether1992-back.jpg" alt="Diana Ross - If we hold on together (Movie Version)" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vinyl/ifweholdontogether1992-back.jpg" alt="Diana Ross - If we hold on together (Movie Version)" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/vinyl/ifweholdontogether1992-disc.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together (Movie Version)">
         <div class="img-box">
-          <img src="/images/media/vinyl/ifweholdontogether1992-disc.jpg" alt="Diana Ross - If we hold on together (Movie Version)" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vinyl/ifweholdontogether1992-disc.jpg" alt="Diana Ross - If we hold on together (Movie Version)" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -99,4 +100,5 @@ An archive of The Land Before Time Vinyls released over the years.
 
 
 </table>
+</div>
 </div>

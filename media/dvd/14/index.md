@@ -8,7 +8,8 @@ title: Journey of the Brave - DVD
 An archive of The Land Before Time DVDs released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -22,7 +23,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/14/14-2_orig.png" data-lightbox="books" data-title="Journey of the Brave">
         <div class="img-box">
-          <img src="/images/media/dvd/14/14-2_orig.png" alt="Journey of the Brave" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/14/14-2_orig.png" alt="Journey of the Brave" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -38,7 +39,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/14/14_orig.jpg" data-lightbox="books" data-title="Journey of the Brave">
         <div class="img-box">
-          <img src="/images/media/dvd/14/14_orig.jpg" alt="Journey of the Brave" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/14/14_orig.jpg" alt="Journey of the Brave" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -53,7 +54,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/14/dvd14dutchfrench_orig.jpg" data-lightbox="books" data-title="Platvoet en zijn Vriendjes: Het Grote Avontuur">
         <div class="img-box">
-          <img src="/images/media/dvd/14/dvd14dutchfrench_orig.jpg" alt="Platvoet en zijn Vriendjes: Het Grote Avontuur" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/14/dvd14dutchfrench_orig.jpg" alt="Platvoet en zijn Vriendjes: Het Grote Avontuur" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -70,7 +71,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/14/frenchcover14_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure: L'Expédition Héroïque">
         <div class="img-box">
-          <img src="/images/media/dvd/14/frenchcover14_orig.jpg" alt="Le Petit Dinosaure: L'Expédition Héroïque" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/14/frenchcover14_orig.jpg" alt="Le Petit Dinosaure: L'Expédition Héroïque" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -84,4 +85,5 @@ An archive of The Land Before Time DVDs released over the years.
 
 
 </table>
+</div>
 </div>

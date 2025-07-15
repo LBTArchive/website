@@ -8,7 +8,8 @@ title: The Secret of Saurus Rock - DVD
 An archive of The Land Before Time DVDs released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -22,7 +23,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/6/english2003.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
         <div class="img-box">
-          <img src="/images/media/dvd/6/english2003.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/6/english2003.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -38,7 +39,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/6/le-petit-dinosaure-vol-6-la-legende-du-mont-saurus-09172204022007_origg.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - La légende du Mont Saurus">
         <div class="img-box">
-          <img src="/images/media/dvd/6/le-petit-dinosaure-vol-6-la-legende-du-mont-saurus-09172204022007_orig.jpg" alt="Le Petit Dinosaure - La légende du Mont Saurus" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/6/le-petit-dinosaure-vol-6-la-legende-du-mont-saurus-09172204022007_orig.jpg" alt="Le Petit Dinosaure - La légende du Mont Saurus" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -54,7 +55,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/6/lbt6ja.jpg" data-lightbox="books" data-title="リトルフット龍の岩の伝説">
         <div class="img-box">
-          <img src="/images/media/dvd/6/lbt6ja.jpg" alt="リトルフット龍の岩の伝説" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/6/lbt6ja.jpg" alt="リトルフット龍の岩の伝説" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -69,7 +70,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/6/russianlbt6dvd_orig.jpg" data-lightbox="books" data-title="Земля до начала времен VI: Тайна Скалы Динозавров">
         <div class="img-box">
-          <img src="/images/media/dvd/6/russianlbt6dvd_orig.jpg" alt="Земля до начала времен VI: Тайна Скалы Динозавров" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/6/russianlbt6dvd_orig.jpg" alt="Земля до начала времен VI: Тайна Скалы Динозавров" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -86,7 +87,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/6/secretofsaurusrockdvd-2017-r1_orig.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
         <div class="img-box">
-          <img src="/images/media/dvd/6/secretofsaurusrockdvd-2017-r1_orig.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/6/secretofsaurusrockdvd-2017-r1_orig.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -99,4 +100,5 @@ An archive of The Land Before Time DVDs released over the years.
 
 
 </table>
+</div>
 </div>

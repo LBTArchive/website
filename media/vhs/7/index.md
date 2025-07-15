@@ -8,7 +8,8 @@ title: The Stone of Cold Fire - VHS
 An archive of The Stone of Cold Fire VHS tapes released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -21,12 +22,12 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/7/lbt7-english-clamshell-screener.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img src="/images/media/vhs/7/lbt7-english-clamshell-screener.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/7/lbt7-english-clamshell-screener.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/vhs/7/lbt7-english-clamshell-screener2.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img src="/images/media/vhs/7/lbt7-english-clamshell-screener2.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/7/lbt7-english-clamshell-screener2.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -42,7 +43,7 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/7/lbt7-english-sleeve.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img src="/images/media/vhs/7/lbt7-english-sleeve.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/7/lbt7-english-sleeve.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -57,7 +58,7 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/7/lbt7-english-clamshell.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img src="/images/media/vhs/7/lbt7-english-clamshell.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/7/lbt7-english-clamshell.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -72,7 +73,7 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/7/lbt7-english-clamshell-2.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img src="/images/media/vhs/7/lbt7-english-clamshell-2.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/7/lbt7-english-clamshell-2.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -88,7 +89,7 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/7/platvoet-en-zijn-vriendjes-de-koudvuursteen-vhs-nl_orig.jpg" data-lightbox="books" data-title="De koudvuursteen">
         <div class="img-box">
-          <img src="/images/media/vhs/7/platvoet-en-zijn-vriendjes-de-koudvuursteen-vhs-nl_orig.jpg" alt="De koudvuursteen" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/7/platvoet-en-zijn-vriendjes-de-koudvuursteen-vhs-nl_orig.jpg" alt="De koudvuursteen" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -104,7 +105,7 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/7/lbt7-sv-orange.jpg" data-lightbox="books" data-title="Landet för längesedan - Jakten på himlastenen">
         <div class="img-box">
-          <img src="/images/media/vhs/7/lbt7-sv-orange.jpg" alt="Landet för längesedan - Jakten på himlastenen" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/7/lbt7-sv-orange.jpg" alt="Landet för längesedan - Jakten på himlastenen" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -117,4 +118,5 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
 
 
 </table>
+</div>
 </div>

@@ -8,7 +8,8 @@ title: The Stone of Cold Fire - DVD
 An archive of The Land Before Time DVDs released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -22,7 +23,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/7/english2003.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img src="/images/media/dvd/7/english2003.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/7/english2003.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -37,7 +38,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/7/le-petit-dinosaure-vol-7-la-pierre-de-feu-09175704022007_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - La pierre de feu">
         <div class="img-box">
-          <img src="/images/media/dvd/7/le-petit-dinosaure-vol-7-la-pierre-de-feu-09175704022007_orig.jpg" alt="Le Petit Dinosaure - La pierre de feu" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/7/le-petit-dinosaure-vol-7-la-pierre-de-feu-09175704022007_orig.jpg" alt="Le Petit Dinosaure - La pierre de feu" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -53,7 +54,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/7/lbt7-ja-2005.jpg" data-lightbox="books" data-title="リトルフットちびっこ恐竜と魔法の石">
         <div class="img-box">
-          <img src="/images/media/dvd/7/lbt7-ja-2005.jpg" alt="リトルフットちびっこ恐竜と魔法の石" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/7/lbt7-ja-2005.jpg" alt="リトルフットちびっこ恐竜と魔法の石" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -68,7 +69,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/7/russianlbt7dvd_orig.jpg" data-lightbox="books" data-title="Земля до начала времен VII: Камень Холодного Огня">
         <div class="img-box">
-          <img src="/images/media/dvd/7/russianlbt7dvd_orig.jpg" alt="Земля до начала времен VII: Камень Холодного Огня" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/7/russianlbt7dvd_orig.jpg" alt="Земля до начала времен VII: Камень Холодного Огня" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -85,7 +86,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/7/lbt7-sv.jpg" data-lightbox="books" data-title="Landet för längesedan - Jakten på himlastenen">
         <div class="img-box">
-          <img src="/images/media/dvd/7/lbt7-sv.jpg" alt="Landet för längesedan - Jakten på himlastenen" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/7/lbt7-sv.jpg" alt="Landet för längesedan - Jakten på himlastenen" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -100,7 +101,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/7/lbt7-region3-scan_orig.jpg" data-lightbox="books" data-title="リトルフット ちびっこダイナソーと魔法の石">
         <div class="img-box">
-          <img src="/images/media/dvd/7/lbt7-region3-scan_orig.jpg" alt="リトルフット ちびっこダイナソーと魔法の石" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/7/lbt7-region3-scan_orig.jpg" alt="リトルフット ちびっこダイナソーと魔法の石" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -115,7 +116,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/7/stoneofcoldfiredvd-2017-r1_orig.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img src="/images/media/dvd/7/stoneofcoldfiredvd-2017-r1_orig.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/7/stoneofcoldfiredvd-2017-r1_orig.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -128,4 +129,5 @@ An archive of The Land Before Time DVDs released over the years.
 
 
 </table>
+</div>
 </div>

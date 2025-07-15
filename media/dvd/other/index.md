@@ -8,7 +8,8 @@ title: The Land Before Time - DVD
 An archive of The Land Before Time DVDs released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -22,7 +23,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/other/sing-alogng-songs_orig.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img src="/images/media/dvd/other/sing-alogng-songs_orig.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/other/sing-alogng-songs_orig.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -37,4 +38,5 @@ An archive of The Land Before Time DVDs released over the years.
 
 
 </table>
+</div>
 </div>

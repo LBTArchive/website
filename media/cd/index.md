@@ -13,7 +13,8 @@ Next to the songs and the soundtrack there were audioplays/audiobooks of The Lan
 
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -27,7 +28,7 @@ Next to the songs and the soundtrack there were audioplays/audiobooks of The Lan
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/cdsoundtrack_orig.jpg" data-lightbox="books" data-title="The Original soundtrack">
         <div class="img-box">
-          <img src="/images/media/cd/cdsoundtrack_orig.jpg" alt="The Original soundtrack" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/cdsoundtrack_orig.jpg" alt="The Original soundtrack" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -41,17 +42,17 @@ Next to the songs and the soundtrack there were audioplays/audiobooks of The Lan
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/dianaross-3inchcd-1.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/cd/dianaross-3inchcd-1.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/dianaross-3inchcd-1.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/cd/dianaross-3inchcd-1disc.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/cd/dianaross-3inchcd-1disc.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/dianaross-3inchcd-1disc.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/cd/dianaross-3inchcd-1sheet.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/cd/dianaross-3inchcd-1sheet.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/dianaross-3inchcd-1sheet.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -68,12 +69,12 @@ Next to the songs and the soundtrack there were audioplays/audiobooks of The Lan
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/dianaross-3inchcd2.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/cd/dianaross-3inchcd2.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/dianaross-3inchcd2.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/cd/dianaross-3inchcd-2disc.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/cd/dianaross-3inchcd-2disc.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/dianaross-3inchcd-2disc.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -90,17 +91,17 @@ Next to the songs and the soundtrack there were audioplays/audiobooks of The Lan
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/dianarosscd1992.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/cd/dianarosscd1992.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/dianarosscd1992.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/cd/dianarosscd1992-disc.png" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/cd/dianarosscd1992-disc.png" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/dianarosscd1992-disc.png" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/cd/dianarosscd1992-inside.jpg" data-lightbox="books" data-title="Diana Ross - If we hold on together">
         <div class="img-box">
-          <img src="/images/media/cd/dianarosscd1992-inside.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/dianarosscd1992-inside.jpg" alt="Diana Ross - If we hold on together" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -116,12 +117,12 @@ Next to the songs and the soundtrack there were audioplays/audiobooks of The Lan
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/singalongsongs_orig.png" data-lightbox="books" data-title="The Songs From the Land Before Time">
         <div class="img-box">
-          <img src="/images/media/cd/singalongsongs_orig.png" alt="The Songs From the Land Before Time" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/singalongsongs_orig.png" alt="The Songs From the Land Before Time" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/cd/singalongsongs-back_orig.png" data-lightbox="books" data-title="The Songs From the Land Before Time">
         <div class="img-box">
-          <img src="/images/media/cd/singalongsongs-back_orig.png" alt="The Songs From the Land Before Time" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/singalongsongs-back_orig.png" alt="The Songs From the Land Before Time" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -135,7 +136,7 @@ Next to the songs and the soundtrack there were audioplays/audiobooks of The Lan
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/8007974_orig.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img src="/images/media/cd/8007974_orig.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/8007974_orig.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -152,7 +153,7 @@ It is the only place where the Dutch version of If We Hold on Together can be he
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/2-audoplays_orig.jpg" data-lightbox="books" data-title="In einem Land vor unseren Zeit">
         <div class="img-box">
-          <img src="/images/media/cd/2-audoplays_orig.jpg" alt="In einem Land vor unseren Zeit" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/2-audoplays_orig.jpg" alt="In einem Land vor unseren Zeit" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -168,7 +169,7 @@ It is the only place where the Dutch version of If We Hold on Together can be he
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/de_lbt6_hohrspiel.jpg" data-lightbox="books" data-title="In einem Land vor unseren Zeit 6">
         <div class="img-box">
-          <img src="/images/media/cd/de_lbt6_hohrspiel.jpg" alt="In einem Land vor unseren Zeit 6" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/de_lbt6_hohrspiel.jpg" alt="In einem Land vor unseren Zeit 6" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -185,7 +186,7 @@ It is the only place where the Dutch version of If We Hold on Together can be he
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/audio-play-tv-blue_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/cd/audio-play-tv-blue_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/audio-play-tv-blue_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -201,7 +202,7 @@ It is the only place where the Dutch version of If We Hold on Together can be he
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/audio-play-tv-green_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/cd/audio-play-tv-green_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/audio-play-tv-green_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -217,7 +218,7 @@ It is the only place where the Dutch version of If We Hold on Together can be he
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/audio-play-tv-pink_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/cd/audio-play-tv-pink_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/audio-play-tv-pink_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -233,7 +234,7 @@ It is the only place where the Dutch version of If We Hold on Together can be he
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/audio-play-tv-purple_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/cd/audio-play-tv-purple_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/audio-play-tv-purple_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -249,7 +250,7 @@ It is the only place where the Dutch version of If We Hold on Together can be he
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/cd/audio-play-tv-yellow_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/cd/audio-play-tv-yellow_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/cd/audio-play-tv-yellow_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -266,7 +267,7 @@ It is the only place where the Dutch version of If We Hold on Together can be he
       <a href="/images/media/cd/musicfromthemotionpicturecd_orig.jpg" data-lightbox="books" data-title="Music from the Motion Picture
 the Land Before Time (Expanded)">
         <div class="img-box">
-          <img src="/images/media/cd/musicfromthemotionpicturecd_orig.jpg" alt="Music from the Motion Picture
+          <img loading="lazy" src="/images/media/cd/musicfromthemotionpicturecd_orig.jpg" alt="Music from the Motion Picture
 the Land Before Time (Expanded)" style="height:250px; object-fit:cover;" />
         </div>
       </a>
@@ -286,4 +287,5 @@ Overall main theme also becomes the beautiful mega-hit song, “If We Hold On To
 
 
 </table>
+</div>
 </div>

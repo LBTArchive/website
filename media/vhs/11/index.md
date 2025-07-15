@@ -8,7 +8,8 @@ title: The Invasion of the Tinysauruses - VHS
 An archive of The Invasion of the Tinysauruses VHS tapes released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -22,12 +23,12 @@ An archive of The Invasion of the Tinysauruses VHS tapes released over the years
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/11/lbt11-screener-front.jpg" data-lightbox="books" data-title="The Invasion of the Tinysauruses">
         <div class="img-box">
-          <img src="/images/media/vhs/11/lbt11-screener-front.jpg" alt="The Invasion of the Tinysauruses" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/11/lbt11-screener-front.jpg" alt="The Invasion of the Tinysauruses" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/vhs/11/lbt11-screener-back.jpg" data-lightbox="books" data-title="The Invasion of the Tinysauruses">
         <div class="img-box">
-          <img src="/images/media/vhs/11/lbt11-screener-back.jpg" alt="The Invasion of the Tinysauruses" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/11/lbt11-screener-back.jpg" alt="The Invasion of the Tinysauruses" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -41,5 +42,6 @@ An archive of The Invasion of the Tinysauruses VHS tapes released over the years
 
 
 </table>
+</div>
 </div>
 </div>

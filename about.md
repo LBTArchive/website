@@ -3,4 +3,4 @@ layout: layout.njk
 title: About
 ---
 
-This site is an archive dedicated to preserving The Land Before Time history and creations.
+This site is an archive dedicated to preserving officially licenced The Land Before Time items and collectibles.

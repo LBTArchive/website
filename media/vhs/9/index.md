@@ -8,7 +8,8 @@ title: Journey to Big Water - VHS
 An archive of Journey to Big Water VHS tapes released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -22,12 +23,12 @@ An archive of Journey to Big Water VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/9/lbt9-englishUS-clamshell-screener.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishUS-clamshell-screener.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/9/lbt9-englishUS-clamshell-screener.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
         </div>
       </a>
       <a href="/images/media/vhs/9/lbt9-englishUS-clamshell-screener2.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishUS-clamshell-screener2.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/9/lbt9-englishUS-clamshell-screener2.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -43,7 +44,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/9/lbt9-englishUS-clamshell.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishUS-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/9/lbt9-englishUS-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -58,7 +59,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/9/lbt9-englishUS-sleeve.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishUS-sleeve.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/9/lbt9-englishUS-sleeve.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -74,7 +75,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/9/lbt9-englishAU-clamshell.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishAU-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/9/lbt9-englishAU-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -89,7 +90,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/9/lbt9-english-clamshell.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-english-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/9/lbt9-english-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -105,7 +106,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/9/lbt9-englishUK-clamshell.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishUK-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/9/lbt9-englishUK-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -121,7 +122,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/9/lbt9-ja.jpg" data-lightbox="books" data-title="リトルフット 海への大冒険">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-ja.jpg" alt="リトルフット 海への大冒険" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/9/lbt9-ja.jpg" alt="リトルフット 海への大冒険" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -137,7 +138,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/9/lbt9-sv-purple.jpg" data-lightbox="books" data-title="Landet för längesedan - RESAN TILL DET STORA HAVET">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-sv-purple.jpg" alt="Landet för längesedan - RESAN TILL DET STORA HAVET" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/vhs/9/lbt9-sv-purple.jpg" alt="Landet för längesedan - RESAN TILL DET STORA HAVET" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -150,4 +151,5 @@ An archive of Journey to Big Water VHS tapes released over the years.
 
 
 </table>
+</div>
 </div>

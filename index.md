@@ -14,4 +14,18 @@ Whenever you see a picture of an item, you can click the picture to enlarge it (
             style="height:250px; object-fit:cover;" />
  </a>
 
-Last updated: July 2nd, 2025
+Last updated: July 14th, 2025
+
+<footer>
+  <div id="counter"></div>
+  <script>
+    fetch('/.netlify/functions/guestcounter')
+      .then(res => res.json())
+      .then(data => {
+        const digits = String(data.count).padStart(5, '0').split('');
+        document.getElementById('counter').innerHTML = digits.map(d =>
+          `<img src="/images/counter/${d}.png" alt="${d}">`
+        ).join('');
+      });
+  </script>
+</footer>

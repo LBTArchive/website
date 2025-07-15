@@ -8,7 +8,8 @@ title: Figurines
 An archive of The Land Before Time Figurines released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -21,4 +22,5 @@ An archive of The Land Before Time Figurines released over the years.
 
 
 </table>
+</div>
 </div>

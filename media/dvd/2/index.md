@@ -8,7 +8,8 @@ title: The Great Valley Adventure - DVD
 An archive of The Land Before Time DVDs released over the years.
 
 <div class="table-wrapper">
-  <table>
+  <div class="responsive-row">
+<table>
   <tr>
     <th style="width:20%; vertical-align:top; padding:10px;">
       <strong>Picture</strong>
@@ -22,7 +23,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/2/english2003.jpg" data-lightbox="books" data-title="The Great Valley Adventure">
         <div class="img-box">
-          <img src="/images/media/dvd/2/english2003.jpg" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/2/english2003.jpg" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -38,7 +39,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/2/le-petit-dinosaure-vol-2-petit-pied-et-son-nouvel-ami-slim-16303409112014_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - Petit-Pied et son nouvel ami">
         <div class="img-box">
-          <img src="/images/media/dvd/2/le-petit-dinosaure-vol-2-petit-pied-et-son-nouvel-ami-slim-16303409112014_orig.jpg" alt="Le Petit Dinosaure - Petit-Pied et son nouvel ami" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/2/le-petit-dinosaure-vol-2-petit-pied-et-son-nouvel-ami-slim-16303409112014_orig.jpg" alt="Le Petit Dinosaure - Petit-Pied et son nouvel ami" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -54,7 +55,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/2/lbt2russiandvd2006_orig.jpg" data-lightbox="books" data-title="Земля до начала времен II: Приключения в Великой Долине">
         <div class="img-box">
-          <img src="/images/media/dvd/2/lbt2russiandvd2006_orig.jpg" alt="Земля до начала времен II: Приключения в Великой Долине" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/2/lbt2russiandvd2006_orig.jpg" alt="Земля до начала времен II: Приключения в Великой Долине" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -70,7 +71,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/2/lbt2-region3-scan_orig.jpg" data-lightbox="books" data-title="The Great Valley Adventure">
         <div class="img-box">
-          <img src="/images/media/dvd/2/lbt2-region3-scan_orig.jpg" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/2/lbt2-region3-scan_orig.jpg" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -85,7 +86,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/2/lbt2-sv-2011.jpg" data-lightbox="books" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">
         <div class="img-box">
-          <img src="/images/media/dvd/2/lbt2-sv-2011.jpg" alt="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/2/lbt2-sv-2011.jpg" alt="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -102,7 +103,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/2/gva-region24-2011-fg_orig.jpg" data-lightbox="books" data-title="The Great Valley Adventure">
         <div class="img-box">
-          <img src="/images/media/dvd/2/gva-region24-2011-fg_orig.jpg" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/2/gva-region24-2011-fg_orig.jpg" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -117,7 +118,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/2/2016_orig.jpeg" data-lightbox="books" data-title="The Great Valley Adventure">
         <div class="img-box">
-          <img src="/images/media/dvd/2/2016_orig.jpeg" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/2/2016_orig.jpeg" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -132,7 +133,7 @@ An archive of The Land Before Time DVDs released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/2/lbt2-2017_orig.jpg" data-lightbox="books" data-title="The Great Valley Adventure">
         <div class="img-box">
-          <img src="/images/media/dvd/2/lbt2-2017_orig.jpg" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
+          <img loading="lazy" src="/images/media/dvd/2/lbt2-2017_orig.jpg" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
         </div>
       </a>
     </td>
@@ -145,4 +146,5 @@ An archive of The Land Before Time DVDs released over the years.
 
 
 </table>
+</div>
 </div>
