@@ -166,3 +166,33 @@ h2 {
     height: auto;
   }
 }
+
+.media-entry {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #444;
+  padding-bottom: 20px;
+}
+
+.media-img {
+  flex: 0 0 250px;
+  margin-right: 20px;
+}
+
+.media-info {
+  flex: 1;
+  min-width: 200px;
+}
+
+/* On small screens, stack vertically */
+@media screen and (max-width: 600px) {
+  .media-entry {
+    flex-direction: column;
+  }
+
+  .media-img {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+}
