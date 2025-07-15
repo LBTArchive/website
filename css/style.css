@@ -126,6 +126,30 @@ h2 {
   color: #efefef;
 }
 
+.item-entry {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.img-wrapper {
+  flex: 0 0 150px;
+}
+
+.img-wrapper img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.text-wrapper {
+  flex: 1 1 300px;
+}
+
 @media (max-width: 600px) {
   td {
     display: block;
