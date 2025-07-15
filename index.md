@@ -1,11 +1,11 @@
 ---
 layout: layout.njk
-title: Home - Land Before Time Collection
+title: Home - Land Before Time Archive
 ---
 
-# Welcome to the Land Before Time Collection
+# Welcome to the Land Before Time Archive
 
-Hello and welcome to our Land Before Time Collection website. This website will host pictures and descriptions of official items related to the Land Before Time series.
+Hello and welcome to our Land Before Time Archive website. This website will host pictures and descriptions of official items related to the Land Before Time series.
 
 Whenever you see a picture of an item, you can click the picture to enlarge it (if available).
 
@@ -14,7 +14,7 @@ Whenever you see a picture of an item, you can click the picture to enlarge it (
             style="height:250px; object-fit:cover;" />
  </a>
 
-Last updated: July 14th, 2025
+Last updated: July 15th, 2025
 <style>
   #counter {
     display: flex;
