@@ -2,7 +2,7 @@ export async function handler(event, context) {
   const token = process.env.NETLIFY_TOKEN;
 
   try {
-    // Fetch all forms
+    // Step 1: Get all forms
     const formResp = await fetch("https://api.netlify.com/api/v1/forms", {
       headers: {
         Authorization: `Bearer ${token}`,
@@ -11,10 +11,9 @@ export async function handler(event, context) {
 
     const forms = await formResp.json();
 
-    // Log all forms for debug
-    console.log("Forms found:", forms.map(f => `${f.name} → ${f.id}`));
-
-    const guestbookForm = forms.find((f) => f.name.toLowerCase() === "guestbook");
+    const guestbookForm = forms.find(
+      (f) => f.name.toLowerCase() === "guestbook"
+    );
 
     if (!guestbookForm) {
       return {
@@ -23,7 +22,7 @@ export async function handler(event, context) {
       };
     }
 
-    // Get submissions
+    // Step 2: Get form submissions — fetch text first
     const submissionsResp = await fetch(
       `https://api.netlify.com/api/v1/forms/${guestbookForm.id}/submissions`,
       {
@@ -33,23 +32,23 @@ export async function handler(event, context) {
       }
     );
 
-    const rawText = await submissionsResp.text();
+    const raw = await submissionsResp.text(); // ✅ always safe
 
     if (!submissionsResp.ok) {
-      // Return API error details for debugging
+      // ✅ Now we can safely return full error info
       return {
         statusCode: submissionsResp.status,
         body: JSON.stringify({
           error: "Failed to fetch submissions",
           status: submissionsResp.status,
-          response: rawText,
-          submissionsUrl: `https://api.netlify.com/api/v1/forms/${guestbookForm.id}/submissions`
+          details: raw,
+          tried_url: `https://api.netlify.com/api/v1/forms/${guestbookForm.id}/submissions`,
         }),
       };
     }
 
-    // Safe to parse
-    const submissions = JSON.parse(rawText);
+    // ✅ Parse JSON only if response was OK
+    const submissions = JSON.parse(raw);
 
     const escapeHTML = (str = "") =>
       str.replace(/[&<>"']/g, (tag) => {
@@ -80,7 +79,7 @@ export async function handler(event, context) {
     return {
       statusCode: 500,
       body: JSON.stringify({
-        error: "Unexpected error",
+        error: "Unexpected error in try/catch block",
         details: err.message,
       }),
     };
