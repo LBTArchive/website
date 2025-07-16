@@ -29,12 +29,12 @@ title: Land Before Time Archive Guestbook
 </div>
 <style>
   .guestbook-entry {
-    background-color: #8c8888;
+    background-color: #4c4c4c;
     border: 1px solid #e5e5e5;
     border-radius: 8px;
     padding: 1em;
     margin: 1em 0;
-    max-width: 600px;
+    max-width: auto;
     box-shadow: 0 0 8px rgba(0,0,0,0.4);
   }
   .guestbook-meta {
@@ -50,7 +50,6 @@ title: Land Before Time Archive Guestbook
   .guestbook-message {
     color: #ddd;
     line-height: 1.4;
-    white-space: pre-wrap;
   }
 </style>
 
