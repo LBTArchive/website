@@ -43,12 +43,16 @@ title: Land Before Time Archive Guestbook
         return;
       }
 
-      container.innerHTML = "<ul>" + data.map(entry => `
-        <li>
-          <strong>${entry.name}</strong> (${entry.date}):<br/>
-          ${entry.message.replace(/\n/g, "<br/>")}
-        </li>
-      `).join('') + "</ul>";
+      container.innerHTML = data.map(entry => `
+        <div class="guestbook-entry">
+          <div class="guestbook-meta">
+            <strong>${entry.name}</strong> <span class="guestbook-date">(${entry.date})</span>
+          </div>
+          <div class="guestbook-message">
+            ${entry.message.replace(/\n/g, "<br/>")}
+          </div>
+        </div>
+      `).join('');
     })
     .catch(err => {
       document.getElementById("guestbook-entries").innerHTML = `<p>Error.</p>`;
