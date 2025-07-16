@@ -7,16 +7,11 @@ title: The Great Longneck Migration - VHS
 
 An archive of The Great Longneck Migration VHS tapes released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -97,5 +92,5 @@ An archive of The Great Longneck Migration VHS tapes released over the years.
 
 
 
-</table>
+
 </div>

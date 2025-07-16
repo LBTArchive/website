@@ -7,16 +7,11 @@ title: The Great Longneck Migration - DVD
 
 An archive of The Land Before Time DVDs released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -113,20 +108,20 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
-  <tr id="lbt10ja2006-32">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+  <div class="item-entry" id="lbt10ja2006-32">
+    <div class="item-image"
       <a href="/images/media/dvd/10/lbt10ja2006.jpg" data-lightbox="books" data-title="リトルフットベスト・オブ・フレンズ">
         <div class="img-box">
           <img src="/images/media/dvd/10/lbt10ja2006.jpg" alt="リトルフットベスト・オブ・フレンズ" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> リトルフットベスト・オブ・フレンズ<br/>
       <strong>Year:</strong> 2006<br/>
       <strong>Language:</strong> Japanese<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -160,5 +155,5 @@ An archive of The Land Before Time DVDs released over the years.
 </div>
 
 
-</table>
+
 </div>

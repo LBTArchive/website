@@ -7,16 +7,11 @@ title: The Land Before Time (1988) - VHS
 
 An archive of The Land Before Time VHS tapes released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -103,8 +98,8 @@ An archive of The Land Before Time VHS tapes released over the years.
   </div>
 </div>
 
-<tr id="lbt1-pizzahut-148">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="lbt1-pizzahut-148">
+    <div class="item-image"
       <a href="/images/media/vhs/1/lbt1-pizzahut.jpg" data-lightbox="books" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-pizzahut.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" / loading="lazy">
@@ -115,13 +110,13 @@ An archive of The Land Before Time VHS tapes released over the years.
           <img src="/images/media/vhs/1/lbt1-pizzahut2.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> The Land Before Time<br/>
       <strong>Year:</strong> 1989<br/>
       <strong>Notes:</strong> Pizza Hut Promo<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -189,5 +184,5 @@ An archive of The Land Before Time VHS tapes released over the years.
 </div>
 
 
-</table>
+
 </div>

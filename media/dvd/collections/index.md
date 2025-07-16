@@ -7,16 +7,11 @@ title: The Land Before Time - DVD
 
 An archive of The Land Before Time DVDs released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -273,21 +268,21 @@ Invasion of the Tinysauruses (XI)</li></ul>
   </div>
 </div>
 
-<tr id="platvoetlepetitdinosaur6movies-43">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="platvoetlepetitdinosaur6movies-43">
+    <div class="item-image"
       <a href="/images/media/dvd/collection/platvoetlepetitdinosaur6movies.jpg" data-lightbox="books" data-title="Platvoet en z'n vriendjes">
         <div class="img-box">
           <img src="/images/media/dvd/collection/platvoetlepetitdinosaur6movies.jpg" alt="Platvoet en z'n vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> Platvoet en z'n vriendjes<br/>
       <strong>Subtitle:</strong> Le petit dinosaure<br/>
       <strong>Year:</strong> 2013<br/>
       <strong>Notes:</strong> Movies 1-6<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -540,35 +535,35 @@ Journey to Big Water (IX)</li></ul>
   </div>
 </div>
 
-<tr id="completeeverythingde-5">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="completeeverythingde-5">
+    <div class="item-image"
       <a href="/images/media/dvd/collection/completeeverythingde.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit - 14 Filme + TV-Serie - Gesamtbox">
         <div class="img-box">
           <img src="/images/media/dvd/collection/completeeverythingde.jpg" alt="In einem Land vor unserer Zeit - 14 Filme + TV-Serie - Gesamtbox" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> In einem Land vor unserer Zeit - 14 Filme + TV-Serie - Gesamtbox<br/>
       <strong>Year:</strong> 2021<br/>
       <strong>Language:</strong> German<br/>
       <strong>Notes:</strong> 27 DVD's, all 14 movies and all TV series episodes<br/>
-    </td>
-  </tr>
-<tr id="5moviecollection30thanniversary-151">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+    </div>
+  </div>
+<div class="item-entry" id="5moviecollection30thanniversary-151">
+    <div class="item-image"
       <a href="/images/media/dvd/collection/5moviecollection30thanniversary.jpg" data-lightbox="books" data-title="5 movie collection">
         <div class="img-box">
           <img src="/images/media/dvd/collection/5moviecollection30thanniversary.jpg" alt="5 movie collection" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> 5 movie collection<br/>
       <strong>Year:</strong> 2023<br/>
       <strong>Notes:</strong> 1, 2, 3, 8 and 9.<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
-</table>
+
 </div>

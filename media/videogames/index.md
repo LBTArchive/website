@@ -7,16 +7,11 @@ title: Land Before Time in Video Games
 
 The Land Before Time series released several educational games. They also released some games for entertainment, but these were only created for consoles.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -48,8 +43,8 @@ The Land Before Time series released several educational games. They also releas
   </div>
 </div>
 
-<tr id="activitycenter1">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="activitycenter1">
+    <div class="item-image"
       <a href="/images/media/videogames/activitycenter-vhsgoodie.jpg" data-lightbox="books" data-title="The Land Before Time: Activity Center">
         <div class="img-box">
           <img src="/images/media/videogames/activitycenter-vhsgoodie.jpg" alt="The Land Before Time: Activity Center" style="height:250px; object-fit:cover;" / loading="lazy">
@@ -65,14 +60,14 @@ The Land Before Time series released several educational games. They also releas
           <img src="/images/media/videogames/activitycenter-vhsgoodie3.jpg" alt="The Land Before Time: Activity Center" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> The Land Before Time: Activity Center<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Notes:</strong> Included with the <a href="/media/vhs/other#singalongsongs-140">Sing Along Songs VHS tape</a><br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -633,5 +628,5 @@ The Land Before Time series released several educational games. They also releas
 </div>
 
 
-</table>
+
 </div>

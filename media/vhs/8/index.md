@@ -7,19 +7,14 @@ title: The Big Freeze - VHS
 
 An archive of The Big Freeze VHS tapes released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
-<tr id="lbt8-screener-147">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="lbt8-screener-147">
+    <div class="item-image"
       <a href="/images/media/vhs/8/lbt8-screener.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
           <img src="/images/media/vhs/8/lbt8-screener.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
@@ -30,13 +25,13 @@ An archive of The Big Freeze VHS tapes released over the years.
           <img src="/images/media/vhs/8/lbt8-screener2.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> The Big Freeze<br/>
       <strong>Year:</strong> 2001<br/>
       <strong>Notes:</strong> Screening copy<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
 
 <div class="item-entry">
@@ -114,20 +109,20 @@ An archive of The Big Freeze VHS tapes released over the years.
   </div>
 </div>
 
-<tr id="lbt8-ja-41">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="lbt8-ja-41">
+    <div class="item-image"
       <a href="/images/media/vhs/8/lbt8-ja.jpg" data-lightbox="books" data-title="リトルフット アイス・フリーズ">
         <div class="img-box">
           <img src="/images/media/vhs/8/lbt8-ja.jpg" alt="リトルフット アイス・フリーズ" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> リトルフット アイス・フリーズ<br/>
       <strong>Year:</strong> 2003<br/>
       <strong>Language:</strong> Japanese<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -146,5 +141,5 @@ An archive of The Big Freeze VHS tapes released over the years.
 
 
 
-</table>
+
 </div>

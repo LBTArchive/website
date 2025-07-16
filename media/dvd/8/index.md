@@ -7,16 +7,11 @@ title: The Big Freeze - DVD
 
 An archive of The Land Before Time DVDs released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -80,20 +75,20 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
-<tr id="lbt8-ja-2005-33">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="lbt8-ja-2005-33">
+    <div class="item-image"
       <a href="/images/media/dvd/8/lbt8-ja-2005.jpg" data-lightbox="books" data-title="リトルフットアイス・フリーズ">
         <div class="img-box">
           <img src="/images/media/dvd/8/lbt8-ja-2005.jpg" alt="リトルフットアイス・フリーズ" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> リトルフットアイス・フリーズ<br/>
       <strong>Year:</strong> 2005<br/>
       <strong>Language:</strong> Japanese<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -159,5 +154,5 @@ An archive of The Land Before Time DVDs released over the years.
 </div>
 
 
-</table>
+
 </div>

@@ -7,22 +7,17 @@ title: The Mysterious Island - DVD
 
 An archive of The Land Before Time DVDs released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/5/english2003.jpg" data-lightbox="books" data-title="The Mysterious Island">
         <div class="img-box">
-          <img src="/images/media/dvd/5/english2003.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/5/english2003.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -38,7 +33,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/5/le-petit-dinosaure-vol-5-l-ile-mysterieuse-09165404022007_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure (V) - L'ile mysterieuse">
         <div class="img-box">
-          <img src="/images/media/dvd/5/le-petit-dinosaure-vol-5-l-ile-mysterieuse-09165404022007_orig.jpg" alt="Le Petit Dinosaure (V) - L'ile mysterieuse" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/5/le-petit-dinosaure-vol-5-l-ile-mysterieuse-09165404022007_orig.jpg" alt="Le Petit Dinosaure (V) - L'ile mysterieuse" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -49,27 +44,27 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
-<tr id="lbt5-ja-35">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="lbt5-ja-35">
+    <div class="item-image"
       <a href="/images/media/dvd/5/lbt5-ja.jpg" data-lightbox="books" data-title="リトルフットはっぱ食い虫で大災難">
         <div class="img-box">
-          <img src="/images/media/dvd/5/lbt5-ja.jpg" alt="リトルフットはっぱ食い虫で大災難" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/5/lbt5-ja.jpg" alt="リトルフットはっぱ食い虫で大災難" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> リトルフットはっぱ食い虫で大災難<br/>
       <strong>Year:</strong> 2006<br/>
       <strong>Language:</strong> Japanese<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
 
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/5/russianlbt5dvd2006_orig.jpg" data-lightbox="books" data-title="Земля до начала времен V: Таинственный остров">
         <div class="img-box">
-          <img src="/images/media/dvd/5/russianlbt5dvd2006_orig.jpg" alt="Земля до начала времен V: Таинственный остров" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/5/russianlbt5dvd2006_orig.jpg" alt="Земля до начала времен V: Таинственный остров" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -85,7 +80,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/5/lbt5-sv.jpg" data-lightbox="books" data-title="Landet för längesedan - Den mystiska ön">
         <div class="img-box">
-          <img src="/images/media/dvd/5/lbt5-sv.jpg" alt="Landet för längesedan - Den mystiska ön" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/5/lbt5-sv.jpg" alt="Landet för längesedan - Den mystiska ön" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -101,7 +96,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/5/lbt5-region3-scan_orig.jpg" data-lightbox="books" data-title="The Mysterious Island">
         <div class="img-box">
-          <img src="/images/media/dvd/5/lbt5-region3-scan_orig.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/5/lbt5-region3-scan_orig.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -117,7 +112,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/5/2017-07-20-5971038552100-dvd-landbeforetimemysteriousisland-950x633_orig.jpg" data-lightbox="books" data-title="The Mysterious Island">
         <div class="img-box">
-          <img src="/images/media/dvd/5/2017-07-20-5971038552100-dvd-landbeforetimemysteriousisland-950x633_orig.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/5/2017-07-20-5971038552100-dvd-landbeforetimemysteriousisland-950x633_orig.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -132,7 +127,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/5/2-4.jpg" data-lightbox="books" data-title="The Mysterious Island">
         <div class="img-box">
-          <img src="/images/media/dvd/5/2-4.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/5/2-4.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -142,8 +137,4 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Publisher:</strong> 2,4<br/>
   </div>
 </div>
-
-
-
-</table>
 </div>

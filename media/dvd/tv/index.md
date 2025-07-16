@@ -7,16 +7,11 @@ title: The Land Before Time TV Series - DVD
 
 An archive of The Land Before Time DVDs released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -151,23 +146,23 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
-  <tr id="tvcompletede-1">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+  <div class="item-entry" id="tvcompletede-1">
+    <div class="item-image"
       
       <a href="/images/media/dvd/collection/tvcompletede.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/dvd/collection/tvcompletede.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
       <strong>Subtitle:</strong> Die komplette TV-serie<br/>
       <strong>Year:</strong> 2015<br/>
       <strong>Language:</strong> German<br/>
       <strong>Notes:</strong> All 26 episodes<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
-</table>
+
 </div>

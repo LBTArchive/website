@@ -7,18 +7,13 @@ title: Journey through the Mists - VHS
 
 An archive of The Land Before Time Journey through the Mists VHS Tapes released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
-<tr id="lbt4-vhs-english-screener-150">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="lbt4-vhs-english-screener-150">
+    <div class="item-image"
       <a href="/images/media/vhs/4/lbt4-vhs-english-screener.jpg" data-lightbox="books" data-title="Journey Through The Mists">
         <div class="img-box">
           <img src="/images/media/vhs/4/lbt4-vhs-english-screener.jpg" alt="Journey Through The Mists" style="height:250px; object-fit:cover;" / loading="lazy">
@@ -29,13 +24,13 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
           <img src="/images/media/vhs/4/lbt4-vhs-english-screener2.jpg" alt="Journey Through The Mists" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> Journey Through The Mists<br/>
       <strong>Year:</strong> 1995<br/>
       <strong>Notes:</strong> Sceening copy<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -51,20 +46,20 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
   </div>
 </div>
 
-  <tr id="lbt4-ja-37">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+  <div class="item-entry" id="lbt4-ja-37">
+    <div class="item-image"
       <a href="/images/media/vhs/4/lbt4-ja.jpg" data-lightbox="books" data-title="リトルフット4">
         <div class="img-box">
           <img src="/images/media/vhs/4/lbt4-ja.jpg" alt="リトルフット4" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> リトルフット4<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Language:</strong> Japanese<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
 
   <div class="item-entry">
@@ -115,5 +110,5 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
 
 
 
-</table>
+
 </div>

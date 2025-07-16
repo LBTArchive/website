@@ -12,16 +12,11 @@ Along with the first movie there was the original Soundtrack from Diana Ross (If
 Next to the songs and the soundtrack there were audioplays/audiobooks of The Land Before Time. Not extremely popular in the USA, these can mainly be found in other languages.
 
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -280,10 +275,4 @@ the Land Before Time (Expanded)<br/>
       <strong>Tracks:</strong> 9<br/>
 Overall main theme also becomes the beautiful mega-hit song, “If We Hold On Together”, written by James Horner with Will Jennings, performed by the legendary Diana Ross. Horner recorded his score in single, extremely long takes. As a result the film’s large-scale score unfolded with just ten cues. Most are over seven minutes in length, one runs over ten minutes, one of them is nearly 13 minutes long! With very modest assembly, Horner produced a generous album for MCA Records at the time of the movie’s release that dropped just two cues. Those two cues, however, are considerable: “Journey Of The Dinosaurs” runs 8:30 while “Separate Paths” is 7:15. Big cues indeed! Both of them are featured for the first time ever on this new remastering of the entire 74-minute score.<br/>
   </div>
-</div>
-
-
-
-
-</table>
 </div>

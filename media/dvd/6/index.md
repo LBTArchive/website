@@ -7,22 +7,17 @@ title: The Secret of Saurus Rock - DVD
 
 An archive of The Land Before Time DVDs released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/6/english2003.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
         <div class="img-box">
-          <img src="/images/media/dvd/6/english2003.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/6/english2003.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -38,7 +33,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/6/le-petit-dinosaure-vol-6-la-legende-du-mont-saurus-09172204022007_origg.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - La légende du Mont Saurus">
         <div class="img-box">
-          <img src="/images/media/dvd/6/le-petit-dinosaure-vol-6-la-legende-du-mont-saurus-09172204022007_orig.jpg" alt="Le Petit Dinosaure - La légende du Mont Saurus" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/6/le-petit-dinosaure-vol-6-la-legende-du-mont-saurus-09172204022007_orig.jpg" alt="Le Petit Dinosaure - La légende du Mont Saurus" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -50,26 +45,26 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
-<tr id="lbt6ja-38">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="lbt6ja-38">
+    <div class="item-image"
       <a href="/images/media/dvd/6/lbt6ja.jpg" data-lightbox="books" data-title="リトルフット龍の岩の伝説">
         <div class="img-box">
-          <img src="/images/media/dvd/6/lbt6ja.jpg" alt="リトルフット龍の岩の伝説" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/6/lbt6ja.jpg" alt="リトルフット龍の岩の伝説" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> リトルフット龍の岩の伝説<br/>
       <strong>Year:</strong> 2005<br/>
       <strong>Language:</strong> Japanese<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/6/russianlbt6dvd_orig.jpg" data-lightbox="books" data-title="Земля до начала времен VI: Тайна Скалы Динозавров">
         <div class="img-box">
-          <img src="/images/media/dvd/6/russianlbt6dvd_orig.jpg" alt="Земля до начала времен VI: Тайна Скалы Динозавров" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/6/russianlbt6dvd_orig.jpg" alt="Земля до начала времен VI: Тайна Скалы Динозавров" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -86,7 +81,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/6/secretofsaurusrockdvd-2017-r1_orig.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
         <div class="img-box">
-          <img src="/images/media/dvd/6/secretofsaurusrockdvd-2017-r1_orig.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/6/secretofsaurusrockdvd-2017-r1_orig.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -96,7 +91,4 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Region:</strong> 1<br/>
   </div>
 </div>
-
-
-</table>
 </div>

@@ -7,14 +7,10 @@ title: Land Before Time on Cassette
 
 An archive of The Land Before Time Cassettes released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
-  </div>
-  <div class="item-details">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
 </div>
   <div class="item-entry">
@@ -46,20 +42,20 @@ An archive of The Land Before Time Cassettes released over the years.
   </div>
 </div>
 
-  <tr id="search-for-the-great-valley-cassette">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+  <div class="item-entry" id="search-for-the-great-valley-cassette">
+    <div class="item-image"
       <a href="/images/media/cassettes/Search-for-the-Great-valley.jpg" data-lightbox="books" data-title="The Search for the Great Valley">
         <div class="img-box">
           <img src="/images/media/cassettes/Search-for-the-Great-valley.jpg" alt="The Search for the Great Valley" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> The Search for the Great Valley<br/>
       <strong>Year:</strong> 1988<br/>
       <strong>Notes:</strong> Part of the <a href="/media/books/#search-for-the-great-valley-book">book</a> with the same name<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -276,8 +272,4 @@ An archive of The Land Before Time Cassettes released over the years.
       <strong>Language:</strong> German<br/>
       <strong>Notes:</strong> German audio play of the tv series - part 8<br/>
   </div>
-</div>
-
-
-  </table>
 </div>

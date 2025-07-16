@@ -7,16 +7,11 @@ title: Land Before Time in Books
 
 An archive of The Land Before Time books released over the years. These books all tell a story. If you'd rather see [activity books](/toys/activitybooks/), you should check out that page.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -70,22 +65,22 @@ An archive of The Land Before Time books released over the years. These books al
       <strong>ISBN:</strong> 978-0448093581<br/>
   </div>
 </div>
-  <tr id="search-for-the-great-valley-book">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+  <div class="item-entry" id="search-for-the-great-valley-book">
+    <div class="item-image">
             <a href="/images/media/books/searchforthegreatvalley.jpg" data-lightbox="books" data-title="Search for the Great Valley">
     <div class="img-box">
         <img src="/images/media/books/searchforthegreatvalley.jpg" alt="Search for the Great Valley"
             style="height:250px; object-fit:cover;" / loading="lazy">
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> Search for the Great Valley<br/>
       <strong>Language:</strong> English<br/>
       <strong>Year:</strong> 1988<br/>
       <strong>ISBN:</strong> 978-0448093581<br/>
       <strong>Notes:</strong> Has a <a href="/media/cassette/#search-for-the-great-valley-cassette">cassette</a> with the same name<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/cerasadventure.png" data-lightbox="books" data-title="Cera's Adventure">
@@ -153,21 +148,21 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
 </div>
 
-<tr id="リトルフットの大冒険 謎の恐竜大陸-28">
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
+<div class="item-entry" id="リトルフットの大冒険 謎の恐竜大陸-28">
+    <div class="item-image"
       <a href="/images/media/books/リトルフットの大冒険 謎の恐竜大陸.jpg" data-lightbox="books" data-title="謎の恐竜大陸―リトルフットの大冒険">
         <div class="img-box">
           <img src="/images/media/books/リトルフットの大冒険 謎の恐竜大陸.jpg" alt="謎の恐竜大陸―リトルフットの大冒険" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
+    </div>
+    <div class="item-details">
       <strong>Title:</strong> 謎の恐竜大陸―リトルフットの大冒険<br/>
       <strong>Year:</strong> 1994<br/>
       <strong>ISBN:</strong> 4-323-01232-2<br/>
       <strong>Language:</strong> Japanese<br/>
-    </td>
-  </tr>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -221,7 +216,7 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
 </div>
 
-  </tr>
+  </div>
     <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/whenwegrowup.png" data-lightbox="books" data-title="When We Grow Up">
@@ -238,7 +233,7 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
 </div>
   
-  </tr>
+  </div>
     <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/dinosaurqa.jpg" data-lightbox="books" data-title="Dinosaur Q&A ">
@@ -255,7 +250,7 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
 </div>
 
-  </tr>
+  </div>
     <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/howtodrawdinosaurs.jpg" data-lightbox="books" data-title="How to Draw Dinosaurs">
@@ -272,7 +267,7 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
 </div>
 
-   </tr>
+   </div>
     <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/countwithus.jpg" data-lightbox="books" data-title="Lift A Flap - Count With Us">
@@ -289,7 +284,7 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
 </div>
 
-  </tr>
+  </div>
     <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/adaptedmollygoode.jpg" data-lightbox="books" data-title="The Land Before Time - Adapted for Beginning readers">
@@ -582,8 +577,4 @@ And 2 small folders:
       <strong>Language:</strong> French<br/>
       <strong>Notes:</strong> "Littlefoot's Grandfather"<br/>
   </div>
-</div>
-
-
-</table>
 </div>

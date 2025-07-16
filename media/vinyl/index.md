@@ -8,16 +8,11 @@ title: Land Before Time on Vinyl
 
 An archive of The Land Before Time Vinyls released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
 
 <div class="item-entry">
@@ -98,5 +93,5 @@ An archive of The Land Before Time Vinyls released over the years.
 </div>
 
 
-</table>
+
 </div>

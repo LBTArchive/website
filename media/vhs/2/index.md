@@ -7,16 +7,11 @@ title: The Great Valley Adventure - VHS
 
 An archive of The Land Before Time The Great Valley Adventure VHS tapes released over the years.
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -96,5 +91,5 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
 </div>
 
 
-</table>
+
 </div>

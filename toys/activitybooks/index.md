@@ -7,16 +7,11 @@ title: The Land Before Time Activity Books
 
 An archive of The Land Before Time Activity Books released over the years. If you'd like to see books with words in them instead, please check out [books](/media/books).
 
-<div class="table-wrapper">
-  <table>
-  <div class="item-entry">
-  <div class="item-image">
-    
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-details">
-    
-  </div>
-</div>
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/coloringbookandcrayons.jpg" data-lightbox="books" data-title="The Land Before Time: Coloring and Activity Book and Crayons">
@@ -80,5 +75,5 @@ An archive of The Land Before Time Activity Books released over the years. If yo
   </div>
 </div>
 
-</table>
+
 </div>
