@@ -1,4 +1,4 @@
-export async function handler(event, context) {
+exports.handler = async function (event, context) {
 const token = process.env.NETLIFY_TOKEN;
 const siteId = process.env.SITE_ID;
 
