@@ -1,17 +1,24 @@
 export async function handler(event, context) {
-  const token = process.env.NETLIFY_TOKEN;
+const token = process.env.NETLIFY_TOKEN;
+const siteId = process.env.SITE_ID;
 
-  if (!token) {
-    return {
-      statusCode: 500,
-      body: JSON.stringify({ error: "Missing NETLIFY_TOKEN in environment." }),
-    };
-  }
+if (!token || !siteId) {
+  return {
+    statusCode: 500,
+    body: JSON.stringify({
+      error: "Missing NETLIFY_TOKEN or SITE_ID in environment variables.",
+    }),
+  };
+}
 
   // Step 1: Fetch all forms
-  const formResp = await fetch("https://api.netlify.com/api/v1/forms", {
-    headers: { Authorization: `Bearer ${token}` },
-  });
+  const siteId = process.env.SITE_ID;
+  const formResp = await fetch(`https://api.netlify.com/api/v1/sites/${siteId}/forms`, {
+  headers: {
+    Authorization: `Bearer ${token}`,
+  },
+});
+
 
   const forms = await formResp.json();
 
