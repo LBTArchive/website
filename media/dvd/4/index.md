@@ -8,37 +8,36 @@ title: Journey Through the Mists - DVD
 An archive of The Land Before Time DVDs released over the years.
 
 <div class="table-wrapper">
-  <div class="responsive-row">
-<table>
-  <tr>
-    <th style="width:20%; vertical-align:top; padding:10px;">
-      <strong>Picture</strong>
-    </th>
-    <th style="text-align: left; padding:10px;">
-      <strong>Item</strong>
-    </th>
-  </tr>
+  <table>
+  <div class="item-entry">
+  <div class="item-image">
+    
+  </div>
+  <div class="item-details">
+    
+  </div>
+</div>
 
-  <tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/4/english2003.jpg" data-lightbox="books" data-title="Journey through the Mists">
+  <div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/4/english2003.jpg" data-lightbox="books" data-title="Journey through the Mists">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/4/english2003.jpg" alt="Journey through the Mists" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/4/english2003.jpg" alt="Journey through the Mists" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> Journey through the Mists<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Journey through the Mists<br/>
       <strong>Year:</strong> 2003<br/>
       <strong>Region:</strong> 1<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 
 <tr id="lbt4-ja-2005-30">
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/4/lbt4-ja-2005.jpg" data-lightbox="books" data-title="リトルフットクビナガ恐竜がやってきた">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/4/lbt4-ja-2005.jpg" alt="リトルフットクビナガ恐竜がやってきた" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/4/lbt4-ja-2005.jpg" alt="リトルフットクビナガ恐竜がやってきた" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -50,38 +49,37 @@ An archive of The Land Before Time DVDs released over the years.
   </tr>
 
 
-<tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/4/russianlbt4backdvd_orig.jpg" data-lightbox="books" data-title="Земля до начала времен IV: Путешествие в Землю Туманов">
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/4/russianlbt4backdvd_orig.jpg" data-lightbox="books" data-title="Земля до начала времен IV: Путешествие в Землю Туманов">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/4/russianlbt4backdvd_orig.jpg" alt="Земля до начала времен IV: Путешествие в Землю Туманов" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/4/russianlbt4backdvd_orig.jpg" alt="Земля до начала времен IV: Путешествие в Землю Туманов" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> Земля до начала времен IV: Путешествие в Землю Туманов<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Земля до начала времен IV: Путешествие в Землю Туманов<br/>
       <strong>Year:</strong> 2006<br/>
       <strong>Region:</strong> 5<br/>
       <strong>Language:</strong> Russian<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 
-<tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/4/lbt4-2017_orig.jpg" data-lightbox="books" data-title="Journey through the Mists">
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/4/lbt4-2017_orig.jpg" data-lightbox="books" data-title="Journey through the Mists">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/4/lbt4-2017_orig.jpg" alt="Journey through the Mists" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/4/lbt4-2017_orig.jpg" alt="Journey through the Mists" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> Journey through the Mists<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Journey through the Mists<br/>
       <strong>Year:</strong> 2017<br/>
       <strong>Region:</strong> 1<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 
 
 </table>
-</div>
 </div>

@@ -1,30 +1,71 @@
-export default async function handler(req, res) {
+export async function handler(event, context) {
   const token = process.env.NETLIFY_TOKEN;
-  const siteId = process.env.SITE_ID; // set this too, see below
-
-  const url = `https://api.netlify.com/api/v1/forms?access_token=${token}`;
 
   try {
-    const formResp = await fetch(url);
+    // Fetch all forms
+    const formResp = await fetch("https://api.netlify.com/api/v1/forms", {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    });
+
     const forms = await formResp.json();
-    const guestbookForm = forms.find(f => f.name === "guestbook");
+
+    // Find the form named "guestbook" (case-insensitive just in case)
+    const guestbookForm = forms.find((f) => f.name.toLowerCase() === "guestbook");
 
     if (!guestbookForm) {
-      return res.status(404).json({ error: "Form not found" });
+      return {
+        statusCode: 404,
+        body: JSON.stringify({ error: "Form not found" }),
+      };
     }
 
-    const submissionsUrl = `https://api.netlify.com/api/v1/forms/${guestbookForm.id}/submissions?access_token=${token}`;
-    const submissionsResp = await fetch(submissionsUrl);
+    // Get submissions
+    const submissionsResp = await fetch(
+      `https://api.netlify.com/api/v1/forms/${guestbookForm.id}/submissions`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
+      }
+    );
+
     const submissions = await submissionsResp.json();
 
-    const entries = submissions.map(s => ({
-      name: s.data.name,
-      message: s.data.message,
-      date: new Date(s.created_at).toLocaleString()
+    // Sanitize HTML
+    const escapeHTML = (str = "") =>
+      str.replace(/[&<>"']/g, (tag) => {
+        const chars = {
+          "&": "&amp;",
+          "<": "&lt;",
+          ">": "&gt;",
+          '"': "&quot;",
+          "'": "&#39;",
+        };
+        return chars[tag] || tag;
+      });
+
+    const entries = submissions.map((s) => ({
+      name: escapeHTML(s.data.name),
+      message: escapeHTML(s.data.message),
+      date: new Date(s.created_at).toLocaleString(),
     }));
 
-    return res.status(200).json(entries);
+    return {
+      statusCode: 200,
+      body: JSON.stringify(entries),
+      headers: {
+        "Content-Type": "application/json",
+      },
+    };
   } catch (err) {
-    return res.status(500).json({ error: "Failed to fetch submissions", details: err.message });
+    return {
+      statusCode: 500,
+      body: JSON.stringify({
+        error: "Failed to fetch submissions",
+        details: err.message,
+      }),
+    };
   }
 }

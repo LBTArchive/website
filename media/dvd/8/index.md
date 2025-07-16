@@ -8,84 +8,83 @@ title: The Big Freeze - DVD
 An archive of The Land Before Time DVDs released over the years.
 
 <div class="table-wrapper">
-  <div class="responsive-row">
-<table>
-  <tr>
-    <th style="width:20%; vertical-align:top; padding:10px;">
-      <strong>Picture</strong>
-    </th>
-    <th style="text-align: left; padding:10px;">
-      <strong>Item</strong>
-    </th>
-  </tr>
+  <table>
+  <div class="item-entry">
+  <div class="item-image">
+    
+  </div>
+  <div class="item-details">
+    
+  </div>
+</div>
 
-<tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/8/lbt8-english2003.jpg" data-lightbox="books" data-title="The Big Freeze">
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/8/lbt8-english2003.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/8/lbt8-english2003.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/8/lbt8-english2003.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> The Big Freeze<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Big Freeze<br/>
       <strong>Year:</strong> 2001<br/>
       <strong>Region:</strong> 1<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 
-<tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/8/lbt8-swedish-dvd.jpg" data-lightbox="books" data-title="Landet för längesedan - När isen kom">
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/8/lbt8-swedish-dvd.jpg" data-lightbox="books" data-title="Landet för längesedan - När isen kom">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/8/lbt8-swedish-dvd.jpg" alt="Landet för längesedan - När isen kom" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/8/lbt8-swedish-dvd.jpg" alt="Landet för längesedan - När isen kom" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> Landet för längesedan - När isen kom<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Landet för längesedan - När isen kom<br/>
       <strong>Year:</strong> 2002<br/>
       <strong>Language:</strong> Swedish<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 
 
-<tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/8/platvoet-en-zijn-vriendjes-de-barre-kou-dvd-nl_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes - De barre kou">
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/8/platvoet-en-zijn-vriendjes-de-barre-kou-dvd-nl_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes - De barre kou">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/8/platvoet-en-zijn-vriendjes-de-barre-kou-dvd-nl_orig.jpg" alt="Platvoet en z'n Vriendjes - De barre kou" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/8/platvoet-en-zijn-vriendjes-de-barre-kou-dvd-nl_orig.jpg" alt="Platvoet en z'n Vriendjes - De barre kou" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> Platvoet en z'n Vriendjes - De barre kou<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Platvoet en z'n Vriendjes - De barre kou<br/>
       <strong>Year:</strong> 2002<br/>
       <strong>Region:</strong> 2<br/>
       <strong>Language:</strong> Dutch<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 
-<tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/8/le-petit-dinosaure-vol-8-la-pluie-d-etoile-glacee-18563201022007_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - La pluie des étoiles glacées">
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/8/le-petit-dinosaure-vol-8-la-pluie-d-etoile-glacee-18563201022007_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - La pluie des étoiles glacées">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/8/le-petit-dinosaure-vol-8-la-pluie-d-etoile-glacee-18563201022007_orig.jpg" alt="Le Petit Dinosaure - La pluie des étoiles glacées" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/8/le-petit-dinosaure-vol-8-la-pluie-d-etoile-glacee-18563201022007_orig.jpg" alt="Le Petit Dinosaure - La pluie des étoiles glacées" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> Le Petit Dinosaure - La pluie des étoiles glacées<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Le Petit Dinosaure - La pluie des étoiles glacées<br/>
       <strong>Year:</strong> 2002<br/>
       <strong>Region:</strong> 2<br/>
       <strong>Language:</strong> French<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 <tr id="lbt8-ja-2005-33">
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/dvd/8/lbt8-ja-2005.jpg" data-lightbox="books" data-title="リトルフットアイス・フリーズ">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/8/lbt8-ja-2005.jpg" alt="リトルフットアイス・フリーズ" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/8/lbt8-ja-2005.jpg" alt="リトルフットアイス・フリーズ" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -96,70 +95,69 @@ An archive of The Land Before Time DVDs released over the years.
     </td>
   </tr>
 
-<tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/8/russianlbt8dvd2005_orig.jpg" data-lightbox="books" data-title="Земля до начала времен VIII: Великая стужа">
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/8/russianlbt8dvd2005_orig.jpg" data-lightbox="books" data-title="Земля до начала времен VIII: Великая стужа">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/8/russianlbt8dvd2005_orig.jpg" alt="Земля до начала времен VIII: Великая стужа" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/8/russianlbt8dvd2005_orig.jpg" alt="Земля до начала времен VIII: Великая стужа" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> Земля до начала времен VIII: Великая стужа<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Земля до начала времен VIII: Великая стужа<br/>
       <strong>Year:</strong> 2005<br/>
       <strong>Region:</strong> 5<br/>
       <strong>Language:</strong> Russian<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 
-<tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/8/lbt8dvdregions2-4-2011_orig.jpg" data-lightbox="books" data-title="The Big Freeze">
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/8/lbt8dvdregions2-4-2011_orig.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/8/lbt8dvdregions2-4-2011_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/8/lbt8dvdregions2-4-2011_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> The Big Freeze<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Big Freeze<br/>
       <strong>Year:</strong> 2011<br/>
       <strong>Region:</strong> 2<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 
-  <tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/8/lbt8-chineser3_orig.jpg" data-lightbox="books" data-title="The Big Freeze">
+  <div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/8/lbt8-chineser3_orig.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/8/lbt8-chineser3_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/8/lbt8-chineser3_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> The Big Freeze<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Big Freeze<br/>
       <strong>Subtitle:</strong> 小脚板走天涯 :<br/>
       <strong>Year:</strong> 2013<br/>
       <strong>Region:</strong> 3<br/>
       <strong>Language:</strong> Chinese (Traditional Mandarin)<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 
-<tr>
-    <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
-      <a href="/images/media/dvd/8/2017-07-27-597a3b8e68067-dvd-landbeforetimebigfreezedvd-2017-r1_orig.jpg" data-lightbox="books" data-title="The Big Freeze">
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/8/2017-07-27-597a3b8e68067-dvd-landbeforetimebigfreezedvd-2017-r1_orig.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/dvd/8/2017-07-27-597a3b8e68067-dvd-landbeforetimebigfreezedvd-2017-r1_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/dvd/8/2017-07-27-597a3b8e68067-dvd-landbeforetimebigfreezedvd-2017-r1_orig.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
-    </td>
-    <td style="vertical-align:top; padding:10px;">
-      <strong>Title:</strong> The Big Freeze<br/>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Big Freeze<br/>
       <strong>Year:</strong> 2017<br/>
       <strong>Region:</strong> 1<br/>
-    </td>
-  </tr>
+  </div>
+</div>
 
 
 </table>
-</div>
 </div>

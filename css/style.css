@@ -166,7 +166,7 @@ h2 {
     height: auto;
   }
 }
-
+/* Below section for "Flex" tables */
 .media-entry {
   display: flex;
   flex-wrap: wrap;

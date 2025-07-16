@@ -8,22 +8,21 @@ title: The Land Before Time Tableware
 An archive of The Land Before Time Tableware released over the years.
 
 <div class="table-wrapper">
-  <div class="responsive-row">
-<table>
-  <tr>
-    <th style="width:20%; vertical-align:top; padding:10px;">
-      <strong>Picture</strong>
-    </th>
-    <th style="text-align: left; padding:10px;">
-      <strong>Item</strong>
-    </th>
-  </tr>
+  <table>
+  <div class="item-entry">
+  <div class="item-image">
+    
+  </div>
+  <div class="item-details">
+    
+  </div>
+</div>
 
   <tr id="universalstudiosmug1988_orig-45">
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/universalstudiosmug1988_orig.jpg" data-lightbox="books" data-title="Mug">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/universalstudiosmug1988_orig.jpg" alt="Mug" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/universalstudiosmug1988_orig.jpg" alt="Mug" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -38,22 +37,22 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/ziploccupscollection.jpg" data-lightbox="books" data-title="Cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/ziploccupscollection.jpg" alt="Cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/ziploccupscollection.jpg" alt="Cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/ziploccupscollection-cerapetrie_orig.jpg" data-lightbox="books" data-title="Cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/ziploccupscollection-cerapetrie_orig.jpg" alt="Cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/ziploccupscollection-cerapetrie_orig.jpg" alt="Cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/ziploccupscollection-duckyspike_orig.jpg" data-lightbox="books" data-title="Cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/ziploccupscollection-duckyspike_orig.jpg" alt="Cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/ziploccupscollection-duckyspike_orig.jpg" alt="Cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/ziploccupscollection-littlefoot_orig.jpg" data-lightbox="books" data-title="Cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/ziploccupscollection-littlefoot_orig.jpg" alt="Cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/ziploccupscollection-littlefoot_orig.jpg" alt="Cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -68,27 +67,27 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/collectiondinnerwareset1996_orig.jpg" data-lightbox="books" data-title="Dinnerware Set">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/collectiondinnerwareset1996_orig.jpg" alt="Dinnerware Set" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/collectiondinnerwareset1996_orig.jpg" alt="Dinnerware Set" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/desginbowl.jpg" data-lightbox="books" data-title="Dinnerware Set">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/desginbowl.jpg" alt="Dinnerware Set" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/desginbowl.jpg" alt="Dinnerware Set" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/desgincup.jpg" data-lightbox="books" data-title="Dinnerware Set">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/desgincup.jpg" alt="Dinnerware Set" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/desgincup.jpg" alt="Dinnerware Set" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/designmug.jpg" data-lightbox="books" data-title="Dinnerware Set">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/designmug.jpg" alt="Dinnerware Set" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/designmug.jpg" alt="Dinnerware Set" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/plastic-plate-designs.jpg" data-lightbox="books" data-title="Dinnerware Set">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/plastic-plate-designs.jpg" alt="Dinnerware Set" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/plastic-plate-designs.jpg" alt="Dinnerware Set" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -103,7 +102,7 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/Grafficup.jpg" data-lightbox="books" data-title="Graffi cup">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/Grafficup.jpg" alt="Graffi cup" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/Grafficup.jpg" alt="Graffi cup" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -118,7 +117,7 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/dennycup.jpg" data-lightbox="books" data-title="The Mysterious Island promotional cup">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/dennycup.jpg" alt="The Mysterious Island promotional cup" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/dennycup.jpg" alt="The Mysterious Island promotional cup" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -135,17 +134,17 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/dairyqueencups.jpg" data-lightbox="books" data-title="Plastic cups and spoons">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/dairyqueencups.jpg" alt="Plastic cups and spoons" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/dairyqueencups.jpg" alt="Plastic cups and spoons" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/dairyqueenplasticspoons.jpg" data-lightbox="books" data-title="Plastic cups and spoons">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/dairyqueenplasticspoons.jpg" alt="Plastic cups and spoons" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/dairyqueenplasticspoons.jpg" alt="Plastic cups and spoons" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/dairyqueenplasticspoonsandlids.jpg" data-lightbox="books" data-title="Plastic cups and spoons">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/dairyqueenplasticspoonsandlids.jpg" alt="Plastic cups and spoons" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/dairyqueenplasticspoonsandlids.jpg" alt="Plastic cups and spoons" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -161,32 +160,32 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/bamacup1littlefoot_orig.jpg" data-lightbox="books" data-title="BAMA cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/bamacup1littlefoot_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/bamacup1littlefoot_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/bamacup2cera_orig.jpg" data-lightbox="books" data-title="BAMA cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/bamacup2cera_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/bamacup2cera_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/bamacup3petrie1_orig.jpg" data-lightbox="books" data-title="BAMA cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/bamacup3petrie1_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/bamacup3petrie1_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/bamacup3spike_orig.jpg" data-lightbox="books" data-title="BAMA cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/bamacup3spike_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/bamacup3spike_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/bamacup5ducky_orig.jpg" data-lightbox="books" data-title="BAMA cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/bamacup5ducky_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/bamacup5ducky_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/bamacup6gramps_orig.jpg" data-lightbox="books" data-title="BAMA cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/bamacup6gramps_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/bamacup6gramps_orig.jpg" alt="BAMA cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -200,7 +199,7 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/papercups.jpg" data-lightbox="books" data-title="Paper Cups">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/papercups.jpg" alt="Paper Cups" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/papercups.jpg" alt="Paper Cups" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -215,7 +214,7 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/paperplates.jpg" data-lightbox="books" data-title="Paper Plates">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/paperplates.jpg" alt="Paper Plates" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/paperplates.jpg" alt="Paper Plates" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -229,7 +228,7 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/paperplatesandcups.jpg" data-lightbox="books" data-title="Paper Cups and Plates">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/paperplatesandcups.jpg" alt="Paper Cups and Plates" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/paperplatesandcups.jpg" alt="Paper Cups and Plates" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -243,7 +242,7 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/partyset.jpg" data-lightbox="books" data-title="Party Set">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/partyset.jpg" alt="Party Set" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/partyset.jpg" alt="Party Set" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -257,7 +256,7 @@ An archive of The Land Before Time Tableware released over the years.
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/misc/tableware/plastictablecover.jpg" data-lightbox="books" data-title="Plastic table cover">
         <div class="img-box">
-          <img loading="lazy" src="/images/misc/tableware/plastictablecover.jpg" alt="Plastic table cover" style="height:250px; object-fit:cover;" />
+          <img src="/images/misc/tableware/plastictablecover.jpg" alt="Plastic table cover" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -269,5 +268,4 @@ An archive of The Land Before Time Tableware released over the years.
 
 
 </table>
-</div>
 </div>

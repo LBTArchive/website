@@ -8,27 +8,26 @@ title: The Land Before Time - VHS
 An archive of miscellaneous The Land Before Time VHS tapes released over the years.
 
 <div class="table-wrapper">
-  <div class="responsive-row">
-<table>
-  <tr>
-    <th style="width:20%; vertical-align:top; padding:10px;">
-      <strong>Picture</strong>
-    </th>
-    <th style="text-align: left; padding:10px;">
-      <strong>Item</strong>
-    </th>
-  </tr>
+  <table>
+  <div class="item-entry">
+  <div class="item-image">
+    
+  </div>
+  <div class="item-details">
+    
+  </div>
+</div>
 
 <tr id="singalongsongs-screener-139">
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/other/singalongsongs-screener.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/vhs/other/singalongsongs-screener.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/vhs/other/singalongsongs-screener.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/vhs/other/singalongsongs-screener2.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/vhs/other/singalongsongs-screener2.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/vhs/other/singalongsongs-screener2.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -43,7 +42,7 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/other/singalongsongs.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/vhs/other/singalongsongs.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/vhs/other/singalongsongs.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -58,7 +57,7 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/other/Sing Along Songs UK.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/vhs/other/Sing Along Songs UK.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/vhs/other/Sing Along Songs UK.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -74,7 +73,7 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/other/singalong-sv.jpg" data-lightbox="books" data-title="Landet for langesedan - Sjung med oss!">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/vhs/other/singalong-sv.jpg" alt="Landet for langesedan - Sjung med oss!" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/vhs/other/singalong-sv.jpg" alt="Landet for langesedan - Sjung med oss!" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -89,12 +88,12 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/vhs/other/More Sing Along Songs.jpg" data-lightbox="books" data-title="More Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/vhs/other/More Sing Along Songs.jpg" alt="More Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/vhs/other/More Sing Along Songs.jpg" alt="More Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/vhs/other/More Sing Along Songs2.jpg" data-lightbox="books" data-title="More Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/vhs/other/More Sing Along Songs2.jpg" alt="More Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/vhs/other/More Sing Along Songs2.jpg" alt="More Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -108,5 +107,4 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
 
 
 </table>
-</div>
 </div>

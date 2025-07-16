@@ -9,32 +9,31 @@ title: Land Before Time on Video CD
 An archive of The Land Before Time Video CDs released over the years. Seemingly these were mostly distributed in Asia.
 
 <div class="table-wrapper">
-  <div class="responsive-row">
-<table>
-  <tr>
-    <th style="width:20%; vertical-align:top; padding:10px;">
-      <strong>Picture</strong>
-    </th>
-    <th style="text-align: left; padding:10px;">
-      <strong>Item</strong>
-    </th>
-  </tr>
+  <table>
+  <div class="item-entry">
+  <div class="item-image">
+    
+  </div>
+  <div class="item-details">
+    
+  </div>
+</div>
 
 <tr id="lbt-6">
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt.jpg" data-lightbox="books" data-title="The Land Before Time">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/lbt-2.jpg" data-lightbox="books" data-title="The Land Before Time">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt-2.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt-2.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/lbt-3.jpg" data-lightbox="books" data-title="The Land Before Time">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt-3.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt-3.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -48,7 +47,7 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt1-cantonese.jpg" data-lightbox="books" data-title="The Land Before Time">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt1-cantonese.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt1-cantonese.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -64,12 +63,12 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt2-1.png" data-lightbox="books" data-title="The Great Valley Adventure">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt2-1.png" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt2-1.png" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/lbt2-2.png" data-lightbox="books" data-title="The Great Valley Adventure">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt2-2.png" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt2-2.png" alt="The Great Valley Adventure" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -83,7 +82,7 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt4.jpg" data-lightbox="books" data-title="Journey Through the Mists">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt4.jpg" alt="Journey Through the Mists" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt4.jpg" alt="Journey Through the Mists" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -98,7 +97,7 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt4-cantonese.jpg" data-lightbox="books" data-title="Journey Through the Mists">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt4-cantonese.jpg" alt="Journey Through the Mists" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt4-cantonese.jpg" alt="Journey Through the Mists" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -114,12 +113,12 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt6.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt6.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt6.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/lbt6-2.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt6-2.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt6-2.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -133,7 +132,7 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt6-cantonese.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt6-cantonese.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt6-cantonese.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -149,17 +148,17 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/singalongsongs.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/singalongsongs.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/singalongsongs.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/singalongsongs2.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/singalongsongs2.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/singalongsongs2.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/singalongsongs3.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/singalongsongs3.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/singalongsongs3.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -175,12 +174,12 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt7-ja.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt7-ja.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt7-ja.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/lbt7-ja2.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt7-ja2.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt7-ja2.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -195,12 +194,12 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt8.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt8.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt8.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/lbt8-2.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt8-2.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt8-2.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -214,12 +213,12 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt9.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt9.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt9.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/lbt9-2.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt9-2.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt9-2.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -233,7 +232,7 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt10.jpg" data-lightbox="books" data-title="The Great Migration">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt10.jpg" alt="The Great Migration" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt10.jpg" alt="The Great Migration" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -248,7 +247,7 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt10-2.jpg" data-lightbox="books" data-title="The Great Migration">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt10-2.jpg" alt="The Great Migration" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt10-2.jpg" alt="The Great Migration" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -262,7 +261,7 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt11.jpg" data-lightbox="books" data-title="The Invasion of Tinysauruses">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt11.jpg" alt="The Invasion of Tinysauruses" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt11.jpg" alt="The Invasion of Tinysauruses" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -276,7 +275,7 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt12.jpg" data-lightbox="books" data-title="The Great Day of the Flyers">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt12.jpg" alt="The Great Day of the Flyers" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt12.jpg" alt="The Great Day of the Flyers" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -290,7 +289,7 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt13.jpg" data-lightbox="books" data-title="Wisdom of Friends">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt13.jpg" alt="Wisdom of Friends" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt13.jpg" alt="Wisdom of Friends" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -304,12 +303,12 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/singalongsongs-zht.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/singalongsongs-zht.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/singalongsongs-zht.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/singalongsongs-zht2.jpg" data-lightbox="books" data-title="Sing Along Songs">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/singalongsongs-zht2.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/singalongsongs-zht2.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -325,12 +324,12 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     <td style="width:30%; text-align: center; vertical-align:top; padding:10px;">
       <a href="/images/media/videocd/lbt7.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt7.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt7.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
       <a href="/images/media/videocd/lbt7-2.jpg" data-lightbox="books" data-title="The Stone of Cold Fire">
         <div class="img-box">
-          <img loading="lazy" src="/images/media/videocd/lbt7-2.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" />
+          <img src="/images/media/videocd/lbt7-2.jpg" alt="The Stone of Cold Fire" style="height:250px; object-fit:cover;" / loading="lazy">
         </div>
       </a>
     </td>
@@ -342,5 +341,4 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
 
 
 </table>
-</div>
 </div>
