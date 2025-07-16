@@ -147,8 +147,7 @@ An archive of The Land Before Time DVDs released over the years.
 </div>
 
   <div class="item-entry" id="tvcompletede-1">
-    <div class="item-image"
-      
+    <div class="item-image">      
       <a href="/images/media/dvd/collection/tvcompletede.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/dvd/collection/tvcompletede.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" / loading="lazy">

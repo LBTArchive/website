@@ -14,47 +14,4 @@ Whenever you see a picture of an item, you can click the picture to enlarge it (
             style="height:250px; object-fit:cover;" />
  </a>
 
-Last updated: July 15th, 2025
-<style>
-  #counter {
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-end;
-    /*gap: 4px;*/
-    width: fit-content; /* prevents full-width stretching */
-    margin: 0 auto;      /* optional: center horizontally */
-  }
-
-  #counter img {
-    width: 60px;
-    height: auto;
-    flex-shrink: 0;
-    flex-grow: 0;
-    object-fit: contain;
-    display: block; /* avoids inline spacing quirks */
-  }
-</style>
-
-<p style="text-align: center;">You're guest number:</p>
-  <div id="counter"></div>
-<script>
-  fetch('/.netlify/functions/guestcounter')
-    .then(async res => {
-      const text = await res.text();
-      try {
-        return JSON.parse(text);
-      } catch (e) {
-        console.error('Failed to parse JSON from guestCounter:', text);
-        throw e;
-      }
-    })
-    .then(data => {
-      const digits = String(data.count).split('');
-      document.getElementById('counter').innerHTML = digits.map(d =>
-        `<img src="/images/counter/${d}.png" alt="${d}">`
-      ).join('');
-    })
-    .catch(err => {
-      console.error('Counter fetch failed:', err);
-    });
-</script>
+Last updated: July 16th, 2025

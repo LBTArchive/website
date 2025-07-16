@@ -12,12 +12,13 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
-  <div class="item-entry">
+
+<div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/coloringbookandcrayons.jpg" data-lightbox="books" data-title="The Land Before Time: Coloring and Activity Book and Crayons">
     <div class="img-box">
         <img src="/images/media/books/coloringbookandcrayons.jpg" alt="The Land Before Time: Coloring and Activity Book and Crayons"
-            style="height:250px; object-fit:cover;" / loading="lazy">
+            style="height:250px; object-fit:cover;" loading="lazy"></div>
       </a>
   </div>
   <div class="item-details">
@@ -34,7 +35,7 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     <a href="/images/media/books/reusablestickerbook.jpg" data-lightbox="books" data-title="The Land Before Time: The Reusable Sticker Book">
     <div class="img-box">
         <img src="/images/media/books/reusablestickerbook.jpg" alt="The Land Before Time: The Reusable Sticker Book"
-            style="height:250px; object-fit:cover;" / loading="lazy">
+            style="height:250px; object-fit:cover;" loading="lazy"></div>
       </a>
   </div>
   <div class="item-details">
@@ -48,7 +49,7 @@ An archive of The Land Before Time Activity Books released over the years. If yo
   <div class="item-image">
     <a href="/images/media/books/fr_joueravecchomper.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - Joue avec Chomper !">
         <div class="img-box">
-          <img src="/images/media/books/fr_joueravecchomper.jpg" alt="Le Petit Dinosaure - Joue avec Chomper !" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/books/fr_joueravecchomper.jpg" alt="Le Petit Dinosaure - Joue avec Chomper !" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -64,7 +65,7 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     <a href="/images/media/books/coloringandactivitybook.jpg" data-lightbox="books" data-title="The Land Before Time Coloring and Activity Book and Stickers ">
     <div class="img-box">
         <img src="/images/media/books/coloringandactivitybook.jpg" alt="The Land Before Time Coloring and Activity Book and Stickers "
-            style="height:250px; object-fit:cover;" / loading="lazy">
+            style="height:250px; object-fit:cover;" loading="lazy"></div>
       </a>
   </div>
   <div class="item-details">
