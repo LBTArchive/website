@@ -11,13 +11,15 @@ export async function handler(event, context) {
 
     const forms = await formResp.json();
 
-    // Find the form named "guestbook" (case-insensitive just in case)
+    // Log all forms for debug
+    console.log("Forms found:", forms.map(f => `${f.name} → ${f.id}`));
+
     const guestbookForm = forms.find((f) => f.name.toLowerCase() === "guestbook");
 
     if (!guestbookForm) {
       return {
         statusCode: 404,
-        body: JSON.stringify({ error: "Form not found" }),
+        body: JSON.stringify({ error: "Form 'guestbook' not found" }),
       };
     }
 
@@ -31,9 +33,24 @@ export async function handler(event, context) {
       }
     );
 
-    const submissions = await submissionsResp.json();
+    const rawText = await submissionsResp.text();
 
-    // Sanitize HTML
+    if (!submissionsResp.ok) {
+      // Return API error details for debugging
+      return {
+        statusCode: submissionsResp.status,
+        body: JSON.stringify({
+          error: "Failed to fetch submissions",
+          status: submissionsResp.status,
+          response: rawText,
+          submissionsUrl: `https://api.netlify.com/api/v1/forms/${guestbookForm.id}/submissions`
+        }),
+      };
+    }
+
+    // Safe to parse
+    const submissions = JSON.parse(rawText);
+
     const escapeHTML = (str = "") =>
       str.replace(/[&<>"']/g, (tag) => {
         const chars = {
@@ -63,7 +80,7 @@ export async function handler(event, context) {
     return {
       statusCode: 500,
       body: JSON.stringify({
-        error: "Failed to fetch submissions",
+        error: "Unexpected error",
         details: err.message,
       }),
     };

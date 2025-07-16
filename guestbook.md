@@ -30,7 +30,12 @@ title: Land Before Time Archive Guestbook
 
 <script>
   fetch("/.netlify/functions/getGuestbook")
-    .then(res => res.json())
+    .then(res => {
+      if (!res.ok) {
+        throw new Error("Fetch failed: " + res.status);
+      }
+      return res.json();
+    })
     .then(data => {
       const container = document.getElementById("guestbook-entries");
       if (!data.length) {
@@ -46,7 +51,7 @@ title: Land Before Time Archive Guestbook
       `).join('') + "</ul>";
     })
     .catch(err => {
-      document.getElementById("guestbook-entries").innerHTML = `<p>No guestbook entries to show at this time.</p>`;
+      document.getElementById("guestbook-entries").innerHTML = `<p>Error.</p>`;
       console.error(err);
     });
 </script>
