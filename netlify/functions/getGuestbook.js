@@ -12,7 +12,6 @@ if (!token || !siteId) {
 }
 
   // Step 1: Fetch all forms
-  const siteId = process.env.SITE_ID;
   const formResp = await fetch(`https://api.netlify.com/api/v1/sites/${siteId}/forms`, {
   headers: {
     Authorization: `Bearer ${token}`,
