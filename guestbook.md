@@ -27,6 +27,35 @@ title: Land Before Time Archive Guestbook
 <div id="guestbook-entries">
   <p>Loading guestbook entries...</p>
 </div>
+<style>
+  .guestbook-entry {
+    background-color: #8c8888;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+    padding: 1em;
+    margin: 1em 0;
+    max-width: 600px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.4);
+  }
+
+  .guestbook-meta {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    color: #ffd700;
+  }
+
+  .guestbook-date {
+    font-weight: normal;
+    font-size: 0.9em;
+    color: #aaa;
+  }
+
+  .guestbook-message {
+    color: #ddd;
+    line-height: 1.4;
+    white-space: pre-wrap;
+  }
+</style>
 
 <script>
   fetch("/.netlify/functions/getGuestbook")
