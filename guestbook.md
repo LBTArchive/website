@@ -37,19 +37,16 @@ title: Land Before Time Archive Guestbook
     max-width: 600px;
     box-shadow: 0 0 8px rgba(0,0,0,0.4);
   }
-
   .guestbook-meta {
     font-weight: bold;
     margin-bottom: 0.5em;
     color: #ffd700;
   }
-
   .guestbook-date {
     font-weight: normal;
     font-size: 0.9em;
     color: #aaa;
   }
-
   .guestbook-message {
     color: #ddd;
     line-height: 1.4;
