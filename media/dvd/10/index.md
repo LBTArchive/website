@@ -17,7 +17,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/10/US2003.jpg" data-lightbox="books" data-title="The Great Longneck Migration">
         <div class="img-box">
-          <img src="/images/media/dvd/10/US2003.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/10/US2003.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -32,7 +32,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/10/lbt10-dvd-UK.jpg" data-lightbox="books" data-title="The Great Longneck Migration">
         <div class="img-box">
-          <img src="/images/media/dvd/10/lbt10-dvd-UK.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/10/lbt10-dvd-UK.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -47,7 +47,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/10/lbt10-dvd-irish.jpg" data-lightbox="books" data-title="The Great Longneck Migration">
         <div class="img-box">
-          <img src="/images/media/dvd/10/lbt10-dvd-irish.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/10/lbt10-dvd-irish.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -63,7 +63,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/10/platvoet-en-zijn-vriendjes-de-val-van-de-grote-cirkel-dvd-nl.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes (X) - De Val van de Grote Cirkel">
         <div class="img-box">
-          <img src="/images/media/dvd/10/platvoet-en-zijn-vriendjes-de-val-van-de-grote-cirkel-dvd-nl.jpg" alt="Platvoet en z'n Vriendjes (X) - De Val van de Grote Cirkel" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/10/platvoet-en-zijn-vriendjes-de-val-van-de-grote-cirkel-dvd-nl.jpg" alt="Platvoet en z'n Vriendjes (X) - De Val van de Grote Cirkel" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -79,7 +79,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/10/le-petit-dinosaure-vol-10-les-longs-cous-et-le-cercle-de-la-lumiere-v2-17580709112014_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière">
         <div class="img-box">
-          <img src="/images/media/dvd/10/le-petit-dinosaure-vol-10-les-longs-cous-et-le-cercle-de-la-lumiere-v2-17580709112014_orig.jpg" alt="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/10/le-petit-dinosaure-vol-10-les-longs-cous-et-le-cercle-de-la-lumiere-v2-17580709112014_orig.jpg" alt="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -96,7 +96,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/10/le-petit-dinosaure-vol-10-les-longs-cous-et-le-cercle-de-la-lumiere-09184704022007_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière">
         <div class="img-box">
-          <img src="/images/media/dvd/10/le-petit-dinosaure-vol-10-les-longs-cous-et-le-cercle-de-la-lumiere-09184704022007_orig.jpg" alt="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/10/le-petit-dinosaure-vol-10-les-longs-cous-et-le-cercle-de-la-lumiere-09184704022007_orig.jpg" alt="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -112,7 +112,7 @@ An archive of The Land Before Time DVDs released over the years.
     <div class="item-image"
       <a href="/images/media/dvd/10/lbt10ja2006.jpg" data-lightbox="books" data-title="リトルフットベスト・オブ・フレンズ">
         <div class="img-box">
-          <img src="/images/media/dvd/10/lbt10ja2006.jpg" alt="リトルフットベスト・オブ・フレンズ" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/10/lbt10ja2006.jpg" alt="リトルフットベスト・オブ・フレンズ" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>
@@ -127,7 +127,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/10/russianlbt10dvd_orig.jpg" data-lightbox="books" data-title="Земля до начала времен X. Великая миграция">
         <div class="img-box">
-          <img src="/images/media/dvd/10/russianlbt10dvd_orig.jpg" alt="Земля до начала времен X. Великая миграция" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/10/russianlbt10dvd_orig.jpg" alt="Земля до начала времен X. Великая миграция" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -143,7 +143,7 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-image">
     <a href="/images/media/dvd/10/greatlongneckmigrationdvd-2017-r1_orig.jpg" data-lightbox="books" data-title="The Great Longneck Migration">
         <div class="img-box">
-          <img src="/images/media/dvd/10/greatlongneckmigrationdvd-2017-r1_orig.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/10/greatlongneckmigrationdvd-2017-r1_orig.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>

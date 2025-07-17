@@ -14,15 +14,15 @@ An archive of The Big Freeze VHS tapes released over the years.
   </div>
 
 <div class="item-entry" id="lbt8-screener-147">
-    <div class="item-image"
+    <div class="item-image">
       <a href="/images/media/vhs/8/lbt8-screener.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img src="/images/media/vhs/8/lbt8-screener.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/8/lbt8-screener.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
       <a href="/images/media/vhs/8/lbt8-screener2.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img src="/images/media/vhs/8/lbt8-screener2.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/8/lbt8-screener2.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>
@@ -38,7 +38,7 @@ An archive of The Big Freeze VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/8/lbt8-english-clamshell.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img src="/images/media/vhs/8/lbt8-english-clamshell.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/8/lbt8-english-clamshell.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -53,7 +53,7 @@ An archive of The Big Freeze VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/8/lbt8-english-sleeve.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img src="/images/media/vhs/8/lbt8-english-sleeve.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/8/lbt8-english-sleeve.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -68,7 +68,7 @@ An archive of The Big Freeze VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/8/lbt8-englishAU-clamshell.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img src="/images/media/vhs/8/lbt8-englishAU-clamshell.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/8/lbt8-englishAU-clamshell.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -83,7 +83,7 @@ An archive of The Big Freeze VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/8/lbt8-englishUK-clamshell.jpg" data-lightbox="books" data-title="The Big Freeze">
         <div class="img-box">
-          <img src="/images/media/vhs/8/lbt8-englishUK-clamshell.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/8/lbt8-englishUK-clamshell.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -98,7 +98,7 @@ An archive of The Big Freeze VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/8/lbt8-SV.jpg" data-lightbox="books" data-title="Landet för Längesedan 8: När Isen Kom">
         <div class="img-box">
-          <img src="/images/media/vhs/8/lbt8-SV.jpg" alt="Landet för Längesedan 8: När Isen Kom" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/8/lbt8-SV.jpg" alt="Landet för Längesedan 8: När Isen Kom" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -110,10 +110,10 @@ An archive of The Big Freeze VHS tapes released over the years.
 </div>
 
 <div class="item-entry" id="lbt8-ja-41">
-    <div class="item-image"
+    <div class="item-image">
       <a href="/images/media/vhs/8/lbt8-ja.jpg" data-lightbox="books" data-title="リトルフット アイス・フリーズ">
         <div class="img-box">
-          <img src="/images/media/vhs/8/lbt8-ja.jpg" alt="リトルフット アイス・フリーズ" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/8/lbt8-ja.jpg" alt="リトルフット アイス・フリーズ" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>
@@ -128,7 +128,7 @@ An archive of The Big Freeze VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/8/lbt8-SV-green.jpg" data-lightbox="books" data-title="Landet för Längesedan 8: När Isen Kom">
         <div class="img-box">
-          <img src="/images/media/vhs/8/lbt8-SV-green.jpg" alt="Landet för Längesedan 8: När Isen Kom" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/8/lbt8-SV-green.jpg" alt="Landet för Längesedan 8: När Isen Kom" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>

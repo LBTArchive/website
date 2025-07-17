@@ -13,15 +13,16 @@ title: Land Before Time Archive Guestbook
   </p>
 
   <p>
-    <label>Your name: <input type="text" name="name" required /></label>
+    <label>Your name: <br /><input type="text" name="name" required /></label>
   </p>
+
   <p>
-    <label>Your message: <textarea name="message" required></textarea></label>
+    <label>Your message: <br /><textarea name="message" required rows="4" cols="50"></textarea></label>
   </p>
   
   <div data-netlify-recaptcha="true"></div>
 
-  <p><button type="submit">Sign Guestbook</button></p>
+  <p><button type="submit">Leave message</button></p>
 </form>
 
 <div id="guestbook-entries">
@@ -80,7 +81,7 @@ title: Land Before Time Archive Guestbook
       `).join('');
     })
     .catch(err => {
-      document.getElementById("guestbook-entries").innerHTML = `<p>Error.</p>`;
+      document.getElementById("guestbook-entries").innerHTML = `<p>Cannot load messages at this time.</p>`;
       console.error(err);
     });
 </script>

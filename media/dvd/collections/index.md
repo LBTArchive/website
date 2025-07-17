@@ -15,9 +15,9 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/2017-12-04-5a25c19bd1fae-dvd-landbeforetimedoublefeature-950x637_orig.jpg" data-lightbox="books" data-title="The Land Before Time Double Feature">
+    <a href="/images/media/dvd/collection/2017-12-04-5a25c19bd1fae-dvd-landbeforetimedoublefeature-950x637_orig.jpg" data-lightbox="img" data-title="The Land Before Time Double Feature">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/2017-12-04-5a25c19bd1fae-dvd-landbeforetimedoublefeature-950x637_orig.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/2017-12-04-5a25c19bd1fae-dvd-landbeforetimedoublefeature-950x637_orig.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -34,9 +34,9 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/2greatmoviesfeaturingchomper_orig.jpg" data-lightbox="books" data-title="The Land Before Time Double Feature">
+    <a href="/images/media/dvd/collection/2greatmoviesfeaturingchomper_orig.jpg" data-lightbox="img" data-title="The Land Before Time Double Feature">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/2greatmoviesfeaturingchomper_orig.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/2greatmoviesfeaturingchomper_orig.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -53,9 +53,9 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/2mysteriesbeyondthegreatvalley-6-7_orig.jpg" data-lightbox="books" data-title="The Land Before Time Double Feature">
+    <a href="/images/media/dvd/collection/2mysteriesbeyondthegreatvalley-6-7_orig.jpg" data-lightbox="img" data-title="The Land Before Time Double Feature">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/2mysteriesbeyondthegreatvalley-6-7_orig.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/2mysteriesbeyondthegreatvalley-6-7_orig.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -71,9 +71,9 @@ The Stone of Cold Fire (VII)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/lbt1-2dutchdvd2005_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes">
+    <a href="/images/media/dvd/collection/lbt1-2dutchdvd2005_orig.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/lbt1-2dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/lbt1-2dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -89,9 +89,9 @@ Het avontuur in de verboden vallei (II)</li></ul>
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/lbt3-4dutchdvd2005_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes">
+    <a href="/images/media/dvd/collection/lbt3-4dutchdvd2005_orig.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/lbt3-4dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/lbt3-4dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -107,9 +107,9 @@ De onvergetelijke reis (IV)</li></ul>
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/lbt5-6dutchdvd2005_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes">
+    <a href="/images/media/dvd/collection/lbt5-6dutchdvd2005_orig.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/lbt5-6dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/lbt5-6dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -125,9 +125,9 @@ Het geheim van de dinosaurusrots (VI)</li></ul>
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/lbt7-8dutchdvd2005_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes">
+    <a href="/images/media/dvd/collection/lbt7-8dutchdvd2005_orig.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/lbt7-8dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/lbt7-8dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -143,9 +143,9 @@ De barre kou (VIII)</li></ul>
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/lbt9-10dutchdvd2005_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes">
+    <a href="/images/media/dvd/collection/lbt9-10dutchdvd2005_orig.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/lbt9-10dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/lbt9-10dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -161,9 +161,9 @@ De val van de grote cirkel (X)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/le-petit-dinosaure-vol-9-et-10-slim-16381709112014_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure">
+    <a href="/images/media/dvd/collection/le-petit-dinosaure-vol-9-et-10-slim-16381709112014_orig.jpg" data-lightbox="img" data-title="Le Petit Dinosaure">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/le-petit-dinosaure-vol-9-et-10-slim-16381709112014_orig.jpg" alt="Le Petit Dinosaure" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/le-petit-dinosaure-vol-9-et-10-slim-16381709112014_orig.jpg" alt="Le Petit Dinosaure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -179,14 +179,14 @@ Les Long Cous et le cercle de lumière (X)</li></ul>
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/lbt1-11.jpg" data-lightbox="books" data-title="The Land Before Time 1-11">
+    <a href="/images/media/dvd/collection/lbt1-11.jpg" data-lightbox="img" data-title="The Land Before Time 1-11">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/lbt1-11.jpg" alt="The Land Before Time 1-11" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/lbt1-11.jpg" alt="The Land Before Time 1-11" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/dvd/collection/lbt1-11-sv.jpg" data-lightbox="books" data-title="The Land Before Time 1-11">
+      <a href="/images/media/dvd/collection/lbt1-11-sv.jpg" data-lightbox="img" data-title="The Land Before Time 1-11">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/lbt1-11-sv.jpg" alt="The Land Before Time 1-11" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/lbt1-11-sv.jpg" alt="The Land Before Time 1-11" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -200,9 +200,9 @@ Les Long Cous et le cercle de lumière (X)</li></ul>
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/lbt89.jpg" data-lightbox="books" data-title="The Land Before Time Double Feature">
+    <a href="/images/media/dvd/collection/lbt89.jpg" data-lightbox="img" data-title="The Land Before Time Double Feature">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/lbt89.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/lbt89.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -211,16 +211,40 @@ Les Long Cous et le cercle de lumière (X)</li></ul>
       <strong>Subtitle:</strong> 2 BIG dino-riffic adventures<br/>
       <strong>Year:</strong> 2006<br/>
       <strong>Region:</strong> 1<br/>
-            <strong>Notes:</strong> <ul><li>The Big Freeze (VIII)</li><li>
+      <strong>Notes:</strong> <ul><li>The Big Freeze (VIII)</li><li>
 Journey to Big Water (IX)</li></ul>
   </div>
 </div>
 
+<div class="item-entry" id="americantailbaltolbt-156">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/americantailbaltolbt.jpg" data-lightbox="img" data-title="Animated Family Favorites">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/americantailbaltolbt.jpg" alt="Animated Family Favorites" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/collection/americantailbaltolbt2.jpg" data-lightbox="img" data-title="Animated Family Favorites">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/americantailbaltolbt2.jpg" alt="Animated Family Favorites" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Animated Family Favorites<br/>
+      <strong>Subtitle:</strong> An American Tail, Balto and The Land Before Time<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Barcode:</strong> 1 91329 24945 1<br/>
+      <strong>Region:</strong> 1<br/>
+      <strong>Notes:</strong> Featuring the original Land Before Time movie<br/>
+    </div>
+  </div>
+
+
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/lbt89onthego.jpg" data-lightbox="books" data-title="The Land Before Time Double Feature">
+    <a href="/images/media/dvd/collection/lbt89onthego.jpg" data-lightbox="img" data-title="The Land Before Time Double Feature">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/lbt89onthego.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/lbt89onthego.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -229,16 +253,16 @@ Journey to Big Water (IX)</li></ul>
       <strong>Subtitle:</strong> Watch on the go<br/>
       <strong>Year:</strong> 2008<br/>
       <strong>Region:</strong> 1<br/>
-                  <strong>Notes:</strong> <ul><li>The Big Freeze (VIII)</li><li>
-Journey to Big Water (IX)</li></ul>
+      <strong>Notes:</strong> <ul><li>The Big Freeze (VIII)</li><li>
+        Journey to Big Water (IX)</li></ul>
   </div>
 </div>
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/lbt1-2-nordics.jpg" data-lightbox="books" data-title="Land Before Time 1-2 Multipack">
+    <a href="/images/media/dvd/collection/lbt1-2-nordics.jpg" data-lightbox="img" data-title="Land Before Time 1-2 Multipack">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/lbt1-2-nordics.jpg" alt="Land Before Time 1-2 Multipack" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/lbt1-2-nordics.jpg" alt="Land Before Time 1-2 Multipack" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -252,9 +276,9 @@ Journey to Big Water (IX)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/carrycase-watchonthego2_orig.jpg" data-lightbox="books" data-title="The Land Before Time Double Feature">
+    <a href="/images/media/dvd/collection/carrycase-watchonthego2_orig.jpg" data-lightbox="img" data-title="The Land Before Time Double Feature">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/carrycase-watchonthego2_orig.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/carrycase-watchonthego2_orig.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -269,10 +293,10 @@ Invasion of the Tinysauruses (XI)</li></ul>
 </div>
 
 <div class="item-entry" id="platvoetlepetitdinosaur6movies-43">
-    <div class="item-image"
-      <a href="/images/media/dvd/collection/platvoetlepetitdinosaur6movies.jpg" data-lightbox="books" data-title="Platvoet en z'n vriendjes">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/platvoetlepetitdinosaur6movies.jpg" data-lightbox="img" data-title="Platvoet en z'n vriendjes">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/platvoetlepetitdinosaur6movies.jpg" alt="Platvoet en z'n vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/platvoetlepetitdinosaur6movies.jpg" alt="Platvoet en z'n vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>
@@ -286,9 +310,9 @@ Invasion of the Tinysauruses (XI)</li></ul>
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/4moviesfamilyfunpack2-5_orig.jpeg" data-lightbox="books" data-title="4 Movie Family Fun Pack">
+    <a href="/images/media/dvd/collection/4moviesfamilyfunpack2-5_orig.jpeg" data-lightbox="img" data-title="4 Movie Family Fun Pack">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/4moviesfamilyfunpack2-5_orig.jpeg" alt="4 Movie Family Fun Pack" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/4moviesfamilyfunpack2-5_orig.jpeg" alt="4 Movie Family Fun Pack" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -306,9 +330,9 @@ The Mysterious Island (V)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/91mpKogC6FL.jpg" data-lightbox="books" data-title="4 Movie Family Fun Pack">
+    <a href="/images/media/dvd/collection/91mpKogC6FL.jpg" data-lightbox="img" data-title="4 Movie Family Fun Pack">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/91mpKogC6FL.jpg" alt="4 Movie Family Fun Pack" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/91mpKogC6FL.jpg" alt="4 Movie Family Fun Pack" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -325,9 +349,9 @@ Journey to Big Water (IX)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/4moviesfamilyfunpack10-13.jpeg" data-lightbox="books" data-title="4 Movie Family Fun Pack">
+    <a href="/images/media/dvd/collection/4moviesfamilyfunpack10-13.jpeg" data-lightbox="img" data-title="4 Movie Family Fun Pack">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/4moviesfamilyfunpack10-13.jpeg" alt="4 Movie Family Fun Pack" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/4moviesfamilyfunpack10-13.jpeg" alt="4 Movie Family Fun Pack" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -344,9 +368,9 @@ The Wisdom of Friends (XIII)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/doublefeaturewerebackadinosaursstory_orig.jpeg" data-lightbox="books" data-title="Double Feature">
+    <a href="/images/media/dvd/collection/doublefeaturewerebackadinosaursstory_orig.jpeg" data-lightbox="img" data-title="Double Feature">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/doublefeaturewerebackadinosaursstory_orig.jpeg" alt="Double Feature" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/doublefeaturewerebackadinosaursstory_orig.jpeg" alt="Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -361,9 +385,9 @@ We're Back! A Dinosaur Story</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/81VIqlA13jL._SL1500_.jpg" data-lightbox="books" data-title="3 Movie Family Fun Pack">
+    <a href="/images/media/dvd/collection/81VIqlA13jL._SL1500_.jpg" data-lightbox="img" data-title="3 Movie Family Fun Pack">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/81VIqlA13jL._SL1500_.jpg" alt="3 Movie Family Fun Pack" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/81VIqlA13jL._SL1500_.jpg" alt="3 Movie Family Fun Pack" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -379,9 +403,9 @@ Journey Through the Mists (IV)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/81+HfXhhflL._SL1500_.jpg" data-lightbox="books" data-title="3 Movie Family Fun Pack">
+    <a href="/images/media/dvd/collection/81+HfXhhflL._SL1500_.jpg" data-lightbox="img" data-title="3 Movie Family Fun Pack">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/81+HfXhhflL._SL1500_.jpg" alt="3 Movie Family Fun Pack" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/81+HfXhhflL._SL1500_.jpg" alt="3 Movie Family Fun Pack" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -397,9 +421,9 @@ The Stone of Cold Fire (VII) </li></ul>
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/81wfZa+yaUL._SL1500_.jpg" data-lightbox="books" data-title="3 Movie Family Fun Pack">
+    <a href="/images/media/dvd/collection/81wfZa+yaUL._SL1500_.jpg" data-lightbox="img" data-title="3 Movie Family Fun Pack">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/81wfZa+yaUL._SL1500_.jpg" alt="3 Movie Family Fun Pack" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/81wfZa+yaUL._SL1500_.jpg" alt="3 Movie Family Fun Pack" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -415,9 +439,9 @@ The Great Longneck Migration (X)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/3moviefamilyfunpack11-13_orig.jpeg" data-lightbox="books" data-title="3 Movie Family Fun Pack">
+    <a href="/images/media/dvd/collection/3moviefamilyfunpack11-13_orig.jpeg" data-lightbox="img" data-title="3 Movie Family Fun Pack">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/3moviefamilyfunpack11-13_orig.jpeg" alt="3 Movie Family Fun Pack" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/3moviefamilyfunpack11-13_orig.jpeg" alt="3 Movie Family Fun Pack" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -433,9 +457,9 @@ The Wisdom of Friends (XIII)</li></ul>
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/landbeforetimetheanthologywith4filmes_orig.jpg" data-lightbox="books" data-title="The Anthology - Volume 1">
+    <a href="/images/media/dvd/collection/landbeforetimetheanthologywith4filmes_orig.jpg" data-lightbox="img" data-title="The Anthology - Volume 1">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/landbeforetimetheanthologywith4filmes_orig.jpg" alt="The Anthology - Volume 1" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/landbeforetimetheanthologywith4filmes_orig.jpg" alt="The Anthology - Volume 1" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -452,9 +476,9 @@ Journey Through the Mists (IV)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/landbeforetimetheanthologywith4filmes5-8.jpg" data-lightbox="books" data-title="The Anthology - Volume 2">
+    <a href="/images/media/dvd/collection/landbeforetimetheanthologywith4filmes5-8.jpg" data-lightbox="img" data-title="The Anthology - Volume 2">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/landbeforetimetheanthologywith4filmes5-8.jpg" alt="The Anthology - Volume 2" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/landbeforetimetheanthologywith4filmes5-8.jpg" alt="The Anthology - Volume 2" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -471,9 +495,9 @@ The Big Freeze (VIII)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/landbeforetimetheanthologywith5filmes_orig.jpg" data-lightbox="books" data-title="The Anthology - Volume 3">
+    <a href="/images/media/dvd/collection/landbeforetimetheanthologywith5filmes_orig.jpg" data-lightbox="img" data-title="The Anthology - Volume 3">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/landbeforetimetheanthologywith5filmes_orig.jpg" alt="The Anthology - Volume 3" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/landbeforetimetheanthologywith5filmes_orig.jpg" alt="The Anthology - Volume 3" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -491,14 +515,14 @@ The Wisdom of Friends (XIII)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/20200409-122031_orig.jpg" data-lightbox="books" data-title="The Complete Collection">
+    <a href="/images/media/dvd/collection/20200409-122031_orig.jpg" data-lightbox="img" data-title="The Complete Collection">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/20200409-122031_orig.jpg" alt="The Complete Collection" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/20200409-122031_orig.jpg" alt="The Complete Collection" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/dvd/collection/thecompletecollectiondvdall14films_orig.jpg" data-lightbox="books" data-title="The Complete Collection">
+      <a href="/images/media/dvd/collection/thecompletecollectiondvdall14films_orig.jpg" data-lightbox="img" data-title="The Complete Collection">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/thecompletecollectiondvdall14films_orig.jpg" alt="The Complete Collection" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/thecompletecollectiondvdall14films_orig.jpg" alt="The Complete Collection" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -512,14 +536,14 @@ The Wisdom of Friends (XIII)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/collection/5moviesandbonusplayset_orig.png" data-lightbox="books" data-title="30th Anniversary Playset">
+    <a href="/images/media/dvd/collection/5moviesandbonusplayset_orig.png" data-lightbox="img" data-title="30th Anniversary Playset">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/5moviesandbonusplayset_orig.png" alt="30th Anniversary Playset" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/5moviesandbonusplayset_orig.png" alt="30th Anniversary Playset" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-            <a href="/images/media/dvd/collection/30thanniversary.jpg" data-lightbox="books" data-title="30th Anniversary Playset">
+            <a href="/images/media/dvd/collection/30thanniversary.jpg" data-lightbox="img" data-title="30th Anniversary Playset">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/30thanniversary.jpg" alt="30th Anniversary Playset" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/30thanniversary.jpg" alt="30th Anniversary Playset" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -536,10 +560,10 @@ Journey to Big Water (IX)</li></ul>
 </div>
 
 <div class="item-entry" id="completeeverythingde-5">
-    <div class="item-image"
-      <a href="/images/media/dvd/collection/completeeverythingde.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit - 14 Filme + TV-Serie - Gesamtbox">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/completeeverythingde.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit - 14 Filme + TV-Serie - Gesamtbox">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/completeeverythingde.jpg" alt="In einem Land vor unserer Zeit - 14 Filme + TV-Serie - Gesamtbox" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/completeeverythingde.jpg" alt="In einem Land vor unserer Zeit - 14 Filme + TV-Serie - Gesamtbox" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>
@@ -551,10 +575,10 @@ Journey to Big Water (IX)</li></ul>
     </div>
   </div>
 <div class="item-entry" id="5moviecollection30thanniversary-151">
-    <div class="item-image"
-      <a href="/images/media/dvd/collection/5moviecollection30thanniversary.jpg" data-lightbox="books" data-title="5 movie collection">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/5moviecollection30thanniversary.jpg" data-lightbox="img" data-title="5 movie collection">
         <div class="img-box">
-          <img src="/images/media/dvd/collection/5moviecollection30thanniversary.jpg" alt="5 movie collection" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/dvd/collection/5moviecollection30thanniversary.jpg" alt="5 movie collection" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>

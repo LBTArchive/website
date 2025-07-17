@@ -17,7 +17,7 @@ An archive of The Great Longneck Migration VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/10/lbt10-US-clamshell.jpg" data-lightbox="books" data-title="The Great Longneck Migration">
         <div class="img-box">
-          <img src="/images/media/vhs/10/lbt10-US-clamshell.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/10/lbt10-US-clamshell.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -33,7 +33,7 @@ An archive of The Great Longneck Migration VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/10/lbt10-US-sleeve.jpg" data-lightbox="books" data-title="The Great Longneck Migration">
         <div class="img-box">
-          <img src="/images/media/vhs/10/lbt10-US-sleeve.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/10/lbt10-US-sleeve.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -48,7 +48,7 @@ An archive of The Great Longneck Migration VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/10/lbt10-KO.jpg" data-lightbox="books" data-title="The Great Longneck Migration">
         <div class="img-box">
-          <img src="/images/media/vhs/10/lbt10-KO.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/10/lbt10-KO.jpg" alt="The Great Longneck Migration" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -64,7 +64,7 @@ An archive of The Great Longneck Migration VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/10/lbt10-UK-clamshell.jpg" data-lightbox="books" data-title="The Great Migration">
         <div class="img-box">
-          <img src="/images/media/vhs/10/lbt10-UK-clamshell.jpg" alt="The Great Migration" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/10/lbt10-UK-clamshell.jpg" alt="The Great Migration" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -79,7 +79,7 @@ An archive of The Great Longneck Migration VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/10/lbt10-SV.jpg" data-lightbox="books" data-title="Landet för längesedan - Den stora utvandringen">
         <div class="img-box">
-          <img src="/images/media/vhs/10/lbt10-SV.jpg" alt="Landet för längesedan - Den stora utvandringen" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/10/lbt10-SV.jpg" alt="Landet för längesedan - Den stora utvandringen" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>

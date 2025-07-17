@@ -14,15 +14,15 @@ An archive of Journey to Big Water VHS tapes released over the years.
   </div>
 
 <div class="item-entry" id="lbt9-englishUS-clamshell-screener-146">
-    <div class="item-image"
+    <div class="item-image">
       <a href="/images/media/vhs/9/lbt9-englishUS-clamshell-screener.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishUS-clamshell-screener.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/9/lbt9-englishUS-clamshell-screener.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
       <a href="/images/media/vhs/9/lbt9-englishUS-clamshell-screener2.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishUS-clamshell-screener2.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/9/lbt9-englishUS-clamshell-screener2.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>
@@ -38,7 +38,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/9/lbt9-englishUS-clamshell.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishUS-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/9/lbt9-englishUS-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -53,7 +53,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/9/lbt9-englishUS-sleeve.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishUS-sleeve.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/9/lbt9-englishUS-sleeve.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -69,7 +69,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/9/lbt9-englishAU-clamshell.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishAU-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/9/lbt9-englishAU-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -84,7 +84,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/9/lbt9-english-clamshell.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-english-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/9/lbt9-english-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -97,10 +97,10 @@ An archive of Journey to Big Water VHS tapes released over the years.
 
 
 <div class="item-entry" id="lbt9uk">
-    <div class="item-image"
+    <div class="item-image">
       <a href="/images/media/vhs/9/lbt9-englishUK-clamshell.jpg" data-lightbox="books" data-title="Journey to Big Water">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-englishUK-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/9/lbt9-englishUK-clamshell.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>
@@ -113,10 +113,10 @@ An archive of Journey to Big Water VHS tapes released over the years.
   </div>
 
   <div class="item-entry" id="lbt9-ja-42">
-    <div class="item-image"
+    <div class="item-image">
       <a href="/images/media/vhs/9/lbt9-ja.jpg" data-lightbox="books" data-title="リトルフット 海への大冒険">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-ja.jpg" alt="リトルフット 海への大冒険" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/9/lbt9-ja.jpg" alt="リトルフット 海への大冒険" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>
@@ -132,7 +132,7 @@ An archive of Journey to Big Water VHS tapes released over the years.
   <div class="item-image">
     <a href="/images/media/vhs/9/lbt9-sv-purple.jpg" data-lightbox="books" data-title="Landet för längesedan - RESAN TILL DET STORA HAVET">
         <div class="img-box">
-          <img src="/images/media/vhs/9/lbt9-sv-purple.jpg" alt="Landet för längesedan - RESAN TILL DET STORA HAVET" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/9/lbt9-sv-purple.jpg" alt="Landet för längesedan - RESAN TILL DET STORA HAVET" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>

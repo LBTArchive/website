@@ -27,6 +27,10 @@ a:hover {
   text-decoration: underline;
 }
 
+p {
+  padding: 10px;
+}
+
 nav {
   margin-bottom: 20px;
   padding: 10px 0;
@@ -209,7 +213,7 @@ h2 {
   .item-header,
   .item-entry {
     flex-direction: column;
-    text-align: center;
+    text-align: left;
   }
 
   .item-image {

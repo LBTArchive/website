@@ -18,7 +18,7 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/animationmagazine.jpg" data-lightbox="books" data-title="Animation Magazine">
         <div class="img-box">
-          <img src="/images/media/magazines/animationmagazine.jpg" alt="Animation Magazine" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/animationmagazine.jpg" alt="Animation Magazine" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -34,17 +34,17 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/adventuresmagazine.jpg" data-lightbox="books" data-title="Burger King Kid's Club Adventures">
         <div class="img-box">
-          <img src="/images/media/magazines/adventuresmagazine.jpg" alt="Burger King Kid's Club Adventures" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/adventuresmagazine.jpg" alt="Burger King Kid's Club Adventures" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
       <a href="/images/media/magazines/adventuresmagazine-1.jpg" data-lightbox="books" data-title="Burger King Kid's Club Adventures">
         <div class="img-box">
-          <img src="/images/media/magazines/adventuresmagazine-1.jpg" alt="Burger King Kid's Club Adventures" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/adventuresmagazine-1.jpg" alt="Burger King Kid's Club Adventures" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
       <a href="/images/media/magazines/adventuresmagazine-3.jpg" data-lightbox="books" data-title="Burger King Kid's Club Adventures">
         <div class="img-box">
-          <img src="/images/media/magazines/adventuresmagazine-3.jpg" alt="Burger King Kid's Club Adventures" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/adventuresmagazine-3.jpg" alt="Burger King Kid's Club Adventures" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -59,7 +59,7 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/donbluthstoontalk.jpg" data-lightbox="books" data-title="Don Bluth's Toon Talk Magazine.">
         <div class="img-box">
-          <img src="/images/media/magazines/donbluthstoontalk.jpg" alt="Don Bluth's Toon Talk Magazine." style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/donbluthstoontalk.jpg" alt="Don Bluth's Toon Talk Magazine." style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -74,7 +74,7 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/de1.jpg" data-lightbox="books" data-title="In Einem Land Vor Unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/magazines/de1.jpg" alt="In Einem Land Vor Unserer Zeit" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/de1.jpg" alt="In Einem Land Vor Unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -90,7 +90,7 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/de3.jpg" data-lightbox="books" data-title="In Einem Land Vor Unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/magazines/de3.jpg" alt="In Einem Land Vor Unserer Zeit" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/de3.jpg" alt="In Einem Land Vor Unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -106,7 +106,7 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/de2.jpg" data-lightbox="books" data-title="In Einem Land Vor Unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/magazines/de2.jpg" alt="In Einem Land Vor Unserer Zeit" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/de2.jpg" alt="In Einem Land Vor Unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -122,7 +122,7 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/de4.jpg" data-lightbox="books" data-title="In Einem Land Vor Unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/magazines/de4.jpg" alt="In Einem Land Vor Unserer Zeit" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/de4.jpg" alt="In Einem Land Vor Unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -138,7 +138,7 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/nl1.jpg" data-lightbox="books" data-title="Platvoet en zijn Vriendjes">
         <div class="img-box">
-          <img src="/images/media/magazines/nl1.jpg" alt="Platvoet en zijn Vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/nl1.jpg" alt="Platvoet en zijn Vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -154,7 +154,7 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/nl2.jpg" data-lightbox="books" data-title="Platvoet en zijn Vriendjes">
         <div class="img-box">
-          <img src="/images/media/magazines/nl2.jpg" alt="Platvoet en zijn Vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/nl2.jpg" alt="Platvoet en zijn Vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -170,7 +170,7 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/nl3.jpg" data-lightbox="books" data-title="Platvoet en zijn Vriendjes">
         <div class="img-box">
-          <img src="/images/media/magazines/nl3.jpg" alt="Platvoet en zijn Vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/nl3.jpg" alt="Platvoet en zijn Vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -186,7 +186,7 @@ Several Land Before Time related magazines were created over the years.
   <div class="item-image">
     <a href="/images/media/magazines/nl4.jpg" data-lightbox="books" data-title="Platvoet en zijn Vriendjes">
         <div class="img-box">
-          <img src="/images/media/magazines/nl4.jpg" alt="Platvoet en zijn Vriendjes" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/magazines/nl4.jpg" alt="Platvoet en zijn Vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>

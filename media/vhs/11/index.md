@@ -17,12 +17,12 @@ An archive of The Invasion of the Tinysauruses VHS tapes released over the years
     <div class="item-image">
       <a href="/images/media/vhs/11/lbt11-screener-front.jpg" data-lightbox="books" data-title="The Invasion of the Tinysauruses">
         <div class="img-box">
-          <img src="/images/media/vhs/11/lbt11-screener-front.jpg" alt="The Invasion of the Tinysauruses" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/11/lbt11-screener-front.jpg" alt="The Invasion of the Tinysauruses" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
       <a href="/images/media/vhs/11/lbt11-screener-back.jpg" data-lightbox="books" data-title="The Invasion of the Tinysauruses">
         <div class="img-box">
-          <img src="/images/media/vhs/11/lbt11-screener-back.jpg" alt="The Invasion of the Tinysauruses" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/vhs/11/lbt11-screener-back.jpg" alt="The Invasion of the Tinysauruses" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>

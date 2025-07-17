@@ -17,7 +17,7 @@ An archive of The Land Before Time Blu-Ray Discs released over the years.
   <div class="item-image">
     <a href="/images/media/bluray/lbt1-bluray-2015.jpg" data-lightbox="gallery" data-title="The Land Before Time Blu-ray (2015)">
         <img src="/images/media/bluray/lbt1-bluray-2015.jpg" alt="Blu-ray of the first Land Before Time movie"
-            style="height:250px; object-fit:cover;" / loading="lazy">
+            style="height:250px; object-fit:cover;" loading="lazy">
       </a>
   </div>
   <div class="item-details">
@@ -31,7 +31,7 @@ An archive of The Land Before Time Blu-Ray Discs released over the years.
   <div class="item-image">
     <a href="/images/media/bluray/lbt1-bluray-2015-canadian.jpg" data-lightbox="books" data-title="The Land Before Time - The Original Movie">
         <div class="img-box">
-          <img src="/images/media/bluray/lbt1-bluray-2015-canadian.jpg" alt="The Land Before Time - The Original Movie" style="height:250px; object-fit:cover;" / loading="lazy">
+          <img src="/images/media/bluray/lbt1-bluray-2015-canadian.jpg" alt="The Land Before Time - The Original Movie" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
