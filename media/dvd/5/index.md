@@ -41,11 +41,34 @@ An archive of The Land Before Time DVDs released over the years.
     <strong>Title:</strong> Le Petit Dinosaure (V) - L'ile mysterieuse<br/>
       <strong>Year:</strong> 2004<br/>
       <strong>Region:</strong> 2<br/>
+      <strong>Barcode:</strong> 5 050582 287141<br/>
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+
+<div class="item-entry" id="lbt5-fr-167">
+    <div class="item-image">
+      <a href="/images/media/dvd/5/lbt5-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - L'Île Mystérieuse">
+        <div class="img-box">
+          <img src="/images/media/dvd/5/lbt5-fr.jpg" alt="Le Petit Dinosaure - L'Île Mystérieuse" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/5/lbt5-fr2.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - L'Île Mystérieuse">
+        <div class="img-box">
+          <img src="/images/media/dvd/5/lbt5-fr2.jpg" alt="Le Petit Dinosaure - L'Île Mystérieuse" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure - L'Île Mystérieuse<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 5 050582 289107<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt5-ja-35">
-    <div class="item-image"
+    <div class="item-image">
       <a href="/images/media/dvd/5/lbt5-ja.jpg" data-lightbox="books" data-title="リトルフットはっぱ食い虫で大災難">
         <div class="img-box">
           <img src="/images/media/dvd/5/lbt5-ja.jpg" alt="リトルフットはっぱ食い虫で大災難" style="height:250px; object-fit:cover;" loading="lazy">

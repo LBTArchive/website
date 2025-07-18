@@ -94,6 +94,22 @@ An archive of The Big Freeze VHS tapes released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt8-fr-vhs-180">
+    <div class="item-image">
+      <a href="/images/media/vhs/8/lbt8-fr-vhs.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - La pluie d'etoiles glacees">
+        <div class="img-box">
+          <img src="/images/media/vhs/8/lbt8-fr-vhs.jpg" alt="Le Petit Dinosaure - La pluie d'etoiles glacees" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure - La pluie d'etoiles glacees<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+
+
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/vhs/8/lbt8-SV.jpg" data-lightbox="books" data-title="Landet för Längesedan 8: När Isen Kom">

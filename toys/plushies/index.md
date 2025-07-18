@@ -168,6 +168,23 @@ An archive of The Land Before Time Plushies released over the years.
     </div>
   </div>
 
+  <div class="item-entry" id="littlefoot-doudou-172">
+    <div class="item-image">
+      <a href="/images/toys/plushies/littlefoot-doudou.jpg" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefoot-doudou.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> Doudou<br/>
+      <strong>Size:</strong> 8 inch / 20 cm<br/>
+    </div>
+  </div>
+
+
 <div class="item-entry" id="littlefoottoynetwork11inch_orig-65">
     <div class="item-image">
       <a href="/images/toys/plushies/littlefoot-plush-2002.jpg" data-lightbox="books" data-title="Littlefoot">

@@ -307,6 +307,22 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
 </div>
 
+<div class="item-entry" id="fr_voyage_au_pays_des_brumes-170">
+    <div class="item-image">
+      <a href="/images/media/books/fr_voyage_au_pays_des_brumes.jpg" data-lightbox="img" data-title="Voyage au pays des brumes">
+        <div class="img-box">
+          <img src="/images/media/books/fr_voyage_au_pays_des_brumes.jpg" alt="Voyage au pays des brumes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Voyage au pays des brumes<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>ISBN:</strong> 978-2092632093<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/upwegrow.jpg" data-lightbox="books" data-title="Up we grow">

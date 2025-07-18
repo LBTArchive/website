@@ -95,6 +95,21 @@ An archive of Journey to Big Water VHS tapes released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt9-fr-vhs-181">
+    <div class="item-image">
+      <a href="/images/media/vhs/9/lbt9-fr-vhs.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - Mo, l'ami du Grand Large">
+        <div class="img-box">
+          <img src="/images/media/vhs/9/lbt9-fr-vhs.jpg" alt="Le Petit Dinosaure - Mo, l'ami du Grand Large" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure - Mo, l'ami du Grand Large<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+
 
 <div class="item-entry" id="lbt9uk">
     <div class="item-image">

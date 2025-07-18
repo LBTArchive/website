@@ -110,6 +110,20 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt7-fr-orange-178">
+    <div class="item-image">
+      <a href="/images/media/vhs/7/lbt7-fr-orange.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - La Pierre de Feu">
+        <div class="img-box">
+          <img src="/images/media/vhs/7/lbt7-fr-orange.jpg" alt="Le Petit Dinosaure - La Pierre de Feu" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure - La Pierre de Feu<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
 
 
 </div>

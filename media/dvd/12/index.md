@@ -60,6 +60,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt12-fr-169">
+    <div class="item-image">
+      <a href="/images/media/dvd/12/lbt12-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - Le Jour Du Grand Envol">
+        <div class="img-box">
+          <img src="/images/media/dvd/12/lbt12-fr.jpg" alt="Le Petit Dinosaure - Le Jour Du Grand Envol" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure - Le Jour Du Grand Envol<br/>
+      <strong>Year:</strong> 2006<br/>
+      <strong>Region:</strong> 2<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

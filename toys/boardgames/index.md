@@ -196,6 +196,22 @@ An archive of The Land Before Time board games released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="escapefromredclawgame_fr-175">
+    <div class="item-image">
+      <a href="/images/toys/boardgames/escapefromredclawgame_fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/escapefromredclawgame_fr.jpg" alt="Le Petit Dinosaure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure<br/>
+      <strong>Subtitle:</strong> La course de la grande vallée<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/toys/boardgames/greatvalleygame1_orig2.jpg" data-lightbox="books" data-title="Great Valley Game">

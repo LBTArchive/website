@@ -197,6 +197,21 @@ Les Long Cous et le cercle de lumière (X)</li></ul>
   </div>
 </div>
 
+<div class="item-entry" id="1-8-10-fr-166">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/1-8-10-fr.jpg" data-lightbox="img" data-title="Coffret Le Petit Dinosaure - 3 aventures">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/1-8-10-fr.jpg" alt="Coffret Le Petit Dinosaure - 3 aventures" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Coffret Le Petit Dinosaure - 3 aventures<br/>
+      <strong>Language:</strong> French<br/>
+      <strong>Notes:</strong> 3 movies: The Land Before Time 1, 8, and 11<br/>
+    </div>
+  </div>
+
 
   <div class="item-entry">
   <div class="item-image">

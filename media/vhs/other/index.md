@@ -63,6 +63,21 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
     </div>
   </div>
 
+<div class="item-entry" id="singalong-fr-159">
+    <div class="item-image">
+      <a href="/images/media/vhs/other/singalong-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure En Chansons">
+        <div class="img-box">
+          <img src="/images/media/vhs/other/singalong-fr.jpg" alt="Le Petit Dinosaure En Chansons" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure En Chansons<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+
 
   <div class="item-entry" id="singalong-sv-142">
     <div class="item-image">
@@ -98,6 +113,20 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
     </div>
   </div>
 
+<div class="item-entry" id="moresingalong-fr-160">
+    <div class="item-image">
+      <a href="/images/media/vhs/other/moresingalong-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure Encore plus de chansons">
+        <div class="img-box">
+          <img src="/images/media/vhs/other/moresingalong-fr.jpg" alt="Le Petit Dinosaure Encore plus de chansons" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure Encore plus de chansons<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
 
 
 

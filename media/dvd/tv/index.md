@@ -87,6 +87,20 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="adventuring-fr-168">
+    <div class="item-image">
+      <a href="/images/media/dvd/tv/adventuring-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - Les Terres Mystérieuses">
+        <div class="img-box">
+          <img src="/images/media/dvd/tv/adventuring-fr.jpg" alt="Le Petit Dinosaure - Les Terres Mystérieuses" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure - Les Terres Mystérieuses<br/>
+      <strong>Year:</strong> 2008<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">

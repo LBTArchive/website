@@ -28,8 +28,23 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt4-fr-171">
+    <div class="item-image">
+      <a href="/images/media/dvd/4/lbt4-fr.jpg" data-lightbox="img" data-title="Voyage au pays des brumes">
+        <div class="img-box">
+          <img src="/images/media/dvd/4/lbt4-fr.jpg" alt="Voyage au pays des brumes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Voyage au pays des brumes<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt4-ja-2005-30">
-    <div class="item-image"
+    <div class="item-image">
       <a href="/images/media/dvd/4/lbt4-ja-2005.jpg" data-lightbox="books" data-title="リトルフットクビナガ恐竜がやってきた">
         <div class="img-box">
           <img src="/images/media/dvd/4/lbt4-ja-2005.jpg" alt="リトルフットクビナガ恐竜がやってきた" style="height:250px; object-fit:cover;" loading="lazy">

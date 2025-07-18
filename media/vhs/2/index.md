@@ -90,6 +90,20 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
   </div>
 </div>
 
+<div class="item-entry" id="lbt2-fr-177">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure 2 - Petit-Pied et son nouvel ami">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-fr.jpg" alt="Le Petit Dinosaure 2 - Petit-Pied et son nouvel ami" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure 2 - Petit-Pied et son nouvel ami<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
 
 
 </div>

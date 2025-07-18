@@ -87,10 +87,31 @@ An archive of The Land Before Time DVDs released over the years.
     <strong>Title:</strong> Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière<br/>
       <strong>Year:</strong> 2004<br/>
       <strong>Region:</strong> 2<br/>
+      <strong>Barcode:</strong> 5 050582 224801<br/>
       <strong>Language:</strong> French<br/>
   </div>
 </div>
 
+<div class="item-entry" id="lbt1-nl-vhs-162">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-nl-vhs.jpg" data-lightbox="img" data-title="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-nl-vhs.jpg" alt="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-nl-vhs2.jpg" data-lightbox="img" data-title="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-nl-vhs2.jpg" alt="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure - Les Long Cous et le Cercle de Lumière<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 5 050582 263503<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

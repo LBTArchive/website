@@ -98,6 +98,28 @@ An archive of The Land Before Time VHS tapes released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt1-nl-vhs-161">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-nl-vhs.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-nl-vhs.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-nl-vhs2.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-nl-vhs2.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en z'n Vriendjes<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>ISBN:</strong> 7 391658 822322<br/>
+      <strong>Language:</strong> Dutch<br/>
+    </div>
+  </div>
+
+
 <div class="item-entry" id="lbt1-pizzahut-148">
     <div class="item-image">
       <a href="/images/media/vhs/1/lbt1-pizzahut.jpg" data-lightbox="books" data-title="The Land Before Time">
@@ -163,6 +185,22 @@ An archive of The Land Before Time VHS tapes released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt1-fr-red-173">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-fr-red.jpg" data-lightbox="img" data-title="Le Petit Dinosaure et la Vallee des Merveilles">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-fr-red.jpg" alt="Le Petit Dinosaure et la Vallee des Merveilles" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure et la Vallee des Merveilles<br/>
+      <strong>Year:</strong> 2000<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/vhs/1/lbt1-swedish-vhs1 - Copy.jpg" data-lightbox="books" data-title="Landet för längesedan">
@@ -183,6 +221,35 @@ An archive of The Land Before Time VHS tapes released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt1-fr-174">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure et la Vallee des Merveilles">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-fr.jpg" alt="Le Petit Dinosaure et la Vallee des Merveilles" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure et la Vallee des Merveilles<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="lbt1-fr-nolittlefoot-176">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-fr-nolittlefoot.jpg" data-lightbox="img" data-title="Le Petit Dinosaure">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-fr-nolittlefoot.jpg" alt="Le Petit Dinosaure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure et la Vallee des Merveilles<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
 
 
 </div>

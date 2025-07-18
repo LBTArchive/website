@@ -75,8 +75,24 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+
+<div class="item-entry" id="lbt8-fr-2-164">
+    <div class="item-image">
+      <a href="/images/media/dvd/8/lbt8-fr-2.png" data-lightbox="img" data-title="Le Petit Dinosaure - La pluie des étoiles glacées">
+        <div class="img-box">
+          <img src="/images/media/dvd/8/lbt8-fr-2.png" alt="Le Petit Dinosaure - La pluie des étoiles glacées" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Le Petit Dinosaure - La pluie des étoiles glacées<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt8-ja-2005-33">
-    <div class="item-image"
+    <div class="item-image">
       <a href="/images/media/dvd/8/lbt8-ja-2005.jpg" data-lightbox="books" data-title="リトルフットアイス・フリーズ">
         <div class="img-box">
           <img src="/images/media/dvd/8/lbt8-ja-2005.jpg" alt="リトルフットアイス・フリーズ" style="height:250px; object-fit:cover;" loading="lazy">
