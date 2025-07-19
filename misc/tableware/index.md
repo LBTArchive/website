@@ -107,6 +107,46 @@ An archive of The Land Before Time Tableware released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="childrenforkandspoon1996-213">
+    <div class="item-image">
+      <a href="/images/misc/tableware/childrenforkandspoon1996.png" data-lightbox="img" data-title="Children's Fork and Spoon">
+        <div class="img-box">
+          <img src="/images/misc/tableware/childrenforkandspoon1996.png" alt="Children's Fork and Spoon" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Children's Fork and Spoon<br/>
+      <strong>Year:</strong> 1996<br/>
+    </div>
+  </div>
+
+
+<div class="item-entry" id="1996swifel-202">
+    <div class="item-image">
+      <a href="/images/misc/tableware/1996swifel.jpg" data-lightbox="img" data-title="Swivel Mug">
+        <div class="img-box">
+          <img src="/images/misc/tableware/1996swifel.jpg" alt="Swivel Mug" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/tableware/1996swifel2.jpg" data-lightbox="img" data-title="Swivel Mug">
+        <div class="img-box">
+          <img src="/images/misc/tableware/1996swifel2.jpg" alt="Swivel Mug" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/tableware/1996swifel3.jpg" data-lightbox="img" data-title="Swivel Mug">
+        <div class="img-box">
+          <img src="/images/misc/tableware/1996swifel3.jpg" alt="Swivel Mug" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Swivel Mug<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Publisher:</strong> Elandia<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="Grafficup-55">
     <div class="item-image">
       <a href="/images/misc/tableware/Grafficup.jpg" data-lightbox="books" data-title="Graffi cup">
@@ -149,6 +189,11 @@ An archive of The Land Before Time Tableware released over the years.
       <a href="/images/misc/tableware/dairyqueenplasticspoons.jpg" data-lightbox="books" data-title="Plastic cups and spoons">
         <div class="img-box">
           <img src="/images/misc/tableware/dairyqueenplasticspoons.jpg" alt="Plastic cups and spoons" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/misc/tableware/dqspoons.webp" data-lightbox="books" data-title="Plastic cups and spoons">
+        <div class="img-box">
+          <img src="/images/misc/tableware/dqspoons.webp" alt="Plastic cups and spoons" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
       <a href="/images/misc/tableware/dairyqueenplasticspoonsandlids.jpg" data-lightbox="books" data-title="Plastic cups and spoons">
@@ -218,6 +263,24 @@ An archive of The Land Before Time Tableware released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="tummytickler2005-223">
+    <div class="item-image">
+      <a href="/images/misc/tableware/tummytickler2005.jpg" data-lightbox="img" data-title="Tummy Tickler">
+        <div class="img-box">
+          <img src="/images/misc/tableware/tummytickler2005.jpg" alt="Tummy Tickler" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/tableware/tummytickler2005-2.jpg" data-lightbox="img" data-title="Tummy Tickler">
+        <div class="img-box">
+          <img src="/images/misc/tableware/tummytickler2005-2.jpg" alt="Tummy Tickler" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Tummy Tickler<br/>
+      <strong>Year:</strong> 2005<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="paperplates-49">
     <div class="item-image">

@@ -51,22 +51,6 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
 </div>
 
-<div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/books/friendsinneed.jpg" data-lightbox="books" data-title="Friends in Need">
-    <div class="img-box">
-        <img src="/images/media/books/friendsinneed.jpg" alt="Friends in Need"
-            style="height:250px; object-fit:cover;" loading="lazy">
-      </a>
-      </div>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> Friends in Need<br/>
-      <strong>Language:</strong> English<br/>
-      <strong>Year:</strong> 1988<br/>
-      <strong>ISBN:</strong> 978-0448093581<br/>
-  </div>
-</div>
   <div class="item-entry" id="search-for-the-great-valley-book">
     <div class="item-image">
             <a href="/images/media/books/searchforthegreatvalley.jpg" data-lightbox="books" data-title="Search for the Great Valley">
@@ -84,6 +68,53 @@ An archive of The Land Before Time books released over the years. These books al
       <strong>Notes:</strong> Has a <a href="/media/cassette/#search-for-the-great-valley-cassette">cassette</a> with the same name<br/>
     </div>
   </div>
+
+<div class="item-entry" id="searchforthegreatvalley-de-210">
+    <div class="item-image">
+      <a href="/images/media/books/searchforthegreatvalley-de.jpg" data-lightbox="img" data-title="Die Suche nach dem grossen Tal">
+        <div class="img-box">
+          <img src="/images/media/books/searchforthegreatvalley-de.jpg" alt="Die Suche nach dem grossen Tal" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Die Suche nach dem grossen Tal<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/books/friendsinneed.jpg" data-lightbox="books" data-title="Friends in Need">
+    <div class="img-box">
+        <img src="/images/media/books/friendsinneed.jpg" alt="Friends in Need"
+            style="height:250px; object-fit:cover;" loading="lazy">
+      </a>
+      </div>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Friends in Need<br/>
+      <strong>Language:</strong> English<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>ISBN:</strong> 978-0448093581<br/>
+  </div>
+</div>
+
+<div class="item-entry" id="friendsinneed-de-211">
+    <div class="item-image">
+      <a href="/images/media/books/friendsinneed-de.jpg" data-lightbox="img" data-title="Freunde in der Not">
+        <div class="img-box">
+          <img src="/images/media/books/friendsinneed-de.jpg" alt="Freunde in der Not" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Freunde in der Not<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/cerasadventure.png" data-lightbox="books" data-title="Cera's Adventure">

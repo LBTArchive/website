@@ -5,7 +5,16 @@ title: Plushies
 
 # Plushies
 
-An archive of The Land Before Time Plushies released over the years.
+An archive of The Land Before Time Plushies released over the years. If you want, you can jump directly to your favorite character:
+
+[Littlefoot](#littlefoot)<br/>
+[Cera](#cera)<br/>
+[Ducky](#ducky)<br/>
+[Petrie](#petrie)<br/>
+[Spike](#spike)<br/>
+[Chomper](#chomper)<br/>
+[Other characters](#others)<br/>
+
 
 <div class="item-table">  <div class="item-header">    <div class="item-image"><strong>Picture</strong></div>    <div class="item-details"><strong>Details</strong></div>  </div>
 
@@ -22,6 +31,42 @@ An archive of The Land Before Time Plushies released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="hatchlings-183">
+    <div class="item-image">
+      <a href="/images/toys/plushies/hatchlings.jpg" data-lightbox="img" data-title="Hatchlings">
+        <div class="img-box">
+          <img src="/images/toys/plushies/hatchlings.jpg" alt="Hatchlings" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/hatchlings-chomper.jpg" data-lightbox="img" data-title="Hatchlings">
+        <div class="img-box">
+          <img src="/images/toys/plushies/hatchlings-chomper.jpg" alt="Hatchlings" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Hatchlings<br/>
+      <strong>Year:</strong> ?<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="plushies2007-206">
+    <div class="item-image">
+      <a href="/images/toys/plushies/plushies2007.jpg" data-lightbox="img" data-title="Plushies">
+        <div class="img-box">
+          <img src="/images/toys/plushies/plushies2007.jpg" alt="Plushies" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Plushies<br/>
+      <strong>Year:</strong> 2007<br/>
+    </div>
+  </div>
+
+<h2 id="littlefoot">Littlefoot</h3>
+
+[Back to top](/toys/plushies)
 
 <div class="item-entry" id="littlefoot-jcpenny-1988-16inch_orig-59">
     <div class="item-image">
@@ -72,6 +117,23 @@ An archive of The Land Before Time Plushies released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="littlefoot-equity-flop-8inch_orig-63">
+    <div class="item-image">
+      <a href="/images/toys/plushies/littlefoot-equity-flop-8inch_orig.jpg" data-lightbox="books" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefoot-equity-flop-8inch_orig.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Brand:</strong> Equity Toys<br/>
+      <strong>Size:</strong> 8 inch/20 cm<br/>
+      <strong>Notes:</strong> Flop-A-Saurus<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="littlefoot-equity1997-5inch-62">
     <div class="item-image">
       <a href="/images/toys/plushies/littlefoot-equity1997-5inch.jpg" data-lightbox="books" data-title="Littlefoot">
@@ -87,23 +149,37 @@ An archive of The Land Before Time Plushies released over the years.
       <strong>Size:</strong> 8 inch/20 cm<br/>
     </div>
   </div>
-<div class="item-entry" id="littlefoot-equity-flop-8inch_orig-63">
+  
+  <div class="item-entry" id="littlefootkidsofamerica-193">
     <div class="item-image">
-      <a href="/images/toys/plushies/littlefoot-equity-flop-8inch_orig.jpg" data-lightbox="books" data-title="Littlefoot">
+      <a href="/images/toys/plushies/littlefootkidsofamerica.jpg" data-lightbox="img" data-title="Littlefoot">
         <div class="img-box">
-          <img src="/images/toys/plushies/littlefoot-equity-flop-8inch_orig.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/toys/plushies/littlefootkidsofamerica.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Littlefoot<br/>
-      <strong>Year:</strong> 1996<br/>
-      <strong>Brand:</strong> Equity Toys<br/>
-      <strong>Size:</strong> 8 inch/20 cm<br/>
-      <strong>Notes:</strong> Flop-A-Saurus<br/>
-
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Kids of America<br/>
+      <strong>Notes:</strong> 9 inch<br/>
     </div>
   </div>
+
+<div class="item-entry" id="littlefoot-toynetwork-christmas1998-208">
+    <div class="item-image">
+      <a href="/images/toys/plushies/littlefoot-toynetwork-christmas1998.jpg" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefoot-toynetwork-christmas1998.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Publisher:</strong> Toy Network<br/>
+    </div>
+  </div>
+
 
   <div class="item-entry" id="littlefoot-toynetwork-easterditto-126">
     <div class="item-image">
@@ -264,6 +340,11 @@ An archive of The Land Before Time Plushies released over the years.
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+
+  <h2 id="cera">Cera</h3>
+
+[Back to top](/toys/plushies)
+
 <div class="item-entry" id="cerajcpenney1988-14inch_orig-69">
     <div class="item-image">
       <a href="/images/toys/plushies/cerajcpenney1988-14inch_orig.jpg" data-lightbox="books" data-title="Cera">
@@ -296,6 +377,7 @@ An archive of The Land Before Time Plushies released over the years.
       <strong>Notes:</strong> Flop-A-Saurus<br/>
     </div>
   </div>
+
 <div class="item-entry" id="cera-minipal-135">
     <div class="item-image">
       <a href="/images/toys/plushies/cera-minipal.jpg" data-lightbox="books" data-title="Cera">
@@ -310,6 +392,53 @@ An archive of The Land Before Time Plushies released over the years.
       <strong>Brand:</strong> Equity Toys<br/>
       <strong>Size:</strong> ?<br/>
       <strong>Notes:</strong> Mini Pal - Flop-A-Saurus (Blockbuster Exclusive)<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="cera-1997-203">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-1997.jpg" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-1997.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> ?<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="cera-bestmadetoys-28inches-201">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-bestmadetoys-28inches.webp" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-bestmadetoys-28inches.webp" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Best Made Toys<br/>
+      <strong>Notes:</strong> 28 inches<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="domino-de-200">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-simbatoys.jpg" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-simbatoys.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Simba Toys<br/>
+      <strong>Notes:</strong> 40 cm<br/>
     </div>
   </div>
 
@@ -499,7 +628,12 @@ An archive of The Land Before Time Plushies released over the years.
       <strong>Notes:</strong> Thanks to The Friendly Sharptooth for picture.<br/>
     </div>
   </div>
-<div class="item-entry" id="cerahalloween-80">
+
+<h2 id="ducky">Ducky</h3>
+
+[Back to top](/toys/plushies)
+
+<div class="item-entry" id="duckyjcpenney-80">
     <div class="item-image">
       <a href="/images/toys/plushies/ducky-jcpenny-1988-10inch_orig.jpg" data-lightbox="books" data-title="Ducky">
         <div class="img-box">
@@ -671,6 +805,10 @@ An archive of The Land Before Time Plushies released over the years.
     </div>
   </div>
 
+<h2 id="petrie">Petrie</h3>
+
+[Back to top](/toys/plushies)
+
 <div class="item-entry" id="petrie-jcpenney1988-11inch_orig-86">
     <div class="item-image">
       <a href="/images/toys/plushies/petrie-jcpenney1988-11inch_orig.jpg" data-lightbox="books" data-title="Petrie">
@@ -841,6 +979,11 @@ An archive of The Land Before Time Plushies released over the years.
       <strong>Size:</strong> 20 inch or 50 cm<br/>
     </div>
   </div>
+
+<h2 id="spike">Spike</h3>
+
+[Back to top](/toys/plushies)
+
 <div class="item-entry" id="spike-jc-penny_orig-95">
     <div class="item-image">
       <a href="/images/toys/plushies/spike-jc-penny_orig.jpg" data-lightbox="books" data-title="Spike">
@@ -998,6 +1141,11 @@ An archive of The Land Before Time Plushies released over the years.
       <strong>Size:</strong> 14 inch<br/>
     </div>
   </div>
+
+<h2 id="chomper">Chomper</h3>
+
+[Back to top](/toys/plushies)
+
 <div class="item-entry" id="chomper-flopasaurus-132">
     <div class="item-image">
       <a href="/images/toys/plushies/chomper-flopasaurus.png" data-lightbox="books" data-title="Chomper">
@@ -1032,6 +1180,21 @@ An archive of The Land Before Time Plushies released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="chomper-8inch-194">
+    <div class="item-image">
+      <a href="/images/toys/plushies/chomper-8inch.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-8inch.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> ?<br/>
+      <strong>Notes:</strong> 8 inch<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="chomper-keychain_orig-98">
     <div class="item-image">
@@ -1111,6 +1274,38 @@ An archive of The Land Before Time Plushies released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="chomper-easter-195">
+    <div class="item-image">
+      <a href="/images/toys/plushies/chomper-easter.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-easter.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Toy Network<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="chomper-halloween-toynetwork-1995-8inch-196">
+    <div class="item-image">
+      <a href="/images/toys/plushies/chomper-halloween-toynetwork-1995-8inch.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-halloween-toynetwork-1995-8inch.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Year:</strong> 1995<br/>
+      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Notes:</strong> 8 inches<br/>
+    </div>
+  </div>
+
+
   <div class="item-entry" id="chomper-toynetwork-4th-114">
     <div class="item-image">
       <a href="/images/toys/plushies/chomper-toynetwork-4th.jpg" data-lightbox="books" data-title="Chomper">
@@ -1173,8 +1368,12 @@ An archive of The Land Before Time Plushies released over the years.
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+  
+<h2 id="others">Other Characters</h3>
 
-<div class="item-entry" id="chomper-toynetwork-7inch_orig-103">
+[Back to top](/toys/plushies)
+
+<div class="item-entry" id="ali-1995-partoflbtcollection-103">
     <div class="item-image">
       <a href="/images/toys/plushies/ali-1995-partoflbtcollection_orig.jpg" data-lightbox="books" data-title="Ali">
         <div class="img-box">

@@ -13,6 +13,38 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     <div class="item-details"><strong>Details</strong></div>
   </div>
 
+<div class="item-entry" id="malbuch-1988-205">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/malbuch-1988.jpg" data-lightbox="img" data-title="Malbuch">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/malbuch-1988.jpg" alt="Malbuch" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Malbuch<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Language:</strong> German<br/>
+      <strong>Notes:</strong> "Coloring Book"<br/>
+    </div>
+  </div>
+
+
+<div class="item-entry" id="chomper1997-197">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/chomper1997.jpg" data-lightbox="img" data-title="Coloring and Activity Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/chomper1997.jpg" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Coloring and Activity Book<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+    </div>
+  </div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/coloringbookandcrayons.jpg" data-lightbox="books" data-title="The Land Before Time: Coloring and Activity Book and Crayons">
