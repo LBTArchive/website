@@ -45,6 +45,26 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Year:</strong> 1995<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt3-dk-289">
+    <div class="item-image">
+      <a href="/images/media/vhs/3/lbt3-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/vhs/3/lbt3-dk.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/3/lbt3-dk2.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/vhs/3/lbt3-dk2.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Subtitle:</strong> Jagten På Det Forsvundn<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">

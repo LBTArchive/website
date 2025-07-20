@@ -60,8 +60,29 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt3-dk-dvd-278">
+    <div class="item-image">
+      <a href="/images/media/dvd/3/lbt3-dk-dvd.jpg" data-lightbox="img" data-title="Landet for længe siden 3">
+        <div class="img-box">
+          <img src="/images/media/dvd/3/lbt3-dk-dvd.jpg" alt="Landet for længe siden 3" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/3/lbt3-dk-dvd2.jpg" data-lightbox="img" data-title="Landet for længe siden 3">
+        <div class="img-box">
+          <img src="/images/media/dvd/3/lbt3-dk-dvd2.jpg" alt="Landet for længe siden 3" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden 3<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
+
+
 <div class="item-entry" id="lbt3ja2006-34">
-    <div class="item-image"
+    <div class="item-image">
       <a href="/images/media/dvd/3/lbt3ja2006.jpg" data-lightbox="books" data-title="リトルフットいんせきに気をつけろ">
         <div class="img-box">
           <img src="/images/media/dvd/3/lbt3ja2006.jpg" alt="リトルフットいんせきに気をつけろ" style="height:250px; object-fit:cover;" loading="lazy">

@@ -31,6 +31,20 @@ An archive of The Land Before Time DVDs released over the years.
     <li>The Spooky Nighttime Adventure</li></ul> <br/>
   </div>
 </div>
+<div class="item-entry" id="amazingadventures-dk-291">
+    <div class="item-image">
+      <a href="/images/media/dvd/tv/amazingadventures-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/dvd/tv/amazingadventures-dk.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -50,23 +64,35 @@ An archive of The Land Before Time DVDs released over the years.
     <li>The Bright Circle Celebration</li></ul> <br/>
   </div>
 </div>
-
+<div class="item-entry" id="goodtimesgoodfriends-dk-288">
+    <div class="item-image">
+      <a href="/images/media/dvd/tv/goodtimesgoodfriends-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/dvd/tv/goodtimesgoodfriends-dk.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/tv/amazingadventures-sv.jpg" data-lightbox="books" data-title="Landet för Längesedan - 4 Fantastiska Äventyr">
+    <a href="/images/media/dvd/tv/goodtimesgoodfriends-sv.jpg" data-lightbox="books" data-title="Landet för Längesedan - 4 Fantastiska Äventyr">
         <div class="img-box">
-          <img src="/images/media/dvd/tv/amazingadventures-sv.jpg" alt="Landet för Längesedan - 4 Fantastiska Äventyr" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/dvd/tv/goodtimesgoodfriends-sv.jpg" alt="Landet för Längesedan - 4 Fantastiska Äventyr" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Landet för Längesedan - 4 Fantastiska Äventyr<br/>
+    <strong>Title:</strong> Landet för Längesedan<br/>
       <strong>Year:</strong> 2007<br/>
       <strong>Language:</strong> Swedish<br/>
       <strong>Notes:</strong> TV Series<br/>
   </div>
 </div>
-
 
   <div class="item-entry">
   <div class="item-image">

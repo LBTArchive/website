@@ -139,6 +139,26 @@ An archive of The Big Freeze VHS tapes released over the years.
       <strong>Language:</strong> Japanese<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt8-dk-green-284">
+    <div class="item-image">
+      <a href="/images/media/vhs/8/lbt8-dk-green.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/vhs/8/lbt8-dk-green.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/8/lbt8-dk-green2.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/vhs/8/lbt8-dk-green2.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Subtitle:</strong> Den Kolde Tid<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

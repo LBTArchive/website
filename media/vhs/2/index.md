@@ -52,6 +52,26 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
       <strong>Year:</strong> 1994<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt2-dk-290">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2-dk.jpg" data-lightbox="img" data-title="Landet for længe siden 2">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-dk.jpg" alt="Landet for længe siden 2" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/2/lbt2-dk2.jpg" data-lightbox="img" data-title="Landet for længe siden 2">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-dk2.jpg" alt="Landet for længe siden 2" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden 2<br/>
+      <strong>Subtitle:</strong> Dinosaurus-ungen Lillefod På nye eventyr i Den Store Dal<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 
 <div class="item-entry">

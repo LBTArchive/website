@@ -76,6 +76,39 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+<div class="item-entry" id="es-lbt1-274">
+    <div class="item-image">
+      <a href="/images/media/dvd/1/es-lbt1.png" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/es-lbt1.png" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/1/es-lbt1back.png" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/es-lbt1back.png" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+  </div>
+<div class="item-entry" id="lbt1-dk-293">
+    <div class="item-image">
+      <a href="/images/media/dvd/1/lbt1-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/lbt1-dk.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -88,7 +121,8 @@ An archive of The Land Before Time DVDs released over the years.
   <div class="item-details">
     <strong>Title:</strong> Landet för längesedan<br/>
       <strong>Year:</strong> 2005<br/>
-      <strong>Language:</strong> Swedish<br/>
+      <strong>Barcode:</strong> 5050582300697<br/>
+      <strong>Language:</strong> Swedish<br/>      
   </div>
 </div>
 

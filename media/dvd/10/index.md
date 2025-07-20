@@ -57,6 +57,25 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Notes:</strong> UK edition<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt10-dk-286">
+    <div class="item-image">
+      <a href="/images/media/dvd/10/lbt10-dk.jpg" data-lightbox="img" data-title="Landet for længe siden 10">
+        <div class="img-box">
+          <img src="/images/media/dvd/10/lbt10-dk.jpg" alt="Landet for længe siden 10" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/10/lbt10-dk2.jpg" data-lightbox="img" data-title="Landet for længe siden 10">
+        <div class="img-box">
+          <img src="/images/media/dvd/10/lbt10-dk2.jpg" alt="Landet for længe siden 10" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden 10<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 
 <div class="item-entry">
@@ -92,27 +111,6 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
-<div class="item-entry" id="lbt1-nl-vhs-162">
-    <div class="item-image">
-      <a href="/images/media/vhs/1/lbt1-nl-vhs.jpg" data-lightbox="img" data-title="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-nl-vhs.jpg" alt="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/media/vhs/1/lbt1-nl-vhs2.jpg" data-lightbox="img" data-title="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-nl-vhs2.jpg" alt="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Le Petit Dinosaure - Les Long Cous et le Cercle de Lumière<br/>
-      <strong>Year:</strong> 2004<br/>
-      <strong>Barcode:</strong> 5 050582 263503<br/>
-      <strong>Language:</strong> French<br/>
-    </div>
-  </div>
-
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/10/le-petit-dinosaure-vol-10-les-longs-cous-et-le-cercle-de-la-lumiere-09184704022007_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière">
@@ -122,15 +120,16 @@ An archive of The Land Before Time DVDs released over the years.
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière<br/>
+    <strong>Title:</strong> Le Petit Dinosaure - Les Long Cous et le Cercle de Lumière<br/>
       <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 5 050582 263503<br/>
       <strong>Region:</strong> 2<br/>
       <strong>Language:</strong> French<br/>
   </div>
 </div>
 
   <div class="item-entry" id="lbt10ja2006-32">
-    <div class="item-image"
+    <div class="item-image">
       <a href="/images/media/dvd/10/lbt10ja2006.jpg" data-lightbox="books" data-title="リトルフットベスト・オブ・フレンズ">
         <div class="img-box">
           <img src="/images/media/dvd/10/lbt10ja2006.jpg" alt="リトルフットベスト・オブ・フレンズ" style="height:250px; object-fit:cover;" loading="lazy">
@@ -159,6 +158,26 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt10-dk-2011-283">
+    <div class="item-image">
+      <a href="/images/media/dvd/10/lbt10-dk-2011.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/dvd/10/lbt10-dk-2011.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/10/lbt10-dk-2011-2.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/dvd/10/lbt10-dk-2011-2.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Subtitle:</strong> Den store udvandring<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

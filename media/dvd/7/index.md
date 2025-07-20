@@ -43,7 +43,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
-  
+  <div class="item-entry" id="lbt7-dk-294">
+    <div class="item-image">
+      <a href="/images/media/dvd/7/lbt7-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/dvd/7/lbt7-dk.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Subtitle:</strong> Jagten på Himmelstenen<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
   <div class="item-entry" id="lbt7-ja-2005-31">
     <div class="item-image">
       <a href="/images/media/dvd/7/lbt7-ja-2005.jpg" data-lightbox="books" data-title="リトルフットちびっこ恐竜と魔法の石">
@@ -75,7 +89,6 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
-  
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/7/lbt7-sv.jpg" data-lightbox="books" data-title="Landet för längesedan - Jakten på himlastenen">

@@ -224,3 +224,22 @@ h2 {
     padding-top: 0;
   }
 }
+
+/* flashy image when linking directly */
+@keyframes flash {
+  from {
+    background: #ff0000;
+  }
+  to {
+    background: transparent;
+  }
+}
+
+:target {
+  animation: flash 3s;
+}
+
+/*linky link*/
+.anchor {
+    float: right;
+}

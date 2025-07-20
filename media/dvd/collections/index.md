@@ -50,6 +50,25 @@ An archive of The Land Before Time DVDs released over the years.
 <li>The Mysterious Island (V)</li></ul>
   </div>
 </div>
+<div class="item-entry" id="1-2-3-dk-282">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/1-2-3-dk.jpg" data-lightbox="img" data-title="Landet for længe siden 1, 2 and 3">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/1-2-3-dk.jpg" alt="Landet for længe siden 1, 2 and 3" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/collection/1-2-3-dk2.jpg" data-lightbox="img" data-title="Landet for længe siden 1, 2 and 3">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/1-2-3-dk2.jpg" alt="Landet for længe siden 1, 2 and 3" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden 1, 2 and 3<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

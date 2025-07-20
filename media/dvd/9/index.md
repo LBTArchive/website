@@ -59,6 +59,25 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt9-dk-281">
+    <div class="item-image">
+      <a href="/images/media/dvd/9/lbt9-dk.jpg" data-lightbox="img" data-title="Landet for længe siden 9">
+        <div class="img-box">
+          <img src="/images/media/dvd/9/lbt9-dk.jpg" alt="Landet for længe siden 9" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/9/lbt9-dkback.jpg" data-lightbox="img" data-title="Landet for længe siden 9">
+        <div class="img-box">
+          <img src="/images/media/dvd/9/lbt9-dkback.jpg" alt="Landet for længe siden 9" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden 9<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 
   <div class="item-entry">

@@ -13,21 +13,6 @@ An archive of The Land Before Time VHS tapes released over the years.
     <div class="item-details"><strong>Details</strong></div>
   </div>
 
-<div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/vhs/1/sleeve-eng.jpg" data-lightbox="books" data-title="The Land Before Time">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/sleeve-eng.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> The Land Before Time<br/>
-      <strong>Year:</strong> 1988<br/>
-      <strong>Notes:</strong> Cardboard sleeve<br/>
-  </div>
-</div>
-
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/vhs/1/lbt1-english-clamshell-1988.jpg" data-lightbox="books" data-title="The Land Before Time">
@@ -119,6 +104,25 @@ An archive of The Land Before Time VHS tapes released over the years.
     </div>
   </div>
 
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/vhs/1/sleeve-eng.png" data-lightbox="books" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/sleeve-eng.png" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/sleeve-eng-back.png" data-lightbox="books" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/sleeve-eng-back.png" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Notes:</strong> Cardboard sleeve<br/>
+  </div>
+</div>
 
 <div class="item-entry" id="lbt1-pizzahut-148">
     <div class="item-image">
@@ -220,6 +224,30 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Language:</strong> Swedish<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt1-dk-red-287">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-dk-red.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-dk-red.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-dk-red2.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-dk-red2.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-dk-red3.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-dk-red3.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="lbt1-fr-174">
     <div class="item-image">

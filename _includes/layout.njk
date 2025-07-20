@@ -19,7 +19,30 @@
   </main>
 <script src="/js/jquery-3.6.0.min.js"></script>
 <script src="/js/lightbox.js"></script>
-
+<script type="text/javascript">
+document.addEventListener('load', () => {
+    document.querySelectorAll('.item-table > .item-entry').forEach((item, index) => {
+        if (item.id) return;
+        item.id = `item-${index}`
+    })
+})
+</script>
+<script type="text/javascript">
+document.addEventListener('load', () => {
+    document.querySelectorAll('.item-table > .item-entry').forEach((item, index) => {
+        if (!item.id) {
+            item.id = `item-${index}`;
+        }
+        const link = document.createElement('a');
+        const img = document.createElement('img');
+        img.src = '/images/link-icon.svg';
+        link.class = 'anchor';
+        link.href = `#${item.id}`;
+        link.appendChild(img);
+        item.appendChild(link);
+    })
+})
+</script>
 </body>
 
 </html>

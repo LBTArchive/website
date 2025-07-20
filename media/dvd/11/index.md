@@ -78,6 +78,25 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt11-dk-285">
+    <div class="item-image">
+      <a href="/images/media/dvd/11/lbt11-dk.jpg" data-lightbox="img" data-title="Landet for længe siden 11">
+        <div class="img-box">
+          <img src="/images/media/dvd/11/lbt11-dk.jpg" alt="Landet for længe siden 11" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/11/lbt11-dk2.jpg" data-lightbox="img" data-title="Landet for længe siden 11">
+        <div class="img-box">
+          <img src="/images/media/dvd/11/lbt11-dk2.jpg" alt="Landet for længe siden 11" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden 11<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">

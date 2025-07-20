@@ -82,16 +82,6 @@ An archive of The Land Before Time Figurines released over the years.
           <img src="/images/toys/figures/puppetlf_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
-      <a href="/images/toys/figures/puppetpetrie_orig.jpg" data-lightbox="img" data-title="Hand Puppets">
-        <div class="img-box">
-          <img src="/images/toys/figures/puppetpetrie_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/toys/figures/puppetsharptooth_orig.jpg" data-lightbox="img" data-title="Hand Puppets">
-        <div class="img-box">
-          <img src="/images/toys/figures/puppetsharptooth_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
       <a href="/images/toys/figures/puppetspike_orig.jpg" data-lightbox="img" data-title="Hand Puppets">
         <div class="img-box">
           <img src="/images/toys/figures/puppetspike_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
@@ -102,6 +92,26 @@ An archive of The Land Before Time Figurines released over the years.
       <strong>Title:</strong> Hand Puppets<br/>
       <strong>Year:</strong> 1988<br/>
       <strong>Notes:</strong> Pizza Hut promotional giveaway<br/>
+    </div>
+  </div>
+
+  <div class="item-entry" id="phpuppets-184">
+    <div class="item-image">
+      <a href="/images/toys/figures/puppetpetrie_orig.jpg" data-lightbox="img" data-title="Hand Puppets">
+        <div class="img-box">
+          <img src="/images/toys/figures/puppetpetrie_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/figures/puppetsharptooth_orig.jpg" data-lightbox="img" data-title="Hand Puppets">
+        <div class="img-box">
+          <img src="/images/toys/figures/puppetsharptooth_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Hand Puppets<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Notes:</strong> Pizza Hut VHS promotional giveaway<br/>
     </div>
   </div>
 
