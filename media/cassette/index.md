@@ -15,7 +15,7 @@ An archive of The Land Before Time Cassettes released over the years.
 </div>
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/soundtrack-cassette_orig.jpg" data-lightbox="books" data-title="The Land Before Time - Original Motion Picture Soundtrack">
+    <a href="/images/media/cassettes/soundtrack-cassette_orig.jpg" data-lightbox="img" data-title="The Land Before Time - Original Motion Picture Soundtrack">
         <div class="img-box">
           <img src="/images/media/cassettes/soundtrack-cassette_orig.jpg" alt="The Land Before Time - Original Motion Picture Soundtrack" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -29,7 +29,7 @@ An archive of The Land Before Time Cassettes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/originalsoundtrack-ja.png" data-lightbox="books" data-title="The Land Before Time - Original Motion Picture Soundtrack">
+    <a href="/images/media/cassettes/originalsoundtrack-ja.png" data-lightbox="img" data-title="The Land Before Time - Original Motion Picture Soundtrack">
         <div class="img-box">
           <img src="/images/media/cassettes/originalsoundtrack-ja.png" alt="The Land Before Time - Original Motion Picture Soundtrack" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -44,7 +44,7 @@ An archive of The Land Before Time Cassettes released over the years.
 
   <div class="item-entry" id="search-for-the-great-valley-cassette">
     <div class="item-image">
-      <a href="/images/media/cassettes/Search-for-the-Great-valley.jpg" data-lightbox="books" data-title="The Search for the Great Valley">
+      <a href="/images/media/cassettes/Search-for-the-Great-valley.jpg" data-lightbox="img" data-title="The Search for the Great Valley">
         <div class="img-box">
           <img src="/images/media/cassettes/Search-for-the-Great-valley.jpg" alt="The Search for the Great Valley" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -59,7 +59,7 @@ An archive of The Land Before Time Cassettes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/nl.jpg" data-lightbox="books" data-title="Platvoet en zijn Vriendjes - Het land voor onze jaartelling">
+    <a href="/images/media/cassettes/nl.jpg" data-lightbox="img" data-title="Platvoet en zijn Vriendjes - Het land voor onze jaartelling">
         <div class="img-box">
           <img src="/images/media/cassettes/nl.jpg" alt="Platvoet en zijn Vriendjes - Het land voor onze jaartelling" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -74,7 +74,7 @@ An archive of The Land Before Time Cassettes released over the years.
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/lbt1-audioplay_de.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/cassettes/lbt1-audioplay_de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/cassettes/lbt1-audioplay_de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -89,7 +89,7 @@ An archive of The Land Before Time Cassettes released over the years.
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/lbt2-audio-play-german-1995_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit 2">
+    <a href="/images/media/cassettes/lbt2-audio-play-german-1995_orig.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 2">
         <div class="img-box">
           <img src="/images/media/cassettes/lbt2-audio-play-german-1995_orig.jpg" alt="In einem Land vor unserer Zeit 2" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -104,7 +104,7 @@ An archive of The Land Before Time Cassettes released over the years.
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/lbt3-audioplay-1995_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit 3">
+    <a href="/images/media/cassettes/lbt3-audioplay-1995_orig.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 3">
         <div class="img-box">
           <img src="/images/media/cassettes/lbt3-audioplay-1995_orig.jpg" alt="In einem Land vor unserer Zeit 3" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -119,7 +119,7 @@ An archive of The Land Before Time Cassettes released over the years.
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/lbt2-audioplay-1996_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit 4">
+    <a href="/images/media/cassettes/lbt2-audioplay-1996_orig.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 4">
         <div class="img-box">
           <img src="/images/media/cassettes/lbt2-audioplay-1996_orig.jpg" alt="In einem Land vor unserer Zeit 4" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -135,7 +135,7 @@ An archive of The Land Before Time Cassettes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/lbt5-audioplay-1997_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit 5">
+    <a href="/images/media/cassettes/lbt5-audioplay-1997_orig.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 5">
         <div class="img-box">
           <img src="/images/media/cassettes/lbt5-audioplay-1997_orig.jpg" alt="In einem Land vor unserer Zeit 5" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -150,7 +150,7 @@ An archive of The Land Before Time Cassettes released over the years.
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/lbt1-audio-play-german-1988_orig.jpg" data-lightbox="books" data-title="Die Lieder aus In einem Land vor unserer Zeit">
+    <a href="/images/media/cassettes/lbt1-audio-play-german-1988_orig.jpg" data-lightbox="img" data-title="Die Lieder aus In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/cassettes/lbt1-audio-play-german-1988_orig.jpg" alt="Die Lieder aus In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -166,7 +166,7 @@ An archive of The Land Before Time Cassettes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/lbt6-audioplay-1997_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit 6">
+    <a href="/images/media/cassettes/lbt6-audioplay-1997_orig.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 6">
         <div class="img-box">
           <img src="/images/media/cassettes/lbt6-audioplay-1997_orig.jpg" alt="In einem Land vor unserer Zeit 6" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -182,7 +182,7 @@ An archive of The Land Before Time Cassettes released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/1232897_1_orig.jpg" data-lightbox="books" data-title="A German Audioplay consisting of 3 cassette tapes.">
+    <a href="/images/media/cassettes/1232897_1_orig.jpg" data-lightbox="img" data-title="A German Audioplay consisting of 3 cassette tapes.">
         <div class="img-box">
           <img src="/images/media/cassettes/1232897_1_orig.jpg" alt="A German Audioplay consisting of 3 cassette tapes." style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -196,7 +196,7 @@ An archive of The Land Before Time Cassettes released over the years.
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/tvgreen_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/cassettes/tvgreen_orig.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/cassettes/tvgreen_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -211,7 +211,7 @@ An archive of The Land Before Time Cassettes released over the years.
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/tvpink_orig.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/cassettes/tvpink_orig.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/cassettes/tvpink_orig.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -227,7 +227,7 @@ An archive of The Land Before Time Cassettes released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/tvblue6.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/cassettes/tvblue6.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/cassettes/tvblue6.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -244,7 +244,7 @@ An archive of The Land Before Time Cassettes released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/tvyellow.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/cassettes/tvyellow.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/cassettes/tvyellow.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -260,7 +260,7 @@ An archive of The Land Before Time Cassettes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/cassettes/tvpink8.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/cassettes/tvpink8.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/cassettes/tvpink8.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

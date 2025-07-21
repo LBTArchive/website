@@ -15,7 +15,7 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/6/English.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
+    <a href="/images/media/vhs/6/English.jpg" data-lightbox="img" data-title="The Secret of Saurus Rock">
         <div class="img-box">
           <img src="/images/media/vhs/6/English.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -31,7 +31,7 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/6/lbt6-english-sleeve.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
+    <a href="/images/media/vhs/6/lbt6-english-sleeve.jpg" data-lightbox="img" data-title="The Secret of Saurus Rock">
         <div class="img-box">
           <img src="/images/media/vhs/6/lbt6-english-sleeve.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -47,7 +47,7 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/6/platvoet-en-zijn-vriendjes-het-geheim-van-de-dinosaurusrots-vhs-nl_orig.jpg" data-lightbox="books" data-title="Het geheim van de Dinosaurusrots">
+    <a href="/images/media/vhs/6/platvoet-en-zijn-vriendjes-het-geheim-van-de-dinosaurusrots-vhs-nl_orig.jpg" data-lightbox="img" data-title="Het geheim van de Dinosaurusrots">
         <div class="img-box">
           <img src="/images/media/vhs/6/platvoet-en-zijn-vriendjes-het-geheim-van-de-dinosaurusrots-vhs-nl_orig.jpg" alt="Het geheim van de Dinosaurusrots" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -63,7 +63,7 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
 
 <div class="item-entry" id="lbt6-ja-40">
     <div class="item-image">
-      <a href="/images/media/vhs/6/lbt6-ja.jpg" data-lightbox="books" data-title="リトルフット6">
+      <a href="/images/media/vhs/6/lbt6-ja.jpg" data-lightbox="img" data-title="リトルフット6">
         <div class="img-box">
           <img src="/images/media/vhs/6/lbt6-ja.jpg" alt="リトルフット6" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

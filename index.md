@@ -9,7 +9,7 @@ Hello and welcome to our Land Before Time Archive website. This website will hos
 
 Whenever you see a picture of an item, you can click the picture to enlarge it (if available).
 
- <a href="/images/littlefootwhitehouse.jpg" data-lightbox="gallery" data-title="Littlefoot at the white house.">
+ <a href="/images/littlefootwhitehouse.jpg" data-lightbox="img" data-title="Littlefoot at the white house.">
         <img src="/images/littlefootwhitehouse.jpg" alt="Littlefoot at the white house."
             style="height:250px; object-fit:cover;" />
  </a>

@@ -15,7 +15,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/12/US2006.jpg" data-lightbox="books" data-title="The Great Day of the Flyers">
+    <a href="/images/media/dvd/12/US2006.jpg" data-lightbox="img" data-title="The Great Day of the Flyers">
         <div class="img-box">
           <img src="/images/media/dvd/12/US2006.jpg" alt="The Great Day of the Flyers" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -28,10 +28,25 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt12-dk-302">
+    <div class="item-image">
+      <a href="/images/media/dvd/12/lbt12-dk.jpg" data-lightbox="img" data-title="Landet for længe siden 12">
+        <div class="img-box">
+          <img src="/images/media/dvd/12/lbt12-dk.jpg" alt="Landet for længe siden 12" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden 12<br/>
+      <strong>Subtitle:</strong> Flyvernes dag<br/>
+      <strong>Year:</strong> 2006<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/12/platvoet-en-zijn-vriendjes-avontuur-in-de-oudheid-dvd-nl-scaniris_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes 12 - Avontuur in de Oudheid">
+    <a href="/images/media/dvd/12/platvoet-en-zijn-vriendjes-avontuur-in-de-oudheid-dvd-nl-scaniris_orig.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes 12 - Avontuur in de Oudheid">
         <div class="img-box">
           <img src="/images/media/dvd/12/platvoet-en-zijn-vriendjes-avontuur-in-de-oudheid-dvd-nl-scaniris_orig.jpg" alt="Platvoet en z'n Vriendjes 12 - Avontuur in de Oudheid" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -47,7 +62,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/12/le-petit-dinosaure-vol-12-le-jour-du-grand-envol-01262422072007_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure 12 - Le Jour du Grand Envol">
+    <a href="/images/media/dvd/12/le-petit-dinosaure-vol-12-le-jour-du-grand-envol-01262422072007_orig.jpg" data-lightbox="img" data-title="Le Petit Dinosaure 12 - Le Jour du Grand Envol">
         <div class="img-box">
           <img src="/images/media/dvd/12/le-petit-dinosaure-vol-12-le-jour-du-grand-envol-01262422072007_orig.jpg" alt="Le Petit Dinosaure 12 - Le Jour du Grand Envol" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -78,7 +93,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/12/russianlbt12dvd_orig.jpg" data-lightbox="books" data-title="Земля до начала времен XII: Великий День Птиц">
+    <a href="/images/media/dvd/12/russianlbt12dvd_orig.jpg" data-lightbox="img" data-title="Земля до начала времен XII: Великий День Птиц">
         <div class="img-box">
           <img src="/images/media/dvd/12/russianlbt12dvd_orig.jpg" alt="Земля до начала времен XII: Великий День Птиц" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -94,7 +109,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/12/lbt12-sv-2006.jpg" data-lightbox="books" data-title="Landet för Längesedan - Flygarnas Stora Dag">
+    <a href="/images/media/dvd/12/lbt12-sv-2006.jpg" data-lightbox="img" data-title="Landet för Längesedan - Flygarnas Stora Dag">
         <div class="img-box">
           <img src="/images/media/dvd/12/lbt12-sv-2006.jpg" alt="Landet för Längesedan - Flygarnas Stora Dag" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -110,7 +125,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/12/polishlbt12dvd.jpg" data-lightbox="books" data-title="Pradawny Ląd 12: Dzień Lataczy">
+    <a href="/images/media/dvd/12/polishlbt12dvd.jpg" data-lightbox="img" data-title="Pradawny Ląd 12: Dzień Lataczy">
         <div class="img-box">
           <img src="/images/media/dvd/12/polishlbt12dvd.jpg" alt="Pradawny Ląd 12: Dzień Lataczy" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -127,7 +142,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/12/lbt12-chinese-scan_orig.jpg" data-lightbox="books" data-title="The Great Day of the Flyers">
+    <a href="/images/media/dvd/12/lbt12-chinese-scan_orig.jpg" data-lightbox="img" data-title="The Great Day of the Flyers">
         <div class="img-box">
           <img src="/images/media/dvd/12/lbt12-chinese-scan_orig.jpg" alt="The Great Day of the Flyers" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -144,7 +159,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/12/greatdayoftheflyersdvd-2017-r1_orig.jpg" data-lightbox="books" data-title="The Great Day of the Flyers">
+    <a href="/images/media/dvd/12/greatdayoftheflyersdvd-2017-r1_orig.jpg" data-lightbox="img" data-title="The Great Day of the Flyers">
         <div class="img-box">
           <img src="/images/media/dvd/12/greatdayoftheflyersdvd-2017-r1_orig.jpg" alt="The Great Day of the Flyers" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

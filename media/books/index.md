@@ -15,12 +15,12 @@ An archive of The Land Before Time books released over the years. These books al
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/Theillustratedstory_hardcover.jpg" data-lightbox="books" data-title="The Illustrated Story - Hardcover">
+    <a href="/images/media/books/Theillustratedstory_hardcover.jpg" data-lightbox="img" data-title="The Illustrated Story - Hardcover">
         <div class="img-box">
           <img src="/images/media/books/Theillustratedstory_hardcover.jpg" alt="The Illustrated Story - Hardcover" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/books/Theillustratedstory_hardcover2.jpg" data-lightbox="books" data-title="The Illustrated Story - Hardcover">
+      <a href="/images/media/books/Theillustratedstory_hardcover2.jpg" data-lightbox="img" data-title="The Illustrated Story - Hardcover">
         <div class="img-box">
           <img src="/images/media/books/Theillustratedstory_hardcover2.jpg" alt="The Illustrated Story - Hardcover" loading="lazy">
         </div>
@@ -36,7 +36,7 @@ An archive of The Land Before Time books released over the years. These books al
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/Theillustratedstory_paperback.jpg" data-lightbox="books" data-title="The Illustrated Story - Paperback">
+    <a href="/images/media/books/Theillustratedstory_paperback.jpg" data-lightbox="img" data-title="The Illustrated Story - Paperback">
     <div class="img-box">
         <img src="/images/media/books/Theillustratedstory_paperback.jpg" alt="The Illustrated Story - Paperback"
             style="height:250px; object-fit:cover;" loading="lazy">
@@ -53,7 +53,7 @@ An archive of The Land Before Time books released over the years. These books al
 
   <div class="item-entry" id="search-for-the-great-valley-book">
     <div class="item-image">
-            <a href="/images/media/books/searchforthegreatvalley.jpg" data-lightbox="books" data-title="Search for the Great Valley">
+            <a href="/images/media/books/searchforthegreatvalley.jpg" data-lightbox="img" data-title="Search for the Great Valley">
     <div class="img-box">
         <img src="/images/media/books/searchforthegreatvalley.jpg" alt="Search for the Great Valley"
             style="height:250px; object-fit:cover;" loading="lazy">
@@ -86,7 +86,7 @@ An archive of The Land Before Time books released over the years. These books al
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/friendsinneed.jpg" data-lightbox="books" data-title="Friends in Need">
+    <a href="/images/media/books/friendsinneed.jpg" data-lightbox="img" data-title="Friends in Need">
     <div class="img-box">
         <img src="/images/media/books/friendsinneed.jpg" alt="Friends in Need"
             style="height:250px; object-fit:cover;" loading="lazy">
@@ -117,7 +117,7 @@ An archive of The Land Before Time books released over the years. These books al
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/cerasadventure.png" data-lightbox="books" data-title="Cera's Adventure">
+    <a href="/images/media/books/cerasadventure.png" data-lightbox="img" data-title="Cera's Adventure">
     <div class="img-box">
         <img src="/images/media/books/cerasadventure.png" alt="Cera's Adventure"
             style="height:250px; object-fit:cover;" loading="lazy">
@@ -133,7 +133,7 @@ An archive of The Land Before Time books released over the years. These books al
 </div>
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/sheetmusic.jpg" data-lightbox="books" data-title="If We Hold on Together - Sheet Music">
+    <a href="/images/media/books/sheetmusic.jpg" data-lightbox="img" data-title="If We Hold on Together - Sheet Music">
     <div class="img-box">
         <img src="/images/media/books/sheetmusic.jpg" alt="If We Hold on Together - Sheet Music"
             style="height:250px; object-fit:cover;" loading="lazy">
@@ -150,7 +150,7 @@ An archive of The Land Before Time books released over the years. These books al
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/book-1989-2_1.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/books/book-1989-2_1.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/books/book-1989-2_1.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -168,7 +168,7 @@ An archive of The Land Before Time books released over the years. These books al
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/de_ineinemland.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/books/de_ineinemland.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/books/de_ineinemland.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -186,7 +186,7 @@ An archive of The Land Before Time books released over the years. These books al
 
   <div class="item-entry" id="リトルフットの大冒険 謎の恐竜大陸-28">
     <div class="item-image">
-      <a href="/images/media/books/リトルフットの大冒険 謎の恐竜大陸.jpg" data-lightbox="books" data-title="謎の恐竜大陸―リトルフットの大冒険">
+      <a href="/images/media/books/リトルフットの大冒険 謎の恐竜大陸.jpg" data-lightbox="img" data-title="謎の恐竜大陸―リトルフットの大冒険">
         <div class="img-box">
           <img src="/images/media/books/リトルフットの大冒険 謎の恐竜大陸.jpg" alt="謎の恐竜大陸―リトルフットの大冒険" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -202,7 +202,7 @@ An archive of The Land Before Time books released over the years. These books al
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/de_1994.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/books/de_1994.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/books/de_1994.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -220,7 +220,7 @@ An archive of The Land Before Time books released over the years. These books al
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/de_1996_1.png" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/books/de_1996_1.png" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/books/de_1996_1.png" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -238,7 +238,7 @@ An archive of The Land Before Time books released over the years. These books al
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/grandpaandme.jpg" data-lightbox="books" data-title="Grandpa and me">
+    <a href="/images/media/books/grandpaandme.jpg" data-lightbox="img" data-title="Grandpa and me">
     <div class="img-box">
         <img src="/images/media/books/grandpaandme.jpg" alt="Grandpa and me"
             style="height:250px; object-fit:cover;" loading="lazy">
@@ -256,7 +256,7 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
     <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/whenwegrowup.png" data-lightbox="books" data-title="When We Grow Up">
+    <a href="/images/media/books/whenwegrowup.png" data-lightbox="img" data-title="When We Grow Up">
     <div class="img-box">
         <img src="/images/media/books/whenwegrowup.png" alt="When We Grow Up"
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -273,7 +273,7 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
     <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/dinosaurqa.jpg" data-lightbox="books" data-title="Dinosaur Q&A ">
+    <a href="/images/media/books/dinosaurqa.jpg" data-lightbox="img" data-title="Dinosaur Q&A ">
     <div class="img-box">
         <img src="/images/media/books/dinosaurqa.jpg" alt="Dinosaur Q&A "
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -290,7 +290,7 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
     <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/howtodrawdinosaurs.jpg" data-lightbox="books" data-title="How to Draw Dinosaurs">
+    <a href="/images/media/books/howtodrawdinosaurs.jpg" data-lightbox="img" data-title="How to Draw Dinosaurs">
     <div class="img-box">
         <img src="/images/media/books/howtodrawdinosaurs.jpg" alt="How to Draw Dinosaurs"
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -307,7 +307,7 @@ An archive of The Land Before Time books released over the years. These books al
    </div>
     <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/countwithus.jpg" data-lightbox="books" data-title="Lift A Flap - Count With Us">
+    <a href="/images/media/books/countwithus.jpg" data-lightbox="img" data-title="Lift A Flap - Count With Us">
     <div class="img-box">
         <img src="/images/media/books/countwithus.jpg" alt="Lift A Flap - Count With Us"
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -324,7 +324,7 @@ An archive of The Land Before Time books released over the years. These books al
   </div>
     <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/adaptedmollygoode.jpg" data-lightbox="books" data-title="The Land Before Time - Adapted for Beginning readers">
+    <a href="/images/media/books/adaptedmollygoode.jpg" data-lightbox="img" data-title="The Land Before Time - Adapted for Beginning readers">
     <div class="img-box">
         <img src="/images/media/books/adaptedmollygoode.jpg" alt="The Land Before Time - Adapted for Beginning readers"
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -356,7 +356,7 @@ An archive of The Land Before Time books released over the years. These books al
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/upwegrow.jpg" data-lightbox="books" data-title="Up we grow">
+    <a href="/images/media/books/upwegrow.jpg" data-lightbox="img" data-title="Up we grow">
     <div class="img-box">
         <img src="/images/media/books/upwegrow.jpg" alt="Up we grow"
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -373,7 +373,7 @@ An archive of The Land Before Time books released over the years. These books al
   
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/de_200-bigjourney.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit. Die große Reise">
+    <a href="/images/media/books/de_200-bigjourney.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit. Die große Reise">
         <div class="img-box">
           <img src="/images/media/books/de_200-bigjourney.jpg" alt="In einem Land vor unserer Zeit. Die große Reise" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -392,7 +392,7 @@ An archive of The Land Before Time books released over the years. These books al
 
    <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/alltogether.jpg" data-lightbox="books" data-title="All Together">
+    <a href="/images/media/books/alltogether.jpg" data-lightbox="img" data-title="All Together">
     <div class="img-box">
         <img src="/images/media/books/alltogether.jpg" alt="All Together"
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -408,7 +408,7 @@ An archive of The Land Before Time books released over the years. These books al
   
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/gesichten-spiegl2_1.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit - Geschichten & Spiele">
+    <a href="/images/media/books/gesichten-spiegl2_1.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit - Geschichten & Spiele">
         <div class="img-box">
           <img src="/images/media/books/gesichten-spiegl2_1.jpg" alt="In einem Land vor unserer Zeit - Geschichten & Spiele" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -426,12 +426,12 @@ An archive of The Land Before Time books released over the years. These books al
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/avonturenindegroenevallei1.jpg" data-lightbox="books" data-title="Dutch book Avonturen in de groene vallei">
+    <a href="/images/media/books/avonturenindegroenevallei1.jpg" data-lightbox="img" data-title="Dutch book Avonturen in de groene vallei">
         <div class="img-box">
           <img src="/images/media/books/avonturenindegroenevallei1.jpg" alt="Dutch book Avonturen in de groene vallei" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/books/avonturenindegroenevallei2.jpg" data-lightbox="books" data-title="Dutch book Avonturen in de groene vallei">
+      <a href="/images/media/books/avonturenindegroenevallei2.jpg" data-lightbox="img" data-title="Dutch book Avonturen in de groene vallei">
         <div class="img-box">
           <img src="/images/media/books/avonturenindegroenevallei2.jpg" alt="Dutch book Avonturen in de groene vallei" loading="lazy">
         </div>
@@ -465,7 +465,7 @@ And 2 small folders:
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/swedish-listenandread.jpg" data-lightbox="books" data-title="Landet För Längesedan - Trubbel I Sikte">
+    <a href="/images/media/books/swedish-listenandread.jpg" data-lightbox="img" data-title="Landet För Längesedan - Trubbel I Sikte">
         <div class="img-box">
           <img src="/images/media/books/swedish-listenandread.jpg" alt="Landet För Längesedan - Trubbel I Sikte" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -483,7 +483,7 @@ And 2 small folders:
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/ineinemlandvorunsererzeitxxl2005-2_1.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit">
+    <a href="/images/media/books/ineinemlandvorunsererzeitxxl2005-2_1.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
           <img src="/images/media/books/ineinemlandvorunsererzeitxxl2005-2_1.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -501,7 +501,7 @@ And 2 small folders:
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/sarotellsastory.jpg" data-lightbox="books" data-title="Saro Tells a Story">
+    <a href="/images/media/books/sarotellsastory.jpg" data-lightbox="img" data-title="Saro Tells a Story">
     <div class="img-box">
         <img src="/images/media/books/sarotellsastory.jpg" alt="Saro Tells a Story"
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -517,7 +517,7 @@ And 2 small folders:
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/icanread2cera.jpg" data-lightbox="books" data-title="Cera's Shiny Stone (I Can Read: Level 2)">
+    <a href="/images/media/books/icanread2cera.jpg" data-lightbox="img" data-title="Cera's Shiny Stone (I Can Read: Level 2)">
     <div class="img-box">
         <img src="/images/media/books/icanread2cera.jpg" alt="Cera's Shiny Stone (I Can Read: Level 2)"
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -533,7 +533,7 @@ And 2 small folders:
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/de+2008.jpg" data-lightbox="books" data-title="In einem Land vor unserer Zeit - Geschichten & Spiele">
+    <a href="/images/media/books/de+2008.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit - Geschichten & Spiele">
         <div class="img-box">
           <img src="/images/media/books/de+2008.jpg" alt="In einem Land vor unserer Zeit - Geschichten & Spiele" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -551,7 +551,7 @@ And 2 small folders:
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/icanread2lonelydino.jpg" data-lightbox="books" data-title="The Lonely Dinosaur (I Can Read: Level 2)">
+    <a href="/images/media/books/icanread2lonelydino.jpg" data-lightbox="img" data-title="The Lonely Dinosaur (I Can Read: Level 2)">
     <div class="img-box">
         <img src="/images/media/books/icanread2lonelydino.jpg" alt="The Lonely Dinosaur (I Can Read: Level 2)"
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -567,7 +567,7 @@ And 2 small folders:
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/fr_chompersesentseul.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - Chomper se sent seul">
+    <a href="/images/media/books/fr_chompersesentseul.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - Chomper se sent seul">
         <div class="img-box">
           <img src="/images/media/books/fr_chompersesentseul.jpg" alt="Le Petit Dinosaure - Chomper se sent seul" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -584,7 +584,7 @@ And 2 small folders:
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/spookynighttimeadventure.jpg" data-lightbox="books" data-title="The Spooky Nighttime Adventure">
+    <a href="/images/media/books/spookynighttimeadventure.jpg" data-lightbox="img" data-title="The Spooky Nighttime Adventure">
     <div class="img-box">
         <img src="/images/media/books/spookynighttimeadventure.jpg" alt="The Spooky Nighttime Adventure"
             style="height:250px; object-fit:cover;" loading="lazy"></div>
@@ -600,7 +600,7 @@ And 2 small folders:
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/fr-leshistoiresderubyn4-2_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - Les histoires de Ruby">
+    <a href="/images/media/books/fr-leshistoiresderubyn4-2_orig.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - Les histoires de Ruby">
         <div class="img-box">
           <img src="/images/media/books/fr-leshistoiresderubyn4-2_orig.jpg" alt="Le Petit Dinosaure - Les histoires de Ruby" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -617,7 +617,7 @@ And 2 small folders:
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/books/fr-legrandperedepetitpiedn3-2_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure -Le grand-père de petit pied">
+    <a href="/images/media/books/fr-legrandperedepetitpiedn3-2_orig.jpg" data-lightbox="img" data-title="Le Petit Dinosaure -Le grand-père de petit pied">
         <div class="img-box">
           <img src="/images/media/books/fr-legrandperedepetitpiedn3-2_orig.jpg" alt="Le Petit Dinosaure -Le grand-père de petit pied" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

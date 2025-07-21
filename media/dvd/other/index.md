@@ -15,7 +15,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/other/sing-alogng-songs_orig.jpg" data-lightbox="books" data-title="Sing Along Songs">
+    <a href="/images/media/dvd/other/sing-alogng-songs_orig.jpg" data-lightbox="img" data-title="Sing Along Songs">
         <div class="img-box">
           <img src="/images/media/dvd/other/sing-alogng-songs_orig.jpg" alt="Sing Along Songs" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

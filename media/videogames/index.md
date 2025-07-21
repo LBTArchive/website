@@ -15,7 +15,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/activitycenter.jpg" data-lightbox="books" data-title="Title: The Land Before Time: Activity Center">
+    <a href="/images/media/videogames/activitycenter.jpg" data-lightbox="img" data-title="Title: The Land Before Time: Activity Center">
         <div class="img-box">
           <img src="/images/media/videogames/activitycenter.jpg" alt="Title: The Land Before Time: Activity Center" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -30,7 +30,7 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/activitycenter2.jpg" data-lightbox="books" data-title="The Land Before Time: Activity Center">
+    <a href="/images/media/videogames/activitycenter2.jpg" data-lightbox="img" data-title="The Land Before Time: Activity Center">
         <div class="img-box">
           <img src="/images/media/videogames/activitycenter2.jpg" alt="The Land Before Time: Activity Center" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -45,17 +45,17 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry" id="activitycenter1">
     <div class="item-image">
-      <a href="/images/media/videogames/activitycenter-vhsgoodie.jpg" data-lightbox="books" data-title="The Land Before Time: Activity Center">
+      <a href="/images/media/videogames/activitycenter-vhsgoodie.jpg" data-lightbox="img" data-title="The Land Before Time: Activity Center">
         <div class="img-box">
           <img src="/images/media/videogames/activitycenter-vhsgoodie.jpg" alt="The Land Before Time: Activity Center" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/videogames/activitycenter-vhsgoodie2.jpg" data-lightbox="books" data-title="The Land Before Time: Activity Center">
+      <a href="/images/media/videogames/activitycenter-vhsgoodie2.jpg" data-lightbox="img" data-title="The Land Before Time: Activity Center">
         <div class="img-box">
           <img src="/images/media/videogames/activitycenter-vhsgoodie2.jpg" alt="The Land Before Time: Activity Center" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/videogames/activitycenter-vhsgoodie3.jpg" data-lightbox="books" data-title="The Land Before Time: Activity Center">
+      <a href="/images/media/videogames/activitycenter-vhsgoodie3.jpg" data-lightbox="img" data-title="The Land Before Time: Activity Center">
         <div class="img-box">
           <img src="/images/media/videogames/activitycenter-vhsgoodie3.jpg" alt="The Land Before Time: Activity Center" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -71,7 +71,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/kindergartenadventure.jpg" data-lightbox="books" data-title="The Land Before Time: Kindergarten Adventure">
+    <a href="/images/media/videogames/kindergartenadventure.jpg" data-lightbox="img" data-title="The Land Before Time: Kindergarten Adventure">
         <div class="img-box">
           <img src="/images/media/videogames/kindergartenadventure.jpg" alt="The Land Before Time: Kindergarten Adventure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -86,7 +86,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/kindergartenadventure2.jpg" data-lightbox="books" data-title="The Land Before Time: Kindergarten Adventure">
+    <a href="/images/media/videogames/kindergartenadventure2.jpg" data-lightbox="img" data-title="The Land Before Time: Kindergarten Adventure">
         <div class="img-box">
           <img src="/images/media/videogames/kindergartenadventure2.jpg" alt="The Land Before Time: Kindergarten Adventure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -101,7 +101,7 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/kindergartenadventure-bigbox-de.jpg" data-lightbox="books" data-title="The Land Before Time: Kindergarten Adventure">
+    <a href="/images/media/videogames/kindergartenadventure-bigbox-de.jpg" data-lightbox="img" data-title="The Land Before Time: Kindergarten Adventure">
         <div class="img-box">
           <img src="/images/media/videogames/kindergartenadventure-bigbox-de.jpg" alt="The Land Before Time: Kindergarten Adventure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -117,7 +117,7 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/kindergartenadventure-de.jpg" data-lightbox="books" data-title="The Land Before Time: Kindergarten Adventure">
+    <a href="/images/media/videogames/kindergartenadventure-de.jpg" data-lightbox="img" data-title="The Land Before Time: Kindergarten Adventure">
         <div class="img-box">
           <img src="/images/media/videogames/kindergartenadventure-de.jpg" alt="The Land Before Time: Kindergarten Adventure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -132,7 +132,7 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/early-learning-adventure2.jpg" data-lightbox="books" data-title="The Land Before Time: Early Learning Adventure">
+    <a href="/images/media/videogames/early-learning-adventure2.jpg" data-lightbox="img" data-title="The Land Before Time: Early Learning Adventure">
         <div class="img-box">
           <img src="/images/media/videogames/early-learning-adventure2.jpg" alt="The Land Before Time: Early Learning Adventure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -148,7 +148,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/earlylearningadventure.jpg" data-lightbox="books" data-title="The Land Before Time: Early Learning Adventure">
+    <a href="/images/media/videogames/earlylearningadventure.jpg" data-lightbox="img" data-title="The Land Before Time: Early Learning Adventure">
         <div class="img-box">
           <img src="/images/media/videogames/earlylearningadventure.jpg" alt="The Land Before Time: Early Learning Adventure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -164,7 +164,7 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/kindergartenadventure-it.jpg" data-lightbox="books" data-title="Alle ricercar della valle incantata - Avventura per i più piccoli">
+    <a href="/images/media/videogames/kindergartenadventure-it.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata - Avventura per i più piccoli">
         <div class="img-box">
           <img src="/images/media/videogames/kindergartenadventure-it.jpg" alt="Alle ricercar della valle incantata - Avventura per i più piccoli" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -179,7 +179,7 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" data-lightbox="books" data-title="Alle ricercar della valle incantata - Avventura per i più piccoli">
+    <a href="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata - Avventura per i più piccoli">
         <div class="img-box">
           <img src="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" alt="Alle ricercar della valle incantata - Avventura per i più piccoli" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -196,7 +196,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/animatedmoviebook.jpg" data-lightbox="books" data-title="The Land Before Time: Animated Movie Book">
+    <a href="/images/media/videogames/animatedmoviebook.jpg" data-lightbox="img" data-title="The Land Before Time: Animated Movie Book">
         <div class="img-box">
           <img src="/images/media/videogames/animatedmoviebook.jpg" alt="The Land Before Time: Animated Movie Book" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -210,7 +210,7 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/animatedmoviebook2.jpg" data-lightbox="books" data-title="The Land Before Time: Animated Movie Book">
+    <a href="/images/media/videogames/animatedmoviebook2.jpg" data-lightbox="img" data-title="The Land Before Time: Animated Movie Book">
         <div class="img-box">
           <img src="/images/media/videogames/animatedmoviebook2.jpg" alt="The Land Before Time: Animated Movie Book" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -225,7 +225,7 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/lavventuracontinua.jpg" data-lightbox="books" data-title="Alle ricercar della valle incantata - L'Avventura Continua">
+    <a href="/images/media/videogames/lavventuracontinua.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata - L'Avventura Continua">
         <div class="img-box">
           <img src="/images/media/videogames/lavventuracontinua.jpg" alt="Alle ricercar della valle incantata - L'Avventura Continua" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -241,7 +241,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/mathadventure.jpg" data-lightbox="books" data-title="The Land Before Time: Math Adventure">
+    <a href="/images/media/videogames/mathadventure.jpg" data-lightbox="img" data-title="The Land Before Time: Math Adventure">
         <div class="img-box">
           <img src="/images/media/videogames/mathadventure.jpg" alt="The Land Before Time: Math Adventure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -256,12 +256,12 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/mathadventure-de.jpg" data-lightbox="books" data-title="In einem Land vor unseren Zeit - Mathe Abenteuer">
+    <a href="/images/media/videogames/mathadventure-de.jpg" data-lightbox="img" data-title="In einem Land vor unseren Zeit - Mathe Abenteuer">
         <div class="img-box">
           <img src="/images/media/videogames/mathadventure-de.jpg" alt="In einem Land vor unseren Zeit - Mathe Abenteuer" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/videogames/mathadventure-de2.jpg" data-lightbox="books" data-title="In einem Land vor unseren Zeit - Mathe Abenteuer">
+      <a href="/images/media/videogames/mathadventure-de2.jpg" data-lightbox="img" data-title="In einem Land vor unseren Zeit - Mathe Abenteuer">
         <div class="img-box">
           <img src="/images/media/videogames/mathadventure-de2.jpg" alt="In einem Land vor unseren Zeit - Mathe Abenteuer" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -277,7 +277,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/mathadventure-it.jpg" data-lightbox="books" data-title="Alle ricercar della valle incantata - avventura con i numeri">
+    <a href="/images/media/videogames/mathadventure-it.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata - avventura con i numeri">
         <div class="img-box">
           <img src="/images/media/videogames/mathadventure-it.jpg" alt="Alle ricercar della valle incantata - avventura con i numeri" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -293,7 +293,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/toddler-time_orig.jpg" data-lightbox="books" data-title="The Land Before Time: Toddler Time">
+    <a href="/images/media/videogames/toddler-time_orig.jpg" data-lightbox="img" data-title="The Land Before Time: Toddler Time">
         <div class="img-box">
           <img src="/images/media/videogames/toddler-time_orig.jpg" alt="The Land Before Time: Toddler Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -305,19 +305,56 @@ The Land Before Time series released several educational games. They also releas
       <strong>Year:</strong> 1999<br/>
   </div>
 </div>
+
+<div class="item-entry" id="avontuurvoordeallerkleinsten-310">
+    <div class="item-image">
+      <a href="/images/media/videogames/avontuurvoordeallerkleinsten.png" data-lightbox="img" data-title="Platvoet en z'n vriendjes">
+        <div class="img-box">
+          <img src="/images/media/videogames/avontuurvoordeallerkleinsten.png" alt="Platvoet en z'n vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en z'n vriendjes<br/>
+      <strong>Subtitle:</strong> Avontuur voor de allerkleinsten<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>Language:</strong> Dutch<br/>
+    </div>
+  </div>
+<div class="item-entry" id="abenteuerfurkinderimvorschulalter-311">
+    <div class="item-image">
+      <a href="/images/media/videogames/abenteuerfurkinderimvorschulalter.png" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/videogames/abenteuerfurkinderimvorschulalter.png" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/videogames/abenteuerfurkinderimvorschulalter2.png" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/videogames/abenteuerfurkinderimvorschulalter2.png" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Abenteuer für Kinder im Vorschulalter<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/dinosaurarcade3d.jpg" data-lightbox="books" data-title="The Land Before Time: Dinosaur Arcade">
+    <a href="/images/media/videogames/dinosaurarcade3d.jpg" data-lightbox="img" data-title="The Land Before Time: Dinosaur Arcade">
         <div class="img-box">
           <img src="/images/media/videogames/dinosaurarcade3d.jpg" alt="The Land Before Time: Dinosaur Arcade" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/videogames/dinosaurarcade3d2.jpg" data-lightbox="books" data-title="The Land Before Time: Dinosaur Arcade">
+      <a href="/images/media/videogames/dinosaurarcade3d2.jpg" data-lightbox="img" data-title="The Land Before Time: Dinosaur Arcade">
         <div class="img-box">
           <img src="/images/media/videogames/dinosaurarcade3d2.jpg" alt="The Land Before Time: Dinosaur Arcade" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/videogames/dinosaurarcade3d3.jpg" data-lightbox="books" data-title="The Land Before Time: Dinosaur Arcade">
+      <a href="/images/media/videogames/dinosaurarcade3d3.jpg" data-lightbox="img" data-title="The Land Before Time: Dinosaur Arcade">
         <div class="img-box">
           <img src="/images/media/videogames/dinosaurarcade3d3.jpg" alt="The Land Before Time: Dinosaur Arcade" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -331,7 +368,7 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/returntothegreatvalley.jpg" data-lightbox="books" data-title="The Land Before Time - Return to the Great Valley">
+    <a href="/images/media/videogames/returntothegreatvalley.jpg" data-lightbox="img" data-title="The Land Before Time - Return to the Great Valley">
         <div class="img-box">
           <img src="/images/media/videogames/returntothegreatvalley.jpg" alt="The Land Before Time - Return to the Great Valley" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -346,7 +383,7 @@ The Land Before Time series released several educational games. They also releas
 
  <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/returntothegreatvalley-fr.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - Retour vers la Grande Vallée">
+    <a href="/images/media/videogames/returntothegreatvalley-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - Retour vers la Grande Vallée">
         <div class="img-box">
           <img src="/images/media/videogames/returntothegreatvalley-fr.jpg" alt="Le Petit Dinosaure - Retour vers la Grande Vallée" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -363,12 +400,12 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/returntothegreatvalley-de.jpg" data-lightbox="books" data-title="In einem Land vor unseren Zeit - Die Ruckkehr ins Grosse Tal">
+    <a href="/images/media/videogames/returntothegreatvalley-de.jpg" data-lightbox="img" data-title="In einem Land vor unseren Zeit - Die Ruckkehr ins Grosse Tal">
         <div class="img-box">
           <img src="/images/media/videogames/returntothegreatvalley-de.jpg" alt="In einem Land vor unseren Zeit - Die Ruckkehr ins Grosse Tal" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/videogames/returntothegreatvalley-de-disc.jpg" data-lightbox="books" data-title="In einem Land vor unseren Zeit - Die Ruckkehr ins Grosse Tal">
+      <a href="/images/media/videogames/returntothegreatvalley-de-disc.jpg" data-lightbox="img" data-title="In einem Land vor unseren Zeit - Die Ruckkehr ins Grosse Tal">
         <div class="img-box">
           <img src="/images/media/videogames/returntothegreatvalley-de-disc.jpg" alt="In einem Land vor unseren Zeit - Die Ruckkehr ins Grosse Tal" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -385,7 +422,7 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/returntothegreatvalley-it.jpg" data-lightbox="books" data-title="Alle ricercar della valle incantata - Ritorno alla Grande Vallata">
+    <a href="/images/media/videogames/returntothegreatvalley-it.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata - Ritorno alla Grande Vallata">
         <div class="img-box">
           <img src="/images/media/videogames/returntothegreatvalley-it.jpg" alt="Alle ricercar della valle incantata - Ritorno alla Grande Vallata" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -403,7 +440,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gbc_orig.jpg" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/videogames/gbc_orig.jpg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/videogames/gbc_orig.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -418,7 +455,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gbc-fr.jpg" data-lightbox="books" data-title="Le Petit Dinosaure">
+    <a href="/images/media/videogames/gbc-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure">
         <div class="img-box">
           <img src="/images/media/videogames/gbc-fr.jpg" alt="Le Petit Dinosaure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -434,7 +471,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gbc-de.jpg" data-lightbox="books" data-title="In einem Land vor unseren Zeit">
+    <a href="/images/media/videogames/gbc-de.jpg" data-lightbox="img" data-title="In einem Land vor unseren Zeit">
         <div class="img-box">
           <img src="/images/media/videogames/gbc-de.jpg" alt="In einem Land vor unseren Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -450,7 +487,7 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gbc-it.jpg" data-lightbox="books" data-title="Alle ricercar della valle incantata">
+    <a href="/images/media/videogames/gbc-it.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata">
         <div class="img-box">
           <img src="/images/media/videogames/gbc-it.jpg" alt="Alle ricercar della valle incantata" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -466,7 +503,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/racingadventure.jpg" data-lightbox="books" data-title="The Land Before Time - Great Valley Racing Adventure">
+    <a href="/images/media/videogames/racingadventure.jpg" data-lightbox="img" data-title="The Land Before Time - Great Valley Racing Adventure">
         <div class="img-box">
           <img src="/images/media/videogames/racingadventure.jpg" alt="The Land Before Time - Great Valley Racing Adventure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -481,7 +518,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/racingadventure-de.jpg" data-lightbox="books" data-title="Das Grosse Dino Rennen">
+    <a href="/images/media/videogames/racingadventure-de.jpg" data-lightbox="img" data-title="Das Grosse Dino Rennen">
         <div class="img-box">
           <img src="/images/media/videogames/racingadventure-de.jpg" alt="Das Grosse Dino Rennen" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -496,7 +533,7 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/racingadventure-fr.jpg" data-lightbox="books" data-title="La Course Des Dinos">
+    <a href="/images/media/videogames/racingadventure-fr.jpg" data-lightbox="img" data-title="La Course Des Dinos">
         <div class="img-box">
           <img src="/images/media/videogames/racingadventure-fr.jpg" alt="La Course Des Dinos" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -511,7 +548,7 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gba.jpg" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/videogames/gba.jpg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/videogames/gba.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -525,7 +562,7 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gba-de.jpg" data-lightbox="books" data-title="In einem Land vor unseren Zeit">
+    <a href="/images/media/videogames/gba-de.jpg" data-lightbox="img" data-title="In einem Land vor unseren Zeit">
         <div class="img-box">
           <img src="/images/media/videogames/gba-de.jpg" alt="In einem Land vor unseren Zeit" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -541,7 +578,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gba-it.jpg" data-lightbox="books" data-title="Alle ricerca della valle incantata">
+    <a href="/images/media/videogames/gba-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata">
         <div class="img-box">
           <img src="/images/media/videogames/gba-it.jpg" alt="Alle ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -557,7 +594,7 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/bigwater_orig.jpg" data-lightbox="books" data-title="The Land Before Time - Big Water Adventure">
+    <a href="/images/media/videogames/bigwater_orig.jpg" data-lightbox="img" data-title="The Land Before Time - Big Water Adventure">
         <div class="img-box">
           <img src="/images/media/videogames/bigwater_orig.jpg" alt="The Land Before Time - Big Water Adventure" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -571,12 +608,12 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/prehistoric-adventures_1.jpg" data-lightbox="books" data-title="The Land Before Time: Prehistoric Adventures">
+    <a href="/images/media/videogames/prehistoric-adventures_1.jpg" data-lightbox="img" data-title="The Land Before Time: Prehistoric Adventures">
         <div class="img-box">
           <img src="/images/media/videogames/prehistoric-adventures_1.jpg" alt="The Land Before Time: Prehistoric Adventures" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/videogames/prehistoric-adventures_2.jpg" data-lightbox="books" data-title="The Land Before Time: Prehistoric Adventures">
+      <a href="/images/media/videogames/prehistoric-adventures_2.jpg" data-lightbox="img" data-title="The Land Before Time: Prehistoric Adventures">
         <div class="img-box">
           <img src="/images/media/videogames/prehistoric-adventures_2.jpg" alt="The Land Before Time: Prehistoric Adventures" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -590,9 +627,25 @@ The Land Before Time series released several educational games. They also releas
   </div>
 </div>
 
+<div class="item-entry" id="platvoetpeuterstart-309">
+    <div class="item-image">
+      <a href="/images/media/videogames/platvoetpeuterstart.jpg" data-lightbox="img" data-title="Platvoet Peuterstart">
+        <div class="img-box">
+          <img src="/images/media/videogames/platvoetpeuterstart.jpg" alt="Platvoet Peuterstart" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet Peuterstart<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Language:</strong> Dutch<br/>
+    </div>
+  </div>
+
+
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gba-mysteriousbeyond.jpg" data-lightbox="books" data-title="The Land Before Time - Into the Mysterious Beyond">
+    <a href="/images/media/videogames/gba-mysteriousbeyond.jpg" data-lightbox="img" data-title="The Land Before Time - Into the Mysterious Beyond">
         <div class="img-box">
           <img src="/images/media/videogames/gba-mysteriousbeyond.jpg" alt="The Land Before Time - Into the Mysterious Beyond" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -607,12 +660,12 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gba-mysteriousbeyond-fr.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - Aventures vers l'inconnu">
+    <a href="/images/media/videogames/gba-mysteriousbeyond-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - Aventures vers l'inconnu">
         <div class="img-box">
           <img src="/images/media/videogames/gba-mysteriousbeyond-fr.jpg" alt="Le Petit Dinosaure - Aventures vers l'inconnu" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/videogames/gba-mysteriousbeyond-fr-cart.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - Aventures vers l'inconnu">
+      <a href="/images/media/videogames/gba-mysteriousbeyond-fr-cart.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - Aventures vers l'inconnu">
         <div class="img-box">
           <img src="/images/media/videogames/gba-mysteriousbeyond-fr-cart.jpg" alt="Le Petit Dinosaure - Aventures vers l'inconnu" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

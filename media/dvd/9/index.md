@@ -15,7 +15,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/9/9-US-2002.jpg" data-lightbox="books" data-title="Journey to Big Water">
+    <a href="/images/media/dvd/9/9-US-2002.jpg" data-lightbox="img" data-title="Journey to Big Water">
         <div class="img-box">
           <img src="/images/media/dvd/9/9-US-2002.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -29,7 +29,7 @@ An archive of The Land Before Time DVDs released over the years.
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/9/9-canadian-2002.jpg" data-lightbox="books" data-title="Journey to Big Water">
+    <a href="/images/media/dvd/9/9-canadian-2002.jpg" data-lightbox="img" data-title="Journey to Big Water">
         <div class="img-box">
           <img src="/images/media/dvd/9/9-canadian-2002.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -46,7 +46,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/9/le-petit-dinosaure-vol-9-mo-l-ami-du-grande-large-13022123092006_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - Mo, l'ami du Grand Large">
+    <a href="/images/media/dvd/9/le-petit-dinosaure-vol-9-mo-l-ami-du-grande-large-13022123092006_orig.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - Mo, l'ami du Grand Large">
         <div class="img-box">
           <img src="/images/media/dvd/9/le-petit-dinosaure-vol-9-mo-l-ami-du-grande-large-13022123092006_orig.jpg" alt="Le Petit Dinosaure - Mo, l'ami du Grand Large" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -82,7 +82,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/9/platvoet-en-zijn-vriendjes-terug-naar-het-grote-water-dvd-nl_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n Vriendjes - Terug naar het Grote Water">
+    <a href="/images/media/dvd/9/platvoet-en-zijn-vriendjes-terug-naar-het-grote-water-dvd-nl_orig.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes - Terug naar het Grote Water">
         <div class="img-box">
           <img src="/images/media/dvd/9/platvoet-en-zijn-vriendjes-terug-naar-het-grote-water-dvd-nl_orig.jpg" alt="Platvoet en z'n Vriendjes - Terug naar het Grote Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -99,7 +99,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/9/russianlbt9dvd2006_orig.jpg" data-lightbox="books" data-title="Земля до начала времен IX. Путешествие к Большой воде">
+    <a href="/images/media/dvd/9/russianlbt9dvd2006_orig.jpg" data-lightbox="img" data-title="Земля до начала времен IX. Путешествие к Большой воде">
         <div class="img-box">
           <img src="/images/media/dvd/9/russianlbt9dvd2006_orig.jpg" alt="Земля до начала времен IX. Путешествие к Большой воде" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -112,11 +112,26 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt9-dk-2011-296">
+    <div class="item-image">
+      <a href="/images/media/dvd/9/lbt9-dk-2011.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/dvd/9/lbt9-dk-2011.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Subtitle:</strong> Rejsen til det store hav<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/9/2017-07-27-597a431928884-dvd-landbeforetimejourneytobigwaterdvd-2017-r1_orig.jpg" data-lightbox="books" data-title="Journey to Big Water">
+    <a href="/images/media/dvd/9/2017-07-27-597a431928884-dvd-landbeforetimejourneytobigwaterdvd-2017-r1_orig.jpg" data-lightbox="img" data-title="Journey to Big Water">
         <div class="img-box">
           <img src="/images/media/dvd/9/2017-07-27-597a431928884-dvd-landbeforetimejourneytobigwaterdvd-2017-r1_orig.jpg" alt="Journey to Big Water" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

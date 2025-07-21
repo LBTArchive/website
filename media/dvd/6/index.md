@@ -15,7 +15,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/6/english2003.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
+    <a href="/images/media/dvd/6/english2003.jpg" data-lightbox="img" data-title="The Secret of Saurus Rock">
         <div class="img-box">
           <img src="/images/media/dvd/6/english2003.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -31,7 +31,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/6/le-petit-dinosaure-vol-6-la-legende-du-mont-saurus-09172204022007_origg.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - La légende du Mont Saurus">
+    <a href="/images/media/dvd/6/le-petit-dinosaure-vol-6-la-legende-du-mont-saurus-09172204022007_origg.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - La légende du Mont Saurus">
         <div class="img-box">
           <img src="/images/media/dvd/6/le-petit-dinosaure-vol-6-la-legende-du-mont-saurus-09172204022007_orig.jpg" alt="Le Petit Dinosaure - La légende du Mont Saurus" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -44,10 +44,25 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt6-dk-299">
+    <div class="item-image">
+      <a href="/images/media/dvd/6/lbt6-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/dvd/6/lbt6-dk.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Subtitle:</strong> Saurus Stenens hemmelighed<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="lbt6ja-38">
-    <div class="item-image"
-      <a href="/images/media/dvd/6/lbt6ja.jpg" data-lightbox="books" data-title="リトルフット龍の岩の伝説">
+    <div class="item-image">
+      <a href="/images/media/dvd/6/lbt6ja.jpg" data-lightbox="img" data-title="リトルフット龍の岩の伝説">
         <div class="img-box">
           <img src="/images/media/dvd/6/lbt6ja.jpg" alt="リトルフット龍の岩の伝説" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -62,7 +77,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/6/russianlbt6dvd_orig.jpg" data-lightbox="books" data-title="Земля до начала времен VI: Тайна Скалы Динозавров">
+    <a href="/images/media/dvd/6/russianlbt6dvd_orig.jpg" data-lightbox="img" data-title="Земля до начала времен VI: Тайна Скалы Динозавров">
         <div class="img-box">
           <img src="/images/media/dvd/6/russianlbt6dvd_orig.jpg" alt="Земля до начала времен VI: Тайна Скалы Динозавров" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -79,7 +94,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/6/secretofsaurusrockdvd-2017-r1_orig.jpg" data-lightbox="books" data-title="The Secret of Saurus Rock">
+    <a href="/images/media/dvd/6/secretofsaurusrockdvd-2017-r1_orig.jpg" data-lightbox="img" data-title="The Secret of Saurus Rock">
         <div class="img-box">
           <img src="/images/media/dvd/6/secretofsaurusrockdvd-2017-r1_orig.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

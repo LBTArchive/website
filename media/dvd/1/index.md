@@ -15,7 +15,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/1997_orig.png" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/dvd/1/1997_orig.png" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/dvd/1/1997_orig.png" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -30,7 +30,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/anniversaryedition_orig)2003.jpg" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/dvd/1/anniversaryedition_orig)2003.jpg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/dvd/1/anniversaryedition_orig)2003.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -46,7 +46,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/canadian1_orig2003.png" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/dvd/1/canadian1_orig2003.png" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/dvd/1/canadian1_orig2003.png" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -63,7 +63,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/le-petit-dinosaure-vol-1-la-vallee-des-merveilles-09131904022007_orig2004.jpg" data-lightbox="books" data-title="Le Petit Dinosaure et la Vallée des Merveilles">
+    <a href="/images/media/dvd/1/le-petit-dinosaure-vol-1-la-vallee-des-merveilles-09131904022007_orig2004.jpg" data-lightbox="img" data-title="Le Petit Dinosaure et la Vallée des Merveilles">
         <div class="img-box">
           <img src="/images/media/dvd/1/le-petit-dinosaure-vol-1-la-vallee-des-merveilles-09131904022007_orig2004.jpg" alt="Le Petit Dinosaure et la Vallée des Merveilles" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -112,7 +112,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/lbt1-swedish-dvd.jpg" data-lightbox="books" data-title="Landet för längesedan">
+    <a href="/images/media/dvd/1/lbt1-swedish-dvd.jpg" data-lightbox="img" data-title="Landet för längesedan">
         <div class="img-box">
           <img src="/images/media/dvd/1/lbt1-swedish-dvd.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -128,7 +128,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-      <a href="/images/media/dvd/1/lbt1-ja-2011.jpg" data-lightbox="books" data-title="リトルフット">
+      <a href="/images/media/dvd/1/lbt1-ja-2011.jpg" data-lightbox="img" data-title="リトルフット">
         <div class="img-box">
           <img src="/images/media/dvd/1/lbt1-ja-2011.jpg" alt="リトルフット" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -144,7 +144,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/lbt1-swedish-dvd1.jpg" data-lightbox="books" data-title="Landet för längesedan">
+    <a href="/images/media/dvd/1/lbt1-swedish-dvd1.jpg" data-lightbox="img" data-title="Landet för längesedan">
         <div class="img-box">
           <img src="/images/media/dvd/1/lbt1-swedish-dvd1.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -160,7 +160,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/lbt1-region3-scan_orig2014.jpg" data-lightbox="books" data-title="リトルフット">
+    <a href="/images/media/dvd/1/lbt1-region3-scan_orig2014.jpg" data-lightbox="img" data-title="リトルフット">
         <div class="img-box">
           <img src="/images/media/dvd/1/lbt1-region3-scan_orig2014.jpg" alt="リトルフット" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -177,7 +177,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/lbt1release2015_orig.jpg" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/dvd/1/lbt1release2015_orig.jpg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/dvd/1/lbt1release2015_orig.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -194,9 +194,14 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/2015_orig.jpeg" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/dvd/1/2015_orig.jpeg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/dvd/1/2015_orig.jpeg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/dvd/1/LBT1-DVD-English-Valentines-2015-greenback.webp" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/LBT1-DVD-English-Valentines-2015-greenback.webp" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -207,10 +212,33 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> English<br/>
   </div>
 </div>
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/1/LBT1-DVD-English-Valentines-2015-front.webp" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/LBT1-DVD-English-Valentines-2015-front.webp" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/dvd/1/LBT1-DVD-English-Valentines-2015-back.webp" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/LBT1-DVD-English-Valentines-2015-back.webp" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Subtitle:</strong> The Original Movie<br/>
+      <strong>Year:</strong> 2015<br/>
+      <strong>Region:</strong> 1<br/>
+      <strong>Language:</strong> English<br/>
+      <strong>Notes:</strong> Walmart Exclusive<br/>
+Valentine's day release<br/>
+  </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/frenchremaster_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure et la Vallée des Merveilles">
+    <a href="/images/media/dvd/1/frenchremaster_orig.jpg" data-lightbox="img" data-title="Le Petit Dinosaure et la Vallée des Merveilles">
         <div class="img-box">
           <img src="/images/media/dvd/1/frenchremaster_orig.jpg" alt="Le Petit Dinosaure et la Vallée des Merveilles" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -226,7 +254,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/1/lbt1-2017_orig.jpg" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/dvd/1/lbt1-2017_orig.jpg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/dvd/1/lbt1-2017_orig.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -241,22 +269,5 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
-<div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/dvd/1/bigquestionmark-walmartexclusive.jpeg" data-lightbox="books" data-title="The Land Before Time">
-        <div class="img-box">
-          <img src="/images/media/dvd/1/bigquestionmark-walmartexclusive.jpeg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> The Land Before Time<br/>
-      <strong>Subtitle:</strong> The Original Movie<br/>
-      <strong>Year:</strong> ?<br/>
-      <strong>Region:</strong> 1<br/>
-      <strong>Language:</strong> English<br/>
-      <strong>Notes:</strong> Walmart Exclusive<br/>
-Valentine's day?<br/>
-  </div>
-</div>
+
 </div>

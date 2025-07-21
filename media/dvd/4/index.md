@@ -15,7 +15,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/4/english2003.jpg" data-lightbox="books" data-title="Journey through the Mists">
+    <a href="/images/media/dvd/4/english2003.jpg" data-lightbox="img" data-title="Journey through the Mists">
         <div class="img-box">
           <img src="/images/media/dvd/4/english2003.jpg" alt="Journey through the Mists" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -42,10 +42,25 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt4-dk-300">
+    <div class="item-image">
+      <a href="/images/media/dvd/4/lbt4-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
+        <div class="img-box">
+          <img src="/images/media/dvd/4/lbt4-dk.jpg" alt="Landet for længe siden" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden<br/>
+      <strong>Subtitle:</strong> Rejsen til Tågernes Dal<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="lbt4-ja-2005-30">
     <div class="item-image">
-      <a href="/images/media/dvd/4/lbt4-ja-2005.jpg" data-lightbox="books" data-title="リトルフットクビナガ恐竜がやってきた">
+      <a href="/images/media/dvd/4/lbt4-ja-2005.jpg" data-lightbox="img" data-title="リトルフットクビナガ恐竜がやってきた">
         <div class="img-box">
           <img src="/images/media/dvd/4/lbt4-ja-2005.jpg" alt="リトルフットクビナガ恐竜がやってきた" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -61,7 +76,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/4/russianlbt4backdvd_orig.jpg" data-lightbox="books" data-title="Земля до начала времен IV: Путешествие в Землю Туманов">
+    <a href="/images/media/dvd/4/russianlbt4backdvd_orig.jpg" data-lightbox="img" data-title="Земля до начала времен IV: Путешествие в Землю Туманов">
         <div class="img-box">
           <img src="/images/media/dvd/4/russianlbt4backdvd_orig.jpg" alt="Земля до начала времен IV: Путешествие в Землю Туманов" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -77,7 +92,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/4/lbt4-2017_orig.jpg" data-lightbox="books" data-title="Journey through the Mists">
+    <a href="/images/media/dvd/4/lbt4-2017_orig.jpg" data-lightbox="img" data-title="Journey through the Mists">
         <div class="img-box">
           <img src="/images/media/dvd/4/lbt4-2017_orig.jpg" alt="Journey through the Mists" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

@@ -15,7 +15,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/3/english2003.jpg" data-lightbox="books" data-title="The Time of the Great Giving">
+    <a href="/images/media/dvd/3/english2003.jpg" data-lightbox="img" data-title="The Time of the Great Giving">
         <div class="img-box">
           <img src="/images/media/dvd/3/english2003.jpg" alt="The Time of the Great Giving" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -31,7 +31,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/3/dutchlbt3dvd_orig.jpg" data-lightbox="books" data-title="Platvoet en z'n vriendjes III - Op zoek naar de verdwenen bron">
+    <a href="/images/media/dvd/3/dutchlbt3dvd_orig.jpg" data-lightbox="img" data-title="Platvoet en z'n vriendjes III - Op zoek naar de verdwenen bron">
         <div class="img-box">
           <img src="/images/media/dvd/3/dutchlbt3dvd_orig.jpg" alt="Platvoet en z'n vriendjes III - Op zoek naar de verdwenen bron" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -47,7 +47,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/3/le-petit-dinosaure-vol-3-la-source-miraculeuse-09153704022007_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure - La source miraculeuse">
+    <a href="/images/media/dvd/3/le-petit-dinosaure-vol-3-la-source-miraculeuse-09153704022007_orig.jpg" data-lightbox="img" data-title="Le Petit Dinosaure - La source miraculeuse">
         <div class="img-box">
           <img src="/images/media/dvd/3/le-petit-dinosaure-vol-3-la-source-miraculeuse-09153704022007_orig.jpg" alt="Le Petit Dinosaure - La source miraculeuse" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -83,7 +83,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry" id="lbt3ja2006-34">
     <div class="item-image">
-      <a href="/images/media/dvd/3/lbt3ja2006.jpg" data-lightbox="books" data-title="リトルフットいんせきに気をつけろ">
+      <a href="/images/media/dvd/3/lbt3ja2006.jpg" data-lightbox="img" data-title="リトルフットいんせきに気をつけろ">
         <div class="img-box">
           <img src="/images/media/dvd/3/lbt3ja2006.jpg" alt="リトルフットいんせきに気をつけろ" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -98,7 +98,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/3/russianlbt3dvd_orig.jpg" data-lightbox="books" data-title="Земля до начала времен III: В поисках воды">
+    <a href="/images/media/dvd/3/russianlbt3dvd_orig.jpg" data-lightbox="img" data-title="Земля до начала времен III: В поисках воды">
         <div class="img-box">
           <img src="/images/media/dvd/3/russianlbt3dvd_orig.jpg" alt="Земля до начала времен III: В поисках воды" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -115,7 +115,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/3/lbt3-2017_orig.jpg" data-lightbox="books" data-title="The Time of the Great Giving">
+    <a href="/images/media/dvd/3/lbt3-2017_orig.jpg" data-lightbox="img" data-title="The Time of the Great Giving">
         <div class="img-box">
           <img src="/images/media/dvd/3/lbt3-2017_orig.jpg" alt="The Time of the Great Giving" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

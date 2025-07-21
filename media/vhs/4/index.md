@@ -14,12 +14,12 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
   </div>
 <div class="item-entry" id="lbt4-vhs-english-screener-150">
     <div class="item-image">
-      <a href="/images/media/vhs/4/lbt4-vhs-english-screener.jpg" data-lightbox="books" data-title="Journey Through The Mists">
+      <a href="/images/media/vhs/4/lbt4-vhs-english-screener.jpg" data-lightbox="img" data-title="Journey Through The Mists">
         <div class="img-box">
           <img src="/images/media/vhs/4/lbt4-vhs-english-screener.jpg" alt="Journey Through The Mists" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/vhs/4/lbt4-vhs-english-screener2.jpg" data-lightbox="books" data-title="Journey Through The Mists">
+      <a href="/images/media/vhs/4/lbt4-vhs-english-screener2.jpg" data-lightbox="img" data-title="Journey Through The Mists">
         <div class="img-box">
           <img src="/images/media/vhs/4/lbt4-vhs-english-screener2.jpg" alt="Journey Through The Mists" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -34,7 +34,7 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/4/lbt4-vhs-english.jpg" data-lightbox="books" data-title="Journey through the Mists">
+    <a href="/images/media/vhs/4/lbt4-vhs-english.jpg" data-lightbox="img" data-title="Journey through the Mists">
         <div class="img-box">
           <img src="/images/media/vhs/4/lbt4-vhs-english.jpg" alt="Journey through the Mists" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -48,7 +48,7 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
 
   <div class="item-entry" id="lbt4-ja-37">
     <div class="item-image">
-      <a href="/images/media/vhs/4/lbt4-ja.jpg" data-lightbox="books" data-title="リトルフット4">
+      <a href="/images/media/vhs/4/lbt4-ja.jpg" data-lightbox="img" data-title="リトルフット4">
         <div class="img-box">
           <img src="/images/media/vhs/4/lbt4-ja.jpg" alt="リトルフット4" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -83,7 +83,7 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/4/lbt4-vhs-sv.jpg" data-lightbox="books" data-title="Landet för längesedan -Färden till Dimmornas land">
+    <a href="/images/media/vhs/4/lbt4-vhs-sv.jpg" data-lightbox="img" data-title="Landet för längesedan -Färden till Dimmornas land">
         <div class="img-box">
           <img src="/images/media/vhs/4/lbt4-vhs-sv.jpg" alt="Landet för längesedan -Färden till Dimmornas land" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -98,7 +98,7 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/4/platvoet-en-zijn-vriendjes-de-onvergetelijke-reis-dvd-nl_orig.jpg" data-lightbox="books" data-title="De onvergetelijke reis">
+    <a href="/images/media/vhs/4/platvoet-en-zijn-vriendjes-de-onvergetelijke-reis-dvd-nl_orig.jpg" data-lightbox="img" data-title="De onvergetelijke reis">
         <div class="img-box">
           <img src="/images/media/vhs/4/platvoet-en-zijn-vriendjes-de-onvergetelijke-reis-dvd-nl_orig.jpg" alt="De onvergetelijke reis" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -114,7 +114,7 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/4/lbt4-vhs-sv-magenta.jpg" data-lightbox="books" data-title="Landet för längesedan -Färden till Dimmornas land">
+    <a href="/images/media/vhs/4/lbt4-vhs-sv-magenta.jpg" data-lightbox="img" data-title="Landet för längesedan -Färden till Dimmornas land">
         <div class="img-box">
           <img src="/images/media/vhs/4/lbt4-vhs-sv-magenta.jpg" alt="Landet för längesedan -Färden till Dimmornas land" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

@@ -11,7 +11,7 @@
 </head>
 <body>
   <nav>
-    <a href="/">Home</a> | <a href="/about/">About</a> | <a href="/toys/">Toys</a> | <a href="/media/">Media</a> | <a href="/misc/">Miscellaneous</a> | <a href="/guestbook/">Guestbook</a> | 
+    <a href="/">Home</a> | <a href="/toys/">Toys</a> | <a href="/media/">Media</a> | <a href="/misc/">Miscellaneous</a> | <a href="/guestbook/">Guestbook</a> | 
   </nav>
   <hr />
   <main>
@@ -19,30 +19,42 @@
   </main>
 <script src="/js/jquery-3.6.0.min.js"></script>
 <script src="/js/lightbox.js"></script>
+
 <script type="text/javascript">
-document.addEventListener('load', () => {
-    document.querySelectorAll('.item-table > .item-entry').forEach((item, index) => {
-        if (item.id) return;
-        item.id = `item-${index}`
-    })
-})
-</script>
-<script type="text/javascript">
-document.addEventListener('load', () => {
+(function() {
     document.querySelectorAll('.item-table > .item-entry').forEach((item, index) => {
         if (!item.id) {
             item.id = `item-${index}`;
         }
+
         const link = document.createElement('a');
         const img = document.createElement('img');
         img.src = '/images/link-icon.svg';
-        link.class = 'anchor';
+        img.style.transition = 'opacity 0.1s ease-in-out';
+
         link.href = `#${item.id}`;
+        link.class = 'anchor';
         link.appendChild(img);
+
+        // When clicked, copy the full URL with the anchor to the clipboard
+        link.addEventListener('click', function(event) {
+            event.preventDefault(); // prevent jumping
+            const fullUrl = `${window.location.origin}${window.location.pathname}#${item.id}`;
+            navigator.clipboard.writeText(fullUrl)
+                .then(() => {
+                    img.style.opacity = '0.3';
+                    setTimeout(() => { img.style.opacity = '1'; }, 150);
+                })
+                .catch(err => {
+                    console.error('Failed to copy:', err);
+                });
+        });
+
         item.appendChild(link);
-    })
-})
+    });
+})();
 </script>
+
 </body>
 
 </html>

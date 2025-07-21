@@ -15,7 +15,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/5/english2003.jpg" data-lightbox="books" data-title="The Mysterious Island">
+    <a href="/images/media/dvd/5/english2003.jpg" data-lightbox="img" data-title="The Mysterious Island">
         <div class="img-box">
           <img src="/images/media/dvd/5/english2003.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -31,7 +31,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/5/le-petit-dinosaure-vol-5-l-ile-mysterieuse-09165404022007_orig.jpg" data-lightbox="books" data-title="Le Petit Dinosaure (V) - L'ile mysterieuse">
+    <a href="/images/media/dvd/5/le-petit-dinosaure-vol-5-l-ile-mysterieuse-09165404022007_orig.jpg" data-lightbox="img" data-title="Le Petit Dinosaure (V) - L'ile mysterieuse">
         <div class="img-box">
           <img src="/images/media/dvd/5/le-petit-dinosaure-vol-5-l-ile-mysterieuse-09165404022007_orig.jpg" alt="Le Petit Dinosaure (V) - L'ile mysterieuse" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -69,7 +69,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry" id="lbt5-ja-35">
     <div class="item-image">
-      <a href="/images/media/dvd/5/lbt5-ja.jpg" data-lightbox="books" data-title="リトルフットはっぱ食い虫で大災難">
+      <a href="/images/media/dvd/5/lbt5-ja.jpg" data-lightbox="img" data-title="リトルフットはっぱ食い虫で大災難">
         <div class="img-box">
           <img src="/images/media/dvd/5/lbt5-ja.jpg" alt="リトルフットはっぱ食い虫で大災難" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -85,7 +85,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/5/russianlbt5dvd2006_orig.jpg" data-lightbox="books" data-title="Земля до начала времен V: Таинственный остров">
+    <a href="/images/media/dvd/5/russianlbt5dvd2006_orig.jpg" data-lightbox="img" data-title="Земля до начала времен V: Таинственный остров">
         <div class="img-box">
           <img src="/images/media/dvd/5/russianlbt5dvd2006_orig.jpg" alt="Земля до начала времен V: Таинственный остров" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -101,7 +101,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/5/lbt5-sv.jpg" data-lightbox="books" data-title="Landet för längesedan - Den mystiska ön">
+    <a href="/images/media/dvd/5/lbt5-sv.jpg" data-lightbox="img" data-title="Landet för längesedan - Den mystiska ön">
         <div class="img-box">
           <img src="/images/media/dvd/5/lbt5-sv.jpg" alt="Landet för längesedan - Den mystiska ön" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -117,7 +117,7 @@ An archive of The Land Before Time DVDs released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/5/lbt5-region3-scan_orig.jpg" data-lightbox="books" data-title="The Mysterious Island">
+    <a href="/images/media/dvd/5/lbt5-region3-scan_orig.jpg" data-lightbox="img" data-title="The Mysterious Island">
         <div class="img-box">
           <img src="/images/media/dvd/5/lbt5-region3-scan_orig.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -133,7 +133,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/5/2017-07-20-5971038552100-dvd-landbeforetimemysteriousisland-950x633_orig.jpg" data-lightbox="books" data-title="The Mysterious Island">
+    <a href="/images/media/dvd/5/2017-07-20-5971038552100-dvd-landbeforetimemysteriousisland-950x633_orig.jpg" data-lightbox="img" data-title="The Mysterious Island">
         <div class="img-box">
           <img src="/images/media/dvd/5/2017-07-20-5971038552100-dvd-landbeforetimemysteriousisland-950x633_orig.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -148,7 +148,7 @@ An archive of The Land Before Time DVDs released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/dvd/5/2-4.jpg" data-lightbox="books" data-title="The Mysterious Island">
+    <a href="/images/media/dvd/5/2-4.jpg" data-lightbox="img" data-title="The Mysterious Island">
         <div class="img-box">
           <img src="/images/media/dvd/5/2-4.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

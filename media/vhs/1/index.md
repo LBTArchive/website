@@ -15,7 +15,7 @@ An archive of The Land Before Time VHS tapes released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-english-clamshell-1988.jpg" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/vhs/1/lbt1-english-clamshell-1988.jpg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-english-clamshell-1988.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -30,7 +30,7 @@ An archive of The Land Before Time VHS tapes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-swedish-vhs.jpg" data-lightbox="books" data-title="Landet för längesedan">
+    <a href="/images/media/vhs/1/lbt1-swedish-vhs.jpg" data-lightbox="img" data-title="Landet för längesedan">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-swedish-vhs.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -45,12 +45,12 @@ An archive of The Land Before Time VHS tapes released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-swedish-vhs4.jpg" data-lightbox="books" data-title="Landet för Längesedan">
+    <a href="/images/media/vhs/1/lbt1-swedish-vhs4.jpg" data-lightbox="img" data-title="Landet för Längesedan">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-swedish-vhs4.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/vhs/1/lbt1-swedish-vhs4-2.jpg" data-lightbox="books" data-title="Landet för Längesedan">
+      <a href="/images/media/vhs/1/lbt1-swedish-vhs4-2.jpg" data-lightbox="img" data-title="Landet för Längesedan">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-swedish-vhs4-2.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -65,12 +65,12 @@ An archive of The Land Before Time VHS tapes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-swedish-vhs5.jpg" data-lightbox="books" data-title="Landet för Längesedan">
+    <a href="/images/media/vhs/1/lbt1-swedish-vhs5.jpg" data-lightbox="img" data-title="Landet för Längesedan">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-swedish-vhs5.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/vhs/1/lbt1-swedish-vhs5-2.jpg" data-lightbox="books" data-title="Landet för Längesedan">
+      <a href="/images/media/vhs/1/lbt1-swedish-vhs5-2.jpg" data-lightbox="img" data-title="Landet för Längesedan">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-swedish-vhs5-2.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -106,12 +106,12 @@ An archive of The Land Before Time VHS tapes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/1/sleeve-eng.png" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/vhs/1/sleeve-eng.png" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/vhs/1/sleeve-eng.png" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/vhs/1/sleeve-eng-back.png" data-lightbox="books" data-title="The Land Before Time">
+      <a href="/images/media/vhs/1/sleeve-eng-back.png" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/vhs/1/sleeve-eng-back.png" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -126,12 +126,12 @@ An archive of The Land Before Time VHS tapes released over the years.
 
 <div class="item-entry" id="lbt1-pizzahut-148">
     <div class="item-image">
-      <a href="/images/media/vhs/1/lbt1-pizzahut.jpg" data-lightbox="books" data-title="The Land Before Time">
+      <a href="/images/media/vhs/1/lbt1-pizzahut.jpg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-pizzahut.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/vhs/1/lbt1-pizzahut2.jpg" data-lightbox="books" data-title="The Land Before Time">
+      <a href="/images/media/vhs/1/lbt1-pizzahut2.jpg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-pizzahut2.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -146,7 +146,7 @@ An archive of The Land Before Time VHS tapes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-english-clamshell.jpg" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/vhs/1/lbt1-english-clamshell.jpg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-english-clamshell.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -161,7 +161,7 @@ An archive of The Land Before Time VHS tapes released over the years.
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-swedish-vhs2.jpg" data-lightbox="books" data-title="Landet för längesedan">
+    <a href="/images/media/vhs/1/lbt1-swedish-vhs2.jpg" data-lightbox="img" data-title="Landet för längesedan">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-swedish-vhs2.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -176,7 +176,7 @@ An archive of The Land Before Time VHS tapes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-italian-red.jpg" data-lightbox="books" data-title="Alla ricerca della valle incantata">
+    <a href="/images/media/vhs/1/lbt1-italian-red.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-italian-red.jpg" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
@@ -207,12 +207,12 @@ An archive of The Land Before Time VHS tapes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-swedish-vhs1 - Copy.jpg" data-lightbox="books" data-title="Landet för längesedan">
+    <a href="/images/media/vhs/1/lbt1-swedish-vhs1 - Copy.jpg" data-lightbox="img" data-title="Landet för längesedan">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-swedish-vhs1 - Copy.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/vhs/1/lbt1-swedish-vhs1 - Copy-tape.jpg" data-lightbox="books" data-title="Landet för längesedan">
+      <a href="/images/media/vhs/1/lbt1-swedish-vhs1 - Copy-tape.jpg" data-lightbox="img" data-title="Landet för längesedan">
         <div class="img-box">
           <img src="/images/media/vhs/1/lbt1-swedish-vhs1 - Copy-tape.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

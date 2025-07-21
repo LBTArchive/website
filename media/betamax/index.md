@@ -16,7 +16,7 @@ An archive of The Land Before Time Betamax tapes released over the years.
 
 <div class="item-entry" id="lbt1-betamax">
   <div class="item-image">
-    <a href="/images/media/betamax/lbt1-betamax.jpg" data-lightbox="books" data-title="The Land Before Time">
+    <a href="/images/media/betamax/lbt1-betamax.jpg" data-lightbox="img" data-title="The Land Before Time">
         <div class="img-box">
           <img src="/images/media/betamax/lbt1-betamax.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
         </div>

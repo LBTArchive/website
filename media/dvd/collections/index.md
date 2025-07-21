@@ -407,6 +407,11 @@ The Wisdom of Friends (XIII)</li></ul>
           <img src="/images/media/dvd/collection/doublefeaturewerebackadinosaursstory_orig.jpeg" alt="Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
+      <a href="/images/media/dvd/collection/LBT1-Wereback-back.webp" data-lightbox="img" data-title="Double Feature">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/LBT1-Wereback-back.webp" alt="Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
   </div>
   <div class="item-details">
     <strong>Title:</strong> Double Feature<br/>
@@ -620,6 +625,26 @@ Journey to Big Water (IX)</li></ul>
       <strong>Title:</strong> 5 movie collection<br/>
       <strong>Year:</strong> 2023<br/>
       <strong>Notes:</strong> 1, 2, 3, 8 and 9.<br/>
+    </div>
+  </div>
+  <div class="item-entry" id="5moviecollection30thanniversary-1521">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/LBT-5moviecollection-valentines-2022-front.webp" data-lightbox="img" data-title="5 movie collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/LBT-5moviecollection-valentines-2022-front.webp" alt="5 movie collection" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/dvd/collection/LBT-5moviecollection-valentines-2022-back.webp" data-lightbox="img" data-title="5 movie collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/LBT-5moviecollection-valentines-2022-back.webp" alt="5 movie collection" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 5 movie collection<br/>
+      <strong>Year:</strong> 2023<br/>
+      <strong>Notes:</strong> 1, 2, 3, 8 and 9.<br/>
+      Valentine's edition<br/>
     </div>
   </div>
 
