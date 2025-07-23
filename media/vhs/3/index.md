@@ -45,6 +45,26 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Year:</strong> 1995<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt3-ja-back-318">
+    <div class="item-image">
+      <a href="/images/media/vhs/3/lbt3-ja-front.jpg" data-lightbox="img" data-title="リトルフット3">
+        <div class="img-box">
+          <img src="/images/media/vhs/3/lbt3-ja-front.jpg" alt="リトルフット3" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/3/lbt3-ja-back.jpg" data-lightbox="img" data-title="リトルフット3">
+        <div class="img-box">
+          <img src="/images/media/vhs/3/lbt3-ja-back.jpg" alt="リトルフット3" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> リトルフット3<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Language:</strong> Japanese<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt3-dk-289">
     <div class="item-image">
       <a href="/images/media/vhs/3/lbt3-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">

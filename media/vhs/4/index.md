@@ -53,6 +53,11 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
           <img src="/images/media/vhs/4/lbt4-ja.jpg" alt="リトルフット4" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
+      <a href="/images/media/vhs/4/lbt4-ja-back.jpg" data-lightbox="img" data-title="リトルフット4">
+        <div class="img-box">
+          <img src="/images/media/vhs/4/lbt4-ja-back.jpg" alt="リトルフット4" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> リトルフット4<br/>

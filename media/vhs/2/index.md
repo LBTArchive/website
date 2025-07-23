@@ -52,6 +52,26 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
       <strong>Year:</strong> 1994<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt2ja-317">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2jafront.jpg" data-lightbox="img" data-title="リトルフット2">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2jafront.jpg" alt="リトルフット2" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/2/lbt2jaback.jpg" data-lightbox="img" data-title="リトルフット2">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2jaback.jpg" alt="リトルフット2" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> リトルフット2<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Language:</strong> Japanese<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt2-dk-290">
     <div class="item-image">
       <a href="/images/media/vhs/2/lbt2-dk.jpg" data-lightbox="img" data-title="Landet for længe siden 2">

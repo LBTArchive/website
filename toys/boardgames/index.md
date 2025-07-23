@@ -197,6 +197,26 @@ An archive of The Land Before Time board games released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="littlefoot-make-a-match-game_2007_pressman_metal-316">
+    <div class="item-image">
+      <a href="/images/toys/boardgames/littlefoot-make-a-match-game_2007_pressman_metal.jpg" data-lightbox="img" data-title="Littlefoot Make a Match game">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/littlefoot-make-a-match-game_2007_pressman_metal.jpg" alt="Littlefoot Make a Match game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/boardgames/littlefoot-make-a-match-game_2007_pressman_metal2.jpg" data-lightbox="img" data-title="Littlefoot Make a Match game">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/littlefoot-make-a-match-game_2007_pressman_metal2.jpg" alt="Littlefoot Make a Match game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot Make a Match game<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Pressman<br/>
+    </div>
+  </div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/toys/boardgames/lbtdvdgame_orig.jpg" data-lightbox="img" data-title="DVD Game">

@@ -61,6 +61,27 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="2-315">
+    <div class="item-image">
+      <a href="/images/media/dvd/1/LBT1-DVD-Greek-2004-front.webp" data-lightbox="img" data-title="Η ΓΗ ΠΡΙΝ ΑΡΧΙΣΕΙ Ο ΧΡΟΝΟΣ">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/LBT1-DVD-Greek-2004-front.webp" alt="Η ΓΗ ΠΡΙΝ ΑΡΧΙΣΕΙ Ο ΧΡΟΝΟΣ" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/1/LBT1-DVD-Greek-2004-back.webp" data-lightbox="img" data-title="Η ΓΗ ΠΡΙΝ ΑΡΧΙΣΕΙ Ο ΧΡΟΝΟΣ">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/LBT1-DVD-Greek-2004-back.webp" alt="Η ΓΗ ΠΡΙΝ ΑΡΧΙΣΕΙ Ο ΧΡΟΝΟΣ" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Η ΓΗ ΠΡΙΝ ΑΡΧΙΣΕΙ Ο ΧΡΟΝΟΣ<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 5 204268 020717<br/>
+      <strong>Language:</strong> Greek<br/>
+    </div>
+  </div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/1/le-petit-dinosaure-vol-1-la-vallee-des-merveilles-09131904022007_orig2004.jpg" data-lightbox="img" data-title="Le Petit Dinosaure et la Vallée des Merveilles">
@@ -266,6 +287,29 @@ Valentine's day release<br/>
       <strong>Year:</strong> 2017<br/>
       <strong>Region:</strong> 1<br/>
       <strong>Language:</strong> English<br/>
+  </div>
+</div>
+
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/1/LBT1-EnglishFrench-2017-front.webp" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/LBT1-EnglishFrench-2017-front.webp" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/dvd/1/LBT1-EnglishFrench-2017-back.webp" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/LBT1-EnglishFrench-2017-back.webp" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Subtitle:</strong> The Original Movie<br/>
+      <strong>Year:</strong> 2017<br/>
+      <strong>Region:</strong> 1<br/>
+      <strong>Language:</strong> English/French<br/>
+      <strong>Notes:</strong> Canadian Version<br/>
   </div>
 </div>
 

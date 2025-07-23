@@ -252,6 +252,27 @@ An archive of The Land Before Time books released over the years. These books al
       <strong>ISBN:</strong> 9780200646017<br/>
   </div>
 </div>
+<div class="item-entry" id="countingwithlittlefoot1-319">
+    <div class="item-image">
+      <a href="/images/media/books/countingwithlittlefoot1.jpg" data-lightbox="img" data-title="Counting with Littlefoot">
+        <div class="img-box">
+          <img src="/images/media/books/countingwithlittlefoot1.jpg" alt="Counting with Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/countingwithlittlefoot2.jpg" data-lightbox="img" data-title="Counting with Littlefoot">
+        <div class="img-box">
+          <img src="/images/media/books/countingwithlittlefoot2.jpg" alt="Counting with Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Counting with Littlefoot<br/>
+      <strong>Subtitle:</strong> Book and Magnet Play Set<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Publisher:</strong> Inchworm Press<br/>
+      <strong>Barcode:</strong> 9 781577 193845<br/>
+    </div>
+  </div>
 
   </div>
     <div class="item-entry">
