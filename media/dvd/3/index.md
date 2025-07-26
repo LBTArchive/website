@@ -112,6 +112,26 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt3-sv-2011-369">
+    <div class="item-image">
+      <a href="/images/media/dvd/3/lbt3-sv-2011.jpg" data-lightbox="img" data-title="Landet för längesedan">
+        <div class="img-box">
+          <img src="/images/media/dvd/3/lbt3-sv-2011.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/3/lbt3-sv-2011-2.jpg" data-lightbox="img" data-title="Landet för längesedan">
+        <div class="img-box">
+          <img src="/images/media/dvd/3/lbt3-sv-2011-2.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet för längesedan<br/>
+      <strong>Subtitle:</strong> Lillefot och jakten på det försvunna vattnet<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Language:</strong> Swedish<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

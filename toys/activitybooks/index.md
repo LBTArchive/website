@@ -29,6 +29,28 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     </div>
   </div>
 
+<div class="item-entry" id="1997cera-321">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/1997cera.jpg" data-lightbox="img" data-title="Sticker book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997cera.jpg" alt="Sticker book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/1997cera2.jpg" data-lightbox="img" data-title="Sticker book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997cera2.jpg" alt="Sticker book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Sticker book<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+      <strong>Barcode:</strong> 087577080154<br/>
+      <strong>Notes:</strong> Walmart special<br/>
+    </div>
+  </div>
+
 
 <div class="item-entry" id="chomper1997-197">
     <div class="item-image">
@@ -42,6 +64,48 @@ An archive of The Land Before Time Activity Books released over the years. If yo
       <strong>Title:</strong> Coloring and Activity Book<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Publisher:</strong> Landoll's<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="1997ducky-325">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/1997ducky.jpg" data-lightbox="img" data-title="Paint with Water">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997ducky.jpg" alt="Paint with Water" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/1997ducky2.jpg" data-lightbox="img" data-title="Paint with Water">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997ducky2.jpg" alt="Paint with Water" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Paint with Water<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> McGraw Hill<br/>
+      <strong>Barcode:</strong> 076960233xxx?<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="1997spike-323">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/1997spike.jpg" data-lightbox="img" data-title="Coloring and Activity Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997spike.jpg" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/1997spike2.jpg" data-lightbox="img" data-title="Coloring and Activity Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997spike2.jpg" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Coloring and Activity Book<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+      <strong>Barcode:</strong> 087577080123<br/>
     </div>
   </div>
 
@@ -60,6 +124,26 @@ An archive of The Land Before Time Activity Books released over the years. If yo
       <strong>ISBN:</strong> 9780061347726<br/>
   </div>
 </div>
+
+<div class="item-entry" id="magicpenpaintingbook-472">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/magicpenpaintingbook.jpg" data-lightbox="img" data-title="Magic Pen Painting Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/magicpenpaintingbook.jpg" alt="Magic Pen Painting Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/magicpenpaintingbook2.jpg" data-lightbox="img" data-title="Magic Pen Painting Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/magicpenpaintingbook2.jpg" alt="Magic Pen Painting Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Magic Pen Painting Book<br/>
+      <strong>ISBN:</strong> 1562973092<br/>
+    </div>
+  </div>
+
 
     
   <div class="item-entry">

@@ -114,6 +114,21 @@ An archive of The Land Before Time books released over the years. These books al
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="friendsinneed-sv-365">
+    <div class="item-image">
+      <a href="/images/media/books/friendsinneed-sv.jpg" data-lightbox="img" data-title="Landet för längesedan">
+        <div class="img-box">
+          <img src="/images/media/books/friendsinneed-sv.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet för längesedan<br/>
+      <strong>Subtitle:</strong> Musiksaga<br/>
+      <strong>ISBN:</strong> 5701418090663<br/>
+      <strong>Language:</strong> Swedish<br/>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -252,6 +267,22 @@ An archive of The Land Before Time books released over the years. These books al
       <strong>ISBN:</strong> 9780200646017<br/>
   </div>
 </div>
+<div class="item-entry" id="letsplayimpossible-326">
+    <div class="item-image">
+      <a href="/images/media/books/letsplayimpossible.jpg" data-lightbox="img" data-title="Let's Play Impossible">
+        <div class="img-box">
+          <img src="/images/media/books/letsplayimpossible.jpg" alt="Let's Play Impossible" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Let's Play Impossible<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Publisher:</strong> GT Publishing Corporation<br/>
+      <strong>Barcode:</strong> 9781577193852<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="countingwithlittlefoot1-319">
     <div class="item-image">
       <a href="/images/media/books/countingwithlittlefoot1.jpg" data-lightbox="img" data-title="Counting with Littlefoot">

@@ -8,7 +8,7 @@ title: Miscellaneous
 Please check out the various categories of miscellaneous items:
 
 [Advertisements](/misc/ads/)  
-[Buttons and pins](/misc/buttons/)  
+[Buttons, keychains and pins](/misc/buttons/)  
 [Clothing, fabrics, and accessoires](/misc/clothing/)  
 [Fast food promotional items](/misc/fastfood/)  
 [Home Decor](/misc/home/)  

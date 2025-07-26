@@ -312,6 +312,22 @@ Official movie posters for The Land Before Time and its sequels.
       <strong>Year:</strong> 1995<br/>
     </div>
   </div>
+
+<div class="item-entry" id="lbt3englishposter_VHS-328">
+    <div class="item-image">
+      <a href="/images/misc/posters/lbt3englishposter_VHS.jpg" data-lightbox="img" data-title="The Land Before Time III">
+        <div class="img-box">
+          <img src="/images/misc/posters/lbt3englishposter_VHS.jpg" alt="The Land Before Time III" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time III<br/>
+      <strong>Subtitle:</strong> The Time of the Great Giving<br/>
+      <strong>Year:</strong> 1995<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt3_de-259">
     <div class="item-image">
       <a href="/images/misc/posters/lbt3_de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">

@@ -127,6 +127,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Danish<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt9-sv-2011-364">
+    <div class="item-image">
+      <a href="/images/media/dvd/9/lbt9-sv-2011.jpg" data-lightbox="img" data-title="Landet för längesedan">
+        <div class="img-box">
+          <img src="/images/media/dvd/9/lbt9-sv-2011.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet för längesedan<br/>
+      <strong>Subtitle:</strong> Resan till det stora havet<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Language:</strong> Swedish<br/>
+    </div>
+  </div>
 
 
 <div class="item-entry">

@@ -165,6 +165,19 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> 9 inch<br/>
     </div>
   </div>
+<div class="item-entry" id="littlefoot-sweden-363">
+    <div class="item-image">
+      <a href="/images/toys/plushies/littlefoot-sweden.jpg" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefoot-sweden.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Publisher:</strong> Applause<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="littlefoot-toynetwork-christmas1998-208">
     <div class="item-image">
@@ -679,6 +692,21 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Brand:</strong> Equity Toys<br/>
       <strong>Size:</strong> ?<br/>
       <strong>Notes:</strong> Flop-a-saurus + mini pal (Blockbuster Exclusive)<br/>
+    </div>
+  </div>
+<div class="item-entry" id="ducky1997equitytoys35cm-368">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ducky1997equitytoys35cm.jpg" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ducky1997equitytoys35cm.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Equity Toys<br/>
+      <strong>Notes:</strong> 14 inches/35 cm<br/>
     </div>
   </div>
 

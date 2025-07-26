@@ -41,6 +41,25 @@ An archive of The Land Before Time Tableware released over the years.
       <strong>Publisher:</strong> Universal Studios<br/>
     </div>
   </div>
+<div class="item-entry" id="ceramug-sv-367">
+    <div class="item-image">
+      <a href="/images/misc/tableware/ceramug-sv.jpg" data-lightbox="img" data-title="Landet för längesedan - Cera Mug">
+        <div class="img-box">
+          <img src="/images/misc/tableware/ceramug-sv.jpg" alt="Landet för längesedan - Cera Mug" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/tableware/ceramug-sv2.jpg" data-lightbox="img" data-title="Landet för längesedan - Cera Mug">
+        <div class="img-box">
+          <img src="/images/misc/tableware/ceramug-sv2.jpg" alt="Landet för längesedan - Cera Mug" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet för längesedan - Cera Mug<br/>
+      <strong>Language:</strong> Swedish<br/>
+      <strong>Notes:</strong> Made in the Republic of Korea<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="ziploccupscollection-46">
     <div class="item-image">
@@ -177,6 +196,18 @@ An archive of The Land Before Time Tableware released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="littlefootmug-335">
+    <div class="item-image">
+      <a href="/images/misc/tableware/littlefootmug.jpg" data-lightbox="img" data-title="Littlefoot Mug">
+        <div class="img-box">
+          <img src="/images/misc/tableware/littlefootmug.jpg" alt="Littlefoot Mug" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot Mug<br/>
+    </div>
+  </div>
 
   
 <div class="item-entry" id="dairyqueencups-54">
@@ -310,20 +341,6 @@ An archive of The Land Before Time Tableware released over the years.
     </div>
   </div>
 
-<div class="item-entry" id="partyset-51">
-    <div class="item-image">
-      <a href="/images/misc/tableware/partyset.jpg" data-lightbox="img" data-title="Party Set">
-        <div class="img-box">
-          <img src="/images/misc/tableware/partyset.jpg" alt="Party Set" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Party Set<br/>
-      <strong>Year:</strong> ?<br/>
-    </div>
-  </div>
-
 <div class="item-entry" id="plastictablecover-52">
     <div class="item-image">
       <a href="/images/misc/tableware/plastictablecover.jpg" data-lightbox="img" data-title="Plastic table cover">
@@ -338,6 +355,25 @@ An archive of The Land Before Time Tableware released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="pintglass-406">
+    <div class="item-image">
+      <a href="/images/misc/tableware/pintglass.webp" data-lightbox="img" data-title="Pint Glass">
+        <div class="img-box">
+          <img src="/images/misc/tableware/pintglass.webp" alt="Pint Glass" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/tableware/pintglass2.webp" data-lightbox="img" data-title="Pint Glass">
+        <div class="img-box">
+          <img src="/images/misc/tableware/pintglass2.webp" alt="Pint Glass" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Pint Glass<br/>
+      <strong>Year:</strong> 2023-2025<br/>
+      <strong>Publisher:</strong> Boxlunch<br/>
+    </div>
+  </div>
 
 
 </div>
