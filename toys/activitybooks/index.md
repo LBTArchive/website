@@ -12,7 +12,20 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
-
+<div class="item-entry" id="phcoloringbook-544">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/phcoloringbook.jpg" data-lightbox="img" data-title="Pizza Hut Coloring Book">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/phcoloringbook.jpg" alt="Pizza Hut Coloring Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Pizza Hut Coloring Book<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Notes:</strong> Click <a href="/misc/fastfood/#phcoloringbook-544">here</a> to see the inside of this coloring book<br/>
+    </div>
+  </div>
 <div class="item-entry" id="malbuch-1988-205">
     <div class="item-image">
       <a href="/images/toys/coloringbook/malbuch-1988.jpg" data-lightbox="img" data-title="Malbuch">
@@ -87,6 +100,22 @@ An archive of The Land Before Time Activity Books released over the years. If yo
       <strong>Barcode:</strong> 076960233xxx?<br/>
     </div>
   </div>
+
+<div class="item-entry" id="1997petrie-528">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/1997petrie.png" data-lightbox="img" data-title="Coloring and Activity Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997petrie.png" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Coloring and Activity Book<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+    </div>
+  </div>
+
 
 <div class="item-entry" id="1997spike-323">
     <div class="item-image">

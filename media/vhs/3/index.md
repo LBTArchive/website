@@ -42,7 +42,8 @@ An archive of The Land Before Time VHS tapes released over the years.
   </div>
   <div class="item-details">
     <strong>Title:</strong> The Time of Great Giving<br/>
-      <strong>Year:</strong> 1995<br/>
+    <strong>Year:</strong> 1995<br/>
+    <strong>Notes:</strong> Came with a <a href="/misc/stickers/#lbt3-vhs-stickerbook-495">Sticker Fun Booklet</a>
   </div>
 </div>
 <div class="item-entry" id="lbt3-ja-back-318">

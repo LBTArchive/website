@@ -91,7 +91,7 @@ An archive of The Land Before Time Figurines released over the years.
     <div class="item-details">
       <strong>Title:</strong> Hand Puppets<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Notes:</strong> Pizza Hut promotional giveaway<br/>
+      <strong>Notes:</strong> Pizza Hut promotional giveaway. Click <a href="/misc/fastfood/#ph">here</a> to learn more.<br/>
     </div>
   </div>
 
@@ -248,7 +248,7 @@ An archive of The Land Before Time Figurines released over the years.
     <div class="item-details">
       <strong>Title:</strong> Toys<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Notes:</strong> Burger King promotional giveaway<br/>
+      <strong>Notes:</strong> Burger King promotional giveaway. Click <a href="/misc/fastfood/#bk">here</a> to learn more.<br/>
     </div>
   </div>
 
@@ -295,7 +295,7 @@ An archive of The Land Before Time Figurines released over the years.
     <div class="item-details">
       <strong>Title:</strong> Wristable Cera and Chomper<br/>
       <strong>Year:</strong> 1998<br/>
-      <strong>Notes:</strong> Dairy Queen promotional giveaway<br/>
+      <strong>Notes:</strong> Dairy Queen promotional giveaway. Click <a href="/misc/fastfood/#dq">here</a> to learn more.<br/>
     </div>
   </div>
 
@@ -336,7 +336,7 @@ An archive of The Land Before Time Figurines released over the years.
     <div class="item-details">
       <strong>Title:</strong> Toys<br/>
       <strong>Year:</strong> 2003<br/>
-      <strong>Notes:</strong> Wendy's promotional giveaway<br/>
+      <strong>Notes:</strong> Wendy's promotional giveaway. Click <a href="/misc/fastfood/#wendy">here</a> to learn more.<br/>
     </div>
   </div>
 

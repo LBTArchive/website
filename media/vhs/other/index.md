@@ -44,7 +44,7 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
     <div class="item-details">
       <strong>Title:</strong> Sing Along Songs<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Notes:</strong> Came with a cd-rom: <a href="/media/videogames#activitycenter1">Land Before Time Activity Center</a><br/>
+      <strong>Notes:</strong> Came with a cd-rom: <a href="/media/videogames#activitycenter1">Land Before Time Activity Center</a> and a <a href="/misc/stickers/#includedwithsingalongsongvhs-492">Sticker leaflet</a><br/>
     </div>
   </div>
 

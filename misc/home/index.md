@@ -12,7 +12,25 @@ An archive of The Land Before Time Home decor items released over the years.
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
-
+<div class="item-entry" id="placemat1-525">
+    <div class="item-image">
+      <a href="/images/misc/homedecor/placemat1.jpg" data-lightbox="img" data-title="Placemats (set of four)">
+        <div class="img-box">
+          <img src="/images/misc/homedecor/placemat1.jpg" alt="Placemats (set of four)" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/homedecor/placemat4.jpg" data-lightbox="img" data-title="Placemats (set of four)">
+        <div class="img-box">
+          <img src="/images/misc/homedecor/placemat4.jpg" alt="Placemats (set of four)" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Placemats (set of four)<br/>
+      <strong>Year:</strong> 1987<br/>
+      <strong>Publisher:</strong> Decor<br/>
+    </div>
+  </div>
 <div class="item-entry" id="1988_clock-329">
     <div class="item-image">
       <a href="/images/misc/homedecor/1988_clock.jpg" data-lightbox="img" data-title="Littlefoot Clock">
@@ -54,6 +72,7 @@ An archive of The Land Before Time Home decor items released over the years.
       <strong>Year:</strong> 1988<br/>
     </div>
   </div>
+
 <div class="item-entry" id="littlefootlight-333">
     <div class="item-image">
       <a href="/images/misc/homedecor/littlefootlight.jpg" data-lightbox="img" data-title="Littlefoot wall lamp">

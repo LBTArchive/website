@@ -77,7 +77,7 @@ An archive of The Land Before Time Buttons, keychains and pins released over the
     <div class="item-details">
       <strong>Title:</strong> Pins<br/>
       <strong>Year:</strong> 1989<br/>
-      <strong>Notes:</strong> Pizza Hut promotional givewaway<br/>
+      <strong>Notes:</strong> Pizza Hut promotional givewaway. Click <a href="/misc/fastfood/#ph">here</a> to learn more.<br/>
     </div>
   </div>
 <div class="item-entry" id="littlefootstampsuspostalservice1989-264">

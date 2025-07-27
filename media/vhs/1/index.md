@@ -103,6 +103,26 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Language:</strong> Dutch<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt1-au-515">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-au.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-au.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-back-au.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-back-au.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Barcode:</strong> 9311532010667<br/>
+      <strong>Notes:</strong> Australian Version<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

@@ -45,6 +45,27 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
       <strong>Year:</strong> 1996<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt4-au-512">
+    <div class="item-image">
+      <a href="/images/media/vhs/4/lbt4-au.jpg" data-lightbox="img" data-title="The Land Before Time IV: Journey Through the Mists">
+        <div class="img-box">
+          <img src="/images/media/vhs/4/lbt4-au.jpg" alt="The Land Before Time IV: Journey Through the Mists" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/4/lbt4-back-au.jpg" data-lightbox="img" data-title="The Land Before Time IV: Journey Through the Mists">
+        <div class="img-box">
+          <img src="/images/media/vhs/4/lbt4-back-au.jpg" alt="The Land Before Time IV: Journey Through the Mists" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time IV: Journey Through the Mists<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Barcode:</strong> 9311532014429<br/>
+      <strong>Notes:</strong> Australian Version<br/>
+      Included a <a href="/misc/stickers/#lbt4sticker-511"> promotional sticker</a>
+    </div>
+  </div>
 
   <div class="item-entry" id="lbt4-ja-37">
     <div class="item-image">

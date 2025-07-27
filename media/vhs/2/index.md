@@ -50,8 +50,30 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
   <div class="item-details">
     <strong>Title:</strong> The Great Valley Adventure<br/>
       <strong>Year:</strong> 1994<br/>
+      <strong>Notes:</strong> Included <a href="/misc/stickers/#lbt2promo-494">Promotional Stickers</a>
   </div>
 </div>
+<div class="item-entry" id="lbt2-au-513">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2-au.jpg" data-lightbox="img" data-title="The Land Before Time II: The Great Valley Adventure">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-au.jpg" alt="The Land Before Time II: The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/2/lbt2-back-au.jpg" data-lightbox="img" data-title="The Land Before Time II: The Great Valley Adventure">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-back-au.jpg" alt="The Land Before Time II: The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time II: The Great Valley Adventure<br/>
+      <strong>Year:</strong> 1994<br/>
+      <strong>Barcode:</strong> 9311532013057<br/>
+      <strong>Notes:</strong> Australian Version<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt2ja-317">
     <div class="item-image">
       <a href="/images/media/vhs/2/lbt2jafront.jpg" data-lightbox="img" data-title="リトルフット2">

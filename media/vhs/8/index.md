@@ -93,6 +93,26 @@ An archive of The Big Freeze VHS tapes released over the years.
       <strong>Notes:</strong> UK edition<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt8-au-516">
+    <div class="item-image">
+      <a href="/images/media/vhs/8/lbt8-au.jpg" data-lightbox="img" data-title="The Land Before Time VIII: The Big Freeze">
+        <div class="img-box">
+          <img src="/images/media/vhs/8/lbt8-au.jpg" alt="The Land Before Time VIII: The Big Freeze" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/8/lbt8-back-au.jpg" data-lightbox="img" data-title="The Land Before Time VIII: The Big Freeze">
+        <div class="img-box">
+          <img src="/images/media/vhs/8/lbt8-back-au.jpg" alt="The Land Before Time VIII: The Big Freeze" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time VIII: The Big Freeze<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Barcode:</strong> 3259190474932<br/>
+      <strong>Notes:</strong> Australian Version<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="lbt8-fr-vhs-180">
     <div class="item-image">
