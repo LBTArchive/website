@@ -16,7 +16,9 @@
   <hr />
   <main>
     {{ content | safe }}
+    <button type="button" id="backToTopBtn">↑ Back to Top</button>
   </main>
+  
 <script src="/js/jquery-3.6.0.min.js"></script>
 <script src="/js/lightbox.js"></script>
 
@@ -52,6 +54,13 @@
 
         item.appendChild(link);
     });
+    document.getElementById('backToTopBtn').onclick = () => {
+  window.scrollTo({top: 0, behavior: 'smooth'})
+}
+
+window.addEventListener('scroll', e => {
+  document.getElementById('backToTopBtn').style.display = window.scrollY > 20 ? 'block' : 'none';
+});
 })();
 </script>
 

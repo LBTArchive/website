@@ -12,6 +12,21 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
+<div class="item-entry" id="landbeforetimepromoshirt-550">
+    <div class="item-image">
+      <a href="/images/misc/clothing/landbeforetimepromoshirt.jpg" data-lightbox="img" data-title="The Land Before Time movie promo shirt">
+        <div class="img-box">
+          <img src="/images/misc/clothing/landbeforetimepromoshirt.jpg" alt="The Land Before Time movie promo shirt" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time movie promo shirt<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Publisher:</strong> Screen Stars Best<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="1988jcpenneyshirtlittlefoot-370">
     <div class="item-image">
       <a href="/images/misc/clothing/1988jcpenneyshirtlittlefoot.jpg" data-lightbox="img" data-title="Littlefoot T-shirt">

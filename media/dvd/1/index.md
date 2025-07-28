@@ -60,7 +60,25 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> English/Canadian French<br/>
   </div>
 </div>
-
+<div class="item-entry" id="es-lbt1-274">
+    <div class="item-image">
+      <a href="/images/media/dvd/1/es-lbt1.png" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/es-lbt1.png" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/1/es-lbt1back.png" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/es-lbt1back.png" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+  </div>
 <div class="item-entry" id="2-315">
     <div class="item-image">
       <a href="/images/media/dvd/1/LBT1-DVD-Greek-2004-front.webp" data-lightbox="img" data-title="Η ΓΗ ΠΡΙΝ ΑΡΧΙΣΕΙ Ο ΧΡΟΝΟΣ">
@@ -97,25 +115,6 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
-<div class="item-entry" id="es-lbt1-274">
-    <div class="item-image">
-      <a href="/images/media/dvd/1/es-lbt1.png" data-lightbox="img" data-title="En Busca del Valle Encantado">
-        <div class="img-box">
-          <img src="/images/media/dvd/1/es-lbt1.png" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/media/dvd/1/es-lbt1back.png" data-lightbox="img" data-title="En Busca del Valle Encantado">
-        <div class="img-box">
-          <img src="/images/media/dvd/1/es-lbt1back.png" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> En Busca del Valle Encantado<br/>
-      <strong>Year:</strong> 2003<br/>
-      <strong>Language:</strong> Spanish<br/>
-    </div>
-  </div>
 <div class="item-entry" id="lbt1-dk-293">
     <div class="item-image">
       <a href="/images/media/dvd/1/lbt1-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">

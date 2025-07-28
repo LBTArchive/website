@@ -325,6 +325,25 @@ Journey to Big Water (IX)</li></ul>
 Invasion of the Tinysauruses (XI)</li></ul>
   </div>
 </div>
+<div class="item-entry" id="DE-doublefeature-2-3-558">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/DE-doublefeature-2-3.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 2 + 3">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/DE-doublefeature-2-3.jpg" alt="In einem Land vor unserer Zeit 2 + 3" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/collection/DE-doublefeature-2-32.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 2 + 3">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/DE-doublefeature-2-32.jpg" alt="In einem Land vor unserer Zeit 2 + 3" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit 2 + 3<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="platvoetlepetitdinosaur6movies-43">
     <div class="item-image">
@@ -645,6 +664,19 @@ Journey to Big Water (IX)</li></ul>
       <strong>Year:</strong> 2023<br/>
       <strong>Notes:</strong> 1, 2, 3, 8 and 9.<br/>
       Valentine's edition<br/>
+    </div>
+  </div>
+<div class="item-entry" id="4filmsplatvoetv-viii-554">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/4filmsplatvoetv-viii.jpg" data-lightbox="img" data-title="Platvoet en z'n vriendjes 5-8">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/4filmsplatvoetv-viii.jpg" alt="Platvoet en z'n vriendjes 5-8" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en z'n vriendjes 5-8<br/>
+      <strong>Language:</strong> Dutch<br/>
     </div>
   </div>
 

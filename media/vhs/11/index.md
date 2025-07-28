@@ -47,6 +47,25 @@ An archive of The Invasion of the Tinysauruses VHS tapes released over the years
       <strong>Notes:</strong> Australian Edition<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt11-vhs-552">
+    <div class="item-image">
+      <a href="/images/media/vhs/11/lbt11-vhs.jpg" data-lightbox="img" data-title="The Land Before Time XI: Invasion of the Tinysauruses">
+        <div class="img-box">
+          <img src="/images/media/vhs/11/lbt11-vhs.jpg" alt="The Land Before Time XI: Invasion of the Tinysauruses" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/11/lbt11-vhs2.jpg" data-lightbox="img" data-title="The Land Before Time XI: Invasion of the Tinysauruses">
+        <div class="img-box">
+          <img src="/images/media/vhs/11/lbt11-vhs2.jpg" alt="The Land Before Time XI: Invasion of the Tinysauruses" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time XI: Invasion of the Tinysauruses<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Barcode:</strong> 096896260536<br/>
+    </div>
+  </div>
 
 </div>
 </div>

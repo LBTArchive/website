@@ -124,6 +124,24 @@ An archive of The Land Before Time Stationary and Post Cards released over the y
       <strong>Year:</strong> 1997<br/>
     </div>
   </div>
+  <div class="item-entry" id="69 piece art set-548">
+    <div class="item-image">
+      <a href="/images/misc/stationary/69 piece art set.jpg" data-lightbox="img" data-title="68 piece art set">
+        <div class="img-box">
+          <img src="/images/misc/stationary/69 piece art set.jpg" alt="68 piece art set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stationary/69 piece art set2.jpg" data-lightbox="img" data-title="68 piece art set">
+        <div class="img-box">
+          <img src="/images/misc/stationary/69 piece art set2.jpg" alt="68 piece art set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 68 piece art set<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="pencilcase1997-473">
     <div class="item-image">
       <a href="/images/misc/stationary/pencilcase1997.jpg" data-lightbox="img" data-title="Pencil Case">

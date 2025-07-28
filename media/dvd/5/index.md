@@ -113,7 +113,20 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Swedish<br/>
   </div>
 </div>
-
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/dvd/5/2-4.jpg" data-lightbox="img" data-title="The Mysterious Island">
+        <div class="img-box">
+          <img src="/images/media/dvd/5/2-4.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Mysterious Island<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Publisher:</strong> 2,4<br/>
+  </div>
+</div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -146,18 +159,5 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
-<div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/dvd/5/2-4.jpg" data-lightbox="img" data-title="The Mysterious Island">
-        <div class="img-box">
-          <img src="/images/media/dvd/5/2-4.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> The Mysterious Island<br/>
-      <strong>Year:</strong> ?<br/>
-      <strong>Publisher:</strong> 2,4<br/>
-  </div>
-</div>
+
 </div>

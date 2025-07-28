@@ -178,6 +178,25 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Notes:</strong> Clamshell<br/>
   </div>
 </div>
+<div class="item-entry" id="1999lbt1-549">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/1999lbt1.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/1999lbt1.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/1999lbt1-2.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/1999lbt1-2.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>Notes:</strong> Cardboard sleeve<br/>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">

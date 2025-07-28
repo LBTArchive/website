@@ -66,21 +66,6 @@ An archive of The Big Freeze VHS tapes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/8/lbt8-englishAU-clamshell.jpg" data-lightbox="img" data-title="The Big Freeze">
-        <div class="img-box">
-          <img src="/images/media/vhs/8/lbt8-englishAU-clamshell.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> The Big Freeze<br/>
-      <strong>Year:</strong> 2002<br/>
-      <strong>Notes:</strong> Australian edition<br/>
-  </div>
-</div>
-
-<div class="item-entry">
-  <div class="item-image">
     <a href="/images/media/vhs/8/lbt8-englishUK-clamshell.jpg" data-lightbox="img" data-title="The Big Freeze">
         <div class="img-box">
           <img src="/images/media/vhs/8/lbt8-englishUK-clamshell.jpg" alt="The Big Freeze" style="height:250px; object-fit:cover;" loading="lazy">

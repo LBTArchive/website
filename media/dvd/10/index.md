@@ -127,6 +127,20 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt7-sv-557">
+    <div class="item-image">
+      <a href="/images/media/dvd/10/lbt7-sv.jpg" data-lightbox="img" data-title="Landet för längesedan Den stora utvandringen">
+        <div class="img-box">
+          <img src="/images/media/dvd/10/lbt7-sv.jpg" alt="Landet för längesedan Den stora utvandringen" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet för längesedan Den stora utvandringen<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Language:</strong> Swedish<br/>
+    </div>
+  </div>
 
   <div class="item-entry" id="lbt10ja2006-32">
     <div class="item-image">

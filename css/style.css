@@ -243,3 +243,18 @@ h2 {
     float: right;
     height: 24px;
 }
+
+#backToTopBtn {
+  position: fixed;
+  right: 20px; /* 20px inset from the right side*/
+  top: 20px; /* 20px inset from the top */
+  border: none;
+  background: transparent;
+  z-index: 1000; /* a big number to make it always appear on top */
+  display: none;
+  color: inherit
+}
+
+#backToTopBtn:hover {
+  text-decoration: underline;
+}
