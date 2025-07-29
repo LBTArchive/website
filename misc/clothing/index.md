@@ -204,6 +204,21 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
           <img src="/images/misc/clothing/bedding1988.png" alt="Bedding" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/clothing/bedding1988new.jpg" data-lightbox="img" data-title="bed">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bedding1988new.jpg" alt="bed" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/bedding1988new2.jpg" data-lightbox="img" data-title="bed">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bedding1988new2.jpg" alt="bed" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/bedding1988new3.jpg" data-lightbox="img" data-title="bed">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bedding1988new3.jpg" alt="bed" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Bedding<br/>

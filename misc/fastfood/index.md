@@ -14,16 +14,68 @@ An archive of The Land Before Time Fast Food promotional items released over the
 
 <h1 id="ph">Pizza Hut (1988-1989)</h1>
 <details>
-<summary><b>Click here to see their TV ads</b></summary>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mlSimzDnegA?si=F3TTeN6apYKTb4-E" title="Pizza Hut Commercial (1988)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PXEiPFsZ1ek?si=TZAvoJPi7Z00EbzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p-39B6V-3y0?si=7s8Z5n8wo4-2lsw1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V2jlvHa4UMA?si=p-5G7BDf8oBJMh_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<summary><b>Click here to see their TV ads 📺</b></summary>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/mlSimzDnegA?si=F3TTeN6apYKTb4-E"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/PXEiPFsZ1ek?si=TZAvoJPi7Z00EbzY"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/p-39B6V-3y0?si=7s8Z5n8wo4-2lsw1"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/V2jlvHa4UMA?si=p-5G7BDf8oBJMh_4"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 </details>
 <div class="item-table">
   <div class="item-header">
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
+  </div>
+  <div class="item-entry" id="phpuppets-541">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/phbag.jpg" data-lightbox="img" data-title="Pizza Hut Hand Puppets">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/phbag.jpg" alt="Pizza Hut Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Pizza Hut Hand Puppets<br/>
+      <strong>Year:</strong> 1988/1989<br/>
+      <strong>Notes:</strong> Click <a href="/toys/figurines/#phpuppets-184">here</a> to see all puppets<br/>
+    </div>
+  </div>
+  <div class="item-entry" id="phlittlefoot-540">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/phlittlefoot.jpg" data-lightbox="img" data-title="Pizza Hut Buttons">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/phlittlefoot.jpg" alt="Pizza Hut Buttons" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Pizza Hut Buttons<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Notes:</strong> Click <a href="/misc/buttons/#phcera-260">here</a> to see all buttons<br/>
+    </div>
   </div>
 <div class="item-entry" id="phbook-538">
     <div class="item-image">
@@ -103,17 +155,45 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <strong>Notes:</strong> Click <a href="/toys/activitybooks/">here</a> to see more coloring books<br/>
     </div>
   </div>
+<div class="item-entry" id="phmaskcera-561">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/phmaskcera.jpg" data-lightbox="img" data-title="Masks">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/phmaskcera.jpg" alt="Masks" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/phmaskducky.jpg" data-lightbox="img" data-title="Masks">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/phmaskducky.jpg" alt="Masks" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/phmaskpetrie.jpg" data-lightbox="img" data-title="Masks">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/phmaskpetrie.jpg" alt="Masks" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/phmasksharptooth.jpg" data-lightbox="img" data-title="Masks">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/phmasksharptooth.jpg" alt="Masks" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Masks<br/>
+      <strong>Year:</strong> 1988/1989<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="phplacemat-530">
     <div class="item-image">
-      <a href="/images/misc/fastfood/phplacemat.png" data-lightbox="img" data-title="Burger King Placemat">
+      <a href="/images/misc/fastfood/phplacemat.png" data-lightbox="img" data-title="Pizza Hut King Placemat">
         <div class="img-box">
-          <img src="/images/misc/fastfood/phplacemat.png" alt="Burger King Placemat" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/fastfood/phplacemat.png" alt="Pizza Hut Placemat" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
-      <a href="/images/misc/fastfood/phplacemat2.png" data-lightbox="img" data-title="Burger King Placemat">
+      <a href="/images/misc/fastfood/phplacemat2.png" data-lightbox="img" data-title="Pizza Hut Placemat">
         <div class="img-box">
-          <img src="/images/misc/fastfood/phplacemat2.png" alt="Burger King Placemat" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/fastfood/phplacemat2.png" alt="Pizza Hut Placemat" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
@@ -133,34 +213,6 @@ An archive of The Land Before Time Fast Food promotional items released over the
     <div class="item-details">
       <strong>Title:</strong> Pizza Hut Plastic Bags<br/>
       <strong>Year:</strong> 1989<br/>
-    </div>
-  </div>
-<div class="item-entry" id="phpuppets-541">
-    <div class="item-image">
-      <a href="/images/misc/fastfood/phbag.jpg" data-lightbox="img" data-title="Pizza Hut Hand Puppets">
-        <div class="img-box">
-          <img src="/images/misc/fastfood/phbag.jpg" alt="Pizza Hut Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Pizza Hut Hand Puppets<br/>
-      <strong>Year:</strong> 1988/1989<br/>
-      <strong>Notes:</strong> Click <a href="/toys/figurines/#phpuppets-184">here</a> to see all puppets<br/>
-    </div>
-  </div>
-  <div class="item-entry" id="phlittlefoot-540">
-    <div class="item-image">
-      <a href="/images/misc/buttons and pins/phlittlefoot.jpg" data-lightbox="img" data-title="Pizza Hut Buttons">
-        <div class="img-box">
-          <img src="/images/misc/buttons and pins/phlittlefoot.jpg" alt="Pizza Hut Buttons" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Pizza Hut Buttons<br/>
-      <strong>Year:</strong> 1989<br/>
-      <strong>Notes:</strong> Click <a href="/misc/buttons/#phcera-260">here</a> to see all buttons<br/>
     </div>
   </div>
 <div class="item-entry" id="phhandpuppets-542">
@@ -209,45 +261,37 @@ An archive of The Land Before Time Fast Food promotional items released over the
 
 <h1 id="bk">Burger King (1997)</h1>
 <details>
-<summary><b>Click here to see their TV ads</b></summary>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cr7I0TxOJvw?si=jWfmWRGFoc5Oc296" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2mdn0dsS4mc?si=iYQFC6z4Uba2sx7u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<summary><b>Click here to see their TV ads 📺</b></summary>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/Cr7I0TxOJvw?si=jWfmWRGFoc5Oc296"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/2mdn0dsS4mc?si=iYQFC6z4Uba2sx7u"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 </details>
 <div class="item-table">
   <div class="item-header">
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
-<div class="item-entry" id="1997-burgerking-cera-toy1-529">
+<div class="item-entry" id="1997-burgerking-toy1-529">
     <div class="item-image">
-      <a href="/images/misc/fastfood/1997-burgerking-cera-toy1.jpg" data-lightbox="img" data-title="Burger King Toys in bag">
+      <a href="/images/misc/fastfood/bk2.jpg" data-lightbox="img" data-title="Masks">
         <div class="img-box">
-          <img src="/images/misc/fastfood/1997-burgerking-cera-toy1.jpg" alt="Burger King Toys in bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/fastfood/bk2.jpg" alt="Toys" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
-      <a href="/images/misc/fastfood/1997-burgerking-chomper-toy1_orig.jpg" data-lightbox="img" data-title="Burger King Toys in bag">
+      <a href="/images/misc/fastfood/bk.jpg" data-lightbox="img" data-title="Masks">
         <div class="img-box">
-          <img src="/images/misc/fastfood/1997-burgerking-chomper-toy1_orig.jpg" alt="Burger King Toys in bag" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/fastfood/1997-burgerking-ducky-toy1.jpg" data-lightbox="img" data-title="Burger King Toys in bag">
-        <div class="img-box">
-          <img src="/images/misc/fastfood/1997-burgerking-ducky-toy1.jpg" alt="Burger King Toys in bag" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/fastfood/1997-burgerking-petrie-toy1_orig.jpg" data-lightbox="img" data-title="Burger King Toys in bag">
-        <div class="img-box">
-          <img src="/images/misc/fastfood/1997-burgerking-petrie-toy1_orig.jpg" alt="Burger King Toys in bag" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/fastfood/1997-burgerking-spike-toy1_orig.jpg" data-lightbox="img" data-title="Burger King Toys in bag">
-        <div class="img-box">
-          <img src="/images/misc/fastfood/1997-burgerking-spike-toy1_orig.jpg" alt="Burger King Toys in bag" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/fastfood/bk.png" data-lightbox="img" data-title="Burger King Toys in bag">
-        <div class="img-box">
-          <img src="/images/misc/fastfood/bk.png" alt="Burger King Toys in bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/fastfood/bk.jpg" alt="Toys" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
@@ -348,8 +392,14 @@ An archive of The Land Before Time Fast Food promotional items released over the
 
 <h1 id="dq">Dairy Queen (1998)</h1>
 <details>
-<summary><b>Click here to see their TV ad</b></summary>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VyUu_2_9cdA?si=UjZ0tuPwBCN53kvu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<summary><b>Click here to see their TV ad 📺</b></summary>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/VyUu_2_9cdA?si=UjZ0tuPwBCN53kvu"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 </details>
 <div class="item-table">
   <div class="item-header">
