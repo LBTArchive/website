@@ -29,14 +29,14 @@ An archive of The Land Before Time Fast Food promotional items released over the
     allowfullscreen>
   </iframe>
 </div>
-<div class="responsive-video">
+<div class="responsive-video169">
   <iframe src="https://www.youtube.com/embed/p-39B6V-3y0?si=7s8Z5n8wo4-2lsw1"
     title="YouTube video player" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
 </div>
-<div class="responsive-video">
+<div class="responsive-video169">
   <iframe src="https://www.youtube.com/embed/V2jlvHa4UMA?si=p-5G7BDf8oBJMh_4"
     title="YouTube video player" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

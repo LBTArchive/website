@@ -86,6 +86,27 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Language:</strong> Danish<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt3-familyfeature-565">
+    <div class="item-image">
+      <a href="/images/media/vhs/3/lbt3-familyfeature.jpg" data-lightbox="img" data-title="The Land Before Time III: The Time of the Great Giving">
+        <div class="img-box">
+          <img src="/images/media/vhs/3/lbt3-familyfeature.jpg" alt="The Land Before Time III: The Time of the Great Giving" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/3/lbt3-familyfeature2.jpg" data-lightbox="img" data-title="The Land Before Time III: The Time of the Great Giving">
+        <div class="img-box">
+          <img src="/images/media/vhs/3/lbt3-familyfeature2.jpg" alt="The Land Before Time III: The Time of the Great Giving" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time III: The Time of the Great Giving<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Barcode:</strong> 096898241335<br/>
+      <strong>Notes:</strong> "Family Features" edition<br/>
+    </div>
+  </div>
+
 
   <div class="item-entry">
   <div class="item-image">

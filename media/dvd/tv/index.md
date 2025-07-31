@@ -12,6 +12,32 @@ An archive of The Land Before Time DVDs released over the years.
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
+<div class="item-entry" id="bonusepisodes-563">
+    <div class="item-image">
+      <a href="/images/media/dvd/tv/bonusepisodes.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/tv/bonusepisodes.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/tv/bonusepisodes2.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/tv/bonusepisodes2.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Subtitle:</strong> Bonus 2-Episode TV Series DVD<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Barcode:</strong> 025195006491<br/>
+      <strong>Notes:</strong> "Be the first to see The Land Before Time All-New TV Series. Before it Premieres on Cartoon Network this Spring!"<br/>
+      <strong>Episodes:</strong>
+      <ul>
+      <li>Canyon of the Shiny Stones</li>
+      <li>The Star Day Celebration</li>
+      </ul><br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

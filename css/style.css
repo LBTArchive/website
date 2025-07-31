@@ -246,8 +246,8 @@ h2 {
 
 #backToTopBtn {
   position: fixed;
-  right: 20px; /* 20px inset from the right side*/
-  top: 20px; /* 20px inset from the top */
+  left: 10px; /* 20px inset from the left side*/
+  bottom: 20px; /* 20px inset from the bottom */
   border: none;
   background: transparent;
   z-index: 1000; /* a big number to make it always appear on top */
@@ -261,13 +261,29 @@ h2 {
 
 .responsive-video {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 ratio */
+  padding-bottom: 75%; /* 4:3 ratio */
   height: 0;
   overflow: hidden;
   max-width: 100%;
 }
 
 .responsive-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.responsive-video169 {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.responsive-video169 iframe {
   position: absolute;
   top: 0;
   left: 0;

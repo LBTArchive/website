@@ -239,12 +239,18 @@ Les Long Cous et le cercle de lumière (X)</li></ul>
           <img src="/images/media/dvd/collection/lbt89.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
+      <a href="/images/media/dvd/collection/doublefeature-lbt8-9.jpg" data-lightbox="img" data-title="The Land Before Time Double Feature">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/doublefeature-lbt8-9.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
   </div>
   <div class="item-details">
     <strong>Title:</strong> The Land Before Time Double Feature<br/>
       <strong>Subtitle:</strong> 2 BIG dino-riffic adventures<br/>
       <strong>Year:</strong> 2006<br/>
       <strong>Region:</strong> 1<br/>
+      <strong>Barcode:</strong> 025192972027<br/>
       <strong>Notes:</strong> <ul><li>The Big Freeze (VIII)</li><li>
 Journey to Big Water (IX)</li></ul>
   </div>

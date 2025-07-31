@@ -275,7 +275,10 @@ An archive of The Land Before Time Figurines released over the years.
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Littlefoot and Cera<br/>
+      <strong>Title:</strong> Littlefoot and Cera Caketopper<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Brand:</strong> Universal Studios and U-Drive<br/>
+      <strong>Notes:</strong> The original packaging came with some plastic palm trees for additional decoration, as well as some flower-shaped sprinkles<br/>
     </div>
   </div>
 
