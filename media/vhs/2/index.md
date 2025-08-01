@@ -131,8 +131,38 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
       <strong>Language:</strong> Dutch<br/>
   </div>
 </div>
-
-  <div class="item-entry">
+<div class="item-entry" id="lb2-italian-568">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2-it.jpg" data-lightbox="img" data-title="The Land Before Time II: The Great Valley Adventure">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-it.jpg" alt="The Land Before Time II: The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla Ricerca della Valle Incantata 2<br/>
+      <strong>Subtitle:</strong> Le avventure della Grande Vallata<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Barcode:</strong> 8010773704823<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+  </div>
+<div class="item-entry" id="lbt2-familyfeatures-570">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2-familyfeatures.jpg" data-lightbox="img" data-title="The Land Before Time II: The Great Valley Adventure">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-familyfeatures.jpg" alt="The Land Before Time II: The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time II: The Great Valley Adventure<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Barcode:</strong> 0096898214230<br/>
+      <strong>Notes:</strong> "Family Features" edition<br/>
+    </div>
+  </div>
+<div class="item-entry">
   <div class="item-image">
     <a href="/images/media/vhs/2/sv22.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">
         <div class="img-box">
@@ -151,6 +181,24 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
       <strong>Language:</strong> Swedish<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt2-2001-571">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2-2001.png" data-lightbox="img" data-title="The Land Before Time II: The Great Valley Adventure">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-2001.png" alt="The Land Before Time II: The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/2/lbt2-2001-2.png" data-lightbox="img" data-title="The Land Before Time II: The Great Valley Adventure">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-2001-2.png" alt="The Land Before Time II: The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time II: The Great Valley Adventure<br/>
+      <strong>Year:</strong> 2001<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="lbt2-fr-177">
     <div class="item-image">

@@ -622,6 +622,23 @@ The Big Freeze (VIII)</li><li>
 Journey to Big Water (IX)</li></ul>
   </div>
 </div>
+<div class="item-entry" id="complete-set-de-574">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/complete-set-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/complete-set-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Komplett-Box<br/>
+      <strong>Year:</strong> 2020<br/>
+      <strong>Barcode:</strong> 5053083223472<br/>
+      <strong>Language:</strong> German<br/>
+      <strong>Notes:</strong> All 14 movies<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="completeeverythingde-5">
     <div class="item-image">

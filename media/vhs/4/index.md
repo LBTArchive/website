@@ -45,6 +45,27 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
       <strong>Year:</strong> 1996<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt4signlanguage-566">
+    <div class="item-image">
+      <a href="/images/media/vhs/4/lbt4signlanguage.jpg" data-lightbox="img" data-title="Land Before Time IV: Journey Through the Mists">
+        <div class="img-box">
+          <img src="/images/media/vhs/4/lbt4signlanguage.jpg" alt="Land Before Time IV: Journey Through the Mists" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/4/lbt4signlanguage2.jpg" data-lightbox="img" data-title="Land Before Time IV: Journey Through the Mists">
+        <div class="img-box">
+          <img src="/images/media/vhs/4/lbt4signlanguage2.jpg" alt="Land Before Time IV: Journey Through the Mists" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Land Before Time IV: Journey Through the Mists<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Barcode:</strong> 096898318334<br/>
+      <strong>Notes:</strong> Translated into American Sign Language with Linda Bove from Sesame Streets (Talking Hands Inc.)<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt4-au-512">
     <div class="item-image">
       <a href="/images/media/vhs/4/lbt4-au.jpg" data-lightbox="img" data-title="The Land Before Time IV: Journey Through the Mists">
@@ -177,7 +198,21 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
       <strong>Language:</strong> Danish<br/>
     </div>
   </div>
-
+<div class="item-entry" id="lbt4-au2-572">
+    <div class="item-image">
+      <a href="/images/media/vhs/4/lbt4-au2.jpg" data-lightbox="img" data-title="The Land Before Time IV: Journey Through the Mists">
+        <div class="img-box">
+          <img src="/images/media/vhs/4/lbt4-au2.jpg" alt="The Land Before Time IV: Journey Through the Mists" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time IV: Journey Through the Mists<br/>
+      <strong>Year:</strong> 2006<br/>
+      <strong>Barcode:</strong> 044004467339<br/>
+      <strong>Notes:</strong> Australian version<br/>
+    </div>
+  </div>
 
 
 </div>
