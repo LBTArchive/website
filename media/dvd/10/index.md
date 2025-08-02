@@ -120,13 +120,13 @@ An archive of The Land Before Time DVDs released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
-      <strong>Subtitle:</strong> Die große Reise<br/>
+      <strong>Subtitle:</strong> Die grosse Reise<br/>
       <strong>Year:</strong> 2004<br/>
       <strong>Barcode:</strong> 5050582250862<br/>
       <strong>Language:</strong> German<br/>
+      <strong>Notes:</strong> With reversible cover to hide the FSK mark<br/>
     </div>
   </div>
-
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/10/le-petit-dinosaure-vol-10-les-longs-cous-et-le-cercle-de-la-lumiere-09184704022007_orig.jpg" data-lightbox="img" data-title="Le Petit Dinosaure (X) - Les Long Cous et le Cercle de Lumière">
@@ -206,6 +206,24 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Subtitle:</strong> Den store udvandring<br/>
       <strong>Year:</strong> 2011<br/>
       <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
+
+
+  <div class="item-entry" id="lbt10-de-2011-635">
+    <div class="item-image">
+      <a href="/images/media/dvd/10/lbt10-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/10/lbt10-de-2011.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Das große Reise<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Barcode:</strong> 5050582250862<br/>
+      <strong>Language:</strong> German<br/>
     </div>
   </div>
 

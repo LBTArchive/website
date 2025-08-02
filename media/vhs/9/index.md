@@ -165,6 +165,22 @@ An archive of Journey to Big Water VHS tapes released over the years.
       <strong>Language:</strong> Danish<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt9-de-638">
+    <div class="item-image">
+      <a href="/images/media/vhs/9/lbt9-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/9/lbt9-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Die Reise zum Grossen Wasser<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Barcode:</strong> 5050582081336<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

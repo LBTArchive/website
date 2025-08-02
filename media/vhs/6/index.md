@@ -60,6 +60,22 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
       <strong>Notes:</strong> "The secret of the dinosaur rock"<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt6-de-624">
+    <div class="item-image">
+      <a href="/images/media/vhs/6/lbt6-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 6">
+        <div class="img-box">
+          <img src="/images/media/vhs/6/lbt6-de.jpg" alt="In einem Land vor unserer Zeit 6" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit 6<br/>
+      <strong>Subtitle:</strong> Der geheimnisvolle Berg der Saurier<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Barcode:</strong> 4010884013917<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="lbt6-ja-40">
     <div class="item-image">
@@ -98,6 +114,22 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
       <strong>Title:</strong> Landet for længe siden 6<br/>
       <strong>Year:</strong> 2001<br/>
       <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
+<div class="item-entry" id="lbt6-de-green-623">
+    <div class="item-image">
+      <a href="/images/media/vhs/6/lbt6-de-green.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/6/lbt6-de-green.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Der geheimnisvolle Berg der Saurier<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Barcode:</strong> 04400619243<br/>
+      <strong>Language:</strong> German<br/>
     </div>
   </div>
 

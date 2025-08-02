@@ -77,6 +77,22 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt14-de-644">
+    <div class="item-image">
+      <a href="/images/media/dvd/14/lbt14-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/14/lbt14-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Die Reise der mutigen Saurier-Freunde<br/>
+      <strong>Year:</strong> 2017<br/>
+      <strong>Barcode:</strong> 5053083069964<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
 
 </div>

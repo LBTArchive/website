@@ -77,8 +77,6 @@ th {
 img {
   max-width: 100%;
   object-fit: cover;
-  display: block;
-  margin: 0 auto 10px auto;
   background-color: #222222; /* matches site background */
 }
 

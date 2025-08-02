@@ -347,6 +347,21 @@ Invasion of the Tinysauruses (XI)</li></ul>
     <div class="item-details">
       <strong>Title:</strong> In einem Land vor unserer Zeit 2 + 3<br/>
       <strong>Year:</strong> 2011<br/>
+      <strong>Barcode:</strong> 5050582529234<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+<div class="item-entry" id="de-doublefeature-8-9-610">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/de-doublefeature-8-9.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 8 + 9">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/de-doublefeature-8-9.jpg" alt="In einem Land vor unserer Zeit 8 + 9" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit 8 + 9<br/>
+      <strong>Year:</strong> 2011<br/>
       <strong>Language:</strong> German<br/>
     </div>
   </div>

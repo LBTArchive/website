@@ -139,6 +139,38 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt9-de-639">
+    <div class="item-image">
+      <a href="/images/media/dvd/12/lbt12-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/12/lbt12-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Die große Flugschau<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Barcode:</strong> 5050582435306<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+<div class="item-entry" id="lbt12-de-2011-640">
+    <div class="item-image">
+      <a href="/images/media/dvd/12/lbt12-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/12/lbt12-de-2011.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Die große Flugschau<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Barcode:</strong> 5050582435306<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

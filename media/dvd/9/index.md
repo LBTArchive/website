@@ -95,6 +95,23 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Dutch<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt3-de-636">
+    <div class="item-image">
+      <a href="/images/media/dvd/9/lbt3-de.png" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/9/lbt3-de.png" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Die Reise zum Grossen Wasser<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Barcode:</strong> 5050582014136<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt9-sv-556">
     <div class="item-image">
       <a href="/images/media/dvd/9/lbt9-sv.jpg" data-lightbox="img" data-title="Landet för längesedan 9 - Resan till det stora havet">
@@ -147,6 +164,24 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Danish<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="lbt9-de-2011-637">
+    <div class="item-image">
+      <a href="/images/media/dvd/9/lbt9-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/9/lbt9-de-2011.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Die Reise zum Großen Wasser<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Barcode:</strong> 5050582014136<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt9-sv-2011-364">
     <div class="item-image">
       <a href="/images/media/dvd/9/lbt9-sv-2011.jpg" data-lightbox="img" data-title="Landet för längesedan">

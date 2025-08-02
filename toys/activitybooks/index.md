@@ -138,6 +138,28 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     </div>
   </div>
 
+<div class="item-entry" id="activitytablet-601">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/activitytablet.jpg" data-lightbox="img" data-title="Activity Tablet">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/activitytablet.jpg" alt="Activity Tablet" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/activitytablet2.jpg" data-lightbox="img" data-title="Activity Tablet">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/activitytablet2.jpg" alt="Activity Tablet" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Activity Tablet<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+      <strong>Barcode:</strong> 0769608272<br/>
+      <strong>Notes:</strong> Massive coloring book<br/>
+    </div>
+  </div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/coloringbookandcrayons.jpg" data-lightbox="img" data-title="The Land Before Time: Coloring and Activity Book and Crayons">

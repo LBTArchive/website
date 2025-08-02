@@ -42,6 +42,23 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
     </div>
   </div>
+  <div class="item-entry" id="lbt4-de-616">
+    <div class="item-image">
+      <a href="/images/media/dvd/4/lbt4-de.png" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/4/lbt4-de.png" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Im Tal des Nebels<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 505082280432<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt4-dk-300">
     <div class="item-image">
       <a href="/images/media/dvd/4/lbt4-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
@@ -89,6 +106,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt4-de-2011-617">
+    <div class="item-image">
+      <a href="/images/media/dvd/4/lbt4-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/4/lbt4-de-2011.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Im Tal des Nebels<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Barcode:</strong> 5050582280432<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">

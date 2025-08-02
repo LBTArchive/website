@@ -438,6 +438,9 @@ An archive of The Land Before Time books released over the years. These books al
       <strong>ISBN:</strong> 9783897556324<br/>
       <strong>Language:</strong> German<br/>
       <strong>Notes:</strong> "The Land Before Time - The Big Journey"<br/>
+      <a href="https://archive.org/details/ineinemlandvorun0000unse/mode/2up" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
 

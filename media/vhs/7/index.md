@@ -94,6 +94,23 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
       <strong>Notes:</strong> "The cold fire stone"<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt7-de-628">
+    <div class="item-image">
+      <a href="/images/media/vhs/7/lbt7-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/7/lbt7-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Der geheimnisvolle Zauberstein<br/>
+      <strong>Year:</strong> 2000<br/>
+      <strong>Barcode:</strong> 3259190265233<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt7-dk-orange-303">
     <div class="item-image">
       <a href="/images/media/vhs/7/lbt7-dk-orange.jpg" data-lightbox="img" data-title="Landet for længe siden">
@@ -126,6 +143,22 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
       <strong>Title:</strong> Le Petit Dinosaure - La Pierre de Feu<br/>
       <strong>Year:</strong> 2003<br/>
       <strong>Language:</strong> French<br/>
+    </div>
+  </div>
+<div class="item-entry" id="lbt7-de-orange-629">
+    <div class="item-image">
+      <a href="/images/media/vhs/7/lbt7-de-orange.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/7/lbt7-de-orange.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Der geheimnisvolle Zauberstein<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Barcode:</strong> 3259190265233<br/>
+      <strong>Language:</strong> German<br/>
     </div>
   </div>
 

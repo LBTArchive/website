@@ -40,8 +40,13 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time: Activity Center<br/>
       <strong>Platform:</strong> Macintosh<br/>
       <strong>Year:</strong> 1997<br/>
+      <a href="https://archive.org/details/lbt1997" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
+
+
 
 <div class="item-entry" id="activitycenter1">
     <div class="item-image">
@@ -66,6 +71,9 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Notes:</strong> Included with the <a href="/media/vhs/other#singalongsongs-140">Sing Along Songs VHS tape</a><br/>
+      <a href="https://archive.org/details/The_Land_Before_Time_Activity_Center_Reissue_USA/" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
     </div>
   </div>
 
@@ -81,6 +89,9 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time: Kindergarten Adventure<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1998<br/>
+      <a href="https://archive.org/details/lbtkind" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
 
@@ -164,14 +175,14 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/kindergartenadventure-it.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata - Avventura per i più piccoli">
+    <a href="/images/media/videogames/kindergartenadventure-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata - Avventura per i più piccoli">
         <div class="img-box">
-          <img src="/images/media/videogames/kindergartenadventure-it.jpg" alt="Alle ricercar della valle incantata - Avventura per i più piccoli" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/kindergartenadventure-it.jpg" alt="Alle ricerca della valle incantata - Avventura per i più piccoli" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Alle ricercar della valle incantata - Avventura per i più piccoli<br/>
+    <strong>Title:</strong> Alle ricerca della valle incantata - Avventura per i più piccoli<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1998<br/>
       <strong>Language:</strong> Italian<br/>
@@ -179,14 +190,14 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata - Avventura per i più piccoli">
+    <a href="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata - Avventura per i più piccoli">
         <div class="img-box">
-          <img src="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" alt="Alle ricercar della valle incantata - Avventura per i più piccoli" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" alt="Alle ricerca della valle incantata - Avventura per i più piccoli" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Alle ricercar della valle incantata - Avventura per i più piccoli<br/>
+    <strong>Title:</strong> Alle ricerca della valle incantata - Avventura per i più piccoli<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1998<br/>
       <strong>Language:</strong> Italian<br/>
@@ -206,6 +217,9 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time: Animated Movie Book<br/>
       <strong>Platform:</strong> Windows<br/>
       <strong>Year:</strong> 1998<br/>
+      <a href="https://archive.org/details/TheLandBeforeTimeMovieBook" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
 <div class="item-entry">
@@ -225,14 +239,14 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/lavventuracontinua.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata - L'Avventura Continua">
+    <a href="/images/media/videogames/lavventuracontinua.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata - L'Avventura Continua">
         <div class="img-box">
-          <img src="/images/media/videogames/lavventuracontinua.jpg" alt="Alle ricercar della valle incantata - L'Avventura Continua" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/lavventuracontinua.jpg" alt="Alle ricerca della valle incantata - L'Avventura Continua" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Alle ricercar della valle incantata - L'Avventura Continua<br/>
+    <strong>Title:</strong> Alle ricerca della valle incantata - L'Avventura Continua<br/>
       <strong>Platform:</strong> Windows<br/>
       <strong>Year:</strong> 1998<br/>
       <strong>Language:</strong> Italian<br/>
@@ -277,14 +291,14 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/mathadventure-it.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata - avventura con i numeri">
+    <a href="/images/media/videogames/mathadventure-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata - avventura con i numeri">
         <div class="img-box">
-          <img src="/images/media/videogames/mathadventure-it.jpg" alt="Alle ricercar della valle incantata - avventura con i numeri" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/mathadventure-it.jpg" alt="Alle ricerca della valle incantata - avventura con i numeri" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Alle ricercar della valle incantata - avventura con i numeri<br/>
+    <strong>Title:</strong> Alle ricerca della valle incantata - avventura con i numeri<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1998<br/>
       <strong>Language:</strong> Italian<br/>
@@ -303,6 +317,9 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time: Toddler Time<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1999<br/>
+      <a href="https://archive.org/details/lbt-toddler-time_202304" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
 
@@ -319,6 +336,9 @@ The Land Before Time series released several educational games. They also releas
       <strong>Subtitle:</strong> Avontuur voor de allerkleinsten<br/>
       <strong>Year:</strong> 1999<br/>
       <strong>Language:</strong> Dutch<br/>
+      <a href="https://archive.org/details/PlavoetAvontuurAllerkleinsten" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
     </div>
   </div>
 <div class="item-entry" id="abenteuerfurkinderimvorschulalter-311">
@@ -364,6 +384,9 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time: Dinosaur Arcade<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 2000<br/>
+      <a href="https://archive.org/details/lbt-dino-arcade" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
 <div class="item-entry">
@@ -378,6 +401,9 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time - Return to the Great Valley<br/>
       <strong>Platform:</strong> PlayStation<br/>
       <strong>Year:</strong> 2000<br/>
+      <a href="https://archive.org/details/psx_landbtim" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
 
@@ -422,9 +448,9 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/returntothegreatvalley-it.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata - Ritorno alla Grande Vallata">
+    <a href="/images/media/videogames/returntothegreatvalley-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata - Ritorno alla Grande Vallata">
         <div class="img-box">
-          <img src="/images/media/videogames/returntothegreatvalley-it.jpg" alt="Alle ricercar della valle incantata - Ritorno alla Grande Vallata" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/returntothegreatvalley-it.jpg" alt="Alle ricerca della valle incantata - Ritorno alla Grande Vallata" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -450,6 +476,9 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time<br/>
       <strong>Platform:</strong> Gameboy Color<br/>
       <strong>Year:</strong> 2001<br/>
+      <a href="https://archive.org/details/landbeforetime" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
 
@@ -487,14 +516,14 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gbc-it.jpg" data-lightbox="img" data-title="Alle ricercar della valle incantata">
+    <a href="/images/media/videogames/gbc-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata">
         <div class="img-box">
-          <img src="/images/media/videogames/gbc-it.jpg" alt="Alle ricercar della valle incantata" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/gbc-it.jpg" alt="Alle ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Alle ricercar della valle incantata<br/>
+    <strong>Title:</strong> Alle ricerca della valle incantata<br/>
       <strong>Platform:</strong> Gameboy Color<br/>
       <strong>Year:</strong> 2001<br/>
       <strong>Language:</strong> Italian<br/>
@@ -513,6 +542,9 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time - Great Valley Racing Adventure<br/>
       <strong>Platform:</strong> PlayStation<br/>
       <strong>Year:</strong> 2001<br/>
+      <a href="https://archive.org/details/psx_landbtrc" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
 
@@ -558,6 +590,12 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time<br/>
       <strong>Platform:</strong> Gameboy Advance<br/>
       <strong>Year:</strong> 2002<br/>
+      <a href="https://archive.org/details/thelandbeforetime" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
+      <a href="https://archive.org/details/the-land-before-time-eur-manual/mode/2up" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item's manual on archive.org
+      </a>
   </div>
 </div>
 <div class="item-entry">
@@ -604,6 +642,9 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time - Big Water Adventure<br/>
       <strong>Platform:</strong> PlayStation<br/>
       <strong>Year:</strong> 2002<br/>
+      <a href="https://archive.org/details/Lbtbwa" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
 <div class="item-entry">
@@ -624,6 +665,12 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 2004<br/>
       <strong>Notes:</strong> The product is a 3-CD re-release bundle of two previously released titles in the franchise: The Land Before Time: Kindergarten Adventure and The Land Before Time: Preschool Adventure, and also includes a new bonus CD and two printed card games, for off-computer use.<br/>
+      <a href="https://archive.org/details/lbtkind_20250613" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
+      <a href="https://archive.org/details/the-land-before-time-three-pack-manual" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item's manual on archive.org
+      </a>
   </div>
 </div>
 
@@ -655,6 +702,9 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time - Into the Mysterious Beyond<br/>
       <strong>Platform:</strong> Gameboy Advance<br/>
       <strong>Year:</strong> 2006<br/>
+      <a href="https://archive.org/details/mysteriousbeyond" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
   </div>
 </div>
 

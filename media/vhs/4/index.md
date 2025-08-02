@@ -87,6 +87,22 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
       Included a <a href="/misc/stickers/#lbt4sticker-511"> promotional sticker</a>
     </div>
   </div>
+<div class="item-entry" id="lbt4-de-1996-614">
+    <div class="item-image">
+      <a href="/images/media/vhs/4/lbt4-de-1996.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 4">
+        <div class="img-box">
+          <img src="/images/media/vhs/4/lbt4-de-1996.jpg" alt="In einem Land vor unserer Zeit 4" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit 4<br/>
+      <strong>Subtitle:</strong> Im Tal des Nebels<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Barcode:</strong> 4010884008531<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
   <div class="item-entry" id="lbt4-ja-37">
     <div class="item-image">
@@ -158,6 +174,22 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
       <strong>Notes:</strong> "The unforgettable journey"<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt4-de-612">
+    <div class="item-image">
+      <a href="/images/media/vhs/4/lbt4-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/4/lbt4-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Im Tal des Nebels<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Barcode:</strong> 3259190239432<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">

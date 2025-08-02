@@ -44,6 +44,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt2-de-604">
+    <div class="item-image">
+      <a href="/images/media/dvd/2/lbt2-de.png" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/2/lbt2-de.png" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Das Abenteuer im grossen Tal<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 5050582280418<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 <div class="item-entry" id="lbt2-dk-298">
     <div class="item-image">
       <a href="/images/media/dvd/2/lbt2-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
@@ -89,7 +105,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Region:</strong> 3<br/>
   </div>
 </div>
-
+<div class="item-entry" id="lbt2-de-2011-605">
+    <div class="item-image">
+      <a href="/images/media/dvd/2/lbt2-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/2/lbt2-de-2011.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Das Abenteuer im grossen Tal<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Barcode:</strong> 5050582280418<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/2/lbt2-sv-2011.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">

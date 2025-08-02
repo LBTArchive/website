@@ -123,6 +123,20 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Notes:</strong> Australian Version<br/>
     </div>
   </div>
+<div class="item-entry" id="VHS1-screener-599">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/VHS1-screener.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/VHS1-screener.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Subtitle:</strong> Screening Cassette<br/>
+      <strong>Year:</strong> 1989<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -163,6 +177,37 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Notes:</strong> Pizza Hut Promo<br/>
     </div>
   </div>
+  <div class="item-entry" id="lbt1-de-1989-647">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-de-1989.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-de-1989.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Barcode:</strong> 4010884000627<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="lbt1-de-1993-645">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-de-1993.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-de-1993.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Year:</strong> 1993<br/>
+      <strong>Barcode:</strong> 4010884000627<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -197,7 +242,21 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Notes:</strong> Cardboard sleeve<br/>
     </div>
   </div>
-
+<div class="item-entry" id="lbt1-de-unknown-648">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-de-unknown.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-de-unknown.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Year:</strong>1999?<br/>
+      <strong>Barcode:</strong> 044004467735<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/vhs/1/lbt1-swedish-vhs2.jpg" data-lightbox="img" data-title="Landet för längesedan">
@@ -285,6 +344,20 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Title:</strong> Landet for længe siden<br/>
       <strong>Year:</strong> 2001<br/>
       <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
+<div class="item-entry" id="lbt1-de-2001-646">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-de-2001.png" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-de-2001.png" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Language:</strong> German<br/>
     </div>
   </div>
 

@@ -44,6 +44,23 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt6-de-622">
+    <div class="item-image">
+      <a href="/images/media/dvd/6/lbt6-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/6/lbt6-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Der geheimnisvolle Berg der Saurier<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 5050582280463<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt6-dk-299">
     <div class="item-image">
       <a href="/images/media/dvd/6/lbt6-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
@@ -92,9 +109,9 @@ An archive of The Land Before Time DVDs released over the years.
 </div>
 <div class="item-entry" id="lbt6-de-579">
     <div class="item-image">
-      <a href="/images/media/dvd/6/lbt6-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+      <a href="/images/media/dvd/6/lbt6-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/dvd/6/lbt6-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/media/dvd/6/lbt6-de-2011.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>

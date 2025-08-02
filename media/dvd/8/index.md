@@ -89,6 +89,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt8-de-631">
+    <div class="item-image">
+      <a href="/images/media/dvd/8/lbt8-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/8/lbt8-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Der erste Schnee<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Barcode:</strong> 3259190272910<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="lbt8-ja-2005-33">
     <div class="item-image">
@@ -135,6 +151,23 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Region:</strong> 2<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt8-de-2011-630">
+    <div class="item-image">
+      <a href="/images/media/dvd/8/lbt8-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/8/lbt8-de-2011.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Der erste Schnee<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Barcode:</strong> 3259190272910<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/8/lbt8-swedish-dvd.jpg" data-lightbox="img" data-title="Landet för längesedan - När isen kom">

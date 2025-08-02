@@ -138,8 +138,14 @@ Next to the songs and the soundtrack there were audioplays/audiobooks of The Lan
     <strong>Title:</strong> Sing Along Songs<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Language:</strong> Dutch/French<br/>
-      <strong>Notes:</strong> This is in fact a DVD with songs from the 1st to 4th movie. Also released on VHS.
+      <strong>Notes:</strong> This is in fact a DVD with songs from the 1st to 4th movie. Also released on VHS.<br/>
 It is the only place where the Dutch version of If We Hold on Together can be heard.<br/>
+<a href="https://archive.org/details/platvoet-en-zijn-vriendjes-sing-along-songs" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org (Dutch)
+      </a>
+      <a href="https://archive.org/details/le-petit-dinosaure-en-chansons" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org (French)
+      </a>
   </div>
 </div>
 

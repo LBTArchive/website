@@ -10,6 +10,7 @@ An archive of The Land Before Time Fast Food promotional items released over the
 <a href="#ph">Pizza Hut (1988-1989)</a><br/>
 <a href="#bk">Burger King (1997)</a><br/>
 <a href="#dq">Dairy Queen (1998)</a><br/>
+<a href="#sbarro">Sbarro (2002)</a><br/>
 <a href="#wendy">Wendy's (2003)</a>
 
 <h1 id="ph">Pizza Hut (1988-1989)</h1>
@@ -454,6 +455,37 @@ An archive of The Land Before Time Fast Food promotional items released over the
     </div>
   </div>
 </div>
+
+<h1 id="sbarro">Sbarro (2002)</h1>
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
+  </div>
+<div class="item-entry" id="sbarro-5426">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/sbarro1.jpg" data-lightbox="img" data-title="Sbarro Activity Books">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/sbarro1.jpg" alt="Sbarro Activity Books" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/sbarro2.jpg" data-lightbox="img" data-title="Sbarro Activity Books">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/sbarro2.jpg" alt="Sbarro Activity Books" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Sbarro Activity Books<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Notes:</strong> 3 titles known, please <a href="/guestbook/">let us know</a> if you know more information about the 4th booklet
+      <ul>
+      <li>Cera's Fun and Games</li>
+      <li>Littlefoot's Big Adventure</li>
+      <li>Untitled Spike booklet</li>
+      </ul>
+    </div>
+  </div>
 
 <h1 id="wendy">Wendy's (2003)</h1>
 <div class="item-table">

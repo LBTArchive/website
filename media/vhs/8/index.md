@@ -114,6 +114,22 @@ An archive of The Big Freeze VHS tapes released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="lbt8-de-632">
+    <div class="item-image">
+      <a href="/images/media/vhs/8/lbt8-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/8/lbt8-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Der erste Schnee<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Barcode:</strong> 3259190715431<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">

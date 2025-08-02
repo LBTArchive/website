@@ -12,6 +12,20 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
+<div class="item-entry" id="lbt1-4-US-1998-600">
+    <div class="item-image">
+      <a href="/images/media/vhs/collections/lbt1-4-US-1998.jpg" data-lightbox="img" data-title="The Land Before Time Collector's Set">
+        <div class="img-box">
+          <img src="/images/media/vhs/collections/lbt1-4-US-1998.jpg" alt="The Land Before Time Collector's Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time Collector's Set<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Notes:</strong> With movies 1-4<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="lbt4-5nl-304">
     <div class="item-image">

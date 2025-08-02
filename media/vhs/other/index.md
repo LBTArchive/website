@@ -77,6 +77,22 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
       <strong>Language:</strong> French<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt1-de-unknown-649">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-de-unknown.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-de-unknown.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Sing mit und hab' Spass<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Barcode:</strong> 4010884012026<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
 
   <div class="item-entry" id="singalong-sv-142">

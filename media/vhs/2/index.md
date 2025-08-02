@@ -162,25 +162,7 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
       <strong>Notes:</strong> "Family Features" edition<br/>
     </div>
   </div>
-<div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/vhs/2/sv22.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">
-        <div class="img-box">
-          <img src="/images/media/vhs/2/sv22.jpg" alt="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-      <a href="/images/media/vhs/2/sv2.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">
-        <div class="img-box">
-          <img src="/images/media/vhs/2/sv2.jpg" alt="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen<br/>
-      <strong>Year:</strong> 2000<br/>
-      <strong>Language:</strong> Swedish<br/>
-  </div>
-</div>
+
 <div class="item-entry" id="lbt2-2001-571">
     <div class="item-image">
       <a href="/images/media/vhs/2/lbt2-2001.png" data-lightbox="img" data-title="The Land Before Time II: The Great Valley Adventure">
@@ -197,6 +179,22 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time II: The Great Valley Adventure<br/>
       <strong>Year:</strong> 2001<br/>
+    </div>
+  </div>
+<div class="item-entry" id="lbt2-de-2001-603">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2-de-2001.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-de-2001.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Das Abenteuer im grossen Tal<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Barcode:</strong> 329190239234<br/>
+      <strong>Language:</strong> German<br/>
     </div>
   </div>
 

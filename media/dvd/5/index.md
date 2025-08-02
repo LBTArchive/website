@@ -66,6 +66,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt5-de-618">
+    <div class="item-image">
+      <a href="/images/media/dvd/5/lbt5-de.png" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+        <div class="img-box">
+          <img src="/images/media/dvd/5/lbt5-de.png" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
+      <strong>Subtitle:</strong> Die geheimnisvolle Insel<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 5050582280449<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="lbt5-ja-35">
     <div class="item-image">

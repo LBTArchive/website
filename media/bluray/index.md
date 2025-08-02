@@ -41,4 +41,21 @@ An archive of The Land Before Time Blu-Ray Discs released over the years.
       <strong>Region:</strong> A<br/>
       <strong>Notes:</strong> Canadian version<br/>
   </div>
+
+  <div class="item-entry" id="lbt1-bluray-de-611">
+    <div class="item-image">
+      <a href="/images/media/bluray/lbt1-bluray-de.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/bluray/lbt1-bluray-de.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Year:</strong> 2015<br/>
+      <strong>Barcode:</strong> 5053083175856<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+  </div>
+
 </div>
