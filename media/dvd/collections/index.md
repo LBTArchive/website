@@ -90,6 +90,25 @@ The Stone of Cold Fire (VII)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
+    <a href="/images/media/dvd/collection/2mysteriesbeyondthegreatvalley-canada.jpg" data-lightbox="img" data-title="The Land Before Time Double Feature">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/2mysteriesbeyondthegreatvalley-canada.jpg" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Land Before Time Double Feature<br/>
+      <strong>Subtitle:</strong> 2 Mysteries Beyond the Great Valley<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Region:</strong> 1<br/>
+      <strong>Notes:</strong> <ul><li>The Secret of Saurus Rock (VI)</li><li>
+The Stone of Cold Fire (VII)</li></ul></br>
+Canadian version
+  </div>
+</div>
+
+<div class="item-entry">
+  <div class="item-image">
     <a href="/images/media/dvd/collection/lbt1-2dutchdvd2005_orig.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
         <div class="img-box">
           <img src="/images/media/dvd/collection/lbt1-2dutchdvd2005_orig.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy">
@@ -253,6 +272,30 @@ Les Long Cous et le cercle de lumière (X)</li></ul>
       <strong>Barcode:</strong> 025192972027<br/>
       <strong>Notes:</strong> <ul><li>The Big Freeze (VIII)</li><li>
 Journey to Big Water (IX)</li></ul>
+  </div>
+</div>
+
+<div class="item-entry" id="doublefeature-10-11-29382">
+  <div class="item-image">
+    <a href="/images/media/dvd/collection/doublefeature10-11.png" data-lightbox="img" data-title="The Land Before Time Double Feature">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/doublefeature10-11.png" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/dvd/collection/doublefeature10-11-2.png" data-lightbox="img" data-title="The Land Before Time Double Feature">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/doublefeature10-11-2.png" alt="The Land Before Time Double Feature" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Land Before Time Double Feature<br/>
+      <strong>Subtitle:</strong> 2 Tales of Discovery & Friendship<br/>
+      <strong>Year:</strong> 2006<br/>
+      <strong>Region:</strong> 1<br/>
+      <strong>Barcode:</strong> 025192972126<br/>
+      <strong>Notes:</strong> <ul><li>The Great Longneck Migration</li><li>
+Invasion of the Tinysauruses</li></ul>
   </div>
 </div>
 
