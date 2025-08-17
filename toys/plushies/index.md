@@ -317,8 +317,8 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Littlefoot<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Brand:</strong> ?<br/>
-      <strong>Size:</strong> ?<br/>
+      <strong>Brand:</strong> Kellytoy<br/>
+      <strong>Size:</strong> 12"<br/>
     </div>
   </div>
 <div class="item-entry" id="25984_orig-67">
@@ -559,10 +559,26 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Cera<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Brand:</strong> ?<br/>
+      <strong>Brand:</strong> Kellytoy<br/>
       <strong>Size:</strong> 9 inch / 23 cm<br/>
     </div>
   </div>
+  <div class="item-entry" id="cera-kellytoy-656">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-kellytoy.jpg" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-kellytoy.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Kellytoy<br/>
+      <strong>Barcode:</strong> 13"<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="cera-equity1997-5inch-75">
     <div class="item-image">
       <a href="/images/toys/plushies/cera-equity1997-5inch.jpg" data-lightbox="img" data-title="Cera">
@@ -576,6 +592,21 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 6 inch / 15 cm<br/>
+    </div>
+  </div>
+  <div class="item-entry" id="cera-toynetwork-75232">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-toynetwork.jpg" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-toynetwork.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> Toy Network<br/>
+      <strong>Size:</strong> ?<br/>
     </div>
   </div>
   <div class="item-entry" id="cera-toynetwork-eyelash-118">
@@ -710,6 +741,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+<div class="item-entry" id="ducky-kellytoy-657">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ducky-kellytoy.jpg" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ducky-kellytoy.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Kellytoy<br/>
+      <strong>Barcode:</strong> 12"<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="duckyplushie-81">
     <div class="item-image">
       <a href="/images/toys/plushies/duckyplushie.jpg" data-lightbox="img" data-title="Ducky">
@@ -780,9 +827,9 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
     <div class="item-details">
       <strong>Title:</strong> Ducky<br/>
-      <strong>Year:</strong> ?<br/>
+      <strong>Year:</strong> 1996 or 1998<br/>
       <strong>Brand:</strong> Toy Network<br/>
-      <strong>Size:</strong> ?<br/>
+      <strong>Size:</strong> 15 inch<br/>
     </div>
   </div>
 <div class="item-entry" id="duckytoynetowk-imsorry-119">
@@ -1077,6 +1124,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+<div class="item-entry" id="spike-kellytoys-651">
+    <div class="item-image">
+      <a href="/images/toys/plushies/spike-kellytoys.jpg" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/spike-kellytoys.jpg" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> Kellytoy<br/>
+      <strong>Size:</strong> ?<br/>
+    </div>
+  </div>
+
   
   <div class="item-entry" id="spike-toynetwork-heart_orig-96">
     <div class="item-image">
@@ -1106,6 +1169,21 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 14 inch / 36 cm<br/>
+    </div>
+  </div>
+<div class="item-entry" id="spike-toynetwork-wrongeyes-658">
+    <div class="item-image">
+      <a href="/images/toys/plushies/spike-toynetwork-wrongeyes.jpg" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/spike-toynetwork-wrongeyes.jpg" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Barcode:</strong> 12"<br/>
     </div>
   </div>
 
@@ -1302,6 +1380,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+  <div class="item-entry" id="chomper-playmates-2007-7inch-655">
+    <div class="item-image">
+      <a href="/images/toys/plushies/chomper-playmates-2007-7inch.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-playmates-2007-7inch.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Playmates<br/>
+      <strong>Barcode:</strong> 7"<br/>
+    </div>
+  </div>
+
+
 <div class="item-entry" id="chomper-toynetwork-7inch_orig-102">
     <div class="item-image">
       <a href="/images/toys/plushies/chomper-toynetwork-7inch_orig.jpg" data-lightbox="img" data-title="Chomper with Sing Along Songs DVD">
@@ -1318,6 +1413,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+<div class="item-entry" id="chomper-toynetwork-whatever-653">
+    <div class="item-image">
+      <a href="/images/toys/plushies/chomper-toynetwork-whatever.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-toynetwork-whatever.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Barcode:</strong> 12"<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="chomper-easter-195">
     <div class="item-image">
       <a href="/images/toys/plushies/chomper-easter.jpg" data-lightbox="img" data-title="Chomper">
@@ -1330,6 +1441,27 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Publisher:</strong> Toy Network<br/>
+    </div>
+  </div>
+
+  <div class="item-entry" id="chomper-easter-196">
+    <div class="item-image">
+      <a href="/images/toys/plushies/chomper-12inch-toynetwork-easter.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-12inch-toynetwork-easter.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/chomper-12inch-toynetwork-easter-back.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-12inch-toynetwork-easter-back.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Year:</strong> ?<br/>      
+      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Notes:</strong> 12 inches<br/>
     </div>
   </div>
 

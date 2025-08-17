@@ -18,3 +18,5 @@ Please check out the various categories of miscellaneous items:
 [Stationary](/misc/stationary/)  
 [Stickers](/misc/stickers/)  
 [Tableware](/misc/tableware/)  
+
+[Everything else](/misc/misc/)  

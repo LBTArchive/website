@@ -41,7 +41,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Macintosh<br/>
       <strong>Year:</strong> 1997<br/>
       <a href="https://archive.org/details/lbt1997" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
   </div>
 </div>
@@ -71,8 +71,9 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Notes:</strong> Included with the <a href="/media/vhs/other#singalongsongs-140">Sing Along Songs VHS tape</a><br/>
+      Only contains two of the minigames: coloring book and bramble maze.
       <a href="https://archive.org/details/The_Land_Before_Time_Activity_Center_Reissue_USA/" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
     </div>
   </div>
@@ -90,7 +91,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1998<br/>
       <a href="https://archive.org/details/lbtkind" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
   </div>
 </div>
@@ -218,7 +219,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Windows<br/>
       <strong>Year:</strong> 1998<br/>
       <a href="https://archive.org/details/TheLandBeforeTimeMovieBook" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
   </div>
 </div>
@@ -318,7 +319,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1999<br/>
       <a href="https://archive.org/details/lbt-toddler-time_202304" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
   </div>
 </div>
@@ -337,7 +338,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Year:</strong> 1999<br/>
       <strong>Language:</strong> Dutch<br/>
       <a href="https://archive.org/details/PlavoetAvontuurAllerkleinsten" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
     </div>
   </div>
@@ -385,7 +386,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 2000<br/>
       <a href="https://archive.org/details/lbt-dino-arcade" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
   </div>
 </div>
@@ -402,7 +403,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> PlayStation<br/>
       <strong>Year:</strong> 2000<br/>
       <a href="https://archive.org/details/psx_landbtim" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
   </div>
 </div>
@@ -477,7 +478,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Gameboy Color<br/>
       <strong>Year:</strong> 2001<br/>
       <a href="https://archive.org/details/landbeforetime" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
   </div>
 </div>
@@ -543,7 +544,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> PlayStation<br/>
       <strong>Year:</strong> 2001<br/>
       <a href="https://archive.org/details/psx_landbtrc" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
   </div>
 </div>
@@ -591,10 +592,10 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Gameboy Advance<br/>
       <strong>Year:</strong> 2002<br/>
       <a href="https://archive.org/details/thelandbeforetime" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
       <a href="https://archive.org/details/the-land-before-time-eur-manual/mode/2up" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item's manual on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item's manual on archive.org
       </a>
   </div>
 </div>
@@ -643,7 +644,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> PlayStation<br/>
       <strong>Year:</strong> 2002<br/>
       <a href="https://archive.org/details/Lbtbwa" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
   </div>
 </div>
@@ -666,10 +667,10 @@ The Land Before Time series released several educational games. They also releas
       <strong>Year:</strong> 2004<br/>
       <strong>Notes:</strong> The product is a 3-CD re-release bundle of two previously released titles in the franchise: The Land Before Time: Kindergarten Adventure and The Land Before Time: Preschool Adventure, and also includes a new bonus CD and two printed card games, for off-computer use.<br/>
       <a href="https://archive.org/details/lbtkind_20250613" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
       <a href="https://archive.org/details/the-land-before-time-three-pack-manual" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item's manual on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item's manual on archive.org
       </a>
   </div>
 </div>
@@ -703,7 +704,7 @@ The Land Before Time series released several educational games. They also releas
       <strong>Platform:</strong> Gameboy Advance<br/>
       <strong>Year:</strong> 2006<br/>
       <a href="https://archive.org/details/mysteriousbeyond" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;" loading="lazy"> Link to this item on archive.org
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
   </div>
 </div>
