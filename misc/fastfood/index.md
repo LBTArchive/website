@@ -8,6 +8,7 @@ title: Fast Food promotional items
 An archive of The Land Before Time Fast Food promotional items released over the years.
 
 <a href="#ph">Pizza Hut (1988-1989)</a><br/>
+<a href="#mc">McDonalds (1994)</a><br/>
 <a href="#bk">Burger King (1997)</a><br/>
 <a href="#dq">Dairy Queen (1998)</a><br/>
 <a href="#sbarro">Sbarro (2002)</a><br/>
@@ -256,9 +257,72 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <strong>Year:</strong> 1988<br/>
     </div>
   </div>
-
 </div>
 
+<h1 id="mc">McDonalds (1994)</h1>
+<details>
+<summary><b>Click here to see their TV ads 📺</b></summary>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/iIPk9ug1yAw?si=a-FOpsSpQILRP5OA"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>  
+</div>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/QGf9c5GPHnE?si=ZyshxeGiGeghewn4"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/N0lAgL-Monk?si=DsKqt_awP7Vhg9Ri"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+</details>
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
+  </div>
+<div class="item-entry" id="Mcdonalds-512346">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/McDonalds1.jpg" data-lightbox="img" data-title="McDonalds VHS tape">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/McDonalds1.jpg" alt="McDonalds VHS tape" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/McDonalds2.jpg" data-lightbox="img" data-title="McDonalds VHS tape">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/McDonalds2.jpg" alt="McDonalds VHS tape" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> McDonalds VHS tape<br/>
+      <strong>Year:</strong> 1994<br/>
+      <strong>Notes:</strong> See the above TV ads for more information on this promotion<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="Mcdonalds-5122346">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/McDonalds3.jpg" data-lightbox="img" data-title="McDonalds VHS tape">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/McDonalds3.jpg" alt="McDonalds VHS tape" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> McDonalds Holiday Film Fest<br/>
+      <strong>Year:</strong> 1994<br/>
+      <strong>Notes:</strong> Pictures from inside the restaurant back in 1994<br/>
+    </div>
+</div>
 
 <h1 id="bk">Burger King (1997)</h1>
 <details>

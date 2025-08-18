@@ -49,11 +49,11 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Notes:</strong> With ads and cutouts for The Land Before Time II<br/>
     </div>
 </div>
-<div class="item-entry" id="ineinemlandvorunsererzeitmetalbox2007-668">
+<div class="item-entry" id="inflatablesharptooth2000rinco-668">
     <div class="item-image">
-      <a href="/images/misc/ineinemlandvorunsererzeitmetalbox2007.jpg" data-lightbox="img" data-title="Green inflatable Sharptooth">
+      <a href="/images/misc/inflatablesharptooth2000rinco.jpg" data-lightbox="img" data-title="Green inflatable Sharptooth">
         <div class="img-box">
-          <img src="/images/misc/ineinemlandvorunsererzeitmetalbox2007.jpg" alt="Green inflatable Sharptooth" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/inflatablesharptooth2000rinco.jpg" alt="Green inflatable Sharptooth" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
