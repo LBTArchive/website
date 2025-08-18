@@ -442,6 +442,18 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Title:</strong> Fabric<br/>
     </div>
   </div>
+<div class="item-entry" id="lbtdress-672">
+    <div class="item-image">
+      <a href="/images/misc/clothing/lbtdress.png" data-lightbox="img" data-title="Dress">
+        <div class="img-box">
+          <img src="/images/misc/clothing/lbtdress.png" alt="Dress" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Dress<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="sleeve-things-littlefoot-426">
     <div class="item-image">

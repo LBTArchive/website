@@ -209,6 +209,26 @@ An archive of The Land Before Time VHS tapes released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="Mcdonalds-512346">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/McDonalds1.jpg" data-lightbox="img" data-title="McDonalds VHS tape">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/McDonalds1.jpg" alt="McDonalds VHS tape" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/McDonalds2.jpg" data-lightbox="img" data-title="McDonalds VHS tape">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/McDonalds2.jpg" alt="McDonalds VHS tape" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> McDonalds VHS tape<br/>
+      <strong>Year:</strong> 1994<br/>
+      <strong>Notes:</strong> See <a href="/misc/fastfood/#mc">this page</a> for more information<br/>
+    </div>
+  </div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/vhs/1/lbt1-english-clamshell.jpg" data-lightbox="img" data-title="The Land Before Time">
@@ -242,6 +262,26 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Notes:</strong> Cardboard sleeve<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt1-ja-674">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-ja.png" data-lightbox="img" data-title="リトルフット">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-ja.png" alt="リトルフット" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-ja-2.png" data-lightbox="img" data-title="リトルフット">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-ja-2.png" alt="リトルフット" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> リトルフット<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Language:</strong> Japanese<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt1-de-unknown-648">
     <div class="item-image">
       <a href="/images/media/vhs/1/lbt1-de-unknown.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">

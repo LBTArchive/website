@@ -28,6 +28,26 @@ An archive of The Land Before Time DVDs released over the years.
             <strong>Notes:</strong> Walmart Exclusive<br/>
   </div>
 </div>
+<div class="item-entry" id="ja-670">
+    <div class="item-image">
+      <a href="/images/media/dvd/14/ja.png" data-lightbox="img" data-title="リトルフット 大恐竜帝国">
+        <div class="img-box">
+          <img src="/images/media/dvd/14/ja.png" alt="リトルフット 大恐竜帝国" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/14/jaback.png" data-lightbox="img" data-title="リトルフット 大恐竜帝国">
+        <div class="img-box">
+          <img src="/images/media/dvd/14/jaback.png" alt="リトルフット 大恐竜帝国" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> リトルフット 大恐竜帝国<br/>
+      <strong>Year:</strong> 2016<br/>
+      <strong>Barcode:</strong> 4547286008635<br/>
+      <strong>Language:</strong> Japanese<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">

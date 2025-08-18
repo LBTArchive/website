@@ -26,6 +26,21 @@ An archive of The Land Before Time Buttons, keychains and pins released over the
       <strong>Notes:</strong> Showing Littlefoot as a baby<br/>
     </div>
   </div>
+  <div class="item-entry" id="1988littlefoot-675">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/1988littlefoot.png" data-lightbox="img" data-title="Littlefoot Button">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/1988littlefoot.png" alt="Littlefoot Button" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot Button<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Language:</strong> Japanese<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="1988littlehatchling-blue-262">
     <div class="item-image">
       <a href="/images/misc/buttons and pins/1988littlehatchling-blue.jpg" data-lightbox="img" data-title="Land Before Time Pin">
@@ -95,6 +110,22 @@ An archive of The Land Before Time Buttons, keychains and pins released over the
       <strong>Notes:</strong> "Get Stuck on Stamps"- Littlefoot. To promote dinosaur stamps<br/>
     </div>
   </div>
+<div class="item-entry" id="Japanese Cer aPin-671">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/Japanese Cer aPin.png" data-lightbox="img" data-title="リトルフットの大冒険">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/Japanese Cer aPin.png" alt="リトルフットの大冒険" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> リトルフットの大冒険<br/>
+      <strong>Subtitle:</strong> 謎の恐竜大陸<br/>
+      <strong>Language:</strong> Japanese<br/>
+      <strong>Notes:</strong> Probably released along with The Land Before Time II: The Great Valley Adventure<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="9225574_orig-215">
     <div class="item-image">
       <a href="/images/toys/figures/9225574_orig.jpg" data-lightbox="img" data-title="Keychains and non-keychains">
@@ -340,5 +371,26 @@ An archive of The Land Before Time Buttons, keychains and pins released over the
       <strong>Year:</strong> ?<br/>
     </div>
   </div>
+
+<div class="item-entry" id="littlefootkeychain-677">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/littlefootkeychain.png" data-lightbox="img" data-title="Littlefoot Keychain">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/littlefootkeychain.png" alt="Littlefoot Keychain" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/buttons and pins/littlefootkeychain2.png" data-lightbox="img" data-title="Littlefoot Keychain">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/littlefootkeychain2.png" alt="Littlefoot Keychain" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot Keychain<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Barcode:</strong> 4979866623370<br/>
+      <strong>Language:</strong> Japanese<br/>
+    </div>
+</div>
 
   </div>

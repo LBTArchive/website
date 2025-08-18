@@ -112,7 +112,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Littlefoot<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> Gund<br/>
+      <strong>Brand:</strong> Gund<br/>
       <strong>Notes:</strong> J.C. Penney Store Display. Normal sized Gund plushie next to it for scale.<br/>
     </div>
   </div>
@@ -131,6 +131,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Brand:</strong> Equity Toys<br/>
       <strong>Size:</strong> 8 inch/20 cm<br/>
       <strong>Notes:</strong> Flop-A-Saurus<br/>
+    </div>
+  </div>
+
+  <div class="item-entry" id="littlefoot-equity-flop-6inch-63">
+    <div class="item-image">
+      <a href="/images/toys/plushies/littlefoot-equity-flop-6inch.jpg" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefoot-equity-flop-6inch.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Brand:</strong> Equity Toys<br/>
+      <strong>Size:</strong> 6 inch<br/>
+      <strong>Notes:</strong> Mini Pal - Flop-A-Saurus (Blockbuster Exclusive)<br/>
     </div>
   </div>
 
@@ -161,10 +178,26 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Littlefoot<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Kids of America<br/>
+      <strong>Brand:</strong> Kids of America<br/>
       <strong>Notes:</strong> 9 inch<br/>
     </div>
   </div>
+<div class="item-entry" id="1988littlefoot-676">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/1988littlefoot.png" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/1988littlefoot.png" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Brand:</strong> ALGOS Corporation<br/>
+      <strong>Language:</strong> Japanese<br/>
+      <strong>Notes:</strong> 21 cm<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="littlefoot-sweden-363">
     <div class="item-image">
       <a href="/images/toys/plushies/littlefoot-sweden.jpg" data-lightbox="img" data-title="Littlefoot">
@@ -175,7 +208,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
     <div class="item-details">
       <strong>Title:</strong> Littlefoot<br/>
-      <strong>Publisher:</strong> Applause<br/>
+      <strong>Brand:</strong> Applause<br/>
     </div>
   </div>
 
@@ -189,7 +222,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
     <div class="item-details">
       <strong>Title:</strong> Littlefoot<br/>
-      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Brand:</strong> Toy Network<br/>
     </div>
   </div>
 
@@ -435,7 +468,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Cera<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> ?<br/>
+      <strong>Brand:</strong> ?<br/>
     </div>
   </div>
 
@@ -450,7 +483,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Cera<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Publisher:</strong> Best Made Toys<br/>
+      <strong>Brand:</strong> Best Made Toys<br/>
       <strong>Notes:</strong> 28 inches<br/>
     </div>
   </div>
@@ -466,7 +499,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Cera<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Simba Toys<br/>
+      <strong>Brand:</strong> Simba Toys<br/>
       <strong>Notes:</strong> 40 cm<br/>
     </div>
   </div>
@@ -574,8 +607,8 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Cera<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Publisher:</strong> Kellytoy<br/>
-      <strong>Barcode:</strong> 13"<br/>
+      <strong>Brand:</strong> Kellytoy<br/>
+      <strong>Size:</strong> 13"<br/>
     </div>
   </div>
 
@@ -736,7 +769,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Ducky<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> Equity Toys<br/>
+      <strong>Brand:</strong> Equity Toys<br/>
       <strong>Notes:</strong> 14 inches/35 cm<br/>
     </div>
   </div>
@@ -752,8 +785,8 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Ducky<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Publisher:</strong> Kellytoy<br/>
-      <strong>Barcode:</strong> 12"<br/>
+      <strong>Brand:</strong> Kellytoy<br/>
+      <strong>Size:</strong> 12"<br/>
     </div>
   </div>
 
@@ -1182,8 +1215,8 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Spike<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Publisher:</strong> Toy Network<br/>
-      <strong>Barcode:</strong> 12"<br/>
+      <strong>Brand:</strong> Toy Network<br/>
+      <strong>Size:</strong> 12"<br/>
     </div>
   </div>
 
@@ -1313,7 +1346,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Publisher:</strong> ?<br/>
+      <strong>Brand:</strong> ?<br/>
       <strong>Notes:</strong> 8 inch<br/>
     </div>
   </div>
@@ -1391,8 +1424,8 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Playmates<br/>
-      <strong>Barcode:</strong> 7"<br/>
+      <strong>Brand:</strong> Playmates<br/>
+      <strong>Size:</strong> 7"<br/>
     </div>
   </div>
 
@@ -1424,8 +1457,8 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Publisher:</strong> Toy Network<br/>
-      <strong>Barcode:</strong> 12"<br/>
+      <strong>Brand:</strong> Toy Network<br/>
+      <strong>Size:</strong> 12"<br/>
     </div>
   </div>
 
@@ -1440,7 +1473,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Brand:</strong> Toy Network<br/>
     </div>
   </div>
 
@@ -1460,7 +1493,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> ?<br/>      
-      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Brand:</strong> Toy Network<br/>
       <strong>Notes:</strong> 12 inches<br/>
     </div>
   </div>
@@ -1476,7 +1509,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> 1995<br/>
-      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Brand:</strong> Toy Network<br/>
       <strong>Notes:</strong> 8 inches<br/>
     </div>
   </div>
