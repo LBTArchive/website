@@ -237,6 +237,63 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Notes:</strong> "The Land Before Time" <br />
   </div>
 </div>
+
+  <div class="item-entry" id="dinosaurfun-679">
+    <div class="item-image">
+      <a href="/images/media/books/dinosaurfun.jpg" data-lightbox="img" data-title="Dinosaur Fun">
+        <div class="img-box">
+          <img src="/images/media/books/dinosaurfun.jpg" alt="Dinosaur Fun" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Dinosaur Fun<br/>
+      <strong>Notes:</strong> Part 1 of the "Newly Hatched Series" cardboard books<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="everybodyisdifferent-681">
+    <div class="item-image">
+      <a href="/images/media/books/everybodyisdifferent.jpg" data-lightbox="img" data-title="Everybody is Different">
+        <div class="img-box">
+          <img src="/images/media/books/everybodyisdifferent.jpg" alt="Everybody is Different" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Everybody is Different<br/>
+      <strong>Notes:</strong> Part 2 of the "Newly Hatched Series" cardboard books<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="theadventure-682">
+    <div class="item-image">
+      <a href="/images/media/books/theadventure.jpg" data-lightbox="img" data-title="The Adventure">
+        <div class="img-box">
+          <img src="/images/media/books/theadventure.jpg" alt="The Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Adventure<br/>
+      <strong>Notes:</strong> Part 3 of the "Newly Hatched Series" cardboard books<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="overandunder-678">
+    <div class="item-image">
+      <a href="/images/media/books/overandunder.jpg" data-lightbox="img" data-title="Over and Under">
+        <div class="img-box">
+          <img src="/images/media/books/overandunder.jpg" alt="Over and Under" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Over and Under<br/>
+      <strong>Notes:</strong> Part 4 of the "Newly Hatched Series" cardboard books<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/grandpaandme.jpg" data-lightbox="img" data-title="Grandpa and me">

@@ -257,6 +257,70 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <strong>Year:</strong> 1988<br/>
     </div>
   </div>
+
+<div class="item-entry" id="ph-betamax-686">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/ph-betamax.jpg" data-lightbox="img" data-title="The Land Before Time Betamax">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ph-betamax.jpg" alt="The Land Before Time Betamax" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time Betamax<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Notes:</strong> With promotional sticker and leaflet for "Free Pizza Hut pizza mail in offer"<br/>
+    </div>
+</div>
+
+  <div class="item-entry" id="ph-vhs-sticker-685">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/ph-vhs-sticker.jpg" data-lightbox="img" data-title="The Land Before Time VHS">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ph-vhs-sticker.jpg" alt="The Land Before Time VHS" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time VHS<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Notes:</strong> With promotional sticker and leaflet for "Free Pizza Hut pizza mail in offer"<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="lbt1-pizzahut-148">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-pizzahut.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-pizzahut.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-pizzahut2.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-pizzahut2.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time VHS<br/>
+      <strong>Year:</strong> 1989<br/>
+    </div>
+  </div>
+<div class="item-entry" id="ph-cardboarddisplay-687">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/ph-cardboarddisplay.jpg" data-lightbox="img" data-title="Cardboard promotional sign in relief">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ph-cardboarddisplay.jpg" alt="Cardboard promotional sign in relief" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cardboard promotional sign in relief<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Notes:</strong> 13 x 17 inches<br/>
+    </div>
+</div>
+
 </div>
 
 <h1 id="mc">McDonalds (1994)</h1>

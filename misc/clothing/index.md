@@ -12,6 +12,42 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
+
+  <div class="item-entry" id="bedding1988-373">
+    <div class="item-image">
+      <a href="/images/misc/clothing/bedding1988.png" data-lightbox="img" data-title="Bedding">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bedding1988.png" alt="Bedding" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/bedding1988new.jpg" data-lightbox="img" data-title="bed">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bedding1988new.jpg" alt="bed" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/bedding1988new2.jpg" data-lightbox="img" data-title="bed">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bedding1988new2.jpg" alt="bed" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/bedding1988new3.jpg" data-lightbox="img" data-title="bed">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bedding1988new3.jpg" alt="bed" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/bedding1988zoom.jpg" data-lightbox="img" data-title="bed">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bedding1988zoom.jpg" alt="bed" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Bedding<br/>
+      <strong>Year:</strong> 1987/1988<br/>
+      <strong>Notes:</strong> From J.C. Penney<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="landbeforetimepromoshirt-550">
     <div class="item-image">
       <a href="/images/misc/clothing/landbeforetimepromoshirt.jpg" data-lightbox="img" data-title="The Land Before Time movie promo shirt">
@@ -23,7 +59,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time movie promo shirt<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> Screen Stars Best<br/>
+      <strong>Brand:</strong> Screen Stars Best<br/>
     </div>
   </div>
 
@@ -38,9 +74,40 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Littlefoot T-shirt<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
     </div>
   </div>
+
+<div class="item-entry" id="lbtdress-6722">
+    <div class="item-image">
+      <a href="/images/misc/clothing/lbtdress2.png" data-lightbox="img" data-title="Dress">
+        <div class="img-box">
+          <img src="/images/misc/clothing/lbtdress2.png" alt="Dress" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Dress<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="1988littlefootstamp-688">
+    <div class="item-image">
+      <a href="/images/misc/clothing/1988littlefootstamp.jpg" data-lightbox="img" data-title="Littlefoot 5c stamp T-shirt">
+        <div class="img-box">
+          <img src="/images/misc/clothing/1988littlefootstamp.jpg" alt="Littlefoot 5c stamp T-shirt" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot 5c stamp T-shirt<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
+    </div>
+</div>
+
   <div class="item-entry" id="1988jcpenneylittlefoot-450">
     <div class="item-image">
       <a href="/images/misc/clothing/1988jcpenneylittlefoot.png" data-lightbox="img" data-title="Littlefoot Pajama top">
@@ -52,7 +119,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Littlefoot Pajama top<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
     </div>
   </div>
 <div class="item-entry" id="1988jcpenneycera2-451">
@@ -66,7 +133,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Cera Longsleeve Shirt<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
     </div>
   </div>
 
@@ -81,7 +148,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Littlefoot Pajamas<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
     </div>
   </div>
   <div class="item-entry" id="jcpenney1988-384">
@@ -95,7 +162,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time T-shirt<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
     </div>
   </div>
   <div class="item-entry" id="1988jcpenneysweaterred-445">
@@ -109,7 +176,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time sweater<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
     </div>
   </div>
 
@@ -124,7 +191,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Land Before Time Sweater<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
     </div>
   </div>
 
@@ -139,7 +206,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Pink T-shirt<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
     </div>
   </div>
 <div class="item-entry" id="1988jcpenneycera-431">
@@ -153,7 +220,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Cera T-shirt<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
     </div>
   </div>
 
@@ -197,34 +264,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Notes:</strong> Promotional Item<br/>
     </div>
   </div>
-<div class="item-entry" id="bedding1988-373">
-    <div class="item-image">
-      <a href="/images/misc/clothing/bedding1988.png" data-lightbox="img" data-title="Bedding">
-        <div class="img-box">
-          <img src="/images/misc/clothing/bedding1988.png" alt="Bedding" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/clothing/bedding1988new.jpg" data-lightbox="img" data-title="bed">
-        <div class="img-box">
-          <img src="/images/misc/clothing/bedding1988new.jpg" alt="bed" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/clothing/bedding1988new2.jpg" data-lightbox="img" data-title="bed">
-        <div class="img-box">
-          <img src="/images/misc/clothing/bedding1988new2.jpg" alt="bed" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/clothing/bedding1988new3.jpg" data-lightbox="img" data-title="bed">
-        <div class="img-box">
-          <img src="/images/misc/clothing/bedding1988new3.jpg" alt="bed" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Bedding<br/>
-      <strong>Year:</strong> 1988<br/>
-    </div>
-  </div>
+
 
 <div class="item-entry" id="pillowcase1988-374">
     <div class="item-image">
@@ -430,18 +470,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Year:</strong> 1997<br/>
     </div>
   </div>
-<div class="item-entry" id="fabric-422">
-    <div class="item-image">
-      <a href="/images/misc/clothing/fabric.jpg" data-lightbox="img" data-title="Fabric">
-        <div class="img-box">
-          <img src="/images/misc/clothing/fabric.jpg" alt="Fabric" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Fabric<br/>
-    </div>
-  </div>
+
 <div class="item-entry" id="lbtdress-672">
     <div class="item-image">
       <a href="/images/misc/clothing/lbtdress.png" data-lightbox="img" data-title="Dress">
@@ -454,6 +483,8 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Title:</strong> Dress<br/>
     </div>
 </div>
+
+
 
 <div class="item-entry" id="sleeve-things-littlefoot-426">
     <div class="item-image">
@@ -478,7 +509,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time Quartz Analog Watches<br/>
       <strong>Year:</strong> 2000<br/>
-      <strong>Publisher:</strong> Armitron<br/>
+      <strong>Brand:</strong> Armitron<br/>
     </div>
   </div>
 
@@ -492,7 +523,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     </div>
     <div class="item-details">
       <strong>Title:</strong> D is for Dinosaur<br/>
-      <strong>Publisher:</strong> Hot Topic<br/>
+      <strong>Brand:</strong> Hot Topic<br/>
     </div>
   </div>
   <div class="item-entry" id="lbthottopic-424">
@@ -505,7 +536,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     </div>
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time T-shirt<br/>
-      <strong>Publisher:</strong> Hot Topic<br/>
+      <strong>Brand:</strong> Hot Topic<br/>
     </div>
   </div>
 <div class="item-entry" id="straps-427">
@@ -547,7 +578,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     </div>
     <div class="item-details">
       <strong>Title:</strong> Baseball Hat<br/>
-      <strong>Publisher:</strong> Dumbgood<br/>
+      <strong>Brand:</strong> Dumbgood<br/>
     </div>
   </div>
 
@@ -561,7 +592,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     </div>
     <div class="item-details">
       <strong>Title:</strong> T-shirt<br/>
-      <strong>Publisher:</strong> Ripple Junction<br/>
+      <strong>Brand:</strong> Ripple Junction<br/>
     </div>
   </div>
 
@@ -586,7 +617,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time Backpack<br/>
       <strong>Year:</strong> 2023<br/>
-      <strong>Publisher:</strong> Loungefly<br/>
+      <strong>Brand:</strong> Loungefly<br/>
     </div>
   </div>
 
@@ -738,7 +769,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Visit the Great Valley Shirt<br/>
       <strong>Year:</strong> 2023-2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="idigdinos-409">
@@ -752,7 +783,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> I Dig Dinos T-shirt<br/>
       <strong>Year:</strong> 2023-2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 
@@ -816,7 +847,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Woven Top<br/>
       <strong>Year:</strong> 2023-2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025littlefootflowers2-412">
@@ -830,7 +861,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Littlefoot with Flowers T-shirt<br/>
       <strong>Year:</strong> 2023-2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025globalwarming-413">
@@ -844,7 +875,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Let's Prevent Global Warming T-shirt<br/>
       <strong>Year:</strong> 2023-2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunchkeepitgreen-414">
@@ -858,7 +889,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Keep It Green T-shirt<br/>
       <strong>Year:</strong> 2023-2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunchsisforspike-415">
@@ -872,7 +903,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> S is for Spike T-shirt<br/>
       <strong>Year:</strong> 2023-2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunchswing-416">
@@ -886,7 +917,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Swinging T-shirt<br/>
       <strong>Year:</strong> 2023-2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="greybabylittlefootshirt-417">
@@ -900,7 +931,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Baby Littlefoot T-shirt<br/>
       <strong>Year:</strong> 2023-2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunchbutterflies-418">
@@ -914,7 +945,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Butterflies T-shirt<br/>
       <strong>Year:</strong> 2023-2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 
@@ -929,7 +960,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Cera bubble background<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025chomper-390">
@@ -943,7 +974,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Chomper T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025cisforcera-391">
@@ -957,7 +988,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> C is for Cera T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025ducky-392">
@@ -971,7 +1002,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Ducky T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025littlefootbubbles-393">
@@ -985,7 +1016,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Littlefoot in bubble T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025littlefootflowers-396">
@@ -999,7 +1030,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Littlefoot in square T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025pisforpetrie-397">
@@ -1013,7 +1044,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> P is for Petrie T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025sisforspike-398">
@@ -1027,7 +1058,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> S is for Spike T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025spike-399">
@@ -1041,7 +1072,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Spike T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025springvibes-400">
@@ -1055,7 +1086,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Spring Vibes T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunch2025tree-401">
@@ -1069,7 +1100,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunchgreatvalley2025-402">
@@ -1083,7 +1114,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> The Great Valley Sweatshirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunchlbt2025-403">
@@ -1097,7 +1128,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunchlbtsunset2025-404">
@@ -1111,7 +1142,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time Sweatshirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 <div class="item-entry" id="boxlunchlisforlittlefoot2025-405">
@@ -1125,7 +1156,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> L is for Littlefoot T-shirt<br/>
       <strong>Year:</strong> 2025<br/>
-      <strong>Publisher:</strong> Boxlunch<br/>
+      <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
 

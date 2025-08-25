@@ -80,7 +80,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Title:</strong> Littlefoot<br/>
       <strong>Year:</strong> 1988<br/>
       <strong>Brand:</strong> J.C. Penney<br/>
-      <strong>Size:</strong> 16 inch/41cm<br/>
+      <strong>Size:</strong> Reports vary from 16 inch/41cm to 21 inch/53cm<br/>
     </div>
   </div>
 
@@ -116,6 +116,26 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> J.C. Penney Store Display. Normal sized Gund plushie next to it for scale.<br/>
     </div>
   </div>
+<div class="item-entry" id="1995-littlefoot-689">
+    <div class="item-image">
+      <a href="/images/toys/plushies/1995-littlefoot.jpg" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/1995-littlefoot.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/1995-littlefoot2.jpg" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/1995-littlefoot2.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Year:</strong> 1995<br/>
+      <strong>Brand:</strong> Universal Studios Hollywood<br/>
+      <strong>Size:</strong> 14-24 inches<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="littlefoot-equity-flop-8inch_orig-63">
     <div class="item-image">
@@ -184,9 +204,9 @@ An archive of The Land Before Time Plushies released over the years. If you want
   </div>
 <div class="item-entry" id="1988littlefoot-676">
     <div class="item-image">
-      <a href="/images/misc/buttons and pins/1988littlefoot.png" data-lightbox="img" data-title="Littlefoot">
+      <a href="/images/toys/plushies/Littlefootalgos.png" data-lightbox="img" data-title="Littlefoot">
         <div class="img-box">
-          <img src="/images/misc/buttons and pins/1988littlefoot.png" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/toys/plushies/Littlefootalgos.png" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
@@ -422,6 +442,21 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 14 inch / 36 cm<br/>
     </div>
   </div>
+<div class="item-entry" id="1995-cera-691">
+    <div class="item-image">
+      <a href="/images/toys/plushies/1995-cera.jpg" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/1995-cera.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> 1995<br/>
+      <strong>Brand:</strong> Universal Studios Hollywood<br/>
+      <strong>Size:</strong> 14-24 inches<br/>
+    </div>
+</div>
 
   <div class="item-entry" id="cera-flopasaurus-131">
     <div class="item-image">
@@ -1124,6 +1159,35 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+<div class="item-entry" id="1995-spike-690">
+    <div class="item-image">
+      <a href="/images/toys/plushies/1995-spike.jpg" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/1995-spike.jpg" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike<br/>
+      <strong>Year:</strong> 1995<br/>
+      <strong>Brand:</strong> Universal Studios Hollywood<br/>
+      <strong>Size:</strong> 14-24 inches<br/>
+    </div>
+</div>
+<div class="item-entry" id="spike-1996-693">
+    <div class="item-image">
+      <a href="/images/toys/plushies/spike-1996.jpg" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/spike-1996.jpg" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike<br/>
+      <strong>Year:</strong> 1996<br/>
+    </div>
+</div>
+
   <div class="item-entry" id="Spike-flopasaurus-129">
     <div class="item-image">
       <a href="/images/toys/plushies/Spike-flopasaurus.jpg" data-lightbox="img" data-title="Spike">
@@ -1170,6 +1234,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Kellytoy<br/>
       <strong>Size:</strong> ?<br/>
+    </div>
+  </div>
+
+  <div class="item-entry" id="spike-kellytoys2-651">
+    <div class="item-image">
+      <a href="/images/toys/plushies/spike-kellytoys-8inch.jpg" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/spike-kellytoys-8inch.jpg" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> Kellytoy<br/>
+      <strong>Size:</strong> 8 in<br/>
     </div>
   </div>
 
@@ -1232,7 +1312,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Title:</strong> Spike<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
-      <strong>Size:</strong> ?<br/>
+      <strong>Size:</strong> 12 inches<br/>
     </div>
   </div>
 <div class="item-entry" id="spike-toynetwork-halloween2-121">
@@ -1334,6 +1414,27 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> Flop-a-saurus + minipal (Blockbuster Exclusive)<br/>
     </div>
   </div>
+
+<div class="item-entry" id="italiansingingchomper-692">
+    <div class="item-image">
+      <a href="/images/toys/plushies/italiansingingchomper.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/italiansingingchomper.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/italiansingingchomper2.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/italiansingingchomper2.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Brand:</strong> Giochi Preziosi<br/>
+      <strong>Notes:</strong> Sings the Italian version of Peaceful Valley<br/>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/cmKL9j9g7nA?si=m_l_DjVCRZF_oAAF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
 
 <div class="item-entry" id="chomper-8inch-194">
     <div class="item-image">
@@ -1593,7 +1694,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Ali<br/>
       <strong>Year:</strong> 1995<br/>
-      <strong>Brand:</strong> ?<br/>
+      <strong>Brand:</strong> Universal Studios Hollywood<br/>
       <strong>Size:</strong> 24 inch / 61 cm<br/>
       <strong>Notes:</strong> Thanks to RainbowFaceProtege for the picture<br/>
     </div>

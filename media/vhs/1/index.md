@@ -174,7 +174,7 @@ An archive of The Land Before Time VHS tapes released over the years.
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time<br/>
       <strong>Year:</strong> 1989<br/>
-      <strong>Notes:</strong> Pizza Hut Promo<br/>
+      <strong>Notes:</strong> Pizza Hut Promo. Click <a href="/misc/fastfood#ph">here</a> for more information. <br/>
     </div>
   </div>
   <div class="item-entry" id="lbt1-de-1989-647">
