@@ -11,6 +11,7 @@ An archive of The Land Before Time Fast Food promotional items released over the
 <a href="#mc">McDonalds (1994)</a><br/>
 <a href="#bk">Burger King (1997)</a><br/>
 <a href="#dq">Dairy Queen (1998)</a><br/>
+<a href="#ljs">Long John Silver's (1999)</a><br/>
 <a href="#sbarro">Sbarro (2002)</a><br/>
 <a href="#wendy">Wendy's (2003)</a>
 
@@ -583,6 +584,74 @@ An archive of The Land Before Time Fast Food promotional items released over the
     </div>
   </div>
 </div>
+
+<h1 id="ljs">Long John Silver's (1999)</h1>
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
+  </div>
+<div class="item-entry" id="ljs-backside-695">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/ljs-friendshipdecoder.jpg" data-lightbox="img" data-title="Friendship Decoder & Adventure Playsheet">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ljs-friendshipdecoder.jpg" alt="Friendship Decoder & Adventure Playsheet" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/ljs-backside.jpg" data-lightbox="img" data-title="Friendship Decoder & Adventure Playsheet">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ljs-backside.jpg" alt="Friendship Decoder & Adventure Playsheet" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>      
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Friendship Decoder & Adventure Playsheet<br/>
+      <strong>Subtitle:</strong> Prehistoric Bug Finder<br/>
+      <strong>Year:</strong> 1999<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="ljs-bookmark-696">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/ljs-bookmark.jpg" data-lightbox="img" data-title="Bookmark">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ljs-bookmark.jpg" alt="Bookmark" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Bookmark<br/>
+      <strong>Year:</strong> 1999<br/>
+    </div>
+</div>
+<div class="item-entry" id="ljs-justhatchedlenticular-697">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/ljs-justhatchedlenticular.jpg" data-lightbox="img" data-title="Just Hatched Lenticular with plastic clip">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ljs-justhatchedlenticular.jpg" alt="Just Hatched Lenticular with plastic clip" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Just Hatched Lenticular with plastic clip<br/>
+      <strong>Year:</strong> 1999<br/>
+    </div>
+</div>
+<div class="item-entry" id="ljs-magicslate-698">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/ljs-magicslate.jpg" data-lightbox="img" data-title="Magic Slate">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ljs-magicslate.jpg" alt="Magic Slate" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Magic Slate<br/>
+      <strong>Subtitle:</strong> Learn to draw Littlefoot<br/>
+      <strong>Year:</strong> 1999<br/>
+    </div>
+</div>
+
 
 <h1 id="sbarro">Sbarro (2002)</h1>
 <div class="item-table">

@@ -136,7 +136,7 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Year:</strong> 1988<br/>
       <strong>Publisher:</strong> Merchandising München / Quelle<br/>
       <strong>Language:</strong> German<br/>
-      <strong>Notes:</strong> Found in a promotional leaflet<br/>
+      <strong>Notes:</strong> Found in a <a href="/misc/ads/consumers#germanad1988quellekatalog-702">Quelle toy magazine<a/><br/>
     </div>
   </div>
   <div class="item-entry" id="littlefootandpetriegerman1988-496">

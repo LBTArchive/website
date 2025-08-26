@@ -380,6 +380,16 @@ The Land Before Time series released several educational games. They also releas
           <img src="/images/media/videogames/dinosaurarcade3d3.jpg" alt="The Land Before Time: Dinosaur Arcade" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
+      <a href="/images/media/videogames/dinosaurarcade3d-bigbox.jpg" data-lightbox="img" data-title="The Land Before Time: Dinosaur Arcade">
+        <div class="img-box">
+          <img src="/images/media/videogames/dinosaurarcade3d-bigbox.jpg" alt="The Land Before Time: Dinosaur Arcade" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/videogames/dinosaurarcade3d-bigbox2.jpg" data-lightbox="img" data-title="The Land Before Time: Dinosaur Arcade">
+        <div class="img-box">
+          <img src="/images/media/videogames/dinosaurarcade3d-bigbox2.jpg" alt="The Land Before Time: Dinosaur Arcade" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
   </div>
   <div class="item-details">
     <strong>Title:</strong> The Land Before Time: Dinosaur Arcade<br/>

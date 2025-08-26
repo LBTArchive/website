@@ -187,7 +187,7 @@ An archive of The Land Before Time Cassettes released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> A German Audioplay consisting of 3 cassette tapes. <br />
-      <strong>Year:</strong> ? <br />
+      <strong>Year:</strong> 2000 <br />
       <strong>Language:</strong> German <br />
     </div>
   </div>

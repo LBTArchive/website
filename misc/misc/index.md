@@ -115,6 +115,19 @@ An archive of The Land Before Time items released over the years that did not fi
     </div>
 </div>
 
+<div class="item-entry" id="3D-magnets-collection-706">
+    <div class="item-image">
+      <a href="/images/misc/3D-magnets-collection.png" data-lightbox="img" data-title="3D Magnets Collection">
+        <div class="img-box">
+          <img src="/images/misc/3D-magnets-collection.png" alt="3D Magnets Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 3D Magnets Collection<br/>
+      <strong>Publisher:</strong> Sweet<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="airrings-662">
     <div class="item-image">
@@ -132,7 +145,7 @@ An archive of The Land Before Time items released over the years that did not fi
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time Arm Rings<br/>
       <strong>Barcode:</strong> 049022157965<br/>
-      <strong>Notes:</strong> floaties<br/>
+      <strong>Notes:</strong> Floaties<br/>
     </div>
 </div>
 
