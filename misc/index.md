@@ -14,7 +14,6 @@ Please check out the various categories of miscellaneous items:
 [Home Decor](/misc/home/)  
 [Party supplies](/misc/partytime/)  
 [Phone cards](/misc/phonecards/)  
-[Posters](/misc/posters/)  
 [Stationary](/misc/stationary/)  
 [Stickers](/misc/stickers/)  
 [Tableware](/misc/tableware/)  

@@ -13,34 +13,45 @@ An archive of The Land Before Time Tableware released over the years.
     <div class="item-details"><strong>Details</strong></div>
   </div>
 
-  <div class="item-entry" id="universalstudiosmug1988_orig-45">
+<div class="item-entry" id="plate1988-158">
     <div class="item-image">
       <a href="/images/misc/tableware/universalstudiosmug1988_orig.jpg" data-lightbox="img" data-title="Mug">
         <div class="img-box">
           <img src="/images/misc/tableware/universalstudiosmug1988_orig.jpg" alt="Mug" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Mug<br/>
-      <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> Universal Studios<br/>
-    </div>
-  </div>
-<div class="item-entry" id="plate1988-158">
-    <div class="item-image">
       <a href="/images/misc/tableware/plate1988.jpg" data-lightbox="img" data-title="Plate">
         <div class="img-box">
           <img src="/images/misc/tableware/plate1988.jpg" alt="Plate" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/tableware/1988-bowl.jpg" data-lightbox="img" data-title="Plate">
+        <div class="img-box">
+          <img src="/images/misc/tableware/1988-bowl.jpg" alt="Plate" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Plate<br/>
+      <strong>Title:</strong> Mug, Plate and Bowl<br/>
       <strong>Year:</strong> 1988<br/>
       <strong>Publisher:</strong> Universal Studios<br/>
     </div>
   </div>
+
+<div class="item-entry" id="1988-cutlery-750">
+    <div class="item-image">
+      <a href="/images/misc/tableware/1988-cutlery.jpg" data-lightbox="img" data-title="Cutlery">
+        <div class="img-box">
+          <img src="/images/misc/tableware/1988-cutlery.jpg" alt="Cutlery" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Children's Fork and Spoon<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="ceramug-sv-367">
     <div class="item-image">
       <a href="/images/misc/tableware/ceramug-sv.jpg" data-lightbox="img" data-title="Landet för längesedan - Cera Mug">
@@ -133,6 +144,11 @@ An archive of The Land Before Time Tableware released over the years.
           <img src="/images/misc/tableware/childrenforkandspoon1996.png" alt="Children's Fork and Spoon" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/tableware/1996-cutlery.jpg" data-lightbox="img" data-title="Children's Fork and Spoon">
+        <div class="img-box">
+          <img src="/images/misc/tableware/1996-cutlery.jpg" alt="Children's Fork and Spoon" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Children's Fork and Spoon<br/>
@@ -180,6 +196,21 @@ An archive of The Land Before Time Tableware released over the years.
       <strong>Notes:</strong> Came with a white lid<br/>
     </div>
   </div>
+
+<div class="item-entry" id="1997-ceraspooon-751">
+    <div class="item-image">
+      <a href="/images/misc/tableware/1997-ceraspooon.jpg" data-lightbox="img" data-title="Cera Spoon">
+        <div class="img-box">
+          <img src="/images/misc/tableware/1997-ceraspooon.jpg" alt="Cera Spoon" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera Spoon<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Notes:</strong> If you have more information about this spoon, please let us know.<br/>
+    </div>
+</div>
 
   <div class="item-entry" id="dennycup-58">
     <div class="item-image">

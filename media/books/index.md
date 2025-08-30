@@ -139,6 +139,20 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>ISBN:</strong> 978-0448093510 <br />
   </div>
 </div>
+<div class="item-entry" id="1988littlefootsnewfriends-776">
+    <div class="item-image">
+      <a href="/images/media/books/1988littlefootsnewfriends.jpg" data-lightbox="img" data-title="Littlefoot's New Friends">
+        <div class="img-box">
+          <img src="/images/media/books/1988littlefootsnewfriends.jpg" alt="Littlefoot's New Friends" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot's New Friends<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/sheetmusic.jpg" data-lightbox="img" data-title="If We Hold on Together - Sheet Music">
@@ -220,6 +234,20 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Notes:</strong> "The Land Before Time" <br />
   </div>
 </div>
+<div class="item-entry" id="3Dadventurecomic-774">
+    <div class="item-image">
+      <a href="/images/media/books/3Dadventurecomic.jpg" data-lightbox="img" data-title="3D Adventure Comic">
+        <div class="img-box">
+          <img src="/images/media/books/3Dadventurecomic.jpg" alt="3D Adventure Comic" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 3D Adventure Comic<br/>
+      <strong>Year:</strong> 1996<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/de_1996_1.png" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
@@ -240,6 +268,11 @@ An archive of The Land Before Time books released over the years. These books al
 
   <div class="item-entry" id="dinosaurfun-679">
     <div class="item-image">
+    <a href="/images/media/books/newlyhatched.png" data-lightbox="img" data-title="Dinosaur Fun">
+        <div class="img-box">
+          <img src="/images/media/books/newlyhatched.png" alt="Dinosaur Fun" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
       <a href="/images/media/books/dinosaurfun.jpg" data-lightbox="img" data-title="Dinosaur Fun">
         <div class="img-box">
           <img src="/images/media/books/dinosaurfun.jpg" alt="Dinosaur Fun" style="height:250px; object-fit:cover;" loading="lazy"/>
@@ -309,6 +342,73 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>ISBN:</strong> 9780200646017 <br />
   </div>
 </div>
+<div class="item-entry" id="duckyandchomperclothbook-777">
+    <div class="item-image">
+      <a href="/images/media/books/duckyandchomperclothbook.jpg" data-lightbox="img" data-title="Ducky and Chomper">
+        <div class="img-box">
+          <img src="/images/media/books/duckyandchomperclothbook.jpg" alt="Ducky and Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky and Chomper<br/>
+      <strong>Subtitle:</strong> Cloth Book<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+    </div>
+</div>
+<div class="item-entry" id="landbeforebedtime-778">
+    <div class="item-image">
+      <a href="/images/media/books/landbeforebedtime.jpg" data-lightbox="img" data-title="Land Before Bedtime">
+        <div class="img-box">
+          <img src="/images/media/books/landbeforebedtime.jpg" alt="Land Before Bedtime" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/landbeforebedtime2.jpg" data-lightbox="img" data-title="Land Before Bedtime">
+        <div class="img-box">
+          <img src="/images/media/books/landbeforebedtime2.jpg" alt="Land Before Bedtime" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/landbeforebedtime3.jpg" data-lightbox="img" data-title="Land Before Bedtime">
+        <div class="img-box">
+          <img src="/images/media/books/landbeforebedtime3.jpg" alt="Land Before Bedtime" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/landbeforebedtime4.jpg" data-lightbox="img" data-title="Land Before Bedtime">
+        <div class="img-box">
+          <img src="/images/media/books/landbeforebedtime4.jpg" alt="Land Before Bedtime" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Land Before Bedtime<br/>
+      <strong>Subtitle:</strong> Cloth Book<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="wishywashy-769">
+    <div class="item-image">
+      <a href="/images/media/books/wishywashy.jpg" data-lightbox="img" data-title="Wishy Washy Bath book">
+        <div class="img-box">
+          <img src="/images/media/books/wishywashy.jpg" alt="Wishy Washy Bath book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/wishywashy2.jpg" data-lightbox="img" data-title="Wishy Washy Bath book">
+        <div class="img-box">
+          <img src="/images/media/books/wishywashy2.jpg" alt="Wishy Washy Bath book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Wishy Washy Bath book<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+      <strong>Barcode:</strong> 0769603750<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="letsplayimpossible-326">
   <div class="item-image">
     <a href="/images/media/books/letsplayimpossible.jpg" data-lightbox="img" data-title="Let's Play Impossible">
@@ -324,6 +424,30 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Barcode:</strong> 9781577193852 <br />
   </div>
 </div>
+<div class="item-entry" id="supersoundpackage-780">
+    <div class="item-image">
+      <a href="/images/media/books/supersoundpackage.jpg" data-lightbox="img" data-title="Super Sound Package">
+        <div class="img-box">
+          <img src="/images/media/books/supersoundpackage.jpg" alt="Super Sound Package" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/supersoundpackage2.jpg" data-lightbox="img" data-title="Super Sound Package">
+        <div class="img-box">
+          <img src="/images/media/books/supersoundpackage2.jpg" alt="Super Sound Package" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Super Sound Package<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>Publisher:</strong> Inchworm Press <br />
+      <strong>Barcode:</strong> 746466007602 <br />
+      <strong>ISBN:</strong> 9 781577 196525 <br />
+      <strong>Notes:</strong> Featuring a paperback version of Lets Play Impossible and an untitled booklet, as well as headphones, a cassette, and a cassette player<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="countingwithlittlefoot1-319">
   <div class="item-image">
     <a href="/images/media/books/countingwithlittlefoot1.jpg" data-lightbox="img" data-title="Counting with Littlefoot">
@@ -345,21 +469,28 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Barcode:</strong> 9 781577 193845 <br />
   </div>
 </div>
-<div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/books/whenwegrowup.png" data-lightbox="img" data-title="When We Grow Up">
-      <div class="img-box">
-        <img src="/images/media/books/whenwegrowup.png" alt="When We Grow Up" style="height:250px; object-fit:cover;" loading="lazy">
-      </div>
-    </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> When We Grow Up <br />
-    <strong>Language:</strong> English <br />
-    <strong>Year:</strong> 1999 <br />
-    <strong>ISBN:</strong> 978-0769602400 <br />
-  </div>
+
+<div class="item-entry" id="boardbooks-771">
+    <div class="item-image">
+      <a href="/images/media/books/boardbooks.jpg" data-lightbox="img" data-title="Land Before Time Board books">
+        <div class="img-box">
+          <img src="/images/media/books/boardbooks.jpg" alt="Land Before Time Board books" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/whenwegrowup.png" data-lightbox="img" data-title="Land Before Time Board books">
+        <div class="img-box">
+          <img src="/images/media/books/whenwegrowup.png" alt="Land Before Time Board books" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Land Before Time Board books<br/>
+      <strong>Year:</strong> 1999 / 2005 <br />
+      <strong>ISBN:</strong> 978-0769602400 <br />
+      <strong>Notes:</strong> Box set came out in 2005. Possibly released in 1999 originally (see second image)</br> 4 cardboard books<ul><li>The Great, Beautiful Valley</li><li>We Did it Together</li><li>When We Grow Up</li><li>Playing in the Valley</li></ul><br/>
+    </div>
 </div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/dinosaurqa.jpg" data-lightbox="img" data-title="Dinosaur Q&A ">
@@ -390,20 +521,20 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>ISBN:</strong> 978-0737302370 <br />
   </div>
 </div>
-<div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/books/countwithus.jpg" data-lightbox="img" data-title="Lift A Flap - Count With Us">
-      <div class="img-box">
-        <img src="/images/media/books/countwithus.jpg" alt="Lift A Flap - Count With Us" style="height:250px; object-fit:cover;" loading="lazy">
-      </div>
-    </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> Lift A Flap - Count With Us <br />
-    <strong>Language:</strong> English <br />
-    <strong>Year:</strong> ? <br />
-    <strong>ISBN:</strong> ? <br />
-  </div>
+<div class="item-entry" id="liftaflapcollection-775">
+    <div class="item-image">
+      <a href="/images/media/books/liftaflapcollection.jpg" data-lightbox="img" data-title="Lift A Flap - collection box">
+        <div class="img-box">
+          <img src="/images/media/books/liftaflapcollection.jpg" alt="Lift A Flap - collection box" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Lift A Flap - collection box<br/>
+      <strong>Year:</strong> ? <br />
+      <strong>ISBN:</strong> ? <br />
+      <strong>Notes:</strong> The Spooky Adventure, Who's Hiding There?, Colors of our World, Count with Us<br/>
+    </div>
 </div>
 <div class="item-entry" id="beginningreaders-22312389">
   <div class="item-image">
@@ -435,6 +566,20 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Language:</strong> French <br />
   </div>
 </div>
+<div class="item-entry" id="landbeforetimesongs-770">
+    <div class="item-image">
+      <a href="/images/media/books/landbeforetimesongs.jpg" data-lightbox="img" data-title="Land Before Time Songs">
+        <div class="img-box">
+          <img src="/images/media/books/landbeforetimesongs.jpg" alt="Land Before Time Songs" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Land Before Time Songs<br/>
+      <strong>Year:</strong> 2000<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/upwegrow.jpg" data-lightbox="img" data-title="Up we grow">
@@ -537,6 +682,34 @@ An archive of The Land Before Time books released over the years. These books al
     </ul>
   </div>
 </div>
+<div class="item-entry" id="waitingtohatch-772">
+    <div class="item-image">
+      <a href="/images/media/books/waitingtohatch.png" data-lightbox="img" data-title="Waiting to Hatch">
+        <div class="img-box">
+          <img src="/images/media/books/waitingtohatch.png" alt="Waiting to Hatch" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Waiting to Hatch<br/>
+      <strong>Year:</strong> ?<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="gettingintotrouble-773">
+    <div class="item-image">
+      <a href="/images/media/books/gettingintotrouble.png" data-lightbox="img" data-title="Getting into Trouble">
+        <div class="img-box">
+          <img src="/images/media/books/gettingintotrouble.png" alt="Getting into Trouble" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Getting into Trouble<br/>
+      <strong>Year:</strong> ?<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/swedish-listenandread.jpg" data-lightbox="img" data-title="Landet För Längesedan - Trubbel I Sikte">

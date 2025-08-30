@@ -618,6 +618,11 @@ An archive of The Land Before Time Fast Food promotional items released over the
           <img src="/images/misc/fastfood/ljs-bookmark.jpg" alt="Bookmark" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/fastfood/ljs-bookmark2.jpg" data-lightbox="img" data-title="Bookmark">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ljs-bookmark2.jpg" alt="Bookmark" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Bookmark<br/>

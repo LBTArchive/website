@@ -47,6 +47,24 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Notes:</strong> From J.C. Penney<br/>
     </div>
   </div>
+<div class="item-entry" id="1988belt-740">
+    <div class="item-image">
+      <a href="/images/misc/clothing/1988belt.jpg" data-lightbox="img" data-title="Belt">
+        <div class="img-box">
+          <img src="/images/misc/clothing/1988belt.jpg" alt="Belt" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/1988belt-2.jpg" data-lightbox="img" data-title="Belt">
+        <div class="img-box">
+          <img src="/images/misc/clothing/1988belt-2.jpg" alt="Belt" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Belt<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="landbeforetimepromoshirt-550">
     <div class="item-image">

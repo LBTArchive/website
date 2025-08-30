@@ -24,7 +24,7 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
   <div class="item-details">
     <strong>Title:</strong> The Secret of Saurus Rock<br/>
       <strong>Year:</strong> 1998<br/>
-      <strong>Notes:</strong> Came with a "mail in offer" for two bean bag plushies: <a href="/toys/plushies#littlefoot-equity-flop-8inch_orig-63">Littlefoot</a> and <a href="/toys/plushies#cera-flopasaurus-131">Cera</a><br/>
+      <strong>Notes:</strong> Came with a "mail in offer" for two 6 inch bean bag plushies: <a href="/toys/plushies/#littlefoot-equity-flop-6inch-63">Littlefoot</a> and <a href="toys/plushies/#cera-minipal-135">Cera</a><br/>
       <img src="/images/media/vhs/6/Screenshot 2025-07-13 113641.png" height="100"loading="lazy">
   </div>
 </div>

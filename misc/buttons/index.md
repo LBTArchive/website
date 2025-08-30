@@ -37,7 +37,19 @@ An archive of The Land Before Time Buttons, keychains and pins released over the
     <div class="item-details">
       <strong>Title:</strong> Littlefoot Button<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Language:</strong> Japanese<br/>
+    </div>
+</div>
+<div class="item-entry" id="1988petrie-710">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/1988petrie.png" data-lightbox="img" data-title="Petrie Button">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/1988petrie.png" alt="Petrie Button" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Petrie Button<br/>
+      <strong>Year:</strong> 1988<br/>
     </div>
 </div>
 

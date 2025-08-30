@@ -7,8 +7,8 @@ title: Toys
 
 Please check out the various categories of toys:
 
-[Board Games](/toys/boardgames/)  
 [Activity Books](/toys/activitybooks/)  
+[Board Games](/toys/boardgames/)  
 [Figurines](/toys/figurines/)  
 [Plushies](/toys/plushies/)  
 [Puzzles](/toys/puzzles/)  

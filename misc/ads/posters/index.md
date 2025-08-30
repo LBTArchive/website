@@ -48,11 +48,16 @@ Official movie posters for The Land Before Time and its sequels.
           <img src="/images/misc/posters/englishvideopizzahut40x20_orig.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/posters/storebanner40-20in.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/misc/posters/storebanner40-20in.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Notes:</strong> 40x20inches<br/>Video cassette poster<br/>
+      <strong>Notes:</strong> 40x20inches<br/>Video cassette banner<br/>
     </div>
   </div>
 <div class="item-entry" id="englishvideostoreposterpizzahut27x40inch_orig-228">
@@ -97,6 +102,20 @@ Official movie posters for The Land Before Time and its sequels.
       <strong>Notes:</strong> 11 x 16.5 inch<br/>"4 Puppets to collect" Pizza Hut Promo<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt1-australian-711">
+    <div class="item-image">
+      <a href="/images/misc/posters/lbt1-australian.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/misc/posters/lbt1-australian.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Notes:</strong> Australian poster<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="fr_60x160cm-233">
     <div class="item-image">

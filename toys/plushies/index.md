@@ -167,7 +167,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Year:</strong> 1996<br/>
       <strong>Brand:</strong> Equity Toys<br/>
       <strong>Size:</strong> 6 inch<br/>
-      <strong>Notes:</strong> Mini Pal - Flop-A-Saurus (Blockbuster Exclusive)<br/>
+      <strong>Notes:</strong> Mini Pal - Flop-A-Saurus (Blockbuster Exclusive). Was also available as a mail-in reward for purchasing The Land Before Time VI on VHS.<br/>
     </div>
   </div>
 
@@ -488,7 +488,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Year:</strong> 1996<br/>
       <strong>Brand:</strong> Equity Toys<br/>
       <strong>Size:</strong> ?<br/>
-      <strong>Notes:</strong> Mini Pal - Flop-A-Saurus (Blockbuster Exclusive)<br/>
+      <strong>Notes:</strong> Mini Pal - Flop-A-Saurus (Blockbuster Exclusive). Was also available as a mail-in reward for purchasing The Land Before Time VI on VHS.<br/>
     </div>
   </div>
 

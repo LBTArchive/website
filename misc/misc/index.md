@@ -49,6 +49,23 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Notes:</strong> With ads and cutouts for The Land Before Time II<br/>
     </div>
 </div>
+
+<div class="item-entry" id="1996-3dphotoframe-763">
+    <div class="item-image">
+      <a href="/images/misc/1996-3dphotoframe.jpg" data-lightbox="img" data-title="3D Photo Frame">
+        <div class="img-box">
+          <img src="/images/misc/1996-3dphotoframe.jpg" alt="3D Photo Frame" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 3D Photo Frame<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Notes:</strong> Included with the 1996 re-release of the original movie on VHS<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="inflatablesharptooth2000rinco-668">
     <div class="item-image">
       <a href="/images/misc/inflatablesharptooth2000rinco.jpg" data-lightbox="img" data-title="Green inflatable Sharptooth">

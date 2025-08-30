@@ -188,6 +188,11 @@ An archive of The Land Before Time Activity Books released over the years. If yo
           <img src="/images/toys/coloringbook/magicpenpaintingbook2.jpg" alt="Magic Pen Painting Book" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/toys/coloringbook/magicpenpaintingbook3.jpg" data-lightbox="img" data-title="Magic Pen Painting Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/magicpenpaintingbook3.jpg" alt="Magic Pen Painting Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Magic Pen Painting Book<br/>
@@ -195,6 +200,18 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     </div>
   </div>
 
+<div class="item-entry" id="superjumbocoloringandactivitybook-781">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/superjumbocoloringandactivitybook.png" data-lightbox="img" data-title="Super Jumbo Coloring and Activity Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/superjumbocoloringandactivitybook.png" alt="Super Jumbo Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Super Jumbo Coloring and Activity Book<br/>
+    </div>
+</div>
 
     
   <div class="item-entry">
