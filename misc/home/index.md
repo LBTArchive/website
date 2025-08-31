@@ -103,7 +103,27 @@ An archive of The Land Before Time Home decor items released over the years.
       <strong>Title:</strong> Land Before Time standing lamp<br/>
       <strong>Year:</strong> 1988?<br/>
     </div>
-  </div>
+</div>
+<div class="item-entry" id="pushnightlight-802">
+    <div class="item-image">
+      <a href="/images/misc/homedecor/pushnightlight.jpg" data-lightbox="img" data-title="The Land Before Time - Push Light">
+        <div class="img-box">
+          <img src="/images/misc/homedecor/pushnightlight.jpg" alt="The Land Before Time - Push Light" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/homedecor/pushnightlight2.jpg" data-lightbox="img" data-title="The Land Before Time - Push Light">
+        <div class="img-box">
+          <img src="/images/misc/homedecor/pushnightlight2.jpg" alt="The Land Before Time - Push Light" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time - Push Light<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Barcode:</strong> 788914313316<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="stone lcock-336">
     <div class="item-image">
       <a href="/images/misc/homedecor/stone lcock.jpg" data-lightbox="img" data-title="Stone Clock">

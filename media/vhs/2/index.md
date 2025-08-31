@@ -73,6 +73,20 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
       <strong>Notes:</strong> Australian Version<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt2signlanguage-566">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/LBT2-ASL.png" data-lightbox="img" data-title="The Land Before Time II: The Great Valley Adventure">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/LBT2-ASL.png" alt="The Land Before Time II: The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time II: The Great Valley Adventure<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Notes:</strong> Translated into American Sign Language (ASL) with Linda Bove from Sesame Streets (Talking Hands Inc.)<br/>
+    </div>
+  </div>
 
 <div class="item-entry" id="lbt2ja-317">
     <div class="item-image">

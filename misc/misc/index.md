@@ -28,6 +28,63 @@ An archive of The Land Before Time items released over the years that did not fi
     </div>
  </div>
 
+<div class="item-entry" id="jcpenneybag-809">
+    <div class="item-image">
+      <a href="/images/misc/jcpenneybag.jpg" data-lightbox="img" data-title="JCPenney shopping bag featuring Land Before Time">
+        <div class="img-box">
+          <img src="/images/misc/jcpenneybag.jpg" alt="JCPenney shopping bag featuring Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> JCPenney shopping bag featuring Land Before Time<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="jellojigglers-811">
+    <div class="item-image">
+      <a href="/images/misc/jellojigglers.jpg" data-lightbox="img" data-title="Land Before Time Jell-o Jiggler Molds">
+        <div class="img-box">
+          <img src="/images/misc/jellojigglers.jpg" alt="Land Before Time Jell-o Jiggler Molds" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/jellojigglers2.jpg" data-lightbox="img" data-title="Land Before Time Jell-o Jiggler Molds">
+        <div class="img-box">
+          <img src="/images/misc/jellojigglers2.jpg" alt="Land Before Time Jell-o Jiggler Molds" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/jellojigglers3.jpg" data-lightbox="img" data-title="Land Before Time Jell-o Jiggler Molds">
+        <div class="img-box">
+          <img src="/images/misc/jellojigglers3.jpg" alt="Land Before Time Jell-o Jiggler Molds" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/jellojigglers4.jpg" data-lightbox="img" data-title="Land Before Time Jell-o Jiggler Molds">
+        <div class="img-box">
+          <img src="/images/misc/jellojigglers4.jpg" alt="Land Before Time Jell-o Jiggler Molds" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Land Before Time Jell-o Jiggler Molds<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="jetsonspromo-810">
+    <div class="item-image">
+      <a href="/images/misc/jetsonspromo.png" data-lightbox="img" data-title="Jetsons the Movie promotional display">
+        <div class="img-box">
+          <img src="/images/misc/jetsonspromo.png" alt="Jetsons the Movie promotional display" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Jetsons the Movie promotional display<br/>
+      <strong>Year:</strong> 1990<br/>
+      <strong>Notes:</strong> "The company that brought you... The Land Before Time"<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="1995kellogscruncherooscanada-659">
     <div class="item-image">
@@ -78,6 +135,19 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Title:</strong> Green inflatable Sharptooth<br/>
       <strong>Year:</strong> 2000<br/>
       <strong>Notes:</strong> From "Rinco"<br/>
+    </div>
+</div>
+<div class="item-entry" id="lbt8-cooler-804">
+    <div class="item-image">
+      <a href="/images/misc/lbt8-cooler.jpg" data-lightbox="img" data-title="The Big Freeze - Cooler">
+        <div class="img-box">
+          <img src="/images/misc/lbt8-cooler.jpg" alt="The Big Freeze - Cooler" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Big Freeze - Cooler<br/>
+      <strong>Year:</strong> 2001<br/>
     </div>
 </div>
 

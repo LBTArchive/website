@@ -10,6 +10,7 @@ An archive of The Land Before Time Fast Food promotional items released over the
 <a href="#ph">Pizza Hut (1988-1989)</a><br/>
 <a href="#mc">McDonalds (1994)</a><br/>
 <a href="#bk">Burger King (1997)</a><br/>
+<a href="#dennys">Denny's (1997)</a><br/>
 <a href="#dq">Dairy Queen (1998)</a><br/>
 <a href="#ljs">Long John Silver's (1999)</a><br/>
 <a href="#sbarro">Sbarro (2002)</a><br/>
@@ -516,11 +517,46 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <strong>Year:</strong> 1997<br/>
     </div>
   </div>
+</div>
 
-
+<h1 id="dennys">Denny's (1997)</h1>
+Free kids entree with the purchase of any adult entree with a certificate found inside the Land Before Time V VHS case. Denny's had special kids entree placemats, stickers and cups
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
+  </div>
+<div class="item-entry" id="dennycup-58">
+  <div class="item-image">
+     <a href="/images/misc/tableware/dennycup.jpg" data-lightbox="img" data-title="The Mysterious Island promotional cup">
+       <div class="img-box">
+         <img src="/images/misc/tableware/dennycup.jpg" alt="The Mysterious Island promotional cup" style="height:250px; object-fit:cover;" loading="lazy">
+       </div>
+     </a>
+   </div>
+   <div class="item-details">
+      <strong>Title:</strong> The Mysterious Island promotional cup<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Notes:</strong> Denny's<br/>
+   </div>
+</div>
+<div class="item-entry" id="dennycup-58">
+  <div class="item-image">
+     <a href="/images/misc/fastfood/dennyscup.png" data-lightbox="img" data-title="The Mysterious Island promotional cup">
+       <div class="img-box">
+         <img src="/images/misc/fastfood/dennyscup.png" alt="The Mysterious Island promotional cup" style="height:250px; object-fit:cover;" loading="lazy">
+       </div>
+     </a>
+   </div>
+   <div class="item-details">
+      <strong>Title:</strong> Potentially another Denny's promotional cup<br/>
+      <strong>Year:</strong> 1997<br/>
+   </div>
+</div>
 </div>
 
 <h1 id="dq">Dairy Queen (1998)</h1>
+Dairy Queen gave out one of four the Land Before Time premiums (in this case, cups with lids and spoons), "Littlefoot, Ducky, Cera or Spike", for free with a Kids Pick-nic meal. Premiums could also be purchased separately. They had a 3 week long ad campaign on US television and a wide variety of in-store P.O.P.
 <details>
 <summary><b>Click here to see their TV ad 📺</b></summary>
 <div class="responsive-video">
@@ -535,25 +571,6 @@ An archive of The Land Before Time Fast Food promotional items released over the
   <div class="item-header">
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
-  </div>
-<div class="item-entry" id="dq-536">
-    <div class="item-image">
-      <a href="/images/misc/fastfood/dq1998-all4.jpg" data-lightbox="img" data-title="Dairy Queen Wristables in bag">
-        <div class="img-box">
-          <img src="/images/misc/fastfood/dq1998-all4.jpg" alt="Dairy Queen Wristables in bag" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/fastfood/dqwristables1998.png" data-lightbox="img" data-title="Dairy Queen Wristables in bag">
-        <div class="img-box">
-          <img src="/images/misc/fastfood/dqwristables1998.png" alt="Dairy Queen Wristables in bag" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Dairy Queen Wristables in bag<br/>
-      <strong>Year:</strong> 1998<br/>
-      <strong>Notes:</strong> Click <a href="/toys/figurines/#dqwristablecera-221">here</a> to see the toys out of their bag<br/>
-    </div>
   </div>
 <div class="item-entry" id="dairyqueencups-54">
     <div class="item-image">
@@ -580,7 +597,26 @@ An archive of The Land Before Time Fast Food promotional items released over the
     </div>
     <div class="item-details">
       <strong>Title:</strong> Plastic cups and spoons<br/>
-      <strong>Year:</strong> 1997<br/>
+      <strong>Year:</strong> 1998<br/>
+    </div>
+  </div>
+<div class="item-entry" id="dq-536">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/dq1998-all4.jpg" data-lightbox="img" data-title="Dairy Queen Wristables in bag">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/dq1998-all4.jpg" alt="Dairy Queen Wristables in bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/dqwristables1998.png" data-lightbox="img" data-title="Dairy Queen Wristables in bag">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/dqwristables1998.png" alt="Dairy Queen Wristables in bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Dairy Queen Wristables in bag<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Notes:</strong> Click <a href="/toys/figurines/#dqwristablecera-221">here</a> to see the toys out of their bag<br/>
     </div>
   </div>
 </div>

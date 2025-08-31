@@ -101,6 +101,28 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     </div>
   </div>
 
+<div class="item-entry" id="1997-spike-watercolor-805">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/1997-spike-watercolor.jpg" data-lightbox="img" data-title="Paint with Water - Spike">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997-spike-watercolor.jpg" alt="Paint with Water - Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/1997-spike-watercolor2.jpg" data-lightbox="img" data-title="Paint with Water - Spike">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997-spike-watercolor2.jpg" alt="Paint with Water - Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Paint with Water - Spike<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+      <strong>Barcode:</strong> 087577080147<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="1997petrie-528">
     <div class="item-image">
       <a href="/images/toys/coloringbook/1997petrie.png" data-lightbox="img" data-title="Coloring and Activity Book">

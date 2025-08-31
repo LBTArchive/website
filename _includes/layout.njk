@@ -14,6 +14,74 @@
     <a href="/">Home</a> | <a href="/toys/">Toys</a> | <a href="/media/">Media</a> | <a href="/misc/">Miscellaneous</a> | <a href="/guestbook/">Guestbook</a> | 
   </nav>
   <hr />
+
+<nav id="breadcrumbs" aria-label="Breadcrumb"></nav>
+
+<script>
+document.addEventListener("DOMContentLoaded", async function () {
+  const el = document.getElementById("breadcrumbs");
+  if (!el) return;
+
+  // Normalize paths like /foo/index.html -> /foo/
+  const cleanPath = window.location.pathname
+    .replace(/\/index\.html$/i, "/")
+    .replace(/index\.html$/i, "");
+
+  const segments = cleanPath.split("/").filter(Boolean);
+
+  // Pages where breadcrumbs should NOT appear
+  const topLevelExclude = ["media", "toys", "misc", "guestbook"];
+  const isHome = segments.length === 0;
+  const isTopLevelExcluded =
+    segments.length === 1 && topLevelExclude.includes(segments[0].toLowerCase());
+
+  if (isHome || isTopLevelExcluded) {
+    el.style.display = "none";
+    return;
+  }
+
+  // Helper: fetch H1 from another page
+  async function getPageTitle(path) {
+    try {
+      const resp = await fetch(path);
+      const html = await resp.text();
+      const match = html.match(/<h1[^>]*>(.*?)<\/h1>/i);
+      if (match) {
+        return match[1].trim();
+      }
+    } catch (e) {
+      console.warn("Could not fetch title for", path, e);
+    }
+    // fallback: use segment name
+    return decodeURIComponent(path.split("/").filter(Boolean).pop());
+  }
+
+  // Build breadcrumbs
+  let acc = "";
+  const parts = [];
+
+  for (let i = 0; i < segments.length; i++) {
+    acc += "/" + segments[i];
+    const isLast = i === segments.length - 1;
+
+    // Find H1 for this segment’s page (fetch /path/)
+    const url = acc + "/";
+    const name = isLast
+      ? document.querySelector("h1")?.textContent.trim() || segments[i]
+      : await getPageTitle(url);
+
+    if (isLast) {
+      parts.push(name);
+    } else {
+      parts.push('<a href="' + url + '">' + name + "</a>");
+    }
+  }
+
+  el.innerHTML = parts.join(" &gt; ");
+});
+</script>
+
+
   <main>
     {{ content | safe }}
     <button type="button" id="backToTopBtn">↑<br/>back<br/>to<br/>top</button>
@@ -59,7 +127,7 @@
 }
 
 window.addEventListener('scroll', e => {
-  document.getElementById('backToTopBtn').style.display = window.scrollY > 20 ? 'block' : 'none';
+  document.getElementById('backToTopBtn').style.display = window.scrollY > 750 ? 'block' : 'none';
 });
 })();
 </script>

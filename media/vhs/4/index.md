@@ -62,7 +62,7 @@ An archive of The Land Before Time Journey through the Mists VHS Tapes released 
       <strong>Title:</strong> Land Before Time IV: Journey Through the Mists<br/>
       <strong>Year:</strong> 1996<br/>
       <strong>Barcode:</strong> 096898318334<br/>
-      <strong>Notes:</strong> Translated into American Sign Language with Linda Bove from Sesame Streets (Talking Hands Inc.)<br/>
+      <strong>Notes:</strong> Translated into American Sign Language (ASL) with Linda Bove from Sesame Streets (Talking Hands Inc.)<br/>
     </div>
   </div>
 

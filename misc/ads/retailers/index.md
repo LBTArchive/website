@@ -37,6 +37,19 @@ title: Land Before Time retailer ads
       <strong>Year:</strong> 1989<br/>
     </div>
 </div>
+<div class="item-entry" id="envelope-808">
+    <div class="item-image">
+      <a href="/images/misc/ads/retailers/envelope.png" data-lightbox="img" data-title="The Land Before Time - Promo material envelope">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/envelope.png" alt="The Land Before Time - Promo material envelope" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time - Promo material envelope<br/>
+      <strong>Year:</strong> 1989<br/>
+    </div>
+</div>
 
 
 <div class="item-entry" id="1989-lbt1-retailleaflet-753">
@@ -70,8 +83,8 @@ title: Land Before Time retailer ads
       <li>Oversize Box</li>
       <li><a href="/misc/fastfood/#ph-cardboarddisplay-687">Advance sign-up center</a></li>
       <li><a href="/misc/ads/posters/#englishvideopizzahut40x20_orig-227">Banners</a></li>
-      <li><a href="">Character Mobile</a></li>
-      <li><a href="">Floor Merchandiser</a></li>
+      <li><a href="/misc/ads/pointofsale/#retail-cardboard-mobile-798">Character Mobile</a></li>
+      <li><a href="/misc/ads/pointofsale/#lbt1-floormerchandiser-799">Floor Merchandiser</a></li>
       <li><a href="/misc/stickers/#1988retailpromosticker-519">Footprint stickers</a></li>
       </ul><br/>
     </div>
@@ -303,7 +316,6 @@ title: Land Before Time retailer ads
       <strong>Year:</strong> 1998<br/>
     </div>
 </div>
-
 
 
 </div>

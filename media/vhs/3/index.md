@@ -46,6 +46,22 @@ An archive of The Land Before Time VHS tapes released over the years.
     <strong>Notes:</strong> Came with a <a href="/misc/stickers/#lbt3-vhs-stickerbook-495">Sticker Fun Booklet</a>
   </div>
 </div>
+
+<div class="item-entry" id="lbt3signlanguage-566">
+    <div class="item-image">
+      <a href="/images/media/vhs/3/LBT3-ASL.png" data-lightbox="img" data-title="Land Before Time III: The Time of Great Giving">
+        <div class="img-box">
+          <img src="/images/media/vhs/3/LBT3-ASL.png" alt="Land Before Time III: The Time of Great Giving" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Land Before Time III: The Time of Great Giving<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Notes:</strong> Translated into American Sign Language (ASL) with Linda Bove from Sesame Streets (Talking Hands Inc.)<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="lbt3-ja-back-318">
     <div class="item-image">
       <a href="/images/media/vhs/3/lbt3-ja-front.jpg" data-lightbox="img" data-title="リトルフット3">

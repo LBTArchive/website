@@ -809,6 +809,26 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+<div class="item-entry" id="ducky-unimax-782">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ducky-unimax.jpg" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ducky-unimax.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/ducky-unimax2.jpg" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ducky-unimax2.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky<br/>
+      <strong>Brand:</strong> Unimax<br/>
+      <strong>Barcode:</strong> 0018876192095<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="ducky-kellytoy-657">
     <div class="item-image">
       <a href="/images/toys/plushies/ducky-kellytoy.jpg" data-lightbox="img" data-title="Ducky">

@@ -234,19 +234,6 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Notes:</strong> "The Land Before Time" <br />
   </div>
 </div>
-<div class="item-entry" id="3Dadventurecomic-774">
-    <div class="item-image">
-      <a href="/images/media/books/3Dadventurecomic.jpg" data-lightbox="img" data-title="3D Adventure Comic">
-        <div class="img-box">
-          <img src="/images/media/books/3Dadventurecomic.jpg" alt="3D Adventure Comic" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> 3D Adventure Comic<br/>
-      <strong>Year:</strong> 1996<br/>
-    </div>
-</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -265,7 +252,19 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Notes:</strong> "The Land Before Time" <br />
   </div>
 </div>
-
+<div class="item-entry" id="3Dadventurecomic-774">
+    <div class="item-image">
+      <a href="/images/media/books/3Dadventurecomic.jpg" data-lightbox="img" data-title="3D Adventure Comic">
+        <div class="img-box">
+          <img src="/images/media/books/3Dadventurecomic.jpg" alt="3D Adventure Comic" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 3D Adventure Comic<br/>
+      <strong>Year:</strong> 1997<br/>
+    </div>
+</div>
   <div class="item-entry" id="dinosaurfun-679">
     <div class="item-image">
     <a href="/images/media/books/newlyhatched.png" data-lightbox="img" data-title="Dinosaur Fun">
@@ -385,6 +384,26 @@ An archive of The Land Before Time books released over the years. These books al
       <strong>Subtitle:</strong> Cloth Book<br/>
       <strong>Year:</strong> 1998<br/>
       <strong>Publisher:</strong> Landoll's<br/>
+    </div>
+</div>
+<div class="item-entry" id="lakebforetime-783">
+    <div class="item-image">
+      <a href="/images/media/books/lakebforetime.jpg" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/media/books/lakebforetime.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/lakebforetime1.jpg" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/media/books/lakebforetime1.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+      <strong>ISBN:</strong> 0769603769<br/>
     </div>
 </div>
 

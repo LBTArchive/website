@@ -65,6 +65,7 @@ An archive of The Land Before Time Party Supplies released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> Gift Wrap <br />
+      <strong>Brand:</strong> Gibson<br/>
       <strong>Notes:</strong> 20x30in <br />2 sheets <br />
     </div>
   </div>
@@ -189,6 +190,32 @@ An archive of The Land Before Time Party Supplies released over the years.
       <strong>Year:</strong> 1997 <br />
     </div>
   </div>
+  <div class="item-entry" id="giftbag-1998-gibson-803">
+    <div class="item-image">
+      <a href="/images/misc/partysupplies/giftbag-1998-gibson.jpg" data-lightbox="img" data-title="The Land Before Time - Gift Bag">
+        <div class="img-box">
+          <img src="/images/misc/partysupplies/giftbag-1998-gibson.jpg" alt="The Land Before Time - Gift Bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/partysupplies/giftbag-1998-gibson2.jpg" data-lightbox="img" data-title="The Land Before Time - Gift Bag">
+        <div class="img-box">
+          <img src="/images/misc/partysupplies/giftbag-1998-gibson2.jpg" alt="The Land Before Time - Gift Bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/partysupplies/giftbag-1998-gibson3.jpg" data-lightbox="img" data-title="The Land Before Time - Gift Bag">
+        <div class="img-box">
+          <img src="/images/misc/partysupplies/giftbag-1998-gibson3.jpg" alt="The Land Before Time - Gift Bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time - Gift Bag<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Brand:</strong> Gibson<br/>
+      <strong>Barcode:</strong> 08417227224<br/>
+    </div>
+</div>
+
   <div class="item-entry" id="partyinvitationsyoureinvited-353">
     <div class="item-image">
       <a href="/images/misc/partysupplies/partyinvitationsyoureinvited.jpg" data-lightbox="img" data-title="Invitations You're Invited">

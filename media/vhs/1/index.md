@@ -243,6 +243,20 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Notes:</strong> Clamshell<br/>
   </div>
 </div>
+<div class="item-entry" id="lbtsignlanguage-566">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/LBT1-ASL.png" data-lightbox="img" data-title="Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/LBT1-ASL.png" alt="Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Land Before Time<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Notes:</strong> Translated into American Sign Language (ASL) with Linda Bove from Sesame Streets (Talking Hands Inc.)<br/>
+    </div>
+  </div>
 <div class="item-entry" id="1999lbt1-549">
     <div class="item-image">
       <a href="/images/media/vhs/1/1999lbt1.jpg" data-lightbox="img" data-title="The Land Before Time">

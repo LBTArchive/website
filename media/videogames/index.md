@@ -213,11 +213,17 @@ The Land Before Time series released several educational games. They also releas
           <img src="/images/media/videogames/animatedmoviebook.jpg" alt="The Land Before Time: Animated Movie Book" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
+      <a href="/images/media/videogames/animatedmoviebook3.jpg" data-lightbox="img" data-title="The Land Before Time: Animated Movie Book">
+        <div class="img-box">
+          <img src="/images/media/videogames/animatedmoviebook3.jpg" alt="The Land Before Time: Animated Movie Book" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
   </div>
   <div class="item-details">
     <strong>Title:</strong> The Land Before Time: Animated Movie Book<br/>
       <strong>Platform:</strong> Windows<br/>
       <strong>Year:</strong> 1998<br/>
+      <strong>Notes:</strong> Included a copy of An American Tail Animated Movie Book<br/>
       <a href="https://archive.org/details/TheLandBeforeTimeMovieBook" style="display: flex; align-items: center; gap:5px" target="_blank">
       <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>
@@ -318,6 +324,7 @@ The Land Before Time series released several educational games. They also releas
     <strong>Title:</strong> The Land Before Time: Toddler Time<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1999<br/>
+      <strong>Notes:</strong> Included a copy of <a href="/media/videogames/#item-11">The Land Before Time Movie Book</a> or a Maisy game<br/>
       <a href="https://archive.org/details/lbt-toddler-time_202304" style="display: flex; align-items: center; gap:5px" target="_blank">
       <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
       </a>

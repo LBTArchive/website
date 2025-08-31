@@ -281,7 +281,7 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
       <li>T-shirt</li>
       <li><a href="/media/books/#3Dadventurecomic-774">3-D Comic with glasses</a></li>
       <li>Land Before Time/Timmy the Tooth coloring book</li>
-      <li>>Mini Poster</li>
+      <li>Mini Poster</li>
       </ul>
     </div>
 </div>
