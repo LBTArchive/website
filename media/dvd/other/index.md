@@ -30,6 +30,26 @@ An archive of The Land Before Time DVDs released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="dvdgame1-823">
+    <div class="item-image">
+      <a href="/images/media/dvd/other/dvdgame1.jpg" data-lightbox="img" data-title="The Land Before Time DVD Game">
+        <div class="img-box">
+          <img src="/images/media/dvd/other/dvdgame1.jpg" alt="The Land Before Time DVD Game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/other/dvdgame2.jpg" data-lightbox="img" data-title="The Land Before Time DVD Game">
+        <div class="img-box">
+          <img src="/images/media/dvd/other/dvdgame2.jpg" alt="The Land Before Time DVD Game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time DVD Game<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Pressman<br/>
+      <strong>Barcode:</strong> 021853045772<br/>
+    </div>
+</div>
 
 
 </div>

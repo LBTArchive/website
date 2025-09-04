@@ -1,0 +1,22 @@
+---
+permalink: /search.json
+eleventyExcludeFromCollections: true
+---
+[
+{%- for page in collections.all -%}
+  {%- if page.data.title -%}
+  {
+    "title": {{ page.data.title | jsonify }},
+    "subtitle": {{ page.data.subtitle | default("") | jsonify }},
+    "year": {{ page.data.year | default("") | jsonify }},
+    "publisher": {{ page.data.publisher | default("") | jsonify }},
+    "brand": {{ page.data.publisher | default("") | jsonify }},
+    "isbn": {{ page.data.isbn | default("") | jsonify }},
+    "barcode": {{ page.data.isbn | default("") | jsonify }},
+    "language": {{ page.data.language | default("") | jsonify }},
+    "notes": {{ page.data.notes | default("") | jsonify }},
+    "url": {{ page.url | jsonify }}
+  }{%- if not loop.last -%},{%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+]

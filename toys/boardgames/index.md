@@ -69,6 +69,11 @@ An archive of The Land Before Time board games released over the years.
           <img src="/images/toys/boardgames/greatvalleygame2001_2.jpg" alt="Great Valley Game" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
+      <a href="/images/toys/boardgames/greatvalleygame2001_3.jpg" data-lightbox="img" data-title="Great Valley Game">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/greatvalleygame2001_3.jpg" alt="Great Valley Game" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
   </div>
   <div class="item-details">
     <strong>Title:</strong> Great Valley Game<br/>

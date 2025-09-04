@@ -461,6 +461,21 @@ Official movie posters for The Land Before Time and its sequels.
     </div>
   </div>
 
+<div class="item-entry" id="patrickconnan-822">
+    <div class="item-image">
+      <a href="/images/misc/posters/patrickconnan.jpg" data-lightbox="img" data-title="The Land Before Time - Amblin 35th Anniversary">
+        <div class="img-box">
+          <img src="/images/misc/posters/patrickconnan.jpg" alt="The Land Before Time - Amblin 35th Anniversary" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time - Amblin 35th Anniversary<br/>
+      <strong>Subtitle:</strong> 'A Journey Toward Life'<br/>
+      <strong>Year:</strong> 2016<br/>
+      <strong>Notes:</strong> By <a href="https://patrickconnan.com/the-land-before-time/">Patrick Connan</a><br/>
+    </div>
+</div>
 
 <div class="item-entry" id="izzyburton-245">
     <div class="item-image">

@@ -62,6 +62,20 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
       <strong>Notes:</strong> UK Edition<br/>
     </div>
   </div>
+<div class="item-entry" id="singalongsongs-da-818">
+    <div class="item-image">
+      <a href="/images/media/vhs/other/singalongsongs-da.jpg" data-lightbox="img" data-title="Landet for længe siden - Syng med sange">
+        <div class="img-box">
+          <img src="/images/media/vhs/other/singalongsongs-da.jpg" alt="Landet for længe siden - Syng med sange" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden - Syng med sange<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="singalong-fr-159">
     <div class="item-image">

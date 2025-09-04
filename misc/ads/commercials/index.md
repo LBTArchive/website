@@ -102,9 +102,20 @@ Click on the text or arrow of the commercial you wish to view to expand the vide
 
 ## DVD Trailers and Specials
 <details>
-<summary><b>💿 The Land Before Time 11</b> | "Bring home all The Land Before Time adventures today" (2004)</summary>
+<summary><b>💿 The Land Before Time 11 (Australia)</b> | "Bring home all The Land Before Time adventures today" (2004)</summary>
 <div class="responsive-video">
   <iframe src="https://www.youtube.com/embed/dLP0wat-Iok?si=itCdI8yQcvEheODC"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+</details>
+
+<details>
+<summary><b>💿 The Land Before Time DVD game</b> | Introduction</summary>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/WgZBf1b4M4Q?si=wVH7jQNt1jsiP16t"
     title="YouTube video player" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
@@ -165,6 +176,18 @@ Click on the text or arrow of the commercial you wish to view to expand the vide
   </iframe>
 </div>
 </details>
+
+<details>
+<summary><b>📺 Cheerios (1989)</b></summary>
+<div class="responsive-video">
+  <iframe src="https://www.youtube.com/embed/KXl08MjgToM?si=NzYxYmpn0mvaJJBG"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+</details>
+
 <details>
 <summary><b>📺 The Land Before Time 2 (1994)</b></summary>
 <div class="responsive-video">

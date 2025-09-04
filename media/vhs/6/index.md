@@ -44,6 +44,20 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt6-da-816">
+    <div class="item-image">
+      <a href="/images/media/vhs/6/lbt6-da.png" data-lightbox="img" data-title="Landet for længe siden 6">
+        <div class="img-box">
+          <img src="/images/media/vhs/6/lbt6-da.png" alt="Landet for længe siden 6" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden 6<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+</div>
 
   <div class="item-entry">
   <div class="item-image">

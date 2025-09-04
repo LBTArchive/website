@@ -211,7 +211,20 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
       <strong>Language:</strong> German<br/>
     </div>
   </div>
-
+<div class="item-entry" id="lbt2-da-815">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2-da.png" data-lightbox="img" data-title="Dinosaurus-ungen Lillefod På nye eventyr i Den Store Dal">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-da.png" alt="Dinosaurus-ungen Lillefod På nye eventyr i Den Store Dal" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Dinosaurus-ungen Lillefod På nye eventyr i Den Store Dal<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+</div>
 <div class="item-entry" id="lbt2-fr-177">
     <div class="item-image">
       <a href="/images/media/vhs/2/lbt2-fr.jpg" data-lightbox="img" data-title="Le Petit Dinosaure 2 - Petit-Pied et son nouvel ami">

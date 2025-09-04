@@ -74,6 +74,20 @@ An archive of The Great Longneck Migration VHS tapes released over the years.
       <strong>Notes:</strong> UK Edition<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt10-da-817">
+    <div class="item-image">
+      <a href="/images/media/vhs/10/lbt10-da.png" data-lightbox="img" data-title="Landet for længe siden x">
+        <div class="img-box">
+          <img src="/images/media/vhs/10/lbt10-da.png" alt="Landet for længe siden x" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden x<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+</div>
 
   <div class="item-entry">
   <div class="item-image">

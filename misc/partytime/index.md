@@ -298,6 +298,7 @@ An archive of The Land Before Time Party Supplies released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> Party Hat <br />
+      <strong>Year:</strong> 2007 <br />
     </div>
   </div>
   <div class="item-entry" id="partyset-51">
@@ -315,7 +316,26 @@ An archive of The Land Before Time Party Supplies released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> Party Set <br />
-      <strong>Year:</strong> ? <br />
+      <strong>Year:</strong> 2007 <br />
     </div>
   </div>
+  <div class="item-entry" id="plastictablecloth-813">
+    <div class="item-image">
+      <a href="/images/misc/partysupplies/plastictablecloth.jpg" data-lightbox="img" data-title="Plastic tablecloth">
+        <div class="img-box">
+          <img src="/images/misc/partysupplies/plastictablecloth.jpg" alt="Plastic tablecloth" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/partysupplies/plastictablecloth2.jpg" data-lightbox="img" data-title="Plastic tablecloth">
+        <div class="img-box">
+          <img src="/images/misc/partysupplies/plastictablecloth2.jpg" alt="Plastic tablecloth" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Plastic tablecloth<br/>
+      <strong>Year:</strong> 2007<br/>
+    </div>
+</div>
+
 </div>

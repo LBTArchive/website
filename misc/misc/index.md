@@ -86,6 +86,26 @@ An archive of The Land Before Time items released over the years that did not fi
     </div>
 </div>
 
+<div class="item-entry" id="2003-cleanimals-ducky-821">
+    <div class="item-image">
+      <a href="/images/misc/2003-cleanimals-ducky.jpg" data-lightbox="img" data-title="Cleanimals">
+        <div class="img-box">
+          <img src="/images/misc/2003-cleanimals-ducky.jpg" alt="Cleanimals" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/2003-cleanimals-petrie.jpg" data-lightbox="img" data-title="Cleanimals">
+        <div class="img-box">
+          <img src="/images/misc/2003-cleanimals-petrie.jpg" alt="Cleanimals" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cleanimals<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Notes:</strong> Ducky and Petrie loofah (they should have made a loofah one)<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="1995kellogscruncherooscanada-659">
     <div class="item-image">
       <a href="/images/misc/1995kellogscruncherooscanada.jpg" data-lightbox="img" data-title="Kellogg's Cruncheroos cereal box">

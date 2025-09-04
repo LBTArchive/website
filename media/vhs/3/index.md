@@ -155,6 +155,20 @@ An archive of The Land Before Time VHS tapes released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt3-2001-820">
+    <div class="item-image">
+      <a href="/images/media/vhs/3/lbt3-2001.jpg" data-lightbox="img" data-title="The Time of Great Giving">
+        <div class="img-box">
+          <img src="/images/media/vhs/3/lbt3-2001.jpg" alt="The Time of Great Giving" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Time of Great Giving<br/>
+      <strong>Year:</strong> 2001<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/vhs/2/sv22.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">

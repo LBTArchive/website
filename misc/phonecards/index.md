@@ -98,4 +98,19 @@ An archive of The Land Before Time Phone Cards released over the years. A phone 
     </div>
   </div>
 
+  <div class="item-entry" id="singaporephonecards-454">
+    <div class="item-image">
+      <a href="/images/misc/phone card/singaporecards.jpg" data-lightbox="img" data-title="Friendship is... affection">
+        <div class="img-box">
+          <img src="/images/misc/phone card/singaporecards.jpg" alt="Friendship is... affection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Various phone cards<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Brand:</strong> Singapore Telecom<br/>
+    </div>
+  </div>
+
   </div>

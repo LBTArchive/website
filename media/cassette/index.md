@@ -29,6 +29,22 @@ An archive of The Land Before Time Cassettes released over the years.
       <strong>Year:</strong> 1988 <br />
     </div>
   </div>
+  <div class="item-entry" id="ost-philippines-814">
+    <div class="item-image">
+      <a href="/images/media/cassettes/ost-philippines.jpg" data-lightbox="img" data-title="The Land Before Time - Original Motion Picture Soundtrack">
+        <div class="img-box">
+          <img src="/images/media/cassettes/ost-philippines.jpg" alt="The Land Before Time - Original Motion Picture Soundtrack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time - Original Motion Picture Soundtrack<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Publisher:</strong> Alpha Records Corporation<br/>
+      <strong>Notes:</strong> For distribution in the Philippines<br/>
+    </div>
+</div>
+
   <div class="item-entry">
     <div class="item-image">
       <a href="/images/media/cassettes/originalsoundtrack-ja.png" data-lightbox="img" data-title="The Land Before Time - Original Motion Picture Soundtrack">

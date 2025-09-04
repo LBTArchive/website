@@ -73,6 +73,26 @@ An archive of The Land Before Time Video CDs released over the years. Seemingly 
     </div>
   </div>
 
+<div class="item-entry" id="lbt2-hongkong-812">
+    <div class="item-image">
+      <a href="/images/media/videocd/lbt2-hongkong.jpg" data-lightbox="img" data-title="The Land Before Time II The Great Valley Adventure">
+        <div class="img-box">
+          <img src="/images/media/videocd/lbt2-hongkong.jpg" alt="The Land Before Time II The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/videocd/lbt2-hongkong2.jpg" data-lightbox="img" data-title="The Land Before Time II The Great Valley Adventure">
+        <div class="img-box">
+          <img src="/images/media/videocd/lbt2-hongkong2.jpg" alt="The Land Before Time II The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Great Valley Adventure<br/>
+      <strong>Year:</strong> 1994<br/>
+      <strong>Barcode:</strong> 4893031010201<br/>
+    </div>
+</div>
+
   <div class="item-entry" id="lbt4-20">
     <div class="item-image">
       <a href="/images/media/videocd/lbt4.jpg" data-lightbox="img" data-title="Journey Through the Mists">

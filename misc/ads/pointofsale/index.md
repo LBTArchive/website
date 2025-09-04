@@ -57,14 +57,14 @@ There were a lot of items in stores advertisting the sale of Land Before Time me
 
 <div class="item-entry" id="lbt2-windowdecal-12x18-726">
     <div class="item-image">
-      <a href="/images/misc/ads/consumer/addlater/lbt2-windowdecal-12x18.jpg" data-lightbox="img" data-title="The Land Before Time II Window Decal">
+      <a href="/images/misc/ads/consumer/lbt2-windowdecal-12x18.jpg" data-lightbox="img" data-title="The Land Before Time II Window Decal">
         <div class="img-box">
-          <img src="/images/misc/ads/consumer/addlater/lbt2-windowdecal-12x18.jpg" alt="The Land Before Time II Window Decal" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/ads/consumer/lbt2-windowdecal-12x18.jpg" alt="The Land Before Time II Window Decal" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
-      <a href="/images/misc/ads/consumer/addlater/lbt2-windowdecal-12x18-2.jpg" data-lightbox="img" data-title="The Land Before Time II Window Decal">
+      <a href="/images/misc/ads/consumer/lbt2-windowdecal-12x18-2.jpg" data-lightbox="img" data-title="The Land Before Time II Window Decal">
         <div class="img-box">
-          <img src="/images/misc/ads/consumer/addlater/lbt2-windowdecal-12x18-2.jpg" alt="The Land Before Time II Window Decal" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/ads/consumer/lbt2-windowdecal-12x18-2.jpg" alt="The Land Before Time II Window Decal" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
