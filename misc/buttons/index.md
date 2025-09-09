@@ -67,6 +67,19 @@ An archive of The Land Before Time Buttons, keychains and pins released over the
       <strong>Notes:</strong> Showing Littlefoot as a baby with a blue background<br/>
     </div>
   </div>
+<div class="item-entry" id="phpin-829">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/phpin.jpg" data-lightbox="img" data-title="I was present at The Land Before Time WORLD PREMIERE presented by Pizza Hut pin">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/phpin.jpg" alt="I was present at The Land Before Time WORLD PREMIERE presented by Pizza Hut pin" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> I was present at The Land Before Time WORLD PREMIERE presented by Pizza Hut pin<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="phcera-260">
     <div class="item-image">

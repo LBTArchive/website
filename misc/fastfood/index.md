@@ -14,7 +14,8 @@ An archive of The Land Before Time Fast Food promotional items released over the
 <a href="#dq">Dairy Queen (1998)</a><br/>
 <a href="#ljs">Long John Silver's (1999)</a><br/>
 <a href="#sbarro">Sbarro (2002)</a><br/>
-<a href="#wendy">Wendy's (2003)</a>
+<a href="#wendy">Wendy's (2003)</a><br/>
+<a href="#kfc">KFC (2008)</a><br/>
 
 <h1 id="ph">Pizza Hut (1988-1989)</h1>
 <details>
@@ -308,6 +309,21 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <strong>Year:</strong> 1989<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="pizzahutbagyellow-826">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/pizzahutbagyellow.jpg" data-lightbox="img" data-title="Trick or Treat Safety Bag">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/pizzahutbagyellow.jpg" alt="Trick or Treat Safety Bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Trick or Treat Safety Bag<br/>
+      <strong>Year:</strong> 1989<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="ph-cardboarddisplay-687">
     <div class="item-image">
       <a href="/images/misc/fastfood/ph-cardboarddisplay.jpg" data-lightbox="img" data-title="Cardboard promotional sign in relief">
@@ -463,6 +479,21 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <strong>Year:</strong> 1997<br/>
     </div>
   </div>
+<div class="item-entry" id="bk36x26windowdisplay-834">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/bk36x26windowdisplay.jpg" data-lightbox="img" data-title="Burger King Window Display">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/bk36x26windowdisplay.jpg" alt="Burger King Window Display" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Burger King Window Display<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Notes:</strong> 36 x 26 in<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="burgerkingcrown-533">
     <div class="item-image">
       <a href="/images/misc/fastfood/burgerkingcrown.jpg" data-lightbox="img" data-title="Burger King Crown">
@@ -751,6 +782,64 @@ Dairy Queen gave out one of four the Land Before Time premiums (in this case, cu
     </div>
   </div>
 
+<h1 id="kfc">KFC (2008)</h1>
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
+  </div>
 
+<div class="item-entry" id="kfc-laptopmeal-546">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/kfc-laptop-meal.webp" data-lightbox="img" data-title="Wendy's Bag">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/kfc-laptop-meal.webp" alt="Wendy's Bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/kfc-laptop-meal2.webp" data-lightbox="img" data-title="Wendy's Bags">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/kfc-laptop-meal2.webp" alt="Wendy's Bags" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/kfc-3.png" data-lightbox="img" data-title="Wendy's Bags">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/kfc-3.png" alt="Wendy's Bags" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> KFC Kids Laptop Meal<br/>
+      <strong>Year:</strong> 2008<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="kfc-laptopmeal-5426">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/kfc-laptop-meal-counterstreamer.webp" data-lightbox="img" data-title="Wendy's Bag">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/kfc-laptop-meal-counterstreamer.webp" alt="Wendy's Bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> KFC Kids Laptop Meal Counter Streamer<br/>
+      <strong>Year:</strong> 2008<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="kfc-laptopmeal-5426">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/kfc-laptopmeal-doorposter.webp" data-lightbox="img" data-title="Wendy's Bag">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/kfc-laptopmeal-doorposter.webp" alt="Wendy's Bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> KFC Kids Laptop Meal Door Poster<br/>
+      <strong>Year:</strong> 2008<br/>
+    </div>
+  </div>
+  
 
 </div>

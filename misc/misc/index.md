@@ -70,6 +70,70 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Year:</strong> 1988<br/>
     </div>
 </div>
+<div class="item-entry" id="1988christmasseals-833">
+    <div class="item-image">
+      <a href="/images/misc/1988christmasseals.jpg" data-lightbox="img" data-title="Christmas Seals (Stamps)">
+        <div class="img-box">
+          <img src="/images/misc/1988christmasseals.jpg" alt="Christmas Seals (Stamps)" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/christmasseals2.jpg" data-lightbox="img" data-title="Christmas Seals (Stamps)">
+        <div class="img-box">
+          <img src="/images/misc/christmasseals2.jpg" alt="Christmas Seals (Stamps)" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Christmas Seals<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Publisher:</strong> USPS<br/>
+    </div>
+</div>
+<div class="item-entry" id="dinosaurstamps-832">
+    <div class="item-image">
+      <a href="/images/misc/dinosaurstamps.jpg" data-lightbox="img" data-title="Dinosaur Stamps">
+        <div class="img-box">
+          <img src="/images/misc/dinosaurstamps.jpg" alt="Dinosaur Stamps" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/dinosaurstamps2.jpg" data-lightbox="img" data-title="Dinosaur Stamps">
+        <div class="img-box">
+          <img src="/images/misc/dinosaurstamps2.jpg" alt="Dinosaur Stamps" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/dinosaurstamps3.jpg" data-lightbox="img" data-title="Dinosaur Stamps">
+        <div class="img-box">
+          <img src="/images/misc/dinosaurstamps3.jpg" alt="Dinosaur Stamps" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Dinosaur Stamps<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Publisher:</strong> USPS<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="cheerios-830">
+    <div class="item-image">
+      <a href="/images/misc/cheerios.jpg" data-lightbox="img" data-title="Cheerios Cereal Box">
+        <div class="img-box">
+          <img src="/images/misc/cheerios.jpg" alt="Cheerios Cereal Box" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/cheerios2.jpg" data-lightbox="img" data-title="Cheerios Cereal Box">
+        <div class="img-box">
+          <img src="/images/misc/cheerios2.jpg" alt="Cheerios Cereal Box" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cheerios Cereal Box<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Language:</strong> English / French<br/>
+      <strong>Notes:</strong> Mentions promotional bowl and mug (please let us know if you have these)<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="jetsonspromo-810">
     <div class="item-image">
@@ -83,26 +147,6 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Title:</strong> Jetsons the Movie promotional display<br/>
       <strong>Year:</strong> 1990<br/>
       <strong>Notes:</strong> "The company that brought you... The Land Before Time"<br/>
-    </div>
-</div>
-
-<div class="item-entry" id="2003-cleanimals-ducky-821">
-    <div class="item-image">
-      <a href="/images/misc/2003-cleanimals-ducky.jpg" data-lightbox="img" data-title="Cleanimals">
-        <div class="img-box">
-          <img src="/images/misc/2003-cleanimals-ducky.jpg" alt="Cleanimals" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/2003-cleanimals-petrie.jpg" data-lightbox="img" data-title="Cleanimals">
-        <div class="img-box">
-          <img src="/images/misc/2003-cleanimals-petrie.jpg" alt="Cleanimals" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Cleanimals<br/>
-      <strong>Year:</strong> 2003<br/>
-      <strong>Notes:</strong> Ducky and Petrie loofah (they should have made a loofah one)<br/>
     </div>
 </div>
 
@@ -157,20 +201,24 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Notes:</strong> From "Rinco"<br/>
     </div>
 </div>
-<div class="item-entry" id="lbt8-cooler-804">
+<div class="item-entry" id="2000alphabits-831">
     <div class="item-image">
-      <a href="/images/misc/lbt8-cooler.jpg" data-lightbox="img" data-title="The Big Freeze - Cooler">
+      <a href="/images/misc/2000alphabits.jpg" data-lightbox="img" data-title="Marshmallow Alpha-Bits Cereal Box">
         <div class="img-box">
-          <img src="/images/misc/lbt8-cooler.jpg" alt="The Big Freeze - Cooler" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/2000alphabits.jpg" alt="Marshmallow Alpha-Bits Cereal Box" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/2000alphabits2.jpg" data-lightbox="img" data-title="Marshmallow Alpha-Bits Cereal Box">
+        <div class="img-box">
+          <img src="/images/misc/2000alphabits2.jpg" alt="Marshmallow Alpha-Bits Cereal Box" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> The Big Freeze - Cooler<br/>
-      <strong>Year:</strong> 2001<br/>
+      <strong>Title:</strong> Marshmallow Alpha-Bits Cereal Box<br/>
+      <strong>Year:</strong> 2000<br/>
     </div>
 </div>
-
 <div class="item-entry" id="2001alphabitscereal-660">
     <div class="item-image">
       <a href="/images/misc/2001alphabitscereal.jpg" data-lightbox="img" data-title="Alpha-Bits cereal box">
@@ -191,7 +239,40 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Notes:</strong> With mail-in offers for <a href="/media/books/#beginningreaders-22312389">"Beginner's Books: The Land Before Time"</a>, <a href="/media/videogames/#item-1">"The Land Before Time Activity Center"</a>, and <a href="/media/vhs/6/#item-0">"The Land Before Time VI" VHS</a>.<br/>
     </div>
 </div>
+<div class="item-entry" id="lbt8-cooler-804">
+    <div class="item-image">
+      <a href="/images/misc/lbt8-cooler.jpg" data-lightbox="img" data-title="The Big Freeze - Cooler">
+        <div class="img-box">
+          <img src="/images/misc/lbt8-cooler.jpg" alt="The Big Freeze - Cooler" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Big Freeze - Cooler<br/>
+      <strong>Year:</strong> 2001<br/>
+    </div>
+</div>
 
+
+<div class="item-entry" id="2003-cleanimals-ducky-821">
+    <div class="item-image">
+      <a href="/images/misc/2003-cleanimals-ducky.jpg" data-lightbox="img" data-title="Cleanimals">
+        <div class="img-box">
+          <img src="/images/misc/2003-cleanimals-ducky.jpg" alt="Cleanimals" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/2003-cleanimals-petrie.jpg" data-lightbox="img" data-title="Cleanimals">
+        <div class="img-box">
+          <img src="/images/misc/2003-cleanimals-petrie.jpg" alt="Cleanimals" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cleanimals<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Notes:</strong> Ducky and Petrie loofah (they should have made a loofah one)<br/>
+    </div>
+</div>
 <div class="item-entry" id="growthchart2003storepromo-665">
     <div class="item-image">
       <a href="/images/misc/growthchart2003storepromo.jpg" data-lightbox="img" data-title="Growth Chart">
@@ -222,6 +303,23 @@ An archive of The Land Before Time items released over the years that did not fi
     </div>
 </div>
 
+<div class="item-entry" id="bopbag-827">
+    <div class="item-image">
+      <a href="/images/misc/bopbag.jpg" data-lightbox="img" data-title="Bop Bag">
+        <div class="img-box">
+          <img src="/images/misc/bopbag.jpg" alt="Bop Bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Bop Bag<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Toy Things<br/>
+      <strong>Barcode:</strong> 022499017604<br/>
+      <strong>Notes:</strong> 30 inches / 90 cm inflatable bag for punching<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="3D-magnets-collection-706">
     <div class="item-image">
       <a href="/images/misc/3D-magnets-collection.png" data-lightbox="img" data-title="3D Magnets Collection">
@@ -233,6 +331,25 @@ An archive of The Land Before Time items released over the years that did not fi
     <div class="item-details">
       <strong>Title:</strong> 3D Magnets Collection<br/>
       <strong>Publisher:</strong> Sweet<br/>
+    </div>
+</div>
+<div class="item-entry" id="magnetsback-828">
+    <div class="item-image">
+      <a href="/images/misc/magnetsback.jpg" data-lightbox="img" data-title="Land Before Time Magnet Set">
+        <div class="img-box">
+          <img src="/images/misc/magnetsback.jpg" alt="Land Before Time Magnet Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/magnetsfront.jpg" data-lightbox="img" data-title="Land Before Time Magnet Set">
+        <div class="img-box">
+          <img src="/images/misc/magnetsfront.jpg" alt="Land Before Time Magnet Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Land Before Time Magnet Set<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Barcode:</strong> 804639014540<br/>
     </div>
 </div>
 

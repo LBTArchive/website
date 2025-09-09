@@ -393,10 +393,21 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
           <img src="/images/misc/clothing/1997curtainvalance.jpg" alt="Curtain/Valance" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/clothing/1997curtainvalance2.jpg" data-lightbox="img" data-title="Curtain/Valance">
+        <div class="img-box">
+          <img src="/images/misc/clothing/1997curtainvalance2.jpg" alt="Curtain/Valance" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/1997curtainvalance3.jpg" data-lightbox="img" data-title="Curtain/Valance">
+        <div class="img-box">
+          <img src="/images/misc/clothing/1997curtainvalance3.jpg" alt="Curtain/Valance" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Curtain/Valance<br/>
       <strong>Year:</strong> 1997<br/>
+      <strong>Brand:</strong> The Bibb Company<br/>
     </div>
   </div>
 <div class="item-entry" id="ceracostume-377">
@@ -638,6 +649,30 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Brand:</strong> Loungefly<br/>
     </div>
   </div>
+<div class="item-entry" id="loungefly-wallet-836">
+    <div class="item-image">
+      <a href="/images/misc/clothing/loungefly-wallet.webp" data-lightbox="img" data-title="Wallet">
+        <div class="img-box">
+          <img src="/images/misc/clothing/loungefly-wallet.webp" alt="Wallet" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/loungefly-wallet-2.webp" data-lightbox="img" data-title="Wallet">
+        <div class="img-box">
+          <img src="/images/misc/clothing/loungefly-wallet-2.webp" alt="Wallet" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/loungefly-wallet-3.webp" data-lightbox="img" data-title="Wallet">
+        <div class="img-box">
+          <img src="/images/misc/clothing/loungefly-wallet-3.webp" alt="Wallet" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Wallet<br/>
+      <strong>Year:</strong> 2023<br/>
+      <strong>Publisher:</strong> Loungefly<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="LandBeforeTimeshirtRoss-423">
     <div class="item-image">

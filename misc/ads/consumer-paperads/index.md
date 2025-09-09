@@ -42,6 +42,54 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
       <strong>Notes:</strong> Published in'the New York Times<br/>
     </div>
 </div>
+<div class="item-entry" id="jcpenney-ad-837">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/jcpenney-ad.jpg" data-lightbox="img" data-title="JC Penney Print Ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenney-ad.jpg" alt="JC Penney Print Ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/jcpenney-ad-2.jpg" data-lightbox="img" data-title="JC Penney Print Ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenney-ad-2.jpg" alt="JC Penney Print Ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/jcpenney-ad-3.jpg" data-lightbox="img" data-title="JC Penney Print Ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenney-ad-3.jpg" alt="JC Penney Print Ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/jcpenney-ad-4.jpg" data-lightbox="img" data-title="JC Penney Print Ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenney-ad-4.jpg" alt="JC Penney Print Ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/jcpenney-ad-5.jpg" data-lightbox="img" data-title="JC Penney Print Ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenney-ad-5.jpg" alt="JC Penney Print Ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/jcpenney-ad-6.jpg" data-lightbox="img" data-title="JC Penney Print Ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenney-ad-6.jpg" alt="JC Penney Print Ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/jcpenney-ad-7.jpg" data-lightbox="img" data-title="JC Penney Print Ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenney-ad-7.jpg" alt="JC Penney Print Ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/jcpenney-ad-8.jpg" data-lightbox="img" data-title="JC Penney Print Ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenney-ad-8.jpg" alt="JC Penney Print Ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> JC Penney Print Ad<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="germanad1988quellekatalog-702">
     <div class="item-image">
@@ -106,7 +154,7 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
     </div>
 </div>
 
-<div class="item-entry" id="betamax leaflet-700">
+<div class="item-entry" id="betamax-leaflet-700">
     <div class="item-image">
     <a href="/images/misc/ads/consumer/vhs-leaflet-lbt1.jpg" data-lightbox="img" data-title="Leaflet included in the 1989 release on VHS and Betamax">
         <div class="img-box">

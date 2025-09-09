@@ -1021,6 +1021,27 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+<div class="item-entry" id="petrie-minipal-1997-835">
+    <div class="item-image">
+      <a href="/images/toys/plushies/petrie-minipal-1997.jpg" data-lightbox="img" data-title="Petrie Mini-Pal">
+        <div class="img-box">
+          <img src="/images/toys/plushies/petrie-minipal-1997.jpg" alt="Petrie Mini-Pal" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/petrie-minipal-1997-2.jpg" data-lightbox="img" data-title="Petrie Mini-Pal">
+        <div class="img-box">
+          <img src="/images/toys/plushies/petrie-minipal-1997-2.jpg" alt="Petrie Mini-Pal" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Petrie Mini-Pal<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Equity Toys<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="petrie-universalstudios-1996-11inch_orig-87">
     <div class="item-image">
       <a href="/images/toys/plushies/petrie-universalstudios-1996-11inch_orig.jpg" data-lightbox="img" data-title="Petrie">
@@ -1251,7 +1272,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
     <div class="item-details">
       <strong>Title:</strong> Spike<br/>
-      <strong>Year:</strong> ?<br/>
+      <strong>Year:</strong> 2004<br/>
       <strong>Brand:</strong> Kellytoy<br/>
       <strong>Size:</strong> ?<br/>
     </div>
@@ -1264,12 +1285,17 @@ An archive of The Land Before Time Plushies released over the years. If you want
           <img src="/images/toys/plushies/spike-kellytoys-8inch.jpg" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/toys/plushies/spike-kellytoys-8inch-2.jpg" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/spike-kellytoys-8inch-2.jpg" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Spike<br/>
-      <strong>Year:</strong> ?<br/>
+      <strong>Year:</strong> 2010<br/>
       <strong>Brand:</strong> Kellytoy<br/>
-      <strong>Size:</strong> 8 in<br/>
+      <strong>Size:</strong> 9 in<br/>
     </div>
   </div>
 

@@ -16,6 +16,21 @@ An archive of The Land Before Time Party Supplies released over the years.
       <strong>Details</strong>
     </div>
   </div>
+  <div class="item-entry" id="anagram40inballoon-824">
+    <div class="item-image">
+      <a href="/images/misc/partysupplies/anagram40inballoon.jpg" data-lightbox="img" data-title="Littlefoot Balloon">
+        <div class="img-box">
+          <img src="/images/misc/partysupplies/anagram40inballoon.jpg" alt="Littlefoot Balloon" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot Balloon<br/>
+      <strong>Publisher:</strong> Anagram<br/>
+      <strong>Notes:</strong> 40 inches<br/>
+    </div>
+</div>
+
   <div class="item-entry" id="annagram18inballoon-351">
     <div class="item-image">
       <a href="/images/misc/partysupplies/annagram18inballoon.jpg" data-lightbox="img" data-title="Happy Birthday Balloon">
