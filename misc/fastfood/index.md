@@ -493,6 +493,20 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <strong>Notes:</strong> 36 x 26 in<br/>
     </div>
 </div>
+<div class="item-entry" id="bk-dinosaurtendies-838">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/bk-dinosaurtendies.jpg" data-lightbox="img" data-title="Try New Dino-Tenders.">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/bk-dinosaurtendies.jpg" alt="Try New Dino-Tenders." style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Try New Dino-Tenders.<br/>
+      <strong>Subtitle:</strong> Great tasting chicken, 'dino'-style<br/>
+      <strong>Year:</strong> 1997<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="burgerkingcrown-533">
     <div class="item-image">
