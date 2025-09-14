@@ -163,6 +163,25 @@ An archive of The Land Before Time Cassettes released over the years.
       <strong>Notes:</strong> German audio play of the movie The Land Before Time 5 <br />
     </div>
   </div>
+  <div class="item-entry" id="songsfromthelandbeforetime-855">
+    <div class="item-image">
+      <a href="/images/media/cassettes/songsfromthelandbeforetime.jpg" data-lightbox="img" data-title="Songs from The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/cassettes/songsfromthelandbeforetime.jpg" alt="Songs from The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/cassettes/songsfromthelandbeforetime2.jpg" data-lightbox="img" data-title="Songs from The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/cassettes/songsfromthelandbeforetime2.jpg" alt="Songs from The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Songs from The Land Before Time<br/>
+      <strong>Year:</strong> 1997<br/>
+    </div>
+</div>
+
   <div class="item-entry">
     <div class="item-image">
       <a href="/images/media/cassettes/lbt1-audio-play-german-1988_orig.jpg" data-lightbox="img" data-title="Die Lieder aus In einem Land vor unserer Zeit">

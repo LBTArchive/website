@@ -457,6 +457,29 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 14-24 inches<br/>
     </div>
 </div>
+<div class="item-entry" id="cera-prototype-850">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-prototype.jpg" data-lightbox="img" data-title="Cera plush">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-prototype.jpg" alt="Cera plush" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/cera-prototype2.jpg" data-lightbox="img" data-title="Cera plush">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-prototype2.jpg" alt="Cera plush" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/cera-prototype3.jpg" data-lightbox="img" data-title="Cera plush">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-prototype3.jpg" alt="Cera plush" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera plush<br/>
+      <strong>Notes:</strong> Supposedly a prototype version of the above plushie<br/>
+    </div>
+</div>
 
   <div class="item-entry" id="cera-flopasaurus-131">
     <div class="item-image">
@@ -626,7 +649,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
     <div class="item-details">
       <strong>Title:</strong> Cera<br/>
-      <strong>Year:</strong> ?<br/>
+      <strong>Year:</strong> 2005<br/>
       <strong>Brand:</strong> Kellytoy<br/>
       <strong>Size:</strong> 9 inch / 23 cm<br/>
     </div>

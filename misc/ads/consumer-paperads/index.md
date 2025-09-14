@@ -91,6 +91,31 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
     </div>
 </div>
 
+<div class="item-entry" id="jcpenneycatalog-847">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/jcpenneycatalog.png" data-lightbox="img" data-title="JC Penney catalog">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenneycatalog.png" alt="JC Penney catalog" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/jcpenneycatalog2.png" data-lightbox="img" data-title="JC Penney catalog">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenneycatalog2.png" alt="JC Penney catalog" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/jcpenneycatalog3.png" data-lightbox="img" data-title="JC Penney catalog">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/jcpenneycatalog3.png" alt="JC Penney catalog" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> JC Penney catalog<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="germanad1988quellekatalog-702">
     <div class="item-image">
       <a href="/images/misc/ads/consumer/germanad1988quellekatalog.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit toy catalog">
@@ -503,6 +528,19 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
       <strong>Title:</strong> Powerups for your Game Boy Color<br/>
       <strong>Year:</strong> 2001<br/>
       <strong>Notes:</strong> Featuring <a href="/media/videogames/#item-25">The Land Before Time</a>, Tiny Toon Adventures - Buster Saves the Day, and Tiny Toon Adventures - Dizzy's Candy Quest<br/>
+    </div>
+</div>
+<div class="item-entry" id="insert-bigbox-bigwateradventure-853">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/insert-bigbox-bigwateradventure.jpg" data-lightbox="img" data-title="Insert in the game "Big Water Adventure" for PC">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/insert-bigbox-bigwateradventure.jpg" alt="Insert in the game "Big Water Adventure" for PC" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Insert in the game "Big Water Adventure" for PC<br/>
+      <strong>Year:</strong> 2002<br/>
     </div>
 </div>
 

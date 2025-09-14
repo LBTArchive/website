@@ -434,6 +434,11 @@ An archive of The Land Before Time Figurines released over the years.
           <img src="/images/toys/figures/7funkolittlefoottreestar.jpg" alt="Funko Pops" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/toys/figures/7funkolittlefoottreestar-back.jpg" data-lightbox="img" data-title="Funko Pops">
+        <div class="img-box">
+          <img src="/images/toys/figures/7funkolittlefoottreestar-back.jpg" alt="Funko Pops" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Funko Pops<br/>

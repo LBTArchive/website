@@ -70,6 +70,26 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Year:</strong> 1988<br/>
     </div>
 </div>
+<div class="item-entry" id="lobbycards-842">
+    <div class="item-image">
+      <a href="/images/misc/lobbycards.png" data-lightbox="img" data-title="Lobby Cards">
+        <div class="img-box">
+          <img src="/images/misc/lobbycards.png" alt="Lobby Cards" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/lobbycards2.png" data-lightbox="img" data-title="Lobby Cards">
+        <div class="img-box">
+          <img src="/images/misc/lobbycards2.png" alt="Lobby Cards" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Lobby Cards<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Notes:</strong> 11X14"<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="1988christmasseals-833">
     <div class="item-image">
       <a href="/images/misc/1988christmasseals.jpg" data-lightbox="img" data-title="Christmas Seals (Stamps)">
@@ -183,6 +203,19 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Title:</strong> 3D Photo Frame<br/>
       <strong>Year:</strong> 1996<br/>
       <strong>Notes:</strong> Included with the 1996 re-release of the original movie on VHS<br/>
+    </div>
+</div>
+<div class="item-entry" id="blockbusterbackercard-844">
+    <div class="item-image">
+      <a href="/images/misc/blockbusterbackercard.png" data-lightbox="img" data-title="Blockbuster Backer Card">
+        <div class="img-box">
+          <img src="/images/misc/blockbusterbackercard.png" alt="Blockbuster Backer Card" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Blockbuster Backer Card<br/>
+      <strong>Year:</strong> 1997 (?)<br/>
     </div>
 </div>
 

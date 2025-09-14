@@ -13,6 +13,25 @@ An archive of The Land Before Time DVDs released over the years.
     <div class="item-details"><strong>Details</strong></div>
   </div>
 
+<div class="item-entry" id="4movie-dinopack-2003-849">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/4movie-dinopack-2003.jpg" data-lightbox="img" data-title="4 Movie Dino Pack Volume 2">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/4movie-dinopack-2003.jpg" alt="4 Movie Dino Pack Volume 2" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/collection/4movie-dinopack-2003-2.jpg" data-lightbox="img" data-title="4 Movie Dino Pack Volume 2">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/4movie-dinopack-2003-2.jpg" alt="4 Movie Dino Pack Volume 2" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 4 Movie Dino Pack Volume 2<br/>
+      <strong>Year:</strong> 2003 (?)<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/collection/2017-12-04-5a25c19bd1fae-dvd-landbeforetimedoublefeature-950x637_orig.jpg" data-lightbox="img" data-title="The Land Before Time Double Feature">
@@ -250,6 +269,25 @@ Les Long Cous et le cercle de lumière (X)</li></ul>
     </div>
   </div>
 
+<div class="item-entry" id="threepack-region4-852">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/threepack-region4.jpg" data-lightbox="img" data-title="Kids 3 DVD Pack">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/threepack-region4.jpg" alt="Kids 3 DVD Pack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/collection/threepack-region4-2.jpg" data-lightbox="img" data-title="Kids 3 DVD Pack">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/threepack-region4-2.jpg" alt="Kids 3 DVD Pack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Kids 3 DVD Pack<br/>
+      <strong>Year:</strong> 2006<br/>
+      <strong>Notes:</strong> Region 4<br/>
+    </div>
+</div>
 
   <div class="item-entry">
   <div class="item-image">

@@ -414,6 +414,11 @@ The Land Before Time series released several educational games. They also releas
           <img src="/images/media/videogames/returntothegreatvalley.jpg" alt="The Land Before Time - Return to the Great Valley" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
+      <a href="/images/media/videogames/returntothegreatvalley-disc.jpg" data-lightbox="img" data-title="The Land Before Time - Return to the Great Valley">
+        <div class="img-box">
+          <img src="/images/media/videogames/returntothegreatvalley-disc.jpg" alt="The Land Before Time - Return to the Great Valley" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
   </div>
   <div class="item-details">
     <strong>Title:</strong> The Land Before Time - Return to the Great Valley<br/>
@@ -479,6 +484,28 @@ The Land Before Time series released several educational games. They also releas
       <strong>Language:</strong> Italian<br/>
       <strong>Notes:</strong> Return to the Great Valley<br/>
   </div>
+</div>
+
+<div class="item-entry" id="threepack-848">
+    <div class="item-image">
+      <a href="/images/media/videogames/threepack.jpg" data-lightbox="img" data-title="The Land Before Time Three Pack">
+        <div class="img-box">
+          <img src="/images/media/videogames/threepack.jpg" alt="The Land Before Time Three Pack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/videogames/threepack2.jpg" data-lightbox="img" data-title="The Land Before Time Three Pack">
+        <div class="img-box">
+          <img src="/images/media/videogames/threepack2.jpg" alt="The Land Before Time Three Pack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time Three Pack<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Publisher:</strong> Activision<br/>
+      <strong>Barcode:</strong> 762321603125<br/>
+      <strong>Notes:</strong> Featuring Activity Center, Kindergarten Adventure, and Math Adventure<br/>
+    </div>
 </div>
 
 
@@ -646,6 +673,41 @@ The Land Before Time series released several educational games. They also releas
       <strong>Year:</strong> 2002<br/>
       <strong>Language:</strong> Italian<br/>
   </div>
+</div>
+
+<div class="item-entry" id="bigwater-pc-854">
+    <div class="item-image">
+      <a href="/images/media/videogames/bigwater-pc.jpg" data-lightbox="img" data-title="Big Water Adventure">
+        <div class="img-box">
+          <img src="/images/media/videogames/bigwater-pc.jpg" alt="Big Water Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/videogames/bigwater-pc2.jpg" data-lightbox="img" data-title="Big Water Adventure">
+        <div class="img-box">
+          <img src="/images/media/videogames/bigwater-pc2.jpg" alt="Big Water Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/videogames/bigwater-pc3.jpg" data-lightbox="img" data-title="Big Water Adventure">
+        <div class="img-box">
+          <img src="/images/media/videogames/bigwater-pc3.jpg" alt="Big Water Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/videogames/bigwater-pc4.jpg" data-lightbox="img" data-title="Big Water Adventure">
+        <div class="img-box">
+          <img src="/images/media/videogames/bigwater-pc4.jpg" alt="Big Water Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/videogames/bigwater-pc5.jpg" data-lightbox="img" data-title="Big Water Adventure">
+        <div class="img-box">
+          <img src="/images/media/videogames/bigwater-pc5.jpg" alt="Big Water Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time - Big Water Adventure<br/>
+      <strong>Platform:</strong> PC<br/>
+      <strong>Year:</strong> 2002<br/>
+    </div>
 </div>
 
 <div class="item-entry">

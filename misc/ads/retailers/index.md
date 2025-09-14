@@ -89,6 +89,19 @@ title: Land Before Time retailer ads
       </ul><br/>
     </div>
 </div>
+<div class="item-entry" id="videodealerbrochure-845">
+    <div class="item-image">
+      <a href="/images/misc/ads/retailers/videodealerbrochure.jpg" data-lightbox="img" data-title="Video Dealer Brochure">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/videodealerbrochure.jpg" alt="Video Dealer Brochure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Video Dealer Brochure<br/>
+      <strong>Year:</strong> 1990<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="1991_lbt1americantale-754">
     <div class="item-image">

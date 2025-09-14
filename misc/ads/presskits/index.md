@@ -93,6 +93,40 @@ This part of the site is still under construction. Please check back later!
     </div>
 </div>
 
+<div class="item-entry" id="lbt1-celbook-846">
+    <div class="item-image">
+      <a href="/images/misc/ads/presskits/lbt1-celbook.png" data-lightbox="img" data-title="Cell Book for The Land Before Time">
+        <div class="img-box">
+          <img src="/images/misc/ads/presskits/lbt1-celbook.png" alt="Cell Book for The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/presskits/lbt1-celbook2.png" data-lightbox="img" data-title="Cell Book for The Land Before Time">
+        <div class="img-box">
+          <img src="/images/misc/ads/presskits/lbt1-celbook2.png" alt="Cell Book for The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/presskits/lbt1-celbook3.png" data-lightbox="img" data-title="Cell Book for The Land Before Time">
+        <div class="img-box">
+          <img src="/images/misc/ads/presskits/lbt1-celbook3.png" alt="Cell Book for The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/presskits/lbt1-celbook4.png" data-lightbox="img" data-title="Cell Book for The Land Before Time">
+        <div class="img-box">
+          <img src="/images/misc/ads/presskits/lbt1-celbook4.png" alt="Cell Book for The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/presskits/lbt1-celbook5.png" data-lightbox="img" data-title="Cell Book for The Land Before Time">
+        <div class="img-box">
+          <img src="/images/misc/ads/presskits/lbt1-celbook5.png" alt="Cell Book for The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cell Book for The Land Before Time<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+
 
 <div class="item-entry" id="lbt2-celbook-746">
     <div class="item-image">

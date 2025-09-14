@@ -390,6 +390,24 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <strong>Notes:</strong> See the above TV ads for more information on this promotion<br/>
     </div>
   </div>
+<div class="item-entry" id="mcdonaldscounter-841">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/mcdonaldscounter.png" data-lightbox="img" data-title="McDonalds Holiday Film Fest counter display">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/mcdonaldscounter.png" alt="McDonalds Holiday Film Fest counter display" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/mcdonaldscounter2.png" data-lightbox="img" data-title="McDonalds Holiday Film Fest counter display">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/mcdonaldscounter2.png" alt="McDonalds Holiday Film Fest counter display" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> McDonalds Holiday Film Fest counter display<br/>
+      <strong>Year:</strong> 1994<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="Mcdonalds-5122346">
     <div class="item-image">
@@ -466,6 +484,20 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <strong>Year:</strong> 1997<br/>
     </div>
   </div>
+  <div class="item-entry" id="bk-friesbag-840">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/bk-friesbag.jpg" data-lightbox="img" data-title="Burger King fries bag">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/bk-friesbag.jpg" alt="Burger King fries bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Burger King fries bag<br/>
+      <strong>Year:</strong> 1997<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="burgerkingcollectionstand_orig-532">
     <div class="item-image">
       <a href="/images/misc/fastfood/burgerkingcollectionstand_orig.jpg" data-lightbox="img" data-title="Burger King Standee">
@@ -541,6 +573,11 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <a href="/images/misc/fastfood/burgerskingpreproductionimages_orig.jpg" data-lightbox="img" data-title="Burger King Design images">
         <div class="img-box">
           <img src="/images/misc/fastfood/burgerskingpreproductionimages_orig.jpg" alt="Burger King Design images" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fastfood/burgerkingtoydesign.png" data-lightbox="img" data-title="Burger King Design images">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/burgerkingtoydesign.png" alt="Burger King Design images" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
@@ -672,6 +709,21 @@ Dairy Queen gave out one of four the Land Before Time premiums (in this case, cu
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
+
+<div class="item-entry" id="ljs-bag-839">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/ljs-bag.jpg" data-lightbox="img" data-title="Paper bag">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ljs-bag.jpg" alt="Paper bag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Paper bag<br/>
+      <strong>Year:</strong> 1999<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="ljs-backside-695">
     <div class="item-image">
       <a href="/images/misc/fastfood/ljs-friendshipdecoder.jpg" data-lightbox="img" data-title="Friendship Decoder & Adventure Playsheet">
@@ -717,6 +769,11 @@ Dairy Queen gave out one of four the Land Before Time premiums (in this case, cu
           <img src="/images/misc/fastfood/ljs-justhatchedlenticular.jpg" alt="Just Hatched Lenticular with plastic clip" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/fastfood/ljs-justhatchedlenticular2.png" data-lightbox="img" data-title="Just Hatched Lenticular with plastic clip">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ljs-justhatchedlenticular2.png" alt="Just Hatched Lenticular with plastic clip" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Just Hatched Lenticular with plastic clip<br/>
@@ -757,15 +814,21 @@ Dairy Queen gave out one of four the Land Before Time premiums (in this case, cu
           <img src="/images/misc/fastfood/sbarro2.jpg" alt="Sbarro Activity Books" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/fastfood/sbarro3.png" data-lightbox="img" data-title="Sbarro Activity Books">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/sbarro3.png" alt="Sbarro Activity Books" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Sbarro Activity Books<br/>
+      <strong>Title:</strong> Sbarro Activity Books + stickers<br/>
       <strong>Year:</strong> 2002<br/>
-      <strong>Notes:</strong> 3 titles known, please <a href="/guestbook/">let us know</a> if you know more information about the 4th booklet
+      <strong>Notes:</strong> The activity books and activity sheets are 5" by 5"
       <ul>
       <li>Cera's Fun and Games</li>
       <li>Littlefoot's Big Adventure</li>
-      <li>Untitled Spike booklet</li>
+      <li>Spike's Snack Scrambler</li>
+      <li>Fun and Games with Ducky and Chomper</li>
       </ul>
     </div>
   </div>
