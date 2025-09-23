@@ -11,7 +11,7 @@
 </head>
 <body>
   <nav>
-    <a href="/">Home</a> | <a href="/toys/">Toys</a> | <a href="/media/">Media</a> | <a href="/misc/">Miscellaneous</a> | <a href="/guestbook/">Guestbook</a> | 
+    <a href="/">Home</a> | <a href="/toys/">Toys</a> | <a href="/media/">Media</a> | <a href="/misc/">Miscellaneous</a> | <a href="/guestbook/">Guestbook</a> | <a href="/contact/">Contact</a> | 
   </nav>
   <hr />
 
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   const segments = cleanPath.split("/").filter(Boolean);
 
   // Pages where breadcrumbs should NOT appear
-  const topLevelExclude = ["media", "toys", "misc", "guestbook"];
+  const topLevelExclude = ["media", "toys", "misc", "guestbook", "contact", "thanks"];
   const isHome = segments.length === 0;
   const isTopLevelExcluded =
     segments.length === 1 && topLevelExclude.includes(segments[0].toLowerCase());
