@@ -42,6 +42,26 @@ An archive of The Land Before Time DVDs released over the years.
           <img src="/images/media/dvd/other/dvdgame2.jpg" alt="The Land Before Time DVD Game" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/media/dvd/other/dvdgame3.jpg" data-lightbox="img" data-title="The Land Before Time DVD Game">
+        <div class="img-box">
+          <img src="/images/media/dvd/other/dvdgame3.jpg" alt="The Land Before Time DVD Game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/other/dvdgame5.jpg" data-lightbox="img" data-title="The Land Before Time DVD Game">
+        <div class="img-box">
+          <img src="/images/media/dvd/other/dvdgame5.jpg" alt="The Land Before Time DVD Game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stickers/dvdgamestickersheet.jpg" data-lightbox="img" data-title="The Land Before Time DVD Game">
+        <div class="img-box">
+          <img src="/images/misc/stickers/dvdgamestickersheet.jpg" alt="The Land Before Time DVD Game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/other/dvdgame7.jpg" data-lightbox="img" data-title="The Land Before Time DVD Game">
+        <div class="img-box">
+          <img src="/images/media/dvd/other/dvdgame7.jpg" alt="The Land Before Time DVD Game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time DVD Game<br/>

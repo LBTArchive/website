@@ -573,6 +573,20 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
     </div>
 </div>
 
+<div class="item-entry" id="dvdgamead-867">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/dvdgamead.jpg" data-lightbox="img" data-title="Ad included in The Land Before Time DVD Game">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/dvdgamead.jpg" alt="Ad included in The Land Before Time DVD Game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ad included in <a href="/media/dvd/other/#dvdgame1-823">The Land Before Time DVD Game</a><br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Pressman<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="jaflyer (2)-707">
     <div class="item-image">

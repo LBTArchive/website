@@ -257,6 +257,21 @@ An archive of The Land Before Time board games released over the years.
       <strong>Publisher:</strong> Pressman<br/>
   </div>
 </div>
+<div class="item-entry" id="escapefromredclawgame_ca-860">
+    <div class="item-image">
+      <a href="/images/toys/boardgames/escapefromredclawgame_ca.jpg" data-lightbox="img" data-title="Escape From Red Claw Game">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/escapefromredclawgame_ca.jpg" alt="Escape From Red Claw Game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Escape From Red Claw Game<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Pressman<br/>
+      <strong>Notes:</strong> Canadian version<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="escapefromredclawgame_fr-175">
     <div class="item-image">

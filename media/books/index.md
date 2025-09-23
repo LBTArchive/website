@@ -185,6 +185,40 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Notes:</strong> "The Land Before Time" <br />
   </div>
 </div>
+
+<div class="item-entry" id="animatedfilmsofdonbluth1-859">
+    <div class="item-image">
+      <a href="/images/media/books/animatedfilmsofdonbluth1.jpg" data-lightbox="img" data-title="The Animated Films of Don Bluth">
+        <div class="img-box">
+          <img src="/images/media/books/animatedfilmsofdonbluth1.jpg" alt="The Animated Films of Don Bluth" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/animatedfilmsofdonbluth2.jpg" data-lightbox="img" data-title="The Animated Films of Don Bluth">
+        <div class="img-box">
+          <img src="/images/media/books/animatedfilmsofdonbluth2.jpg" alt="The Animated Films of Don Bluth" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/animatedfilmsofdonbluth3.jpg" data-lightbox="img" data-title="The Animated Films of Don Bluth">
+        <div class="img-box">
+          <img src="/images/media/books/animatedfilmsofdonbluth3.jpg" alt="The Animated Films of Don Bluth" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/animatedfilmsofdonbluth4.jpg" data-lightbox="img" data-title="The Animated Films of Don Bluth">
+        <div class="img-box">
+          <img src="/images/media/books/animatedfilmsofdonbluth4.jpg" alt="The Animated Films of Don Bluth" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Animated Films of Don Bluth<br/>
+      <strong>Year:</strong> 1991<br/>
+      <strong>Publisher:</strong> Image Publishing<br/>
+      <strong>ISBN:</strong> 9780685503348<br/>
+      <strong>Notes:</strong> By John Cawley<br/>
+    </div>
+</div>
+
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/de_ineinemland.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
@@ -887,4 +921,28 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Notes:</strong> "Littlefoot's Grandfather" <br />
   </div>
 </div>
+
+<div class="item-entry" id="somewhereouthere-857">
+    <div class="item-image">
+      <a href="/images/media/books/somewhereouthere.jpg" data-lightbox="img" data-title="Somewhere Out There">
+        <div class="img-box">
+          <img src="/images/media/books/somewhereouthere.jpg" alt="Somewhere Out There" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/somewhereouthere2.jpg" data-lightbox="img" data-title="Somewhere Out There">
+        <div class="img-box">
+          <img src="/images/media/books/somewhereouthere2.jpg" alt="Somewhere Out There" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Somewhere Out There<br/>
+      <strong>Subtitle:</strong> My Animated Life<br/>
+      <strong>Year:</strong> 2022<br/>
+      <strong>Publisher:</strong> BenBella Books<br/>
+      <strong>ISBN:</strong> 9781637740538<br/>
+      <strong>Notes:</strong> By Don Bluth<br/>
+    </div>
+</div>
+
 </div>

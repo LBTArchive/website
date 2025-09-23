@@ -484,6 +484,20 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="dvdgamestickersheet-864">
+    <div class="item-image">
+      <a href="/images/misc/stickers/dvdgamestickersheet.jpg" data-lightbox="img" data-title="Sticker sheet from The Land Before Time DVD Game">
+        <div class="img-box">
+          <img src="/images/misc/stickers/dvdgamestickersheet.jpg" alt="Sticker sheet from The Land Before Time DVD Game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Sticker sheet from <a href="/media/dvd/other/#dvdgame1-823">The Land Before Time DVD Game</a><br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Pressman<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="scrapbookcollectionspaperblueskydesigns-501">
     <div class="item-image">

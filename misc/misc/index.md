@@ -286,6 +286,30 @@ An archive of The Land Before Time items released over the years that did not fi
     </div>
 </div>
 
+<div class="item-entry" id="embroidery1-856">
+    <div class="item-image">
+      <a href="/images/misc/embroidery1.jpg" data-lightbox="img" data-title="Land Before Time Embroidery Set">
+        <div class="img-box">
+          <img src="/images/misc/embroidery1.jpg" alt="Land Before Time Embroidery Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/embroidery2.jpg" data-lightbox="img" data-title="Land Before Time Embroidery Set">
+        <div class="img-box">
+          <img src="/images/misc/embroidery2.jpg" alt="Land Before Time Embroidery Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/embroidery3.jpg" data-lightbox="img" data-title="Land Before Time Embroidery Set">
+        <div class="img-box">
+          <img src="/images/misc/embroidery3.jpg" alt="Land Before Time Embroidery Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Land Before Time Embroidery Set<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Publisher:</strong> Husqvarna Viking<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="2003-cleanimals-ducky-821">
     <div class="item-image">

@@ -138,6 +138,20 @@ An archive of The Land Before Time Puzzles released over the years.
       <strong>Publisher:</strong> Pressman<br/>
   </div>
 </div>
+<div class="item-entry" id="50piecepressman2004-4pack-2-868">
+    <div class="item-image">
+      <a href="/images/toys/puzzles/50piecepressman2004-4pack-2.jpg" data-lightbox="img" data-title="50 pieces - 4 pack">
+        <div class="img-box">
+          <img src="/images/toys/puzzles/50piecepressman2004-4pack-2.jpg" alt="50 pieces - 4 pack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 50 pieces - 4 pack<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Publisher:</strong> Pressman<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">
