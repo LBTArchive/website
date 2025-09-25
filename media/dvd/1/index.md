@@ -130,6 +130,22 @@ An archive of The Land Before Time DVDs released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="lbt1-nl-881">
+    <div class="item-image">
+      <a href="/images/media/dvd/1/lbt1-nl.png" data-lightbox="img" data-title="Platvoet en z'n vriendjes">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/lbt1-nl.png" alt="Platvoet en z'n vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en z'n vriendjes<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Dutch<br/>
+    </div>
+</div>
+
+
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/1/lbt1-swedish-dvd.jpg" data-lightbox="img" data-title="Landet för längesedan">
@@ -175,6 +191,7 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Japanese<br/>
   </div>
 </div>
+
 
 
 <div class="item-entry">

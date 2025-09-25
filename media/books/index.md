@@ -367,12 +367,19 @@ An archive of The Land Before Time books released over the years. These books al
         <img src="/images/media/books/grandpaandme.jpg" alt="Grandpa and me" style="height:250px; object-fit:cover;" loading="lazy">
       </div>
     </a>
+    <a href="/images/media/books/grandpaandmeset.png" data-lightbox="img" data-title="Grandpa and me">
+      <div class="img-box">
+        <img src="/images/media/books/grandpaandmeset.png" alt="Grandpa and me" style="height:250px; object-fit:cover;" loading="lazy">
+      </div>
+    </a>
   </div>
   <div class="item-details">
     <strong>Title:</strong> Grandpa and me <br />
     <strong>Language:</strong> English <br />
     <strong>Year:</strong> 1998 <br />
+    <strong>Publisher:</strong> Inchworm Press<br/>
     <strong>ISBN:</strong> 9780200646017 <br />
+    <strong>Notes:</strong> Was apparently part of a "Book and Plush Gift Set" <br />
   </div>
 </div>
 <div class="item-entry" id="duckyandchomperclothbook-777">
@@ -477,6 +484,30 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Barcode:</strong> 9781577193852 <br />
   </div>
 </div>
+
+<div class="item-entry" id="lestplayimpossiblereadalongfunpack-875">
+    <div class="item-image">
+      <a href="/images/media/books/lestplayimpossiblereadalongfunpack.jpg" data-lightbox="img" data-title="Read-Along Fun Pack">
+        <div class="img-box">
+          <img src="/images/media/books/lestplayimpossiblereadalongfunpack.jpg" alt="Read-Along Fun Pack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/books/lestplayimpossiblereadalongfunpack2.jpg" data-lightbox="img" data-title="Read-Along Fun Pack">
+        <div class="img-box">
+          <img src="/images/media/books/lestplayimpossiblereadalongfunpack2.jpg" alt="Read-Along Fun Pack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Read-Along Fun Pack<br/>
+      <strong>Subtitle:</strong> Plus Littlefoot and Cera Collectible Figures<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Publisher:</strong> Inchworm Press<br/>
+      <strong>ISBN:</strong> 1577193857<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="supersoundpackage-780">
     <div class="item-image">
       <a href="/images/media/books/supersoundpackage.jpg" data-lightbox="img" data-title="Super Sound Package">

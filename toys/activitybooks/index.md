@@ -125,9 +125,9 @@ An archive of The Land Before Time Activity Books released over the years. If yo
 
 <div class="item-entry" id="1997petrie-528">
     <div class="item-image">
-      <a href="/images/toys/coloringbook/1997petrie.png" data-lightbox="img" data-title="Coloring and Activity Book">
+      <a href="/images/toys/coloringbook/1997petrie.jpg" data-lightbox="img" data-title="Coloring and Activity Book">
         <div class="img-box">
-          <img src="/images/toys/coloringbook/1997petrie.png" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/toys/coloringbook/1997petrie.jpg" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
@@ -159,6 +159,44 @@ An archive of The Land Before Time Activity Books released over the years. If yo
       <strong>Barcode:</strong> 087577080123<br/>
     </div>
   </div>
+<div class="item-entry" id="supercoloringandactivitybook-872">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/supercoloringandactivitybook.jpg" data-lightbox="img" data-title="Super Coloring & Activity Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/supercoloringandactivitybook.jpg" alt="Super Coloring & Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Super Coloring & Activity Book<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+      <strong>Barcode:</strong> 087577081045<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="velvetart-877">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/velvetart.jpg" data-lightbox="img" data-title="Velvet Art">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/velvetart.jpg" alt="Velvet Art" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/velvetart2.jpg" data-lightbox="img" data-title="Velvet Art">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/velvetart2.jpg" alt="Velvet Art" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Velvet Art<br/>
+      <strong>Subtitle:</strong> 3 Pictures for you to color - contains 6 pens<br/>
+      <strong>Year:</strong> 199x<br/>
+      <strong>Publisher:</strong> Color Workshop<br/>
+      <strong>Barcode:</strong> 875739700325<br/>
+      <strong>Notes:</strong> Not really a book, but a coloring thing :)<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="activitytablet-601">
     <div class="item-image">
@@ -192,6 +230,35 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     <div class="item-details">
       <strong>Title:</strong> Great Big Coloring Book<br/>
       <strong>Subtitle:</strong> Games & Activities, too!<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="funtimecoloringbook-869">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/funtimecoloringbook.jpg" data-lightbox="img" data-title="Fun Time Coloring Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/funtimecoloringbook.jpg" alt="Fun Time Coloring Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Fun Time Coloring Book<br/>
+      <strong>Subtitle:</strong> Games & Activities, too!<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="jumbocoloringbook-871">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/jumbocoloringbook.jpg" data-lightbox="img" data-title="Jumbo Coloring Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/jumbocoloringbook.jpg" alt="Jumbo Coloring Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Jumbo Coloring Book<br/>
+      <strong>Subtitle:</strong> Games! Mazes! Puzzles<br/>
+      <strong>ISBN:</strong> 1592261655<br/>
     </div>
 </div>
 

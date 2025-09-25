@@ -1548,7 +1548,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> 1994<br/>
       <strong>Brand:</strong> ?<br/>
-      <strong>Size:</strong> ?<br/>
+      <strong>Size:</strong> 12 inches<br/>
       <strong>Notes:</strong> Promo item from 2nd movie<br/>
     </div>
   </div>

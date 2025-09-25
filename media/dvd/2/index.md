@@ -74,6 +74,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Danish<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt2-nl-882">
+    <div class="item-image">
+      <a href="/images/media/dvd/2/lbt2-nl.png" data-lightbox="img" data-title="Platvoet en z'n vriendjes">
+        <div class="img-box">
+          <img src="/images/media/dvd/2/lbt2-nl.png" alt="Platvoet en z'n vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en z'n vriendjes<br/>
+      <strong>Subtitle:</strong> Avontuur in de Grote Vallei<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Dutch<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">

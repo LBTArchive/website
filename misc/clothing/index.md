@@ -111,6 +111,21 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     </div>
 </div>
 
+<div class="item-entry" id="1988romper-876">
+    <div class="item-image">
+      <a href="/images/misc/clothing/1988romper.jpg" data-lightbox="img" data-title="Cera flower design romper">
+        <div class="img-box">
+          <img src="/images/misc/clothing/1988romper.jpg" alt="Cera flower design romper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera flower design romper<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="1988littlefootstamp-688">
     <div class="item-image">
       <a href="/images/misc/clothing/1988littlefootstamp.jpg" data-lightbox="img" data-title="Littlefoot 5c stamp T-shirt">

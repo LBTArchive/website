@@ -75,6 +75,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Danish<br/>
     </div>
   </div>
+  <div class="item-entry" id="lbt7-nl-884">
+    <div class="item-image">
+      <a href="/images/media/dvd/7/lbt7-nl.jpg" data-lightbox="img" data-title="Platvoet en z'n vriendjes">
+        <div class="img-box">
+          <img src="/images/media/dvd/7/lbt7-nl.jpg" alt="Platvoet en z'n vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en z'n vriendjes<br/>
+      <strong>Subtitle:</strong> De Koudvuursteen<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Dutch<br/>
+    </div>
+</div>
+
   <div class="item-entry" id="lbt7-ja-2005-31">
     <div class="item-image">
       <a href="/images/media/dvd/7/lbt7-ja-2005.jpg" data-lightbox="img" data-title="リトルフットちびっこ恐竜と魔法の石">

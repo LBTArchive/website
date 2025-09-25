@@ -299,6 +299,34 @@ title: Land Before Time retailer ads
       <strong>Notes:</strong> Targeting licensing companies. Featuring paper hatchlings (Cera is missing from these pictures)<br/>
     </div>
 </div>
+<div class="item-entry" id="lbt4-retailerkit-1-873">
+    <div class="item-image">
+      <a href="/images/misc/ads/retailers/lbt4-retailerkit-1.png" data-lightbox="img" data-title="The Land Before Time IV - retailer brochure">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/lbt4-retailerkit-1.png" alt="The Land Before Time IV - retailer brochure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/retailers/lbt4-retailerkit-2.png" data-lightbox="img" data-title="The Land Before Time IV - retailer brochure">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/lbt4-retailerkit-2.png" alt="The Land Before Time IV - retailer brochure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/retailers/lbt4-retailerkit-3.png" data-lightbox="img" data-title="The Land Before Time IV - retailer brochure">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/lbt4-retailerkit-3.png" alt="The Land Before Time IV - retailer brochure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/retailers/lbt4-retailerkit-4.jpg" data-lightbox="img" data-title="The Land Before Time IV - retailer brochure">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/lbt4-retailerkit-4.jpg" alt="The Land Before Time IV - retailer brochure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time IV - retailer brochure<br/>
+      <strong>Year:</strong> 1996<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbt1-retailposer-762">
     <div class="item-image">

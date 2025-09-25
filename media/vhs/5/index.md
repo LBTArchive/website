@@ -52,7 +52,8 @@ An archive of The Mysterious Island VHS tapes released over the years.
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Het mysterieuze eiland<br/>
+      <strong>Title:</strong> Platvoet en z'n vriendjes<br/>
+      <strong>Subtitle:</strong> Het mysterieuze eiland<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Language:</strong> Dutch<br/>
       <strong>Notes:</strong> "The Mysterious Island"<br/>
@@ -88,6 +89,22 @@ An archive of The Mysterious Island VHS tapes released over the years.
       <strong>Language:</strong> Swedish<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt5-nl-2001-878">
+    <div class="item-image">
+      <a href="/images/media/vhs/5/lbt5-nl-2001.png" data-lightbox="img" data-title="Het mysterieuze eiland">
+        <div class="img-box">
+          <img src="/images/media/vhs/5/lbt5-nl-2001.png" alt="Het mysterieuze eiland" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en z'n vriendjes<br/>
+      <strong>Subtitle:</strong> Het mysterieuze eiland<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Language:</strong> Dutch<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt5-de-2001-620">
     <div class="item-image">
       <a href="/images/media/vhs/5/lbt5-de-2001.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">

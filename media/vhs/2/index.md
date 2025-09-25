@@ -139,12 +139,29 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Platvoet en z'n Vriendjes II - Het avontuur in de verboden vallei<br/>
+      <strong>Title:</strong> Platvoet en z'n vriendjes<br/>
+      <strong>Subtitle:</strong> Het avontuur in de verboden vallei<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Region:</strong> 2<br/>
       <strong>Language:</strong> Dutch<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt2-nl-880">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2-nl.png" data-lightbox="img" data-title="Platvoet en z'n vriendjes">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-nl.png" alt="Platvoet en z'n vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en z'n vriendjes<br/>
+      <strong>Subtitle:</strong> Het avontuur in de verboden vallei<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Language:</strong> Dutch<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lb2-italian-568">
     <div class="item-image">
       <a href="/images/media/vhs/2/lbt2-it.jpg" data-lightbox="img" data-title="The Land Before Time II: The Great Valley Adventure">
