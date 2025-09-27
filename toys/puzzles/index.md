@@ -437,6 +437,21 @@ An archive of The Land Before Time Puzzles released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="woodenpuzzle-2007-4piece-897">
+    <div class="item-image">
+      <a href="/images/toys/puzzles/woodenpuzzle-2007-4piece.png" data-lightbox="img" data-title="Wooden puzzle">
+        <div class="img-box">
+          <img src="/images/toys/puzzles/woodenpuzzle-2007-4piece.png" alt="Wooden puzzle" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Wooden puzzle<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> German<br/>
+    </div>
+</div>
 
   <div class="item-entry">
   <div class="item-image">

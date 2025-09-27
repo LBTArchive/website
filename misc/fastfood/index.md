@@ -624,14 +624,14 @@ Free kids entree with the purchase of any adult entree with a certificate found 
 </div>
 <div class="item-entry" id="dennycup-58">
   <div class="item-image">
-     <a href="/images/misc/fastfood/dennyscup.png" data-lightbox="img" data-title="The Mysterious Island promotional cup">
-       <div class="img-box">
-         <img src="/images/misc/fastfood/dennyscup.png" alt="The Mysterious Island promotional cup" style="height:250px; object-fit:cover;" loading="lazy">
-       </div>
-     </a>
+     <a href="/images/misc/fastfood/dennycup2.jpg" data-lightbox="img" data-title="Denny Cup">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/dennycup2.jpg" alt="Denny Cup" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
    </div>
    <div class="item-details">
-      <strong>Title:</strong> Potentially another Denny's promotional cup<br/>
+      <strong>Title:</strong> The Mysterious Island promotional cup<br/>
       <strong>Year:</strong> 1997<br/>
    </div>
 </div>

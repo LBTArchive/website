@@ -61,6 +61,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Plushies<br/>
       <strong>Year:</strong> 2007<br/>
+      <strong>Brand:</strong> Gipsy<br/>
     </div>
   </div>
 
@@ -406,7 +407,36 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> (ditto)<br/>
     </div>
   </div>
-
+<div class="item-entry" id="littlefoot-gipsy-903">
+    <div class="item-image">
+      <a href="/images/toys/plushies/littlefoot-gipsy.png" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefoot-gipsy.png" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Notes:</strong> Released in France<br/>
+    </div>
+</div>
+<div class="item-entry" id="lf-gipsy-small-906">
+    <div class="item-image">
+      <a href="/images/toys/plushies/lf-gipsy-small.png" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/lf-gipsy-small.png" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Notes:</strong> Released in France<br/>
+    </div>
+</div>
 <div class="item-entry" id="25984_orig-68">
     <div class="item-image">
       <a href="/images/toys/plushies/littlefoot-singalong_orig.jpg" data-lightbox="img" data-title="Littlefoot with Sing Along Songs DVD">
@@ -639,6 +669,38 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Language:</strong> French<br/>
     </div>
   </div>
+<div class="item-entry" id="cera-gipsy-900">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-gipsy.png" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-gipsy.png" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Notes:</strong> Released in France. Possible same item as the one above<br/>
+    </div>
+</div>
+<div class="item-entry" id="cera-gipsy-large-901">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-gipsy-large.png" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-gipsy-large.png" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Notes:</strong> Released in France<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="cera_orig-74">
     <div class="item-image">
       <a href="/images/toys/plushies/cera_orig.jpg" data-lightbox="img" data-title="Cera">
@@ -1125,6 +1187,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 15 inch / 38 cm<br/>
     </div>
   </div>
+  <div class="item-entry" id="petrie-gipsy-904">
+    <div class="item-image">
+      <a href="/images/toys/plushies/petrie-gipsy.png" data-lightbox="img" data-title="Petrie">
+        <div class="img-box">
+          <img src="/images/toys/plushies/petrie-gipsy.png" alt="Petrie" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Petrie<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Notes:</strong> Released in France<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="petrieplaybyplay-92">
     <div class="item-image">
       <a href="/images/toys/plushies/petrie-kellytoys-9inch_orig.jpg" data-lightbox="img" data-title="Petrie">
@@ -1300,6 +1378,37 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+<div class="item-entry" id="Spike-gipsy-898">
+    <div class="item-image">
+      <a href="/images/toys/plushies/Spike-gipsy.png" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/Spike-gipsy.png" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Notes:</strong> Released in France<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="spike-gipsy-small-902">
+    <div class="item-image">
+      <a href="/images/toys/plushies/spike-gipsy-small.png" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/spike-gipsy-small.png" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Notes:</strong> Released in France<br/>
+    </div>
+</div>
 
   <div class="item-entry" id="spike-kellytoys2-651">
     <div class="item-image">
@@ -1450,6 +1559,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
 
 [Back to top](/toys/plushies)
 
+<div class="item-entry" id="5737244_orig-99">
+    <div class="item-image">
+      <a href="/images/toys/plushies/5737244_orig.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/5737244_orig.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Year:</strong> 1994<br/>
+      <strong>Brand:</strong> ?<br/>
+      <strong>Size:</strong> 12 inches<br/>
+      <strong>Notes:</strong> Promo item from 2nd movie<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="chomper-flopasaurus-132">
     <div class="item-image">
       <a href="/images/toys/plushies/chomper-flopasaurus.png" data-lightbox="img" data-title="Chomper">
@@ -1531,27 +1657,12 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
     <div class="item-details">
       <strong>Title:</strong> Chomper<br/>
-      <strong>Year:</strong> ?<br/>
-      <strong>Brand:</strong> Gypsy<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Brand:</strong> Gipsy<br/>
       <strong>Size:</strong> 4 inch / 10 cm<br/>
     </div>
   </div>
-<div class="item-entry" id="5737244_orig-99">
-    <div class="item-image">
-      <a href="/images/toys/plushies/5737244_orig.jpg" data-lightbox="img" data-title="Chomper">
-        <div class="img-box">
-          <img src="/images/toys/plushies/5737244_orig.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Chomper<br/>
-      <strong>Year:</strong> 1994<br/>
-      <strong>Brand:</strong> ?<br/>
-      <strong>Size:</strong> 12 inches<br/>
-      <strong>Notes:</strong> Promo item from 2nd movie<br/>
-    </div>
-  </div>
+
 <div class="item-entry" id="9227553_orig-100">
     <div class="item-image">
       <a href="/images/toys/plushies/9227553_orig.jpg" data-lightbox="img" data-title="Singin' Chomper">
@@ -1568,6 +1679,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> Squeeze Chomper's left hand and he sings, "I Want to Go Adventuring" and "I Feel So Happy". Squeeze Chomper's right hand and and he says, "Losing a tooth is strange, but it's just a part of growing up!", "Wow we did it! I feel great!" and "I thought we could go exploring and look for a new cave!".<br/>
     </div>
   </div>
+  <div class="item-entry" id="chomper-gipsy-899">
+    <div class="item-image">
+      <a href="/images/toys/plushies/chomper-gipsy.png" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-gipsy.png" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Notes:</strong> Released in France<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="9227553_orig-101">
     <div class="item-image">
       <a href="/images/toys/plushies/6390331_orig.jpg" data-lightbox="img" data-title="Chomper with Sing Along Songs DVD">
@@ -1783,7 +1910,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
-<div class="item-entry" id="chomper-toynetwork-7inch_orig-105">
+<div class="item-entry" id="Mo-big5">
     <div class="item-image">
       <a href="/images/toys/plushies/ultrarare-big-17-euro-spain-land-before-time_orig.jpg" data-lightbox="img" data-title="Mo">
         <div class="img-box">
@@ -1793,8 +1920,8 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
     <div class="item-details">
       <strong>Title:</strong> Mo<br/>
-      <strong>Year:</strong> ?<br/>
-      <strong>Brand:</strong> ?<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Brand:</strong> Play-by-Play<br/>
       <strong>Size:</strong> 17 inch / 43 cm<br/>
       <strong>Notes:</strong> Thanks to ImpracticalDino for the picture<br/>
     </div>
@@ -1815,4 +1942,20 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> Thanks to RainbowFaceProtege for the picture<br/>
     </div>
   </div>
+  <div class="item-entry" id="ruby-gipsy-905">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ruby-gipsy.png" data-lightbox="img" data-title="Ruby">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ruby-gipsy.png" alt="Ruby" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ruby<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Notes:</strong> Released in France<br/>
+    </div>
+</div>
+
 </div>

@@ -20,5 +20,6 @@ build/
 
 html_creator.py
 id_counter.txt
+
 # Local Netlify folder
 .netlify

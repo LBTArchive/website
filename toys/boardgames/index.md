@@ -327,6 +327,11 @@ An archive of The Land Before Time board games released over the years.
           <img src="/images/toys/boardgames/land-before-time-earthshakin-mountain-1-a196f1fc5e54dd2c9f2703315ebb1f2e_orig.jpg" alt="Playset: Earthshakin' Mountain" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
+      <a href="/images/toys/boardgames/earthshakinmountain2.jpg" data-lightbox="img" data-title="Earthshakin' Mountain">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/earthshakinmountain2.jpg" alt="Earthshakin' Mountain" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
   </div>
   <div class="item-details">
     <strong>Title:</strong> Playset: Earthshakin' Mountain<br/>

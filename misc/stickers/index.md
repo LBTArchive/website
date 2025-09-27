@@ -484,6 +484,32 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
   </div>
 
+  <div class="item-entry" id="2001-cera-it-894">
+    <div class="item-image">
+      <a href="/images/misc/stickers/2001-cera-it.jpg" data-lightbox="img" data-title="Characters stickers">
+        <div class="img-box">
+          <img src="/images/misc/stickers/2001-cera-it.jpg" alt="Characters stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stickers/2001-lf-it.jpg" data-lightbox="img" data-title="Characters stickers">
+        <div class="img-box">
+          <img src="/images/misc/stickers/2001-lf-it.jpg" alt="Characters stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stickers/2001-petrie-it.jpg" data-lightbox="img" data-title="Characters stickers">
+        <div class="img-box">
+          <img src="/images/misc/stickers/2001-petrie-it.jpg" alt="Characters stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Characters stickers<br/>
+      <strong>Subtitle:</strong> Featuring Littlefoot, Cera (Tricky) and Petrie<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Notes:</strong> Italian names<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="dvdgamestickersheet-864">
     <div class="item-image">
       <a href="/images/misc/stickers/dvdgamestickersheet.jpg" data-lightbox="img" data-title="Sticker sheet from The Land Before Time DVD Game">

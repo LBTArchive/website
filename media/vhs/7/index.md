@@ -78,6 +78,27 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt7-yellow-au-888">
+    <div class="item-image">
+      <a href="/images/media/vhs/7/lbt7-yellow-au.png" data-lightbox="img" data-title="The Land Before Time VII">
+        <div class="img-box">
+          <img src="/images/media/vhs/7/lbt7-yellow-au.png" alt="The Land Before Time VII" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/7/lbt7-yellow-au2.png" data-lightbox="img" data-title="The Land Before Time VII">
+        <div class="img-box">
+          <img src="/images/media/vhs/7/lbt7-yellow-au2.png" alt="The Land Before Time VII" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time VII<br/>
+      <strong>Subtitle:</strong> The Stone of Cold Fire<br/>
+      <strong>Year:</strong> 2000<br/>
+      <strong>Notes:</strong> Australian edition<br/><br/>Tape says 1999 on it.<br/>
+    </div>
+</div>
+
 
 <div class="item-entry">
   <div class="item-image">
