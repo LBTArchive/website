@@ -178,6 +178,25 @@ An archive of The Land Before Time The Great Valley Adventure VHS tapes released
       <strong>Language:</strong> Italian<br/>
     </div>
   </div>
+
+<div class="item-entry" id="lbt2-es-912">
+    <div class="item-image">
+      <a href="/images/media/vhs/2/lbt2-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado II">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/lbt2-es.jpg" alt="En Busca del Valle Encantado II" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado II<br/>
+      <strong>Subtitle:</strong> Aventuras en el Gran Valle<br/>
+      <strong>Year:</strong> 1994<br/>
+      <strong>Barcode:</strong> 8414906821423<br/>
+      <strong>Language:</strong> Spanish<br/>
+      <strong>Notes:</strong> With complementary stickers<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt2-familyfeatures-570">
     <div class="item-image">
       <a href="/images/media/vhs/2/lbt2-familyfeatures.jpg" data-lightbox="img" data-title="The Land Before Time II: The Great Valley Adventure">

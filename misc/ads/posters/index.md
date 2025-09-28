@@ -361,6 +361,21 @@ Official movie posters for The Land Before Time and its sequels.
       <strong>Notes:</strong> 84x60 cm<br/>
     </div>
   </div>
+<div class="item-entry" id="1996-ingramposter-921">
+    <div class="item-image">
+      <a href="/images/misc/posters/1996-ingramposter.jpg" data-lightbox="img" data-title="Coming Soon poster">
+        <div class="img-box">
+          <img src="/images/misc/posters/1996-ingramposter.jpg" alt="Coming Soon poster" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Coming Soon poster<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Publisher:</strong> Ingram Entertainment Inc.<br/>
+      <strong>Notes:</strong> VHS release dates December 1996, with the Land Before Time VI on 10 December<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbt4englishposter_orig-249">
     <div class="item-image">

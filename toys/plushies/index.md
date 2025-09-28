@@ -638,6 +638,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+<div class="item-entry" id="cera-plush-907">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-plush.png" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-plush.png" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> ?<br/>
+      <strong>Size:</strong> ?<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="1282527_orig-72">
     <div class="item-image">
       <a href="/images/toys/plushies/1282527_orig.jpg" data-lightbox="img" data-title="Cera">
@@ -1362,7 +1378,20 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> Mini Pal - Flop-A-Saurus (Blockbuster Exclusive)<br/>
     </div>
   </div>
-
+<div class="item-entry" id="spike-kidsofamerica-915">
+    <div class="item-image">
+      <a href="/images/toys/plushies/spike-kidsofamerica.jpg" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/spike-kidsofamerica.jpg" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike<br/>
+      <strong>Publisher:</strong> Kids of America Corp.<br/>
+      <strong>Barcode:</strong> 049022159709<br/>
+    </div>
+</div>
 <div class="item-entry" id="spike-kellytoys-651">
     <div class="item-image">
       <a href="/images/toys/plushies/spike-kellytoys.jpg" data-lightbox="img" data-title="Spike">
@@ -1954,6 +1983,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Title:</strong> Ruby<br/>
       <strong>Year:</strong> 2007<br/>
       <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Notes:</strong> Released in France<br/>
+    </div>
+</div>
+<div class="item-entry" id="2-in-1-puzzle-909">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ruby-gipsy-9inch.png" data-lightbox="img" data-title="Ruby">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ruby-gipsy-9inch.png" alt="Ruby" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ruby<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Barcode:</strong> 9 inches<br/>
       <strong>Notes:</strong> Released in France<br/>
     </div>
 </div>

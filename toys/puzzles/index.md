@@ -449,7 +449,19 @@ An archive of The Land Before Time Puzzles released over the years.
       <strong>Title:</strong> Wooden puzzle<br/>
       <strong>Year:</strong> 2007<br/>
       <strong>Publisher:</strong> Giochi Preziosi<br/>
-      <strong>Language:</strong> German<br/>
+    </div>
+</div>
+<div class="item-entry" id="2-in-1-puzzle-908">
+    <div class="item-image">
+      <a href="/images/toys/puzzles/2-in-1-puzzle.png" data-lightbox="img" data-title="2-in-1 puzzle">
+        <div class="img-box">
+          <img src="/images/toys/puzzles/2-in-1-puzzle.png" alt="2-in-1 puzzle" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 2-in-1 puzzle<br/>
+      <strong>Publisher:</strong> Giochi Preziosi<br/>
     </div>
 </div>
 

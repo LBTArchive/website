@@ -219,6 +219,91 @@ An archive of The Land Before Time Activity Books released over the years. If yo
       <strong>Notes:</strong> Massive coloring book<br/>
     </div>
   </div>
+<div class="item-entry" id="magicpenpaintingbook-472">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/magicpenpaintingbook.jpg" data-lightbox="img" data-title="Magic Pen Painting Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/magicpenpaintingbook.jpg" alt="Magic Pen Painting Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/magicpenpaintingbook2.jpg" data-lightbox="img" data-title="Magic Pen Painting Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/magicpenpaintingbook2.jpg" alt="Magic Pen Painting Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/magicpenpaintingbook3.jpg" data-lightbox="img" data-title="Magic Pen Painting Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/magicpenpaintingbook3.jpg" alt="Magic Pen Painting Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Magic Pen Painting Book<br/>
+      <strong>Publisher:</strong> Lee Publications<br/>
+      <strong>ISBN:</strong> 1562973092<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="invisibleink-918">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/invisibleink.jpg" data-lightbox="img" data-title="Invisible Ink Picture Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/invisibleink.jpg" alt="Invisible Ink Picture Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/invisibleink2.jpg" data-lightbox="img" data-title="Invisible Ink Picture Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/invisibleink2.jpg" alt="Invisible Ink Picture Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Invisible Ink Picture Book<br/>
+      <strong>Subtitle:</strong> Book 2<br/>
+      <strong>Publisher:</strong> Lee Publications<br/>
+      <strong>ISBN:</strong> 1562973088<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="superjumbocoloringandactivitybook-781">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/superjumbocoloringandactivitybook.png" data-lightbox="img" data-title="Super Jumbo Coloring and Activity Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/superjumbocoloringandactivitybook.png" alt="Super Jumbo Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Super Jumbo Coloring and Activity Book<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="stickeralbum-it-896">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/stickeralbum-it.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it2.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it2.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it3.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it3.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla Ricerca della Valle Incantata<br/>
+      <strong>Subtitle:</strong> Collezione di figurine<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Notes:</strong> Italian sticker album<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="greatbigcoloringbook-819">
     <div class="item-image">
       <a href="/images/toys/coloringbook/greatbigcoloringbook.jpg" data-lightbox="img" data-title="Great Big Coloring Book">
@@ -261,31 +346,7 @@ An archive of The Land Before Time Activity Books released over the years. If yo
       <strong>ISBN:</strong> 1592261655<br/>
     </div>
 </div>
-<div class="item-entry" id="stickeralbum-it-896">
-    <div class="item-image">
-      <a href="/images/toys/coloringbook/stickeralbum-it.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
-        <div class="img-box">
-          <img src="/images/toys/coloringbook/stickeralbum-it.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/toys/coloringbook/stickeralbum-it2.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
-        <div class="img-box">
-          <img src="/images/toys/coloringbook/stickeralbum-it2.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/toys/coloringbook/stickeralbum-it3.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
-        <div class="img-box">
-          <img src="/images/toys/coloringbook/stickeralbum-it3.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Alla Ricerca della Valle Incantata<br/>
-      <strong>Subtitle:</strong> Collezione di figurine<br/>
-      <strong>Year:</strong> 2002<br/>
-      <strong>Notes:</strong> Italian sticker album<br/>
-    </div>
-</div>
+
 
 <div class="item-entry">
   <div class="item-image">
@@ -303,45 +364,8 @@ An archive of The Land Before Time Activity Books released over the years. If yo
   </div>
 </div>
 
-<div class="item-entry" id="magicpenpaintingbook-472">
-    <div class="item-image">
-      <a href="/images/toys/coloringbook/magicpenpaintingbook.jpg" data-lightbox="img" data-title="Magic Pen Painting Book">
-        <div class="img-box">
-          <img src="/images/toys/coloringbook/magicpenpaintingbook.jpg" alt="Magic Pen Painting Book" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/toys/coloringbook/magicpenpaintingbook2.jpg" data-lightbox="img" data-title="Magic Pen Painting Book">
-        <div class="img-box">
-          <img src="/images/toys/coloringbook/magicpenpaintingbook2.jpg" alt="Magic Pen Painting Book" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/toys/coloringbook/magicpenpaintingbook3.jpg" data-lightbox="img" data-title="Magic Pen Painting Book">
-        <div class="img-box">
-          <img src="/images/toys/coloringbook/magicpenpaintingbook3.jpg" alt="Magic Pen Painting Book" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Magic Pen Painting Book<br/>
-      <strong>ISBN:</strong> 1562973092<br/>
-    </div>
-  </div>
-
-<div class="item-entry" id="superjumbocoloringandactivitybook-781">
-    <div class="item-image">
-      <a href="/images/toys/coloringbook/superjumbocoloringandactivitybook.png" data-lightbox="img" data-title="Super Jumbo Coloring and Activity Book">
-        <div class="img-box">
-          <img src="/images/toys/coloringbook/superjumbocoloringandactivitybook.png" alt="Super Jumbo Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Super Jumbo Coloring and Activity Book<br/>
-    </div>
-</div>
-
-    
-  <div class="item-entry">
+ 
+<div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/reusablestickerbook.jpg" data-lightbox="img" data-title="The Land Before Time: The Reusable Sticker Book">
     <div class="img-box">
