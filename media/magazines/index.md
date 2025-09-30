@@ -200,6 +200,27 @@ Several Land Before Time related magazines were created over the years.
 </div>
 
 
+<div class="item-entry" id="blancoynegro107-979">
+    <div class="item-image">
+      <a href="/images/media/magazines/blancoynegro107.jpg" data-lightbox="img" data-title="Blanco y negro guay">
+        <div class="img-box">
+          <img src="/images/media/magazines/blancoynegro107.jpg" alt="Blanco y negro guay" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/magazines/blancoynegro107-2.jpg" data-lightbox="img" data-title="Blanco y negro guay">
+        <div class="img-box">
+          <img src="/images/media/magazines/blancoynegro107-2.jpg" alt="Blanco y negro guay" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Blanco y negro guay<br/>
+      <strong>Subtitle:</strong> La misteriose piedra de fuego<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Language:</strong> Spanish<br/>
+      <strong>Notes:</strong> No. 107, 25 February 2001<br/>
+    </div>
+</div>
 
 
 

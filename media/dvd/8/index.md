@@ -105,6 +105,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt8-es-orig-950">
+    <div class="item-image">
+      <a href="/images/media/dvd/8/lbt8-es-orig.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/8/lbt8-es-orig.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La Gran Helada<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbt8-ja-2005-33">
     <div class="item-image">
@@ -136,7 +151,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
-
+<div class="item-entry" id="lbt8-es-925">
+    <div class="item-image">
+      <a href="/images/media/dvd/8/lbt8-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/8/lbt8-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La gran helada<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/8/lbt8dvdregions2-4-2011_orig.jpg" data-lightbox="img" data-title="The Big Freeze">

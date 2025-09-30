@@ -131,6 +131,22 @@ An archive of The Stone of Cold Fire VHS tapes released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt7-es-953">
+    <div class="item-image">
+      <a href="/images/media/vhs/7/lbt7-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/7/lbt7-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La Misteriosa Piedra de Fuego<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Barcode:</strong> 0044005375732<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbt7-dk-orange-303">
     <div class="item-image">

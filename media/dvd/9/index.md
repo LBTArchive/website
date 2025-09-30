@@ -181,6 +181,39 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt9-es-923">
+    <div class="item-image">
+      <a href="/images/media/dvd/9/lbt9-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/9/lbt9-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> Travesía a los Oceanos<br/>
+      <strong>Region:</strong> 2<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="lbt9-es-2007-936">
+    <div class="item-image">
+      <a href="/images/media/dvd/9/lbt9-es-2007.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/9/lbt9-es-2007.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> Travesía a los Oceanos<br/>
+      <strong>Region:</strong> 2<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbt9-sv-2011-364">
     <div class="item-image">

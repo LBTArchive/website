@@ -114,6 +114,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
+
+<div class="item-entry" id="lbt5-es-924">
+    <div class="item-image">
+      <a href="/images/media/dvd/5/lbt5-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/5/lbt5-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La isla misteriosa<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 <div class="item-entry" id="lbt5-de-2011-575">
     <div class="item-image">
       <a href="/images/media/dvd/5/lbt5-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">

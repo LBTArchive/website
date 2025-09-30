@@ -176,14 +176,14 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/kindergartenadventure-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata - Avventura per i più piccoli">
+    <a href="/images/media/videogames/kindergartenadventure-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata - Avventura per i più piccoli">
         <div class="img-box">
-          <img src="/images/media/videogames/kindergartenadventure-it.jpg" alt="Alle ricerca della valle incantata - Avventura per i più piccoli" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/kindergartenadventure-it.jpg" alt="Alla ricerca della valle incantata - Avventura per i più piccoli" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Alle ricerca della valle incantata - Avventura per i più piccoli<br/>
+    <strong>Title:</strong> Alla ricerca della valle incantata - Avventura per i più piccoli<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1998<br/>
       <strong>Language:</strong> Italian<br/>
@@ -191,14 +191,14 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata - Avventura per i più piccoli">
+    <a href="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata - Avventura per i più piccoli">
         <div class="img-box">
-          <img src="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" alt="Alle ricerca della valle incantata - Avventura per i più piccoli" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/kindergartenadventure-bigbox-it.jpg" alt="Alla ricerca della valle incantata - Avventura per i più piccoli" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Alle ricerca della valle incantata - Avventura per i più piccoli<br/>
+    <strong>Title:</strong> Alla ricerca della valle incantata - Avventura per i più piccoli<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1998<br/>
       <strong>Language:</strong> Italian<br/>
@@ -246,14 +246,14 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/lavventuracontinua.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata - L'Avventura Continua">
+    <a href="/images/media/videogames/lavventuracontinua.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata - L'Avventura Continua">
         <div class="img-box">
-          <img src="/images/media/videogames/lavventuracontinua.jpg" alt="Alle ricerca della valle incantata - L'Avventura Continua" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/lavventuracontinua.jpg" alt="Alla ricerca della valle incantata - L'Avventura Continua" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Alle ricerca della valle incantata - L'Avventura Continua<br/>
+    <strong>Title:</strong> Alla ricerca della valle incantata - L'Avventura Continua<br/>
       <strong>Platform:</strong> Windows<br/>
       <strong>Year:</strong> 1998<br/>
       <strong>Language:</strong> Italian<br/>
@@ -298,18 +298,34 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/mathadventure-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata - avventura con i numeri">
+    <a href="/images/media/videogames/mathadventure-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata - avventura con i numeri">
         <div class="img-box">
-          <img src="/images/media/videogames/mathadventure-it.jpg" alt="Alle ricerca della valle incantata - avventura con i numeri" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/mathadventure-it.jpg" alt="Alla ricerca della valle incantata - avventura con i numeri" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Alle ricerca della valle incantata - avventura con i numeri<br/>
+    <strong>Title:</strong> Alla ricerca della valle incantata - avventura con i numeri<br/>
       <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1998<br/>
       <strong>Language:</strong> Italian<br/>
   </div>
+</div>
+<div class="item-entry" id="mathadventure-es-990">
+    <div class="item-image">
+      <a href="/images/media/videogames/mathadventure-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/videogames/mathadventure-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> En el mundo de los numeros<br/>
+      <strong>Platform:</strong> Windows / Macintosh<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
 </div>
 
 <div class="item-entry">
@@ -369,6 +385,22 @@ The Land Before Time series released several educational games. They also releas
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="toddler-time_es-988">
+    <div class="item-image">
+      <a href="/images/media/videogames/toddler-time_es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/videogames/toddler-time_es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> Aventura para los mas pequeños<br/>
+      <strong>Platform:</strong> Windows / Macintosh<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -471,9 +503,9 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/returntothegreatvalley-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata - Ritorno alla Grande Vallata">
+    <a href="/images/media/videogames/returntothegreatvalley-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata - Ritorno alla Grande Vallata">
         <div class="img-box">
-          <img src="/images/media/videogames/returntothegreatvalley-it.jpg" alt="Alle ricerca della valle incantata - Ritorno alla Grande Vallata" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/returntothegreatvalley-it.jpg" alt="Alla ricerca della valle incantata - Ritorno alla Grande Vallata" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
@@ -484,6 +516,22 @@ The Land Before Time series released several educational games. They also releas
       <strong>Language:</strong> Italian<br/>
       <strong>Notes:</strong> Return to the Great Valley<br/>
   </div>
+</div>
+<div class="item-entry" id="returntothegreatvalley-es-926">
+    <div class="item-image">
+      <a href="/images/media/videogames/returntothegreatvalley-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/videogames/returntothegreatvalley-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado - El retorno al Gran Valle<br/>
+      <strong>Platform:</strong> PlayStation<br/>
+      <strong>Year:</strong> 2000<br/>
+      <strong>Language:</strong> Spanish<br/>
+      <strong>Notes:</strong> Return to the Great Valley<br/>
+    </div>
 </div>
 
 <div class="item-entry" id="threepack-848">
@@ -561,18 +609,33 @@ The Land Before Time series released several educational games. They also releas
 
   <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gbc-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata">
+    <a href="/images/media/videogames/gbc-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
         <div class="img-box">
-          <img src="/images/media/videogames/gbc-it.jpg" alt="Alle ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/gbc-it.jpg" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Alle ricerca della valle incantata<br/>
+      <strong>Title:</strong> Alla ricerca della valle incantata<br/>
       <strong>Platform:</strong> Gameboy Color<br/>
       <strong>Year:</strong> 2001<br/>
       <strong>Language:</strong> Italian<br/>
   </div>
+</div>
+<div class="item-entry" id="gbc-es-959">
+    <div class="item-image">
+      <a href="/images/media/videogames/gbc-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/videogames/gbc-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Platform:</strong> Gameboy Color<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
 </div>
 
 <div class="item-entry">
@@ -661,9 +724,9 @@ The Land Before Time series released several educational games. They also releas
 
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/videogames/gba-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata">
+    <a href="/images/media/videogames/gba-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
         <div class="img-box">
-          <img src="/images/media/videogames/gba-it.jpg" alt="Alle ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/videogames/gba-it.jpg" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>

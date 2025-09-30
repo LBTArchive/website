@@ -54,6 +54,30 @@ There were a lot of items in stores advertisting the sale of Land Before Time me
       <strong>Year:</strong> 1988<br/>
     </div>
 </div>
+<div class="item-entry" id="stamps-987">
+    <div class="item-image">
+      <a href="/images/misc/ads/point of sale/stamps.jpg" data-lightbox="img" data-title="Ali">
+        <div class="img-box">
+          <img src="/images/misc/ads/point of sale/stamps.jpg" alt="Ali" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/point of sale/stamps2.jpg" data-lightbox="img" data-title="Ali">
+        <div class="img-box">
+          <img src="/images/misc/ads/point of sale/stamps2.jpg" alt="Ali" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/point of sale/stamps3.jpg" data-lightbox="img" data-title="Ali">
+        <div class="img-box">
+          <img src="/images/misc/ads/point of sale/stamps3.jpg" alt="Ali" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Stamp display & brochure<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Publisher:</strong> USPS<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbt2-windowdecal-12x18-726">
     <div class="item-image">

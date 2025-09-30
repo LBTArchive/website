@@ -27,6 +27,25 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Notes:</strong> Clamshell<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt1-es-952">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-es-2.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-es-2.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Barcode:</strong> 8414906808646<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -414,6 +433,26 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt1-es-yellow-955">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-es-yellow.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-es-yellow.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-es-yellow2.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-es-yellow2.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Barcode:</strong> 8414906808646<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbt1-fr-174">
     <div class="item-image">

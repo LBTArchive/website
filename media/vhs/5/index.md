@@ -74,6 +74,22 @@ An archive of The Mysterious Island VHS tapes released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt5-es-956">
+    <div class="item-image">
+      <a href="/images/media/vhs/5/lbt5-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado V">
+        <div class="img-box">
+          <img src="/images/media/vhs/5/lbt5-es.jpg" alt="En Busca del Valle Encantado V" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado V<br/>
+      <strong>Subtitle:</strong> La Isla Misteriosa<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Barcode:</strong> 8414906944924<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">

@@ -44,6 +44,22 @@ An archive of The Great Longneck Migration VHS tapes released over the years.
   </div>
 </div>
 
+<div class="item-entry" id="lbt10-es-937">
+    <div class="item-image">
+      <a href="/images/media/vhs/10/lbt10-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/10/lbt10-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> El Viaje de los Cuellilargos<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
+
   <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/vhs/10/lbt10-KO.jpg" data-lightbox="img" data-title="The Great Longneck Migration">

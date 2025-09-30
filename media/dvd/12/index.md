@@ -90,6 +90,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt12-it-993">
+    <div class="item-image">
+      <a href="/images/media/dvd/12/lbt12-it.png" data-lightbox="img" data-title="Alla ricerca della valle incantata">
+        <div class="img-box">
+          <img src="/images/media/dvd/12/lbt12-it.png" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla ricerca della valle incantata<br/>
+      <strong>Subtitle:</strong> Giorno dei Rettili Volanti<br/>
+      <strong>Year:</strong> 2006<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -105,6 +120,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Region:</strong> 5<br/>
       <strong>Language:</strong> Russian<br/>
   </div>
+</div>
+<div class="item-entry" id="lbt12-es-935">
+    <div class="item-image">
+      <a href="/images/media/dvd/12/lbt12-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado XII">
+        <div class="img-box">
+          <img src="/images/media/dvd/12/lbt12-es.jpg" alt="En Busca del Valle Encantado XII" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado XII<br/>
+      <strong>Subtitle:</strong> El Gran Día de los Voladores<br/>
+      <strong>Year:</strong> 2006<br/>
+      <strong>Region:</strong> 2<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
 </div>
 
   <div class="item-entry">
@@ -155,6 +186,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt12-es-2007-945">
+    <div class="item-image">
+      <a href="/images/media/dvd/12/lbt12-es-2007.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/12/lbt12-es-2007.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> El gran día de los voladores<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt12-de-2011-640">
     <div class="item-image">
       <a href="/images/media/dvd/12/lbt12-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">

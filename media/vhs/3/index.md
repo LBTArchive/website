@@ -117,6 +117,38 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+  <div class="item-entry" id="lbt3-it-994">
+    <div class="item-image">
+      <a href="/images/media/vhs/3/lbt3-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata 3">
+        <div class="img-box">
+          <img src="/images/media/vhs/3/lbt3-it.jpg" alt="Alla ricerca della valle incantata 3" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla ricerca della valle incantata 3<br/>
+      <strong>Subtitle:</strong> Il Mistero Della Sorgente<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="lbt3-es-orig-963">
+    <div class="item-image">
+      <a href="/images/media/vhs/3/lbt3-es-orig.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado 3">
+        <div class="img-box">
+          <img src="/images/media/vhs/3/lbt3-es-orig.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado  3<br/>
+      <strong>Subtitle:</strong> La Fuente de la Vida<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Barcode:</strong> 8414906824134<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbt3-familyfeature-565">
     <div class="item-image">
@@ -138,7 +170,25 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Notes:</strong> "Family Features" edition<br/>
     </div>
   </div>
-
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/vhs/2/sv22.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/sv22.jpg" alt="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/vhs/2/sv2.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">
+        <div class="img-box">
+          <img src="/images/media/vhs/2/sv2.jpg" alt="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen<br/>
+      <strong>Year:</strong> 2000<br/>
+      <strong>Language:</strong> Swedish<br/>
+  </div>
+</div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -168,25 +218,21 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Year:</strong> 2001<br/>
     </div>
 </div>
-
-<div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/vhs/2/sv22.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">
+<div class="item-entry" id="lbt3-es-957">
+    <div class="item-image">
+      <a href="/images/media/vhs/3/lbt3-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
         <div class="img-box">
-          <img src="/images/media/vhs/2/sv22.jpg" alt="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/vhs/3/lbt3-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
-      <a href="/images/media/vhs/2/sv2.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">
-        <div class="img-box">
-          <img src="/images/media/vhs/2/sv2.jpg" alt="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen<br/>
-      <strong>Year:</strong> 2000<br/>
-      <strong>Language:</strong> Swedish<br/>
-  </div>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La Fuente de la Vida<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Barcode:</strong> 044004467230<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
 </div>
 
 

@@ -27,7 +27,25 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Publisher:</strong> 1<br/>
   </div>
 </div>
-
+<div class="item-entry" id="lbt11-dk-285">
+    <div class="item-image">
+      <a href="/images/media/dvd/11/lbt11-dk.jpg" data-lightbox="img" data-title="Landet for længe siden 11">
+        <div class="img-box">
+          <img src="/images/media/dvd/11/lbt11-dk.jpg" alt="Landet for længe siden 11" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/11/lbt11-dk2.jpg" data-lightbox="img" data-title="Landet for længe siden 11">
+        <div class="img-box">
+          <img src="/images/media/dvd/11/lbt11-dk2.jpg" alt="Landet for længe siden 11" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landet for længe siden 11<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Language:</strong> Danish<br/>
+    </div>
+  </div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -77,6 +95,23 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt11-es-universalminiclub-972">
+    <div class="item-image">
+      <a href="/images/media/dvd/11/lbt11-es-universalminiclub.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
+        <div class="img-box">
+          <img src="/images/media/dvd/11/lbt11-es-universalminiclub.jpg" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla ricerca della valle incantata<br/>
+      <strong>Subtitle:</strong> L'invasione dei minisauri<br/>
+      <strong>Year:</strong> 2005<br/>
+      <strong>Barcode:</strong> 5050582351040<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> Univeral Miniclub edition<br/>
+    </div>
+</div>
 
   <div class="item-entry">
   <div class="item-image">
@@ -93,25 +128,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
-<div class="item-entry" id="lbt11-dk-285">
+
+<div class="item-entry" id="lbt11-es-941">
     <div class="item-image">
-      <a href="/images/media/dvd/11/lbt11-dk.jpg" data-lightbox="img" data-title="Landet for længe siden 11">
+      <a href="/images/media/dvd/11/lbt11-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
         <div class="img-box">
-          <img src="/images/media/dvd/11/lbt11-dk.jpg" alt="Landet for længe siden 11" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/media/dvd/11/lbt11-dk2.jpg" data-lightbox="img" data-title="Landet for længe siden 11">
-        <div class="img-box">
-          <img src="/images/media/dvd/11/lbt11-dk2.jpg" alt="Landet for længe siden 11" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/media/dvd/11/lbt11-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Landet for længe siden 11<br/>
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La Invasión De Los Dimuminusaurios<br/>
       <strong>Year:</strong> 2005<br/>
-      <strong>Language:</strong> Danish<br/>
+      <strong>Language:</strong> Spanish<br/>
     </div>
-  </div>
+</div>
 
   <div class="item-entry">
   <div class="item-image">

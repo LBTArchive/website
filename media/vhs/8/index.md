@@ -130,6 +130,21 @@ An archive of The Big Freeze VHS tapes released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt8-es-948">
+    <div class="item-image">
+      <a href="/images/media/vhs/8/lbt8-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/8/lbt8-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La Gran Helada<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
   <div class="item-entry">
   <div class="item-image">

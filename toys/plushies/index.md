@@ -1638,6 +1638,21 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> Flop-a-saurus + minipal (Blockbuster Exclusive)<br/>
     </div>
   </div>
+<div class="item-entry" id="chomper-japan-982">
+    <div class="item-image">
+      <a href="/images/toys/plushies/chomper-japan.webp" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-japan.webp" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Algos Corporation<br/>
+      <strong>Language:</strong> Japanese<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="italiansingingchomper-692">
     <div class="item-image">
@@ -1924,6 +1939,21 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> Thanks to RainbowFaceProtege for the picture<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="ali-toynetwork-986">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ali-toynetwork.jpg" data-lightbox="img" data-title="Ali">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ali-toynetwork.jpg" alt="Ali" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ali<br/>
+      <strong>Publisher:</strong> Toy Network<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="chomper-toynetwork-7inch_orig-104">
     <div class="item-image">
       <a href="/images/toys/plushies/4260468_orig.jpg" data-lightbox="img" data-title="Mo">

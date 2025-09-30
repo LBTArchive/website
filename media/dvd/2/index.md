@@ -105,6 +105,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt2-es-958">
+    <div class="item-image">
+      <a href="/images/media/dvd/2/lbt2-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/2/lbt2-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> Aventuras En El Gran Valle<br/>
+      <strong>Barcode:</strong> 505082291483<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">

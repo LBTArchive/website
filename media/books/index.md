@@ -59,6 +59,22 @@ An archive of The Land Before Time books released over the years. These books al
     </a>
   </div>
 </div>
+<div class="item-entry" id="lbt-it-995">
+    <div class="item-image">
+      <a href="/images/media/books/lbt-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
+        <div class="img-box">
+          <img src="/images/media/books/lbt-it.jpg" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla ricerca della valle incantata<br/>
+      <strong>Publisher:</strong> Libri per ragazzi mondadori<br/>
+      <strong>Barcode:</strong> 978804328452<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
 <div class="item-details">
   <strong>Title:</strong> Search for the Great Valley <br />
   <strong>Language:</strong> English <br />
@@ -714,6 +730,22 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>ISBN:</strong> 9780769605951 <br />
   </div>
 </div>
+<div class="item-entry" id="allaricercadellavalleincantata-996">
+    <div class="item-image">
+      <a href="/images/media/books/allaricercadellavalleincantata.png" data-lightbox="img" data-title="Alla ricerca della valle incantata">
+        <div class="img-box">
+          <img src="/images/media/books/allaricercadellavalleincantata.png" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla ricerca della valle incantata<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Publisher:</strong> Fabbri Editori<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/gesichten-spiegl2_1.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit - Geschichten & Spiele">

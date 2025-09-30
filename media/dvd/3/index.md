@@ -126,6 +126,39 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt3-es-932">
+    <div class="item-image">
+      <a href="/images/media/dvd/3/lbt3-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/3/lbt3-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La fuente de la vida<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
+<div class="item-entry" id="lbt3-it-miniclub-976">
+    <div class="item-image">
+      <a href="/images/media/dvd/3/lbt3-it-miniclub.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
+        <div class="img-box">
+          <img src="/images/media/dvd/3/lbt3-it-miniclub.jpg" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla ricerca della valle incantata<br/>
+      <strong>Subtitle:</strong> Il mistero della sorgente<br/>
+      <strong>Barcode:</strong> 5050582282139<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> Univeral Miniclub edition<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="lbt3-de-2011-609">
     <div class="item-image">
       <a href="/images/media/dvd/3/lbt3-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">

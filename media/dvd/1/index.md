@@ -76,6 +76,7 @@ An archive of The Land Before Time DVDs released over the years.
     <div class="item-details">
       <strong>Title:</strong> En Busca del Valle Encantado<br/>
       <strong>Year:</strong> 2003<br/>
+      <strong>Region:</strong> 1<br/>
       <strong>Language:</strong> Spanish<br/>
     </div>
   </div>
@@ -115,6 +116,23 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt1-es-orig-940">
+    <div class="item-image">
+      <a href="/images/media/dvd/1/lbt1-es-orig.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/lbt1-es-orig.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Region:</strong> 2<br/>
+      <strong>Barcode:</strong> 5050582291476<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt1-dk-293">
     <div class="item-image">
       <a href="/images/media/dvd/1/lbt1-dk.jpg" data-lightbox="img" data-title="Landet for længe siden">
@@ -161,6 +179,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Swedish<br/>      
   </div>
 </div>
+<div class="item-entry" id="lbt1-es-929">
+    <div class="item-image">
+      <a href="/images/media/dvd/1/lbt1-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/lbt1-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt1-de-2011-621">
     <div class="item-image">
       <a href="/images/media/dvd/1/lbt1-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">

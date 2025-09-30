@@ -158,7 +158,20 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
     </div>
   </div>
 
-
-
+<div class="item-entry" id="singalong-es-947">
+    <div class="item-image">
+      <a href="/images/media/vhs/other/singalong-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/other/singalong-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> Cantamos Contigo<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 </div>

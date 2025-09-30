@@ -31,6 +31,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Year:</strong> 2003 (?)<br/>
     </div>
 </div>
+<div class="item-entry" id="9moviecollection-985">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/9moviecollection.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/9moviecollection.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Subtitle:</strong> 9 Movie Dino Pack<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Barcode:</strong> 0025192386527<br/>
+      <strong>Notes:</strong> Land Before Time 1 through 9<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">

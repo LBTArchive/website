@@ -59,6 +59,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt7-es-2004-943">
+    <div class="item-image">
+      <a href="/images/media/dvd/7/lbt7-es-2004.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/7/lbt7-es-2004.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La Misteriosa Piedra De Fuego<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
   <div class="item-entry" id="lbt7-dk-294">
     <div class="item-image">
@@ -121,6 +136,22 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt-es-930">
+    <div class="item-image">
+      <a href="/images/media/dvd/7/lbt-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/7/lbt-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La misteriosa piedra de fuego<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt7-de-2011-626">
     <div class="item-image">
       <a href="/images/media/dvd/7/lbt7-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">

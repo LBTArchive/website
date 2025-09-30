@@ -143,6 +143,54 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+
+<div class="item-entry" id="lbt10-it-980">
+    <div class="item-image">
+      <a href="/images/media/dvd/10/lbt10-it.jpg" data-lightbox="img" data-title="Alle ricerca della valle incantata">
+        <div class="img-box">
+          <img src="/images/media/dvd/10/lbt10-it.jpg" alt="Alle ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alle ricerca della valle incantata<br/>
+      <strong>Subtitle:</strong> La Grande Migrazione<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="lbt10-es-960">
+    <div class="item-image">
+      <a href="/images/media/dvd/10/lbt10-es.png" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/10/lbt10-es.png" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> El Viaje De Los Cuellilargos<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 505082263602<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
+<div class="item-entry" id="lbt10-es-cinemakids-978">
+    <div class="item-image">
+      <a href="/images/media/dvd/10/lbt10-es-cinemakids.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/10/lbt10-es-cinemakids.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> El Viaje De Los Cuellilargos<br/>
+      <strong>Language:</strong> Spanish<br/>
+      <strong>Notes:</strong> Cinema Kids edition<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt7-sv-557">
     <div class="item-image">
       <a href="/images/media/dvd/10/lbt7-sv.jpg" data-lightbox="img" data-title="Landet för längesedan Den stora utvandringen">
@@ -188,6 +236,24 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
+
+<div class="item-entry" id="lbt10-es-2007-949">
+    <div class="item-image">
+      <a href="/images/media/dvd/10/lbt10-es-2007.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/10/lbt10-es-2007.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> El Viaje de los Cuellilargos<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="lbt10-dk-2011-283">
     <div class="item-image">
       <a href="/images/media/dvd/10/lbt10-dk-2011.jpg" data-lightbox="img" data-title="Landet for længe siden">

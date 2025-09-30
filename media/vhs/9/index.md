@@ -180,7 +180,24 @@ An archive of Journey to Big Water VHS tapes released over the years.
       <strong>Barcode:</strong> 5050582081336<br/>
       <strong>Language:</strong> German<br/>
     </div>
-  </div>
+</div>
+
+<div class="item-entry" id="lbt9-es-922">
+    <div class="item-image">
+      <a href="/images/media/vhs/9/lbt9-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/9/lbt9-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> Travesía a los Oceanos<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Barcode:</strong> 5050582081428<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -196,7 +213,5 @@ An archive of Journey to Big Water VHS tapes released over the years.
       <strong>Language:</strong> Swedish<br/>
   </div>
 </div>
-
-
 
 </div>

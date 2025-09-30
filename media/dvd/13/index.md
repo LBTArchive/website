@@ -60,7 +60,38 @@ Vive les Amis<br/>
       <strong>Language:</strong> Swedish<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt13-es-orig-966">
+    <div class="item-image">
+      <a href="/images/media/dvd/13/lbt13-es-orig.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/13/lbt13-es-orig.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La Sabiduría de los Amigos<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
+<div class="item-entry" id="lbt13-es-946">
+    <div class="item-image">
+      <a href="/images/media/dvd/13/lbt13-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/13/lbt13-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> La Sabiduría de los Amigos<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+      <strong>Notes:</strong> Versión Exclusiva Alquiler (rental version)<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">

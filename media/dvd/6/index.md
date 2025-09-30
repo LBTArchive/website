@@ -107,6 +107,23 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Russian<br/>
   </div>
 </div>
+
+<div class="item-entry" id="lbt6-es-2007-961">
+    <div class="item-image">
+      <a href="/images/media/dvd/6/lbt6-es-2007.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/dvd/6/lbt6-es-2007.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Subtitle:</strong> El Secreto de la Roca del Saurio<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt6-de-579">
     <div class="item-image">
       <a href="/images/media/dvd/6/lbt6-de-2011.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
