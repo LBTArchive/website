@@ -51,6 +51,7 @@ An archive of The Land Before Time books released over the years. These books al
   <strong>ISBN:</strong> ? <br />
 </div>
 </div>
+
 <div class="item-entry" id="search-for-the-great-valley-book">
   <div class="item-image">
     <a href="/images/media/books/searchforthegreatvalley.jpg" data-lightbox="img" data-title="Search for the Great Valley">
@@ -59,6 +60,15 @@ An archive of The Land Before Time books released over the years. These books al
     </a>
   </div>
 </div>
+<div class="item-details">
+  <strong>Title:</strong> Search for the Great Valley <br />
+  <strong>Language:</strong> English <br />
+  <strong>Year:</strong> 1988 <br />
+  <strong>ISBN:</strong> 978-0448093581 <br />
+  <strong>Notes:</strong> Has a <a href="/media/cassette/#search-for-the-great-valley-cassette">cassette</a> with the same name <br />
+</div>
+</div>
+
 <div class="item-entry" id="lbt-it-995">
     <div class="item-image">
       <a href="/images/media/books/lbt-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
@@ -75,14 +85,6 @@ An archive of The Land Before Time books released over the years. These books al
     </div>
 </div>
 
-<div class="item-details">
-  <strong>Title:</strong> Search for the Great Valley <br />
-  <strong>Language:</strong> English <br />
-  <strong>Year:</strong> 1988 <br />
-  <strong>ISBN:</strong> 978-0448093581 <br />
-  <strong>Notes:</strong> Has a <a href="/media/cassette/#search-for-the-great-valley-cassette">cassette</a> with the same name <br />
-</div>
-</div>
 <div class="item-entry" id="searchforthegreatvalley-de-210">
   <div class="item-image">
     <a href="/images/media/books/searchforthegreatvalley-de.jpg" data-lightbox="img" data-title="Die Suche nach dem grossen Tal">
