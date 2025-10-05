@@ -52,6 +52,22 @@ An archive of The Land Before Time books released over the years. These books al
 </div>
 </div>
 
+<div class="item-entry" id="lbt-it-995">
+    <div class="item-image">
+      <a href="/images/media/books/lbt-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
+        <div class="img-box">
+          <img src="/images/media/books/lbt-it.jpg" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla ricerca della valle incantata<br/>
+      <strong>Publisher:</strong> Libri per ragazzi mondadori<br/>
+      <strong>Barcode:</strong> 978804328452<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="search-for-the-great-valley-book">
   <div class="item-image">
     <a href="/images/media/books/searchforthegreatvalley.jpg" data-lightbox="img" data-title="Search for the Great Valley">
@@ -67,22 +83,6 @@ An archive of The Land Before Time books released over the years. These books al
   <strong>ISBN:</strong> 978-0448093581 <br />
   <strong>Notes:</strong> Has a <a href="/media/cassette/#search-for-the-great-valley-cassette">cassette</a> with the same name <br />
 </div>
-</div>
-
-<div class="item-entry" id="lbt-it-995">
-    <div class="item-image">
-      <a href="/images/media/books/lbt-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
-        <div class="img-box">
-          <img src="/images/media/books/lbt-it.jpg" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Alla ricerca della valle incantata<br/>
-      <strong>Publisher:</strong> Libri per ragazzi mondadori<br/>
-      <strong>Barcode:</strong> 978804328452<br/>
-      <strong>Language:</strong> Italian<br/>
-    </div>
 </div>
 
 <div class="item-entry" id="searchforthegreatvalley-de-210">

@@ -80,6 +80,22 @@ Next to the songs and the soundtrack there were audioplays/audiobooks of The Lan
       <strong>Notes:</strong> 3 inch cd<br/>
   </div>
 </div>
+<div class="item-entry" id="platvoetluistercd-1006">
+    <div class="item-image">
+      <a href="/images/media/cd/platvoetluistercd.jpg" data-lightbox="img" data-title="Platvoet en zijn Vriendjes luister-strip">
+        <div class="img-box">
+          <img src="/images/media/cd/platvoetluistercd.jpg" alt="Platvoet en zijn Vriendjes luister-strip" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en zijn Vriendjes luister-strip<br/>
+      <strong>Subtitle:</strong> Het land voor onze jaartelling<br/>
+      <strong>Year:</strong> 1991<br/>
+      <strong>Language:</strong> Dutch<br/>
+      <strong>Notes:</strong> A Dutch audio play of The Land Before Time<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">

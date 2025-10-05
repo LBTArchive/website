@@ -15,6 +15,11 @@ An archive of The Land Before Time Tableware released over the years.
 
 <div class="item-entry" id="plate1988-158">
     <div class="item-image">
+      <a href="/images/misc/tableware/plateset1988.jpg" data-lightbox="img" data-title="Set">
+        <div class="img-box">
+          <img src="/images/misc/tableware/plateset1988.jpg" alt="Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
       <a href="/images/misc/tableware/universalstudiosmug1988_orig.jpg" data-lightbox="img" data-title="Mug">
         <div class="img-box">
           <img src="/images/misc/tableware/universalstudiosmug1988_orig.jpg" alt="Mug" style="height:250px; object-fit:cover;" loading="lazy">
@@ -43,6 +48,11 @@ An archive of The Land Before Time Tableware released over the years.
       <a href="/images/misc/tableware/1988-cutlery.jpg" data-lightbox="img" data-title="Cutlery">
         <div class="img-box">
           <img src="/images/misc/tableware/1988-cutlery.jpg" alt="Cutlery" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/tableware/1988-cutlery-2.jpg" data-lightbox="img" data-title="Cutlery">
+        <div class="img-box">
+          <img src="/images/misc/tableware/1988-cutlery-2.jpg" alt="Cutlery" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
@@ -208,6 +218,7 @@ An archive of The Land Before Time Tableware released over the years.
     <div class="item-details">
       <strong>Title:</strong> Cera Spoon<br/>
       <strong>Year:</strong> 1997<br/>
+      <strong>Brand:</strong> General Mills?<br/>
       <strong>Notes:</strong> If you have more information about this spoon, please let us know.<br/>
     </div>
 </div>

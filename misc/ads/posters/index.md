@@ -304,6 +304,20 @@ Official movie posters for The Land Before Time and its sequels.
       <strong>Notes:</strong> 14x18 inch<br/>
     </div>
   </div>
+<div class="item-entry" id="AVAIALBLEONVIDEO-1003">
+    <div class="item-image">
+      <a href="/images/misc/posters/AVAIALBLEONVIDEO.jpg" data-lightbox="img" data-title="The Land Before Time Poster">
+        <div class="img-box">
+          <img src="/images/misc/posters/AVAIALBLEONVIDEO.jpg" alt="The Land Before Time Poster" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time Poster<br/>
+      <strong>Subtitle:</strong> Available on Video Cassette<br/>
+      <strong>Year:</strong> 1989<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbt2englishposter-247">
     <div class="item-image">

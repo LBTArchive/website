@@ -33,6 +33,11 @@ There were a lot of items in stores advertisting the sale of Land Before Time me
 
 <div class="item-entry" id="retail-cardboard-mobile-798">
     <div class="item-image">
+      <a href="/images/misc/ads/point of sale/lbt1-mobile-4.jpg" data-lightbox="img" data-title="The Land Before Time - Cardboard Mobile">
+        <div class="img-box">
+          <img src="/images/misc/ads/point of sale/lbt1-mobile-4.jpg" alt="The Land Before Time - Cardboard Mobile" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
       <a href="/images/misc/ads/point of sale/retail-cardboard-mobile.jpg" data-lightbox="img" data-title="The Land Before Time - Cardboard Mobile">
         <div class="img-box">
           <img src="/images/misc/ads/point of sale/retail-cardboard-mobile.jpg" alt="The Land Before Time - Cardboard Mobile" style="height:250px; object-fit:cover;" loading="lazy"/>

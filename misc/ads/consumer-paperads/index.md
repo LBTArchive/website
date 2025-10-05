@@ -162,7 +162,21 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
       </ul>
     </div>
 </div>
-
+<div class="item-entry" id="adlbt1ph-2-997">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/adlbt1ph-2.png" data-lightbox="img" data-title="Light up your child's imagination">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/adlbt1ph-2.png" alt="Light up your child's imagination" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Light up your child's imagination<br/>
+      <strong>Subtitle:</strong> Free pizza offer with purchase.<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Notes:</strong> Including a mention of the below Pizza Hut offer.<br/>
+    </div>
+</div>
   <div class="item-entry" id="adlbt1ph-699">
     <div class="item-image">
       <a href="/images/misc/ads/consumer/adlbt1ph.jpg" data-lightbox="img" data-title="Light up your child's imagination">
@@ -178,6 +192,7 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
       <strong>Notes:</strong> Including a mention of the below Pizza Hut offer.<br/>
     </div>
 </div>
+
 
 <div class="item-entry" id="betamax-leaflet-700">
     <div class="item-image">

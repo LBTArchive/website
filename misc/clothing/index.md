@@ -125,7 +125,25 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Brand:</strong> J.C. Penney<br/>
     </div>
 </div>
-
+<div class="item-entry" id="cera-romper-1010">
+    <div class="item-image">
+      <a href="/images/misc/clothing/cera-romper.jpg" data-lightbox="img" data-title="Cera Romper">
+        <div class="img-box">
+          <img src="/images/misc/clothing/cera-romper.jpg" alt="Cera Romper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/cera-romper2.jpg" data-lightbox="img" data-title="Cera Romper">
+        <div class="img-box">
+          <img src="/images/misc/clothing/cera-romper2.jpg" alt="Cera Romper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera Romper<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
+    </div>
+</div>
 <div class="item-entry" id="1988littlefootstamp-688">
     <div class="item-image">
       <a href="/images/misc/clothing/1988littlefootstamp.jpg" data-lightbox="img" data-title="Littlefoot 5c stamp T-shirt">
@@ -257,6 +275,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     </div>
   </div>
 
+
 <div class="item-entry" id="greenlittlefoot-tshirt-385">
     <div class="item-image">
       <a href="/images/misc/clothing/greenlittlefoot-tshirt.jpg" data-lightbox="img" data-title="Littlefoot T-shirt">
@@ -282,6 +301,18 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Title:</strong> T-shirt<br/>
     </div>
   </div>
+<div class="item-entry" id="littlefootonlog-1009">
+    <div class="item-image">
+      <a href="/images/misc/clothing/littlefootonlog.jpg" data-lightbox="img" data-title="Littlefoot and Ducky on a log T-shirt">
+        <div class="img-box">
+          <img src="/images/misc/clothing/littlefootonlog.jpg" alt="Littlefoot and Ducky on a log T-shirt" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot and Ducky on a log T-shirt<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="1988promojacket-372">
     <div class="item-image">
@@ -556,6 +587,20 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Brand:</strong> Armitron<br/>
     </div>
   </div>
+<div class="item-entry" id="littlemunchkin2007-1008">
+    <div class="item-image">
+      <a href="/images/misc/clothing/littlemunchkin2007.jpg" data-lightbox="img" data-title="Clothing set">
+        <div class="img-box">
+          <img src="/images/misc/clothing/littlemunchkin2007.jpg" alt="Clothing set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Clothing set<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Brand:</strong> Little Munchkin<br/>
+    </div>
+</div>
 
   <div class="item-entry" id="disfordinosaurshottopic-420">
     <div class="item-image">
@@ -685,7 +730,7 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details">
       <strong>Title:</strong> Wallet<br/>
       <strong>Year:</strong> 2023<br/>
-      <strong>Publisher:</strong> Loungefly<br/>
+      <strong>Brand:</strong> Loungefly<br/>
     </div>
 </div>
 

@@ -801,6 +801,20 @@ Journey to Big Water (IX)</li></ul>
       Valentine's edition<br/>
     </div>
   </div>
+  <div class="item-entry" id="4filmsplatvoet1-4-1007">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/4filmsplatvoet1-4.jpg" data-lightbox="img" data-title="Platvoet en zijn Vriendjes 1-4">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/4filmsplatvoet1-4.jpg" alt="Platvoet en zijn Vriendjes 1-4" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en zijn Vriendjes 1-4<br/>
+      <strong>Language:</strong> Dutch<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="4filmsplatvoetv-viii-554">
     <div class="item-image">
       <a href="/images/media/dvd/collection/4filmsplatvoetv-viii.jpg" data-lightbox="img" data-title="Platvoet en z'n vriendjes 5-8">

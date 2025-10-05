@@ -16,9 +16,13 @@ An archive of The Land Before Time Plushies released over the years. If you want
 [Other characters](#others)<br/>
 
 
-<div class="item-table">  <div class="item-header">    <div class="item-image"><strong>Picture</strong></div>    <div class="item-details"><strong>Details</strong></div>  </div>
+<div class="item-table">
+  <div class="item-header">
+    <div class="item-image"><strong>Picture</strong></div>
+    <div class="item-details"><strong>Details</strong></div>
+  </div>
 
-  <div class="item-entry" id="6 plushies-151">
+<div class="item-entry" id="6-plushies-151">
     <div class="item-image">
       <a href="/images/toys/plushies/6 plushies.jpg" data-lightbox="img" data-title="Plushies">
         <div class="img-box">
@@ -606,7 +610,8 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Brand:</strong> Playmates<br/>
       <strong>Size:</strong> ?<br/>
     </div>
-  </div>
+</div>
+
 <div class="item-entry" id="9964593_orig-71">
     <div class="item-image">
       <a href="/images/toys/plushies/9964593_orig.jpg" data-lightbox="img" data-title="Cera">
@@ -621,7 +626,8 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Brand:</strong> ?<br/>
       <strong>Size:</strong> 16 inch / 40 cm<br/>
     </div>
-  </div>
+</div>
+
   <div class="item-entry" id="cera-veryshiny-136">
     <div class="item-image">
       <a href="/images/toys/plushies/cera-veryshiny.jpg" data-lightbox="img" data-title="Cera">
@@ -669,6 +675,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 8 inch / 20 cm<br/>
     </div>
   </div>
+
 <div class="item-entry" id="5587027_orig-73">
     <div class="item-image">
       <a href="/images/toys/plushies/5587027_orig.jpg" data-lightbox="img" data-title="Cera">
@@ -685,6 +692,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Language:</strong> French<br/>
     </div>
   </div>
+
 <div class="item-entry" id="cera-gipsy-900">
     <div class="item-image">
       <a href="/images/toys/plushies/cera-gipsy.png" data-lightbox="img" data-title="Cera">
@@ -700,6 +708,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> Released in France. Possible same item as the one above<br/>
     </div>
 </div>
+
 <div class="item-entry" id="cera-gipsy-large-901">
     <div class="item-image">
       <a href="/images/toys/plushies/cera-gipsy-large.png" data-lightbox="img" data-title="Cera">
@@ -716,7 +725,6 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
 </div>
 
-
 <div class="item-entry" id="cera_orig-74">
     <div class="item-image">
       <a href="/images/toys/plushies/cera_orig.jpg" data-lightbox="img" data-title="Cera">
@@ -732,6 +740,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 9 inch / 23 cm<br/>
     </div>
   </div>
+
   <div class="item-entry" id="cera-kellytoy-656">
     <div class="item-image">
       <a href="/images/toys/plushies/cera-kellytoy.jpg" data-lightbox="img" data-title="Cera">
@@ -763,6 +772,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 6 inch / 15 cm<br/>
     </div>
   </div>
+  
   <div class="item-entry" id="cera-toynetwork-75232">
     <div class="item-image">
       <a href="/images/toys/plushies/cera-toynetwork.jpg" data-lightbox="img" data-title="Cera">
@@ -778,11 +788,60 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="cera-toynetwork-big-1005">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-toynetwork-big.jpg" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-toynetwork-big.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> Toy Network<br/>
+      <strong>Size:</strong> 13 inch<br/>
+    </div>
+</div>
+
   <div class="item-entry" id="cera-toynetwork-eyelash-118">
     <div class="item-image">
       <a href="/images/toys/plushies/cera-toynetwork-eyelash.jpg" data-lightbox="img" data-title="Cera">
         <div class="img-box">
           <img src="/images/toys/plushies/cera-toynetwork-eyelash.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> Toy Network<br/>
+      <strong>Size:</strong> 13 inch<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="cera-toynetwork1-1004">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-toynetwork1.jpg" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-toynetwork1.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> Toy Network<br/>
+      <strong>Size:</strong> 10 inch<br/>
+    </div>
+</div>
+
+  <div class="item-entry" id="cera-halloween-toynetwork-112">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-halloween-toynetwork.jpg" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-halloween-toynetwork.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>
@@ -810,22 +869,6 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
-  <div class="item-entry" id="cera-halloween-toynetwork-112">
-    <div class="item-image">
-      <a href="/images/toys/plushies/cera-halloween-toynetwork.jpg" data-lightbox="img" data-title="Cera">
-        <div class="img-box">
-          <img src="/images/toys/plushies/cera-halloween-toynetwork.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Cera<br/>
-      <strong>Year:</strong> ?<br/>
-      <strong>Brand:</strong> Toy Network<br/>
-      <strong>Size:</strong> ?<br/>
-    </div>
-  </div>
-
 <div class="item-entry" id="cera-drum-toynetwork-77">
     <div class="item-image">
       <a href="/images/toys/plushies/cera-drum-toynetwork.jpg" data-lightbox="img" data-title="Cera">
@@ -841,6 +884,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+
 <div class="item-entry" id="cerahalloween-78">
     <div class="item-image">
       <a href="/images/toys/plushies/cerahalloween.jpg" data-lightbox="img" data-title="Cera">

@@ -347,6 +347,21 @@ The Land Before Time series released several educational games. They also releas
   </div>
 </div>
 
+<div class="item-entry" id="preschooladvneture3-1011">
+    <div class="item-image">
+      <a href="/images/media/videogames/preschooladvneture3.jpg" data-lightbox="img" data-title="Animated Preschool Adventure">
+        <div class="img-box">
+          <img src="/images/media/videogames/preschooladvneture3.jpg" alt="Animated Preschool Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Animated Preschool Adventure<br/>
+      <strong>Platform:</strong> Windows / Macintosh<br/>
+      <strong>Year:</strong> 1999<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="avontuurvoordeallerkleinsten-310">
     <div class="item-image">
       <a href="/images/media/videogames/avontuurvoordeallerkleinsten.png" data-lightbox="img" data-title="Platvoet en z'n vriendjes">
@@ -358,6 +373,7 @@ The Land Before Time series released several educational games. They also releas
     <div class="item-details">
       <strong>Title:</strong> Platvoet en z'n vriendjes<br/>
       <strong>Subtitle:</strong> Avontuur voor de allerkleinsten<br/>
+      <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1999<br/>
       <strong>Language:</strong> Dutch<br/>
       <a href="https://archive.org/details/PlavoetAvontuurAllerkleinsten" style="display: flex; align-items: center; gap:5px" target="_blank">
@@ -381,6 +397,7 @@ The Land Before Time series released several educational games. They also releas
     <div class="item-details">
       <strong>Title:</strong> In einem Land vor unserer Zeit<br/>
       <strong>Subtitle:</strong> Abenteuer für Kinder im Vorschulalter<br/>
+      <strong>Platform:</strong> Windows / Macintosh<br/>
       <strong>Year:</strong> 1999<br/>
       <strong>Language:</strong> German<br/>
     </div>
@@ -790,6 +807,51 @@ The Land Before Time series released several educational games. They also releas
       </a>
   </div>
 </div>
+<div class="item-entry" id="Preschool adventure2-1012">
+    <div class="item-image">
+      <a href="/images/media/videogames/Preschool adventure2.jpg" data-lightbox="img" data-title="Preschool Adventure">
+        <div class="img-box">
+          <img src="/images/media/videogames/Preschool adventure2.jpg" alt="Preschool Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Preschool Adventure<br/>
+      <strong>Platform:</strong> Windows / Macintosh<br/>
+      <strong>Year:</strong> 2004<br/>
+    </div>
+</div>
+<div class="item-entry" id="preschooladventure-1013">
+    <div class="item-image">
+      <a href="/images/media/videogames/preschooladventure.jpg" data-lightbox="img" data-title="Preschool Adventure">
+        <div class="img-box">
+          <img src="/images/media/videogames/preschooladventure.jpg" alt="Preschool Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Preschool Adventure<br/>
+      <strong>Platform:</strong> Windows<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Notes:</strong> PC Fun Club<br/>
+    </div>
+</div>
+<div class="item-entry" id="preschooladvneture5-1016">
+    <div class="item-image">
+      <a href="/images/media/videogames/preschooladvneture5.jpg" data-lightbox="img" data-title="Preschool Adventure">
+        <div class="img-box">
+          <img src="/images/media/videogames/preschooladvneture5.jpg" alt="Preschool Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Preschool Adventure<br/>
+      <strong>Platform:</strong> Windows<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 022787615147<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/videogames/prehistoric-adventures_1.jpg" data-lightbox="img" data-title="The Land Before Time: Prehistoric Adventures">

@@ -13,135 +13,7 @@ An archive of The Land Before Time VHS tapes released over the years.
     <div class="item-details"><strong>Details</strong></div>
   </div>
 
-  <div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-english-clamshell-1988.jpg" data-lightbox="img" data-title="The Land Before Time">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-english-clamshell-1988.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> The Land Before Time<br/>
-      <strong>Year:</strong> 1988<br/>
-      <strong>Notes:</strong> Clamshell<br/>
-  </div>
-</div>
-<div class="item-entry" id="lbt1-es-952">
-    <div class="item-image">
-      <a href="/images/media/vhs/1/lbt1-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/media/vhs/1/lbt1-es-2.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-es-2.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> En Busca del Valle Encantado<br/>
-      <strong>Barcode:</strong> 8414906808646<br/>
-      <strong>Language:</strong> Spanish<br/>
-    </div>
-</div>
-
-<div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-swedish-vhs.jpg" data-lightbox="img" data-title="Landet för längesedan">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-swedish-vhs.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> Landet för längesedan<br/>
-      <strong>Year:</strong> 1988<br/>
-      <strong>Language:</strong> Swedish<br/>
-  </div>
-</div>
-
-  <div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-swedish-vhs4.jpg" data-lightbox="img" data-title="Landet för Längesedan">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-swedish-vhs4.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-      <a href="/images/media/vhs/1/lbt1-swedish-vhs4-2.jpg" data-lightbox="img" data-title="Landet för Längesedan">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-swedish-vhs4-2.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> Landet för Längesedan<br/>
-      <strong>Year:</strong> 1988<br/>
-      <strong>Language:</strong> Swedish<br/>
-  </div>
-</div>
-
-<div class="item-entry">
-  <div class="item-image">
-    <a href="/images/media/vhs/1/lbt1-swedish-vhs5.jpg" data-lightbox="img" data-title="Landet för Längesedan">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-swedish-vhs5.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-      <a href="/images/media/vhs/1/lbt1-swedish-vhs5-2.jpg" data-lightbox="img" data-title="Landet för Längesedan">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-swedish-vhs5-2.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-  </div>
-  <div class="item-details">
-    <strong>Title:</strong> Landet för Längesedan<br/>
-      <strong>Year:</strong> 1988<br/>
-      <strong>Language:</strong> Swedish<br/>
-  </div>
-</div>
-
-<div class="item-entry" id="lbt1-nl-vhs-161">
-    <div class="item-image">
-      <a href="/images/media/vhs/1/lbt1-nl-vhs.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-nl-vhs.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/media/vhs/1/lbt1-nl-vhs2.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-nl-vhs2.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Platvoet en z'n Vriendjes<br/>
-      <strong>Year:</strong> 1988<br/>
-      <strong>ISBN:</strong> 7 391658 822322<br/>
-      <strong>Language:</strong> Dutch<br/>
-    </div>
-  </div>
-<div class="item-entry" id="lbt1-au-515">
-    <div class="item-image">
-      <a href="/images/media/vhs/1/lbt1-au.jpg" data-lightbox="img" data-title="The Land Before Time">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-au.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/media/vhs/1/lbt1-back-au.jpg" data-lightbox="img" data-title="The Land Before Time">
-        <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-back-au.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> The Land Before Time<br/>
-      <strong>Year:</strong> 1988<br/>
-      <strong>Barcode:</strong> 9311532010667<br/>
-      <strong>Notes:</strong> Australian Version<br/>
-    </div>
-  </div>
+ 
 <div class="item-entry" id="VHS1-screener-599">
     <div class="item-image">
       <a href="/images/media/vhs/1/VHS1-screener.jpg" data-lightbox="img" data-title="The Land Before Time">
@@ -211,7 +83,121 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt1-es-952">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-es.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-es.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-es-2.jpg" data-lightbox="img" data-title="En Busca del Valle Encantado">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-es-2.jpg" alt="En Busca del Valle Encantado" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> En Busca del Valle Encantado<br/>
+      <strong>Barcode:</strong> 8414906808646<br/>
+      <strong>Language:</strong> Spanish<br/>
+    </div>
+</div>
 
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/vhs/1/lbt1-swedish-vhs.jpg" data-lightbox="img" data-title="Landet för längesedan">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-swedish-vhs.jpg" alt="Landet för längesedan" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Landet för längesedan<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Language:</strong> Swedish<br/>
+  </div>
+</div>
+
+  <div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/vhs/1/lbt1-swedish-vhs4.jpg" data-lightbox="img" data-title="Landet för Längesedan">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-swedish-vhs4.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-swedish-vhs4-2.jpg" data-lightbox="img" data-title="Landet för Längesedan">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-swedish-vhs4-2.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Landet för Längesedan<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Language:</strong> Swedish<br/>
+  </div>
+</div>
+
+<div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/vhs/1/lbt1-swedish-vhs5.jpg" data-lightbox="img" data-title="Landet för Längesedan">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-swedish-vhs5.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-swedish-vhs5-2.jpg" data-lightbox="img" data-title="Landet för Längesedan">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-swedish-vhs5-2.jpg" alt="Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> Landet för Längesedan<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Language:</strong> Swedish<br/>
+  </div>
+</div>
+
+<div class="item-entry" id="lbt1-nl-vhs-161">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-nl-vhs.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-nl-vhs.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-nl-vhs2.jpg" data-lightbox="img" data-title="Platvoet en z'n Vriendjes">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-nl-vhs2.jpg" alt="Platvoet en z'n Vriendjes" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Platvoet en z'n Vriendjes<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>ISBN:</strong> 7 391658 822322<br/>
+      <strong>Language:</strong> Dutch<br/>
+    </div>
+  </div>
+<div class="item-entry" id="lbt1-au-515">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-au.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-au.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/1/lbt1-back-au.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-back-au.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Barcode:</strong> 9311532010667<br/>
+      <strong>Notes:</strong> Australian Version<br/>
+    </div>
+  </div>
 <div class="item-entry" id="lbt1-de-1993-645">
     <div class="item-image">
       <a href="/images/media/vhs/1/lbt1-de-1993.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
@@ -227,6 +213,20 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt1-ukedition-1017">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/lbt1-ukedition.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-ukedition.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Year:</strong> 1994<br/>
+      <strong>Notes:</strong> UK Edition<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="Mcdonalds-512346">
     <div class="item-image">
@@ -276,6 +276,20 @@ An archive of The Land Before Time VHS tapes released over the years.
       <strong>Notes:</strong> Translated into American Sign Language (ASL) with Linda Bove from Sesame Streets (Talking Hands Inc.)<br/>
     </div>
   </div>
+   <div class="item-entry">
+  <div class="item-image">
+    <a href="/images/media/vhs/1/lbt1-english-clamshell-1988.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/lbt1-english-clamshell-1988.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>Notes:</strong> Clamshell<br/>
+  </div>
+</div>
 <div class="item-entry" id="1999lbt1-549">
     <div class="item-image">
       <a href="/images/media/vhs/1/1999lbt1.jpg" data-lightbox="img" data-title="The Land Before Time">
