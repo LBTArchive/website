@@ -172,20 +172,20 @@ An archive of The Land Before Time VHS tapes released over the years.
   </div>
 <div class="item-entry">
   <div class="item-image">
-    <a href="/images/media/vhs/2/sv22.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">
+    <a href="/images/media/vhs/3/lbt3-sv-3.jpg" data-lightbox="img" data-title="Landet för Längesedan - Jakten på det försvunna vattnet">
         <div class="img-box">
-          <img src="/images/media/vhs/2/sv22.jpg" alt="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/vhs/3/lbt3-sv-3.jpg" alt="Landet för Längesedan - Jakten på det försvunna vattnet" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
-      <a href="/images/media/vhs/2/sv2.jpg" data-lightbox="img" data-title="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen">
+      <a href="/images/media/vhs/3/lbt3-sv.jpg" data-lightbox="img" data-title="Landet för Längesedan - Jakten på det försvunna vattnet">
         <div class="img-box">
-          <img src="/images/media/vhs/2/sv2.jpg" alt="Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/media/vhs/3/lbt3-sv.jpg" alt="Landet för Längesedan - Jakten på det försvunna vattnet" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Landet för Längesedan - Lillefot och äventyret i den förbjudna dalen<br/>
-      <strong>Year:</strong> 2000<br/>
+    <strong>Title:</strong> Landet för Längesedan - Jakten på det försvunna vattnet<br/>
+      <strong>Year:</strong> 2001<br/>
       <strong>Language:</strong> Swedish<br/>
   </div>
 </div>

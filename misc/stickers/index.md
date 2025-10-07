@@ -351,12 +351,17 @@ An archive of The Land Before Time Stickers released over the years.
           <img src="/images/misc/stickers/stickerbook.jpg" alt="Sticker Book" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/stickers/stickerbookback].jpg" data-lightbox="img" data-title="Sticker Book">
+        <div class="img-box">
+          <img src="/images/misc/stickers/stickerbookback].jpg" alt="Sticker Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Sticker Book<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Publisher:</strong> Mello Smello<br/>
-      <strong>Notes:</strong> With over 100 stickers<br/>
+      <strong>Notes:</strong> With over 100 stickers, a sticker book and a prismastic sticker<br/>
     </div>
   </div>
 

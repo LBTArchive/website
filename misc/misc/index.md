@@ -252,6 +252,21 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Year:</strong> 2000<br/>
     </div>
 </div>
+<div class="item-entry" id="lbt7backer-1029">
+    <div class="item-image">
+      <a href="/images/misc/lbt7backer.jpg" data-lightbox="img" data-title="Backer/Placard for Land Before Time 7">
+        <div class="img-box">
+          <img src="/images/misc/lbt7backer.jpg" alt="Backer/Placard for Land Before Time 7" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Backer/Placard for Land Before Time 7<br/>
+      <strong>Year:</strong> 2000<br/>
+      <strong>Notes:</strong> Used in stores behind the DVDs as as placeholder<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="2001alphabitscereal-660">
     <div class="item-image">
       <a href="/images/misc/2001alphabitscereal.jpg" data-lightbox="img" data-title="Alpha-Bits cereal box">
@@ -344,6 +359,36 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Notes:</strong> Promotional store item<br/>
     </div>
 </div>
+<div class="item-entry" id="lbt10backer-1022">
+    <div class="item-image">
+      <a href="/images/misc/lbt10backer.jpg" data-lightbox="img" data-title="Backer/Placard for Land Before Time 10">
+        <div class="img-box">
+          <img src="/images/misc/lbt10backer.jpg" alt="Backer/Placard for Land Before Time 10" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Backer/Placard for Land Before Time 10<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Notes:</strong> Used in stores behind the DVDs as as placeholder<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="lbt12backer-1023">
+    <div class="item-image">
+      <a href="/images/misc/lbt11backer.jpg" data-lightbox="img" data-title="Backer/Placard for Land Before Time 11">
+        <div class="img-box">
+          <img src="/images/misc/lbt11backer.jpg" alt="Backer/Placard for Land Before Time 11" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Backer/Placard for Land Before Time 12<br/>
+      <strong>Year:</strong> 2006<br/>
+      <strong>Notes:</strong> Used in stores behind the DVDs as as placeholder<br/>
+    </div>
+</div>
+
 
 <div class="item-entry" id="ineinemlandvorunsererzeitmetalbox2007-667">
     <div class="item-image">
@@ -410,6 +455,21 @@ An archive of The Land Before Time items released over the years that did not fi
     </div>
 </div>
 
+<div class="item-entry" id="diapers-1032">
+    <div class="item-image">
+      <a href="/images/misc/diapers.png" data-lightbox="img" data-title="Ultra Thins Comfort-Stretch Diapers">
+        <div class="img-box">
+          <img src="/images/misc/diapers.png" alt="Ultra Thins Comfort-Stretch Diapers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ultra Thins Comfort-Stretch Diapers<br/>
+      <strong>Publisher:</strong> Walgreens<br/>
+      <strong>Barcode:</strong> 311917048932<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="airrings-662">
     <div class="item-image">
       <a href="/images/misc/airrings.jpg" data-lightbox="img" data-title="The Land Before Time Arm Rings">
@@ -427,6 +487,20 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Title:</strong> The Land Before Time Arm Rings<br/>
       <strong>Barcode:</strong> 049022157965<br/>
       <strong>Notes:</strong> Floaties<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="swim ring-1030">
+    <div class="item-image">
+      <a href="/images/misc/swim ring.png" data-lightbox="img" data-title="Swim Ring">
+        <div class="img-box">
+          <img src="/images/misc/swim ring.png" alt="Swim Ring" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Swim Ring<br/>
+      <strong>Barcode:</strong> 049022188464<br/>
     </div>
 </div>
 

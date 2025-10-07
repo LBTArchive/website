@@ -691,6 +691,11 @@ The Wisdom of Friends (XIII)</li></ul>
 
 <div class="item-entry">
   <div class="item-image">
+    <a href="/images/media/dvd/collection/all14slipcover.jpg" data-lightbox="img" data-title="Slipcover">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/all14slipcover.jpg" alt="Slipcover" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     <a href="/images/media/dvd/collection/20200409-122031_orig.jpg" data-lightbox="img" data-title="The Complete Collection">
         <div class="img-box">
           <img src="/images/media/dvd/collection/20200409-122031_orig.jpg" alt="The Complete Collection" style="height:250px; object-fit:cover;" loading="lazy">

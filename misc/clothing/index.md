@@ -408,6 +408,31 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Year:</strong> 1994<br/>
     </div>
   </div>
+<div class="item-entry" id="hat1996taiwan-1018">
+    <div class="item-image">
+      <a href="/images/misc/clothing/hat1996taiwan.jpg" data-lightbox="img" data-title="Snapback hat">
+        <div class="img-box">
+          <img src="/images/misc/clothing/hat1996taiwan.jpg" alt="Snapback hat" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/hat1996taiwan2.jpg" data-lightbox="img" data-title="Snapback hat">
+        <div class="img-box">
+          <img src="/images/misc/clothing/hat1996taiwan2.jpg" alt="Snapback hat" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/hat1996taiwan3.jpg" data-lightbox="img" data-title="Snapback hat">
+        <div class="img-box">
+          <img src="/images/misc/clothing/hat1996taiwan3.jpg" alt="Snapback hat" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Snapback hat<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Publisher:</strong> Universal Studios Kids<br/>
+      <strong>Notes:</strong> Made in Taiwan<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="1996backpack-375">
     <div class="item-image">
