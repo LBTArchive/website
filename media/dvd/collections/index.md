@@ -13,6 +13,26 @@ An archive of The Land Before Time DVDs released over the years.
     <div class="item-details"><strong>Details</strong></div>
   </div>
 
+<div class="item-entry" id="4movie-dinopack-vol1-1033">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/4movie-dinopack-vol1.jpg" data-lightbox="img" data-title="Fun-N-Friends 4 Movie Dino Pack Volume 1">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/4movie-dinopack-vol1.jpg" alt="Fun-N-Friends 4 Movie Dino Pack Volume 1" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/collection/4movie-dinopack-vol1-2.jpg" data-lightbox="img" data-title="Fun-N-Friends 4 Movie Dino Pack Volume 1">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/4movie-dinopack-vol1-2.jpg" alt="Fun-N-Friends 4 Movie Dino Pack Volume 1" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Fun-N-Friends 4 Movie Dino Pack Volume 1<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Notes:</strong> Featuring movies 1 through 4<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="4movie-dinopack-2003-849">
     <div class="item-image">
       <a href="/images/media/dvd/collection/4movie-dinopack-2003.jpg" data-lightbox="img" data-title="4 Movie Dino Pack Volume 2">
@@ -27,8 +47,9 @@ An archive of The Land Before Time DVDs released over the years.
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> 4 Movie Dino Pack Volume 2<br/>
-      <strong>Year:</strong> 2003 (?)<br/>
+      <strong>Title:</strong> Fun-N-Friends 4 Movie Dino Pack Volume 2<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Notes:</strong> Featuring movies 5 through 8<br/>
     </div>
 </div>
 <div class="item-entry" id="9moviecollection-985">

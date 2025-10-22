@@ -314,7 +314,7 @@ An archive of The Land Before Time books released over the years. These books al
     </div>
     <div class="item-details">
       <strong>Title:</strong> 3D Adventure Comic<br/>
-      <strong>Year:</strong> 1997<br/>
+      <strong>Year:</strong> 2000<br/>
     </div>
 </div>
   <div class="item-entry" id="dinosaurfun-679">

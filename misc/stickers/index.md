@@ -342,6 +342,22 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Year:</strong> 1997<br/>
     </div>
   </div>
+<div class="item-entry" id="mellosmellotattoos-1039">
+    <div class="item-image">
+      <a href="/images/misc/stickers/mellosmellotattoos.jpg" data-lightbox="img" data-title="Tattoo Value Pack - 80 tattoos">
+        <div class="img-box">
+          <img src="/images/misc/stickers/mellosmellotattoos.jpg" alt="Tattoo Value Pack - 80 tattoos" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Tattoo Value Pack - 80 tattoos<br/>
+      <strong>Subtitle:</strong> Great for Parties - Perforated for an Easy Giveaway<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Mello Smello<br/>
+      <strong>Barcode:</strong> 03943803906<br/>
+    </div>
+</div>
 
 
 <div class="item-entry" id="stickerbook-522">

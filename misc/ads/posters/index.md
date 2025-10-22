@@ -318,6 +318,19 @@ Official movie posters for The Land Before Time and its sequels.
       <strong>Year:</strong> 1989<br/>
     </div>
 </div>
+<div class="item-entry" id="mylar-5x25in-1035">
+    <div class="item-image">
+      <a href="/images/misc/posters/mylar-5x25in.jpg" data-lightbox="img" data-title="Lightbox poster / mylar">
+        <div class="img-box">
+          <img src="/images/misc/posters/mylar-5x25in.jpg" alt="Lightbox poster / mylar" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Lightbox poster / mylar<br/>
+      <strong>Notes:</strong> 5x25 inches<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbt2englishposter-247">
     <div class="item-image">

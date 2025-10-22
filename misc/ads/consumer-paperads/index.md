@@ -12,6 +12,25 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
+<div class="item-entry" id="lbt-creditsheet-1041">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/lbt-creditsheet.jpg" data-lightbox="img" data-title="Credit Sheet">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/lbt-creditsheet.jpg" alt="Credit Sheet" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/lbt-creditsheet2.jpg" data-lightbox="img" data-title="Credit Sheet">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/lbt-creditsheet2.jpg" alt="Credit Sheet" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Credit Sheet<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Notes:</strong> Displaying the names of those working on the original movie as of October 24, 1988<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="1988nov13-sundaycomics-newpaperclipping-714">
     <div class="item-image">
@@ -367,17 +386,17 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
       <strong>Year:</strong> 1997<br/>
       <strong>Notes:</strong> Featuring:<ul>
       <li>T-shirt</li>
-      <li><a href="/media/books/#3Dadventurecomic-774">3-D Comic with glasses</a></li>
+      <li>3-D Comic with glasses</li>
       <li>Land Before Time/Timmy the Tooth coloring book</li>
       <li>Mini Poster</li>
       </ul>
     </div>
 </div>
-<div class="item-entry" id="lbt4-au-vhs-728">
+<div class="item-entry" id="lbt5-displaysign-4x8inch-728">
     <div class="item-image">
-      <a href="/images/misc/ads/consumer/lbt4-au-vhs.jpg" data-lightbox="img" data-title="The Land Before Time V - Flyer">
+      <a href="/images/misc/ads/consumer/lbt5-displaysign-4x8inch.jpg" data-lightbox="img" data-title="The Land Before Time V - Flyer">
         <div class="img-box">
-          <img src="/images/misc/ads/consumer/lbt4-au-vhs.jpg" alt="The Land Before Time V - Flyer" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/ads/consumer/lbt5-displaysign-4x8inch.jpg" alt="The Land Before Time V - Flyer" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>

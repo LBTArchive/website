@@ -90,21 +90,6 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
-<div class="item-entry" id="lbt3-es-934">
-    <div class="item-image">
-      <a href="/images/media/dvd/3/lbt3-es.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata 6">
-        <div class="img-box">
-          <img src="/images/media/dvd/3/lbt3-es.jpg" alt="Alla Ricerca della Valle Incantata 6" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Alla Ricerca della Valle Incantata 6<br/>
-      <strong>Subtitle:</strong> Il Segreto Di Saurus Rock<br/>
-      <strong>Year:</strong> 1998<br/>
-      <strong>Language:</strong> Italian<br/>
-    </div>
-</div>
 
 <div class="item-entry" id="lbt6-ja-40">
     <div class="item-image">

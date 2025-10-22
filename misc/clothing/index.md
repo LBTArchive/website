@@ -570,6 +570,18 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Year:</strong> 1997<br/>
     </div>
   </div>
+<div class="item-entry" id="lbt-hoodie-1042">
+    <div class="item-image">
+      <a href="/images/misc/clothing/lbt-hoodie.jpg" data-lightbox="img" data-title="The Land Before Time Sweatshirt">
+        <div class="img-box">
+          <img src="/images/misc/clothing/lbt-hoodie.jpg" alt="The Land Before Time Sweatshirt" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time Sweatshirt<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="lbtdress-672">
     <div class="item-image">

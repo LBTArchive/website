@@ -246,7 +246,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Title:</strong> Littlefoot with a santa hat<br/>
       <strong>Brand:</strong> Toy Network<br/>
     </div>
   </div>
@@ -261,7 +261,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Title:</strong> Littlefoot with an easter basket in his mouth<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
@@ -276,12 +276,30 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Title:</strong> Littlefoot with a rose in his mouth<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+
+<div class="item-entry" id="littlefootrose-1036">
+    <div class="item-image">
+      <a href="/images/toys/plushies/littlefootrose.png" data-lightbox="img" data-title="Littlefoot with a rose in his mouth">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefootrose.png" alt="Littlefoot with a rose in his mouth" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot with a rose in his mouth<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Year:</strong> Toy Network<br/>
+      <strong>Size:</strong> 6/7 inches<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="littlefoot-toynetwork-sorry-128">
     <div class="item-image">
       <a href="/images/toys/plushies/littlefoot-toynetwork-sorry.jpg" data-lightbox="img" data-title="Littlefoot">
@@ -814,7 +832,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Cera<br/>
+      <strong>Title:</strong> Cera with a gift in her paws<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 13 inch<br/>
@@ -846,7 +864,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Cera<br/>
+      <strong>Title:</strong> Cera with a pumpkin in her paws<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
@@ -862,7 +880,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Cera<br/>
+      <strong>Title:</strong> Cera with a santa hat and stocking<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 6 inch / 15 cm<br/>
@@ -878,7 +896,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Cera<br/>
+      <strong>Title:</strong> Cera with a drum<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
@@ -894,7 +912,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Cera<br/>
+      <strong>Title:</strong> Cera with a Happy Halloween costume<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
@@ -1014,12 +1032,29 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Ducky<br/>
+      <strong>Title:</strong> Ducky with a hotdog and an American flag<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+
+<div class="item-entry" id="ducky-easterbasket-1040">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ducky-easterbasket.jpg" data-lightbox="img" data-title="Ducky with an Easter basket">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ducky-easterbasket.jpg" alt="Ducky with an Easter basket" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky with an Easter basket<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Size:</strong> 12 inches<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="204502_orig-83">
     <div class="item-image">
       <a href="/images/toys/plushies/204502_orig.jpg" data-lightbox="img" data-title="Ducky">
@@ -1059,7 +1094,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Ducky<br/>
+      <strong>Title:</strong> Ducky with a santa hat<br/>
       <strong>Year:</strong> 1996 or 1998<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 15 inch<br/>
@@ -1090,7 +1125,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Ducky<br/>
+      <strong>Title:</strong> Ducky with an egg diaper<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 12 inch<br/>
@@ -1105,7 +1140,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Ducky<br/>
+      <strong>Title:</strong> Ducky with a red/white striped scarf and a stocking<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 14 inch<br/>
@@ -1122,7 +1157,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Ducky<br/>
+      <strong>Title:</strong> Ducky with an Easter basket<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 15 inch<br/>
@@ -1278,7 +1313,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 9 inch / 23 cm<br/>
     </div>
   </div>
-<div class="item-entry" id="petrieplaybyplay-93">
+<div class="item-entry" id="petriehalloween-93">
     <div class="item-image">
       <a href="/images/toys/plushies/petrie-toynetwork-trickortreat-9inch_orig.jpg" data-lightbox="img" data-title="Petrie">
         <div class="img-box">
@@ -1287,7 +1322,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Petrie<br/>
+      <strong>Title:</strong> Petrie with Trick or Treat on his wings<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 9 inch / 23 cm<br/>
@@ -1302,7 +1337,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Petrie<br/>
+      <strong>Title:</strong> Petrie with a pumpkin in his mouth sitting on a broom<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
@@ -1504,7 +1539,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
-  
+  <div class="item-entry" id="spike-toynetwork-tophat-9inch-1034">
+    <div class="item-image">
+      <a href="/images/toys/plushies/spike-toynetwork-tophat-9inch.jpg" data-lightbox="img" data-title="Spike with red top hat">
+        <div class="img-box">
+          <img src="/images/toys/plushies/spike-toynetwork-tophat-9inch.jpg" alt="Spike with red top hat" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike with red top hat<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Size:</strong> 9 inches<br/>
+    </div>
+</div>
+
   <div class="item-entry" id="spike-toynetwork-heart_orig-96">
     <div class="item-image">
       <a href="/images/toys/plushies/spike-toynetwork-heart_orig.jpg" data-lightbox="img" data-title="Spike">
@@ -1514,7 +1564,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Spike<br/>
+      <strong>Title:</strong> Spike with heart in mouth<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
@@ -1529,7 +1579,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Spike<br/>
+      <strong>Title:</strong> Spike with striped top hat and fireworks<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 14 inch / 36 cm<br/>
@@ -1560,7 +1610,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Spike<br/>
+      <strong>Title:</strong> Spike with spider in his mouth<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 12 inches<br/>
@@ -1575,7 +1625,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Spike<br/>
+      <strong>Title:</strong> Spike in a pumpkin<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
@@ -1590,7 +1640,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Spike<br/>
+      <strong>Title:</strong> Spike with a santa hat and stocking in his mouth<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 7.5 inch<br/>
