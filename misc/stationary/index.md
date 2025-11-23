@@ -205,6 +205,26 @@ An archive of The Land Before Time Stationary and Post Cards released over the y
     </div>
   </div>
 
+  <div class="item-entry" id="christmascard1-1050">
+    <div class="item-image">
+      <a href="/images/misc/stationary/christmascard1.jpg" data-lightbox="img" data-title="Christmas card">
+        <div class="img-box">
+          <img src="/images/misc/stationary/christmascard1.jpg" alt="Christmas card" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stationary/christmascard2.jpg" data-lightbox="img" data-title="Christmas card">
+        <div class="img-box">
+          <img src="/images/misc/stationary/christmascard2.jpg" alt="Christmas card" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Christmas card<br/>
+      <strong>Publisher:</strong> Gibson Greetings, Inc<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="valentines-464">
     <div class="item-image">
       <a href="/images/misc/stationary/valentines.jpg" data-lightbox="img" data-title="Valentines Cards">

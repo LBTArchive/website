@@ -177,6 +177,11 @@ An archive of The Land Before Time Fast Food promotional items released over the
           <img src="/images/misc/fastfood/phmaskpetrie.jpg" alt="Masks" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/fastfood/phspikemask.jpg" data-lightbox="img" data-title="Masks">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/phspikemask.jpg" alt="Masks" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
       <a href="/images/misc/fastfood/phmasksharptooth.jpg" data-lightbox="img" data-title="Masks">
         <div class="img-box">
           <img src="/images/misc/fastfood/phmasksharptooth.jpg" alt="Masks" style="height:250px; object-fit:cover;" loading="lazy"/>
@@ -201,12 +206,45 @@ An archive of The Land Before Time Fast Food promotional items released over the
           <img src="/images/misc/fastfood/phplacemat2.png" alt="Pizza Hut Placemat" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/fastfood/phplacemat3.jpg" data-lightbox="img" data-title="Pizza Hut Placemat">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/phplacemat3.jpg" alt="Pizza Hut Placemat" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Pizza Hut Placemat<br/>
       <strong>Year:</strong> 1989<br/>
     </div>
   </div>
+
+<div class="item-entry" id="phnapkin-530">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/phnapkins.jpg" data-lightbox="img" data-title="Pizza Hut napkin">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/phnapkins.jpg" alt="Pizza Hut napkin" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Pizza Hut Napkins<br/>
+      <strong>Year:</strong> 1989<br/>
+    </div>
+  </div>
+<div class="item-entry" id="phbirthdaycard-1062">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/phbirthdaycard.jpg" data-lightbox="img" data-title="Pizza Hut Birthday Card">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/phbirthdaycard.jpg" alt="Pizza Hut Birthday Card" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Pizza Hut Birthday Card<br/>
+      <strong>Year:</strong> 1989<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="phplasticbags-539">
     <div class="item-image">
       <a href="/images/misc/fastfood/phplasticbags.jpg" data-lightbox="img" data-title="Pizza Hut Plastic Bags Ducky and Cera">

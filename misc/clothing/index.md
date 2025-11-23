@@ -13,6 +13,22 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     <div class="item-details"><strong>Details</strong></div>
   </div>
 
+<div class="item-entry" id="giantlfsuit-1061">
+    <div class="item-image">
+      <a href="/images/misc/clothing/giantlfsuit.png" data-lightbox="img" data-title="Giant Littlefoot Suit">
+        <div class="img-box">
+          <img src="/images/misc/clothing/giantlfsuit.png" alt="Giant Littlefoot Suit" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Giant Littlefoot Suit<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Notes:</strong> As shown in this press release picture "NOVEMBER 12, 1988<br/><br/>GEORGE LUCAS AND FRANK MARSHALL AT THE IMAX THEATRE AT THE UNIVERSITY OF SOUTHERN CALIFORNIA IN LOS ANGELES: FOR THE PREMIERE OF "THE LAND BEFORE TIME.""<br/>
+    </div>
+</div>
+
+
   <div class="item-entry" id="bedding1988-373">
     <div class="item-image">
       <a href="/images/misc/clothing/bedding1988.png" data-lightbox="img" data-title="Bedding">
@@ -596,6 +612,18 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     </div>
 </div>
 
+<div class="item-entry" id="bamboopjs-1043">
+    <div class="item-image">
+      <a href="/images/misc/clothing/bamboopjs.jpg" data-lightbox="img" data-title="2 piece pajama set">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bamboopjs.jpg" alt="2 piece pajama set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 2 piece pajama set<br/>
+    </div>
+</div>
 
 
 <div class="item-entry" id="sleeve-things-littlefoot-426">
@@ -868,6 +896,20 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Title:</strong> The Land Before Time Scrub<br/>
     </div>
   </div>
+
+<div class="item-entry" id="ltbscrub4-1057">
+    <div class="item-image">
+      <a href="/images/misc/clothing/ltbscrub4.jpg" data-lightbox="img" data-title="Scrub">
+        <div class="img-box">
+          <img src="/images/misc/clothing/ltbscrub4.jpg" alt="Scrub" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time Scrub<br/>
+    </div>
+</div>
+
 
 <div class="item-entry" id="sweatpants-448">
     <div class="item-image">
@@ -1309,5 +1351,21 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="loungeflybackpack-1058">
+    <div class="item-image">
+      <a href="/images/misc/clothing/loungeflybackpack.jpg" data-lightbox="img" data-title="Backpack">
+        <div class="img-box">
+          <img src="/images/misc/clothing/loungeflybackpack.jpg" alt="Backpack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Backpack<br/>
+      <strong>Year:</strong> 2025<br/>
+      <strong>Publisher:</strong> Loungefly<br/>
+    </div>
+</div>
+
 
   </div>

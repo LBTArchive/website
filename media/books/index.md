@@ -304,6 +304,23 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Notes:</strong> "The Land Before Time" <br />
   </div>
 </div>
+
+<div class="item-entry" id="firstwords-1046">
+    <div class="item-image">
+      <a href="/images/media/books/firstwords.jpg" data-lightbox="img" data-title="The Land Before Time First Words Electronic Book">
+        <div class="img-box">
+          <img src="/images/media/books/firstwords.jpg" alt="The Land Before Time First Words Electronic Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time First Words Electronic Book<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>Publisher:</strong> Publications International, Ltd.<br/>
+      <strong>ISBN:</strong> 0785334920<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="3Dadventurecomic-774">
     <div class="item-image">
       <a href="/images/media/books/3Dadventurecomic.jpg" data-lightbox="img" data-title="3D Adventure Comic">

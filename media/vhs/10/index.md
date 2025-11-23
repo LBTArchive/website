@@ -13,6 +13,20 @@ An archive of The Great Longneck Migration VHS tapes released over the years.
     <div class="item-details"><strong>Details</strong></div>
   </div>
 
+<div class="item-entry" id="lbt10-demotape-1049">
+    <div class="item-image">
+      <a href="/images/media/vhs/10/lbt10-demotape.jpg" data-lightbox="img" data-title="The Great Longnecks Migration "Friends new & old" demo/screener tape">
+        <div class="img-box">
+          <img src="/images/media/vhs/10/lbt10-demotape.jpg" alt="The Great Longnecks Migration "Friends new & old" demo/screener tape" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Great Longnecks Migration "Friends new & old" demo/screener tape<br/>
+      <strong>Year:</strong> 2003<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/vhs/10/lbt10-US-clamshell.jpg" data-lightbox="img" data-title="The Great Longneck Migration">

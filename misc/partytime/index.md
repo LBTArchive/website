@@ -142,6 +142,21 @@ An archive of The Land Before Time Party Supplies released over the years.
       <strong>Year:</strong> 1997 <br />
     </div>
   </div>
+
+  <div class="item-entry" id="plastic tablecloth-1056">
+    <div class="item-image">
+      <a href="/images/misc/partysupplies/plastic tablecloth.jpg" data-lightbox="img" data-title="Plastic Coloring Table Cloth">
+        <div class="img-box">
+          <img src="/images/misc/partysupplies/plastic tablecloth.jpg" alt="Plastic Coloring Table Cloth" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Plastic Coloring Table Cloth<br/>
+      <strong>Notes:</strong> 60x50"<br/>
+    </div>
+</div>
+
   <div class="item-entry" id="partyinvitations1997-349">
     <div class="item-image">
       <a href="/images/misc/partysupplies/partyinvitations1997.jpg" data-lightbox="img" data-title="Party Invitations">

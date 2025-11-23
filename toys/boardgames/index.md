@@ -81,6 +81,25 @@ An archive of The Land Before Time board games released over the years.
       <strong>Publisher:</strong> Pressman<br/>
   </div>
 </div>
+<div class="item-entry" id="lookoutforsharptooth1-1054">
+    <div class="item-image">
+      <a href="/images/toys/boardgames/lookoutforsharptooth1.jpg" data-lightbox="img" data-title="Look out for Sharptooth">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/lookoutforsharptooth1.jpg" alt="Look out for Sharptooth" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/boardgames/lookoutforsharptooth2.png" data-lightbox="img" data-title="Look out for Sharptooth">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/lookoutforsharptooth2.png" alt="Look out for Sharptooth" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Look out for Sharptooth<br/>
+      <strong>Publisher:</strong> Brighter Child<br/>
+    </div>
+</div>
+
 
 <div class="item-entry">
   <div class="item-image">

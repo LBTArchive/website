@@ -318,6 +318,11 @@ An archive of The Land Before Time items released over the years that did not fi
           <img src="/images/misc/embroidery3.jpg" alt="Land Before Time Embroidery Set" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/embroidery4.jpg" data-lightbox="img" data-title="Land Before Time Embroidery Set">
+        <div class="img-box">
+          <img src="/images/misc/embroidery4.jpg" alt="Land Before Time Embroidery Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Land Before Time Embroidery Set<br/>
@@ -470,6 +475,21 @@ An archive of The Land Before Time items released over the years that did not fi
     </div>
 </div>
 
+<div class="item-entry" id="petroliumjelly-1045">
+    <div class="item-image">
+      <a href="/images/misc/petroliumjelly.jpg" data-lightbox="img" data-title="Petroleum Jelly featuring Chomper">
+        <div class="img-box">
+          <img src="/images/misc/petroliumjelly.jpg" alt="Petroleum Jelly featuring Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Petroleum Jelly featuring Chomper<br/>
+      <strong>Publisher:</strong> Walgreens<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="airrings-662">
     <div class="item-image">
       <a href="/images/misc/airrings.jpg" data-lightbox="img" data-title="The Land Before Time Arm Rings">
@@ -501,6 +521,57 @@ An archive of The Land Before Time items released over the years that did not fi
     <div class="item-details">
       <strong>Title:</strong> Swim Ring<br/>
       <strong>Barcode:</strong> 049022188464<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="beachball 4-1047">
+    <div class="item-image">
+      <a href="/images/misc/inflatable beach ball.png" data-lightbox="img" data-title="Beach balls">
+        <div class="img-box">
+          <img src="/images/misc/inflatable beach ball.png" alt="Beach balls" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/beachball 4.jpg" data-lightbox="img" data-title="Beach balls">
+        <div class="img-box">
+          <img src="/images/misc/beachball 4.jpg" alt="Beach balls" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/land before time beach ball2.jpg" data-lightbox="img" data-title="Beach balls">
+        <div class="img-box">
+          <img src="/images/misc/land before time beach ball2.jpg" alt="Beach balls" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/land before time beach ball 3.jpg" data-lightbox="img" data-title="Beach balls">
+        <div class="img-box">
+          <img src="/images/misc/land before time beach ball 3.jpg" alt="Beach balls" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Beach balls<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="vidprocardlbt2-1053">
+    <div class="item-image">
+      <a href="/images/misc/vidprocardlbt2.jpg" data-lightbox="img" data-title="Vidpro cards used by Toys "R" Us">
+        <div class="img-box">
+          <img src="/images/misc/vidprocardlbt2.jpg" alt="Vidpro cards used by Toys "R" Us" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/vidprocardlbt4.jpg" data-lightbox="img" data-title="Vidpro cards used by Toys "R" Us">
+        <div class="img-box">
+          <img src="/images/misc/vidprocardlbt4.jpg" alt="Vidpro cards used by Toys "R" Us" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/vidprocardlbt5.jpg" data-lightbox="img" data-title="Vidpro cards used by Toys "R" Us">
+        <div class="img-box">
+          <img src="/images/misc/vidprocardlbt5.jpg" alt="Vidpro cards used by Toys "R" Us" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Vidpro cards used by Toys "R" Us<br/>
     </div>
 </div>
 

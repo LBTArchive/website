@@ -1867,16 +1867,16 @@ An archive of The Land Before Time Plushies released over the years. If you want
 
 <div class="item-entry" id="chomper-toynetwork-7inch_orig-102">
     <div class="item-image">
-      <a href="/images/toys/plushies/chomper-toynetwork-7inch_orig.jpg" data-lightbox="img" data-title="Chomper with Sing Along Songs DVD">
+      <a href="/images/toys/plushies/chomper-toynetwork-7inch_orig.jpg" data-lightbox="img" data-title="Chomper">
         <div class="img-box">
-          <img src="/images/toys/plushies/chomper-toynetwork-7inch_orig.jpg" alt="Chomper with Sing Along Songs DVD" style="height:250px; object-fit:cover;" loading="lazy">
+          <img src="/images/toys/plushies/chomper-toynetwork-7inch_orig.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Chomper with Sing Along Songs DVD<br/>
+      <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Brand:</strong> ?<br/>
+      <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 7 inch / 18 cm<br/>
     </div>
   </div>

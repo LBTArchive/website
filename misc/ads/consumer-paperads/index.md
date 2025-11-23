@@ -238,6 +238,36 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
       <strong>Notes:</strong> Includes an offer for a free pizza at Pizza Hut and 36 holiday seals<br/>
     </div>
 </div>
+<div class="item-entry" id="prairiedrive-1052">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/prairiedrive.jpg" data-lightbox="img" data-title="Springtime is Movie Time!">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/prairiedrive.jpg" alt="Springtime is Movie Time!" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Springtime is Movie Time!<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Publisher:</strong> Prairie Drive In Theatre, Terry Montana<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="nfp9015-1060">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/nfp9015.jpg" data-lightbox="img" data-title="Neues Film Programm 9015">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/nfp9015.jpg" alt="Neues Film Programm 9015" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Neues Film Programm 9015<br/>
+      <strong>Language:</strong> German<br/>
+      <strong>Notes:</strong> Film program booklet<br/>
+    </div>
+</div>
+
 
 <div class="item-entry" id="lbt2-mail-in-rebate1994-723">
     <div class="item-image">
