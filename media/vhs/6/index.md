@@ -13,7 +13,7 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
     <div class="item-details"><strong>Details</strong></div>
   </div>
 
-<div class="item-entry">
+<div class="item-entry"id="lbt6-screener-1">
   <div class="item-image">
     <a href="/images/media/vhs/6/lbt6-screener.png" data-lightbox="img" data-title="The Secret of Saurus Rock">
         <div class="img-box">
@@ -28,7 +28,7 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
   </div>
 </div>
 
-<div class="item-entry">
+<div class="item-entry" id="lbt6-en1">
   <div class="item-image">
     <a href="/images/media/vhs/6/English.jpg" data-lightbox="img" data-title="The Secret of Saurus Rock">
         <div class="img-box">
@@ -44,7 +44,7 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
   </div>
 </div>
 
-  <div class="item-entry">
+  <div class="item-entry" id="lbt6-en2">
   <div class="item-image">
     <a href="/images/media/vhs/6/lbt6-english-sleeve.jpg" data-lightbox="img" data-title="The Secret of Saurus Rock">
         <div class="img-box">
