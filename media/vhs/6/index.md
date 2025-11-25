@@ -15,6 +15,21 @@ An archive of The Secret of Saurus Rock VHS tapes released over the years.
 
 <div class="item-entry">
   <div class="item-image">
+    <a href="/images/media/vhs/6/lbt6-screener.png" data-lightbox="img" data-title="The Secret of Saurus Rock">
+        <div class="img-box">
+          <img src="/images/media/vhs/6/lbt6-screener.png" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+  </div>
+  <div class="item-details">
+    <strong>Title:</strong> The Secret of Saurus Rock<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Notes:</strong> Sceening copy
+  </div>
+</div>
+
+<div class="item-entry">
+  <div class="item-image">
     <a href="/images/media/vhs/6/English.jpg" data-lightbox="img" data-title="The Secret of Saurus Rock">
         <div class="img-box">
           <img src="/images/media/vhs/6/English.jpg" alt="The Secret of Saurus Rock" style="height:250px; object-fit:cover;" loading="lazy">
