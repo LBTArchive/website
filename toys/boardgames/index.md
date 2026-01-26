@@ -119,11 +119,33 @@ An archive of The Land Before Time board games released over the years.
       </a>
   </div>
   <div class="item-details">
-    <strong>Title:</strong> Littlefoot
- Make a Match game<br/>
+    <strong>Title:</strong> Littlefoot Make a Match game<br/>
       <strong>Year:</strong> 2004<br/>
       <strong>Publisher:</strong> Pressman<br/>
   </div>
+</div>
+<div class="item-entry" id="searchthegreatvalley-1-1075">
+    <div class="item-image">
+      <a href="/images/toys/boardgames/searchthegreatvalley-1.jpg" data-lightbox="img" data-title="Search the Great Valley card game">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/searchthegreatvalley-1.jpg" alt="Search the Great Valley card game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/boardgames/searchthegreatvalley-2.jpg" data-lightbox="img" data-title="Search the Great Valley card game">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/searchthegreatvalley-2.jpg" alt="Search the Great Valley card game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/boardgames/searchthegreatvalley-3.jpg" data-lightbox="img" data-title="Search the Great Valley card game">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/searchthegreatvalley-3.jpg" alt="Search the Great Valley card game" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Search the Great Valley card game<br/>
+      <strong>Publisher:</strong> Brighter Child<br/>
+    </div>
 </div>
 
   <div class="item-entry">

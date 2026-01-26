@@ -105,6 +105,21 @@ An archive of The Mysterious Island VHS tapes released over the years.
       <strong>Language:</strong> Swedish<br/>
   </div>
 </div>
+<div class="item-entry" id="lbt5-newart-1073">
+    <div class="item-image">
+      <a href="/images/media/vhs/5/lbt5-newart.jpg" data-lightbox="img" data-title="The Mysterious Island">
+        <div class="img-box">
+          <img src="/images/media/vhs/5/lbt5-newart.jpg" alt="The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Mysterious Island<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Barcode:</strong> 096898318730<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt5-nl-2001-878">
     <div class="item-image">
       <a href="/images/media/vhs/5/lbt5-nl-2001.png" data-lightbox="img" data-title="Het mysterieuze eiland">

@@ -90,6 +90,23 @@ An archive of The Land Before Time DVDs released over the years.
     </div>
 </div>
 
+<div class="item-entry" id="lbt4-hu-1067">
+    <div class="item-image">
+      <a href="/images/media/dvd/4/lbt4-hu.jpg" data-lightbox="img" data-title="Őslények országa">
+        <div class="img-box">
+          <img src="/images/media/dvd/4/lbt4-hu.jpg" alt="Őslények országa" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Őslények országa<br/>
+      <strong>Subtitle:</strong> ÚT A KÖZÖS VÖLGYBE<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Barcode:</strong> 5996051050833<br/>
+      <strong>Language:</strong> Hungarian<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt4-ja-2005-30">
     <div class="item-image">
       <a href="/images/media/dvd/4/lbt4-ja-2005.jpg" data-lightbox="img" data-title="リトルフットクビナガ恐竜がやってきた">

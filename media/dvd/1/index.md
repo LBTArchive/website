@@ -80,6 +80,21 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Language:</strong> Spanish<br/>
     </div>
   </div>
+  <div class="item-entry" id="lbt1-2-4-1077">
+    <div class="item-image">
+      <a href="/images/media/dvd/1/lbt1-2-4.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/1/lbt1-2-4.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Year:</strong> 2004<br/>
+      <strong>Region:</strong> 2, 4<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="2-315">
     <div class="item-image">
       <a href="/images/media/dvd/1/LBT1-DVD-Greek-2004-front.webp" data-lightbox="img" data-title="Η ΓΗ ΠΡΙΝ ΑΡΧΙΣΕΙ Ο ΧΡΟΝΟΣ">

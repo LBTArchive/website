@@ -20,6 +20,11 @@ The Land Before Time series released several educational games. They also releas
           <img src="/images/media/videogames/activitycenter.jpg" alt="Title: The Land Before Time: Activity Center" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
+      <a href="/images/media/videogames/activitycenter-bigbox.jpg" data-lightbox="img" data-title="Title: The Land Before Time: Activity Center">
+        <div class="img-box">
+          <img src="/images/media/videogames/activitycenter-bigbox.jpg" alt="Title: The Land Before Time: Activity Center" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
   </div>
   <div class="item-details">
     <strong>Title:</strong> The Land Before Time: Activity Center<br/>
@@ -83,6 +88,11 @@ The Land Before Time series released several educational games. They also releas
     <a href="/images/media/videogames/kindergartenadventure.jpg" data-lightbox="img" data-title="The Land Before Time: Kindergarten Adventure">
         <div class="img-box">
           <img src="/images/media/videogames/kindergartenadventure.jpg" alt="The Land Before Time: Kindergarten Adventure" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/media/videogames/kindergartenadventure-mac.jpg" data-lightbox="img" data-title="Kindergarten Adventure">
+        <div class="img-box">
+          <img src="/images/media/videogames/kindergartenadventure-mac.jpg" alt="Kindergarten Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
   </div>

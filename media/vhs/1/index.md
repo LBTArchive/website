@@ -498,5 +498,18 @@ An archive of The Land Before Time VHS tapes released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="previewtapeaus-1081">
+    <div class="item-image">
+      <a href="/images/media/vhs/1/previewtapeaus.jpg" data-lightbox="img" data-title="Heroes of the Home Screen Preview Tape">
+        <div class="img-box">
+          <img src="/images/media/vhs/1/previewtapeaus.jpg" alt="Heroes of the Home Screen Preview Tape" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Heroes of the Home Screen Preview Tape<br/>
+      <strong>Notes:</strong> Australian rental preview tape<br/>
+    </div>
+</div>
 
 </div>

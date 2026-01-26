@@ -50,7 +50,19 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Year:</strong> 1987<br/>
     </div>
   </div>
-
+<div class="item-entry" id="1988littlefootsticker-1084">
+    <div class="item-image">
+      <a href="/images/misc/stickers/1988littlefootsticker.jpg" data-lightbox="img" data-title="Littlefoot Sticker">
+        <div class="img-box">
+          <img src="/images/misc/stickers/1988littlefootsticker.jpg" alt="Littlefoot Sticker" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot Sticker<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
 <div class="item-entry" id="stickerlittlefootfr1988-154">
     <div class="item-image">
       <a href="/images/misc/stickers/stickerlittlefootfr1988.jpg" data-lightbox="img" data-title="Littlefoot">
@@ -551,6 +563,11 @@ An archive of The Land Before Time Stickers released over the years.
       <a href="/images/misc/stickers/scrapbookcollectionspaperblueskydesigns.png" data-lightbox="img" data-title="Scrapbook paper">
         <div class="img-box">
           <img src="/images/misc/stickers/scrapbookcollectionspaperblueskydesigns.png" alt="Scrapbook paper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stickers/scrapbookcollectionspaperblueskydesigns2.jpg" data-lightbox="img" data-title="Scrapbook paper">
+        <div class="img-box">
+          <img src="/images/misc/stickers/scrapbookcollectionspaperblueskydesigns2.jpg" alt="Scrapbook paper" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>

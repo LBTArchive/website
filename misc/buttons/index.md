@@ -39,6 +39,33 @@ An archive of The Land Before Time Buttons, keychains and pins released over the
       <strong>Year:</strong> 1988<br/>
     </div>
 </div>
+<div class="item-entry" id="1988cera-1064">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/1988cera.jpg" data-lightbox="img" data-title="Cera Button">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/1988cera.jpg" alt="Cera Button" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera Button<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+<div class="item-entry" id="1988ducky-1065">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/1988ducky.jpg" data-lightbox="img" data-title="Ducky Button">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/1988ducky.jpg" alt="Ducky Button" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky Button<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="1988petrie-710">
     <div class="item-image">
       <a href="/images/misc/buttons and pins/1988petrie.png" data-lightbox="img" data-title="Petrie Button">
@@ -415,6 +442,19 @@ An archive of The Land Before Time Buttons, keychains and pins released over the
       <strong>Year:</strong> ?<br/>
       <strong>Barcode:</strong> 4979866623370<br/>
       <strong>Language:</strong> Japanese<br/>
+    </div>
+</div>
+<div class="item-entry" id="bffnecklace-1079">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/bffnecklace.jpg" data-lightbox="img" data-title="Bestie Necklace Set">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/bffnecklace.jpg" alt="Bestie Necklace Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Bestie Necklace Set Cera and Littlefoot<br/>
+      <strong>Year:</strong> 2025<br/>
     </div>
 </div>
 

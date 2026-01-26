@@ -96,6 +96,20 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Brand:</strong> Screen Stars Best<br/>
     </div>
   </div>
+<div class="item-entry" id="tyrannosaurus-sweater-1080">
+    <div class="item-image">
+      <a href="/images/misc/clothing/tyrannosaurus-sweater.png" data-lightbox="img" data-title="Tyrannosaurus Sweater">
+        <div class="img-box">
+          <img src="/images/misc/clothing/tyrannosaurus-sweater.png" alt="Tyrannosaurus Sweater" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Tyrannosaurus Sweater<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Publisher:</strong> J.C. Penney<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="1988jcpenneyshirtlittlefoot-370">
     <div class="item-image">
@@ -122,6 +136,20 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     </div>
     <div class="item-details">
       <strong>Title:</strong> Dress<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
+    </div>
+</div>
+<div class="item-entry" id="1988littlefootromper-1068">
+    <div class="item-image">
+      <a href="/images/misc/clothing/1988littlefootromper.jpg" data-lightbox="img" data-title="Littlefoot Romper">
+        <div class="img-box">
+          <img src="/images/misc/clothing/1988littlefootromper.jpg" alt="Littlefoot Romper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot romper<br/>
       <strong>Year:</strong> 1988<br/>
       <strong>Brand:</strong> J.C. Penney<br/>
     </div>

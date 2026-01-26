@@ -449,6 +449,22 @@ Invasion of the Tinysauruses</li></ul>
 Invasion of the Tinysauruses (XI)</li></ul>
   </div>
 </div>
+<div class="item-entry" id="3-film-box-set-1071">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/3-film-box-set.jpg" data-lightbox="img" data-title="3 film box set">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/3-film-box-set.jpg" alt="3 film box set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 3 film box set<br/>
+      <strong>Year:</strong> 2009<br/>
+      <strong>Barcode:</strong> 5050582729597<br/>
+      <strong>Notes:</strong> UK release featuring LBT 1, 2 and 3<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="DE-doublefeature-2-3-558">
     <div class="item-image">
       <a href="/images/media/dvd/collection/DE-doublefeature-2-3.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 2 + 3">
@@ -854,11 +870,11 @@ Journey to Big Water (IX)</li></ul>
       <strong>Language:</strong> Dutch<br/>
     </div>
   </div>
-<div class="item-entry" id="bamboopjs-1044">
+<div class="item-entry" id="lbt2and5-uk-1044">
     <div class="item-image">
-      <a href="/images/misc/clothing/bamboopjs.jpg" data-lightbox="img" data-title="The Land Before Time 2 and 5">
+      <a href="/images/media/dvd/collection/lbt2and5-uk.jpg" data-lightbox="img" data-title="The Land Before Time 2 and 5">
         <div class="img-box">
-          <img src="/images/misc/clothing/bamboopjs.jpg" alt="The Land Before Time 2 and 5" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/media/dvd/collection/lbt2and5-uk.jpg" alt="The Land Before Time 2 and 5" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
@@ -868,5 +884,19 @@ Journey to Big Water (IX)</li></ul>
     </div>
 </div>
 
+<div class="item-entry" id="enchantingvalleycollection 2018-1082">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/enchantingvalleycollection 2018.jpg" data-lightbox="img" data-title="Enchanting Valley Collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/enchantingvalleycollection 2018.jpg" alt="Enchanting Valley Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Enchanting Valley Collection<br/>
+      <strong>Year:</strong> 2018<br/>
+      <strong>Notes:</strong> Australian version<br/>
+    </div>
+</div>
 
 </div>

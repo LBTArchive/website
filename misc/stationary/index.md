@@ -48,6 +48,24 @@ An archive of The Land Before Time Stationary and Post Cards released over the y
       <strong>Notes:</strong> French promotional post card<br/>"IN APRIL HE WILL CRACK EVERYONE" (make everyone cry)<br/>
     </div>
   </div>
+<div class="item-entry" id="postcard-1083">
+    <div class="item-image">
+      <a href="/images/misc/stationary/postcard.jpg" data-lightbox="img" data-title="Postcard">
+        <div class="img-box">
+          <img src="/images/misc/stationary/postcard.jpg" alt="Postcard" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stationary/postcard2.jpg" data-lightbox="img" data-title="Postcard">
+        <div class="img-box">
+          <img src="/images/misc/stationary/postcard2.jpg" alt="Postcard" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Postcard<br/>
+      <strong>Year:</strong> 1997<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="955170-orig_orig-467">
     <div class="item-image">
@@ -168,6 +186,19 @@ An archive of The Land Before Time Stationary and Post Cards released over the y
       <strong>Year:</strong> 1997<br/>
     </div>
   </div>
+<div class="item-entry" id="paint-set-1078">
+    <div class="item-image">
+      <a href="/images/misc/stationary/paint-set.jpg" data-lightbox="img" data-title="Paint Set">
+        <div class="img-box">
+          <img src="/images/misc/stationary/paint-set.jpg" alt="Paint Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Paint Set<br/>
+      <strong>Barcode:</strong> 694202300329<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="142444-orig-465">
     <div class="item-image">

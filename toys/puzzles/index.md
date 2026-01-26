@@ -451,6 +451,21 @@ An archive of The Land Before Time Puzzles released over the years.
       <strong>Publisher:</strong> Giochi Preziosi<br/>
     </div>
 </div>
+<div class="item-entry" id="24piece4in1-1085">
+    <div class="item-image">
+      <a href="/images/toys/puzzles/24piece4in1.jpg" data-lightbox="img" data-title="4 in 1 24 pc/ puzzles">
+        <div class="img-box">
+          <img src="/images/toys/puzzles/24piece4in1.jpg" alt="4 in 1 24 pc/ puzzles" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 4 in 1 24 pc. puzzles<br/>
+      <strong>Year:</strong> 2008<br/>
+      <strong>Publisher:</strong> Pressman<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="2-in-1-puzzle-908">
     <div class="item-image">
       <a href="/images/toys/puzzles/2-in-1-puzzle.png" data-lightbox="img" data-title="2-in-1 puzzle">

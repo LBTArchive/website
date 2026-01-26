@@ -74,12 +74,60 @@ An archive of The Land Before Time Activity Books released over the years. If yo
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Coloring and Activity Book<br/>
+      <strong>Title:</strong> Coloring and Activity Book - Chomper<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Publisher:</strong> Landoll's<br/>
     </div>
   </div>
-
+<div class="item-entry" id="ceralandolls-1074">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/ceralandolls.jpg" data-lightbox="img" data-title="Coloring and Activity Book - Cera">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/ceralandolls.jpg" alt="Coloring and Activity Book - Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Coloring and Activity Book - Cera<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+    </div>
+</div>
+<div class="item-entry" id="1997petrie-528">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/1997petrie.jpg" data-lightbox="img" data-title="Coloring and Activity Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997petrie.jpg" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Coloring and Activity Book - Petrie<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+    </div>
+  </div>
+  
+<div class="item-entry" id="1997spike-323">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/1997spike.jpg" data-lightbox="img" data-title="Coloring and Activity Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997spike.jpg" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/1997spike2.jpg" data-lightbox="img" data-title="Coloring and Activity Book">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/1997spike2.jpg" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Coloring and Activity Book - Spike<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
+      <strong>Barcode:</strong> 087577080123<br/>
+    </div>
+  </div>
 <div class="item-entry" id="1997ducky-325">
     <div class="item-image">
       <a href="/images/toys/coloringbook/1997ducky.jpg" data-lightbox="img" data-title="Paint with Water">
@@ -122,43 +170,6 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     </div>
 </div>
 
-
-<div class="item-entry" id="1997petrie-528">
-    <div class="item-image">
-      <a href="/images/toys/coloringbook/1997petrie.jpg" data-lightbox="img" data-title="Coloring and Activity Book">
-        <div class="img-box">
-          <img src="/images/toys/coloringbook/1997petrie.jpg" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Coloring and Activity Book<br/>
-      <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> Landoll's<br/>
-    </div>
-  </div>
-
-
-<div class="item-entry" id="1997spike-323">
-    <div class="item-image">
-      <a href="/images/toys/coloringbook/1997spike.jpg" data-lightbox="img" data-title="Coloring and Activity Book">
-        <div class="img-box">
-          <img src="/images/toys/coloringbook/1997spike.jpg" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/toys/coloringbook/1997spike2.jpg" data-lightbox="img" data-title="Coloring and Activity Book">
-        <div class="img-box">
-          <img src="/images/toys/coloringbook/1997spike2.jpg" alt="Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Coloring and Activity Book<br/>
-      <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> Landoll's<br/>
-      <strong>Barcode:</strong> 087577080123<br/>
-    </div>
-  </div>
 <div class="item-entry" id="supercoloringandactivitybook-872">
     <div class="item-image">
       <a href="/images/toys/coloringbook/supercoloringandactivitybook.jpg" data-lightbox="img" data-title="Super Coloring & Activity Book">

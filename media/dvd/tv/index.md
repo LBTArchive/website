@@ -57,6 +57,19 @@ An archive of The Land Before Time TV series DVDs released over the years.
     <li>The Spooky Nighttime Adventure</li></ul> <br/>
   </div>
 </div>
+<div class="item-entry" id="amazingadventures-aus-1076">
+    <div class="item-image">
+      <a href="/images/media/dvd/tv/amazingadventures-aus.jpg" data-lightbox="img" data-title="Amazing Adventures!">
+        <div class="img-box">
+          <img src="/images/media/dvd/tv/amazingadventures-aus.jpg" alt="Amazing Adventures!" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Amazing Adventures!<br/>
+      <strong>Notes:</strong> Australian version<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">

@@ -1780,7 +1780,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Brand:</strong> ?<br/>
+      <strong>Brand:</strong> Unimax<br/>
       <strong>Notes:</strong> 8 inch<br/>
     </div>
   </div>

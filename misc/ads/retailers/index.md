@@ -342,6 +342,48 @@ title: Land Before Time retailer ads
       <strong>Notes:</strong> Featuring this <a href="/misc/misc/#1996-3dphotoframe-763">Photo Frame</a><br/>
     </div>
 </div>
+<div class="item-entry" id="singalongsongs-retailerkit-1-1070">
+    <div class="item-image">
+      <a href="/images/misc/ads/retailers/singalongsongs-retailerkit-1.jpg" data-lightbox="img" data-title="The Land Before Time singalong songs - retailer brochure">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/singalongsongs-retailerkit-1.jpg" alt="The Land Before Time singalong songs - retailer brochure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/retailers/singalongsongs-retailerkit-2.jpg" data-lightbox="img" data-title="The Land Before Time singalong songs - retailer brochure">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/singalongsongs-retailerkit-2.jpg" alt="The Land Before Time singalong songs - retailer brochure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/retailers/singalongsongs-retailerkit-3.jpg" data-lightbox="img" data-title="The Land Before Time singalong songs - retailer brochure">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/singalongsongs-retailerkit-3.jpg" alt="The Land Before Time singalong songs - retailer brochure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/retailers/singalongsongs-retailerkit-4.jpg" data-lightbox="img" data-title="The Land Before Time singalong songs - retailer brochure">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/singalongsongs-retailerkit-4.jpg" alt="The Land Before Time singalong songs - retailer brochure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time singalong songs - retailer brochure<br/>
+      <strong>Year:</strong> 1997<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="1997landolls-1063">
+    <div class="item-image">
+      <a href="/images/misc/ads/retailers/1997landolls.jpg" data-lightbox="img" data-title="Landoll's Retailer Ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/1997landolls.jpg" alt="Landoll's Retailer Ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Landoll's Retailer Ad<br/>
+      <strong>Year:</strong> 1997<br/>
+    </div>
+</div>
 
 
 <div class="item-entry" id="1998-lbt6-print-8x11in-758">
