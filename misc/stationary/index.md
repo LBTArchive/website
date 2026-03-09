@@ -280,6 +280,16 @@ An archive of The Land Before Time Stationary and Post Cards released over the y
           <img src="/images/misc/stationary/pencilpouchrulereraser.jpg" alt="Pencil Case, pencil, ruler and eraser set" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/stationary/pencilpouchrulereraser2.jpg" data-lightbox="img" data-title="Pencil Case, pencil, ruler and eraser set">
+        <div class="img-box">
+          <img src="/images/misc/stationary/pencilpouchrulereraser2.jpg" alt="Pencil Case, pencil, ruler and eraser set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stationary/pencilpouchrulereraser3.jpg" data-lightbox="img" data-title="Pencil Case, pencil, ruler and eraser set">
+        <div class="img-box">
+          <img src="/images/misc/stationary/pencilpouchrulereraser3.jpg" alt="Pencil Case, pencil, ruler and eraser set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Pencil Case, pencil, ruler and eraser set<br/>

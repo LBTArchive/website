@@ -1163,6 +1163,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 15 inch<br/>
     </div>
   </div>
+  
+  <div class="item-entry" id="supercoloringandactivitybook.ducky-1108">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/supercoloringandactivitybook.ducky.png" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/supercoloringandactivitybook.ducky.png" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> ?<br/>
+      <strong>Size:</strong> 40cm<br/>
+    </div>
+</div>
 
 <h2 id="petrie">Petrie</h3>
 

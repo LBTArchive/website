@@ -53,6 +53,27 @@ An archive of The Land Before Time Laserdiscs released over the years.
       <strong>Language:</strong> English<br/>
   </div>
 </div>
+
+<div class="item-entry" id="lbt1-laserdisc-zoom-1089">
+    <div class="item-image">
+      <a href="/images/media/laserdisc/lbt1-laserdisc-zoom.jpg" data-lightbox="img" data-title="The Land Before Time - A New Adventure is Born">
+        <div class="img-box">
+          <img src="/images/media/laserdisc/lbt1-laserdisc-zoom.jpg" alt="The Land Before Time - A New Adventure is Born" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/laserdisc/lbt1-laserdisc-zoom2.jpg" data-lightbox="img" data-title="The Land Before Time - A New Adventure is Born">
+        <div class="img-box">
+          <img src="/images/media/laserdisc/lbt1-laserdisc-zoom2.jpg" alt="The Land Before Time - A New Adventure is Born" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time - A New Adventure is Born<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>Language:</strong> English<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/laserdisc/japanese1stmovielaserdisc_orig.jpg" data-lightbox="img" data-title="リトルフットの大冒険 謎の恐竜大陸">
@@ -125,6 +146,22 @@ An archive of The Land Before Time Laserdiscs released over the years.
       <strong>Language:</strong> French<br/>
   </div>
 </div>
+
+<div class="item-entry" id="italian-1110">
+    <div class="item-image">
+      <a href="/images/media/laserdisc/italian.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
+        <div class="img-box">
+          <img src="/images/media/laserdisc/italian.jpg" alt="Alla ricerca della valle incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla ricerca della valle incantata<br/>
+      <strong>Year:</strong> 1991<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/laserdisc/lbt2laserdisc1_orig.jpg" data-lightbox="img" data-title="The Great Valley Adventure Laserdisc">

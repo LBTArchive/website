@@ -96,6 +96,26 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
       <strong>Brand:</strong> Screen Stars Best<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="bluth1-1088">
+    <div class="item-image">
+      <a href="/images/misc/clothing/bluth1.jpg" data-lightbox="img" data-title="Sullivan Bluth Studios Classical Animation jacket">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bluth1.jpg" alt="Sullivan Bluth Studios Classical Animation jacket" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/bluth2.jpg" data-lightbox="img" data-title="Sullivan Bluth Studios Classical Animation jacket">
+        <div class="img-box">
+          <img src="/images/misc/clothing/bluth2.jpg" alt="Sullivan Bluth Studios Classical Animation jacket" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Sullivan Bluth Studios Classical Animation jacket<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="tyrannosaurus-sweater-1080">
     <div class="item-image">
       <a href="/images/misc/clothing/tyrannosaurus-sweater.png" data-lightbox="img" data-title="Tyrannosaurus Sweater">
@@ -1395,5 +1415,17 @@ An archive of The Land Before Time Clothing, fabrics, and accessoires released o
     </div>
 </div>
 
+<div class="item-entry" id="scrunchie-1095">
+    <div class="item-image">
+      <a href="/images/misc/clothing/scrunchie.jpg" data-lightbox="img" data-title="Littlefoot Scrunchie">
+        <div class="img-box">
+          <img src="/images/misc/clothing/scrunchie.jpg" alt="Littlefoot Scrunchie" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot Scrunchie<br/>
+    </div>
+</div>
 
   </div>

@@ -91,11 +91,26 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
       <strong>Language:</strong> French<br/>
     </div>
   </div>
+  <div class="item-entry" id="Singalongsongs-it-1109">
+    <div class="item-image">
+      <a href="/images/media/vhs/other/Singalongsongs-it.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata "Canta con noi"">
+        <div class="img-box">
+          <img src="/images/media/vhs/other/Singalongsongs-it.jpg" alt="Alla ricerca della valle incantata "Canta con noi"" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla ricerca della valle incantata "Canta con noi"<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt1-de-unknown-649">
     <div class="item-image">
-      <a href="/images/media/vhs/1/lbt1-de-unknown.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
+      <a href="/images/media/vhs/other/singalong-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">
         <div class="img-box">
-          <img src="/images/media/vhs/1/lbt1-de-unknown.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/media/vhs/other/singalong-de.jpg" alt="In einem Land vor unserer Zeit" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>

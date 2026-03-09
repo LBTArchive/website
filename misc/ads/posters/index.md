@@ -202,6 +202,21 @@ Official movie posters for The Land Before Time and its sequels.
       <strong>Notes:</strong> 68 x 49 cm<br/>
     </div>
   </div>
+  
+  <div class="item-entry" id="lbt1-greek-1098">
+    <div class="item-image">
+      <a href="/images/misc/posters/lbt1-greek.jpg" data-lightbox="img" data-title="Η Γη πριν αρχίσει ο χρόνος">
+        <div class="img-box">
+          <img src="/images/misc/posters/lbt1-greek.jpg" alt="Η Γη πριν αρχίσει ο χρόνος" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Η Γη πριν αρχίσει ο χρόνος<br/>
+      <strong>Language:</strong> Greek<br/>      
+      <strong>Notes:</strong> 30 x 40 cm<br/>
+    </div>
+</div>
   <div class="item-entry" id="it-lbt1-39x55-232">
     <div class="item-image">
       <a href="/images/misc/posters/it-lbt1-39x55.jpg" data-lightbox="img" data-title="Alla ricerca della valle incantata">
@@ -246,6 +261,7 @@ Official movie posters for The Land Before Time and its sequels.
       <strong>Notes:</strong> 24x36inches<br/>
     </div>
   </div>
+
 <div class="item-entry" id="yu-lbt-19x27-238">
     <div class="item-image">
       <a href="/images/misc/posters/yu-lbt-19x27.jpg" data-lightbox="img" data-title="Davno zaboravljena zemlja">
@@ -304,6 +320,21 @@ Official movie posters for The Land Before Time and its sequels.
       <strong>Notes:</strong> 14x18 inch<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="lbt1-vhs-1090">
+    <div class="item-image">
+      <a href="/images/misc/posters/lbt1-vhs.jpg" data-lightbox="img" data-title="The Land Before Time Poster">
+        <div class="img-box">
+          <img src="/images/misc/posters/lbt1-vhs.jpg" alt="The Land Before Time Poster" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time Poster<br/>
+      <strong>Year:</strong> 1989<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="AVAIALBLEONVIDEO-1003">
     <div class="item-image">
       <a href="/images/misc/posters/AVAIALBLEONVIDEO.jpg" data-lightbox="img" data-title="The Land Before Time Poster">

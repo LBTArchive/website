@@ -126,6 +126,16 @@ An archive of The Land Before Time items released over the years that did not fi
           <img src="/images/misc/dinosaurstamps3.jpg" alt="Dinosaur Stamps" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/dinosaurstamps4.jpg" data-lightbox="img" data-title="Dinosaur Stamps">
+        <div class="img-box">
+          <img src="/images/misc/dinosaurstamps4.jpg" alt="Dinosaur Stamps" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/dinosaurstamps5.jpg" data-lightbox="img" data-title="Dinosaur Stamps">
+        <div class="img-box">
+          <img src="/images/misc/dinosaurstamps5.jpg" alt="Dinosaur Stamps" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Dinosaur Stamps<br/>
@@ -465,6 +475,16 @@ An archive of The Land Before Time items released over the years that did not fi
       <a href="/images/misc/diapers.png" data-lightbox="img" data-title="Ultra Thins Comfort-Stretch Diapers">
         <div class="img-box">
           <img src="/images/misc/diapers.png" alt="Ultra Thins Comfort-Stretch Diapers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/diapers2.png" data-lightbox="img" data-title="Ultra Thins Comfort-Stretch Diapers">
+        <div class="img-box">
+          <img src="/images/misc/diapers2.png" alt="Ultra Thins Comfort-Stretch Diapers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/diapers3.png" data-lightbox="img" data-title="Ultra Thins Comfort-Stretch Diapers">
+        <div class="img-box">
+          <img src="/images/misc/diapers3.png" alt="Ultra Thins Comfort-Stretch Diapers" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>

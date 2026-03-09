@@ -348,12 +348,38 @@ An archive of The Land Before Time Stickers released over the years.
           <img src="/images/misc/stickers/1997petriesticker.jpg" alt="Loose Stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/stickers/1997littlefootcera.jpg" data-lightbox="img" data-title="Loose Stickers">
+        <div class="img-box">
+          <img src="/images/misc/stickers/1997littlefootcera.jpg" alt="Loose Stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Loose Stickers<br/>
       <strong>Year:</strong> 1997<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="italianstickerpack-1111">
+    <div class="item-image">
+      <a href="/images/misc/stickers/italianstickerpack.jpg" data-lightbox="img" data-title="Album Stickers">
+        <div class="img-box">
+          <img src="/images/misc/stickers/italianstickerpack.jpg" alt="Album Stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stickers/italianstickerpack2.jpg" data-lightbox="img" data-title="Album Stickers">
+        <div class="img-box">
+          <img src="/images/misc/stickers/italianstickerpack2.jpg" alt="Album Stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Album Stickers<br/>
+      <strong>Publisher:</strong> Masters Edizioni (MI)<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="mellosmellotattoos-1039">
     <div class="item-image">
       <a href="/images/misc/stickers/mellosmellotattoos.jpg" data-lightbox="img" data-title="Tattoo Value Pack - 80 tattoos">

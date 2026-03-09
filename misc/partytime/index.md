@@ -170,6 +170,21 @@ An archive of The Land Before Time Party Supplies released over the years.
       <strong>Year:</strong> 1997 <br />
     </div>
   </div>
+  <div class="item-entry" id="paperartblowouts-1106">
+    <div class="item-image">
+      <a href="/images/misc/partysupplies/paperartblowouts.jpg" data-lightbox="img" data-title="Blowouts">
+        <div class="img-box">
+          <img src="/images/misc/partysupplies/paperartblowouts.jpg" alt="Blowouts" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Blowouts<br/>
+      <strong>Brand:</strong> Paper Art<br/>      
+      <strong>Year:</strong> 1997 <br />
+    </div>
+</div>
+
   <div class="item-entry" id="plates1997-355">
     <div class="item-image">
       <a href="/images/misc/partysupplies/plates1997.jpg" data-lightbox="img" data-title="Paper Plates">

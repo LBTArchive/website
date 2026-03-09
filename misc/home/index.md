@@ -124,11 +124,11 @@ An archive of The Land Before Time Home decor items released over the years.
     </div>
 </div>
 
-<div class="item-entry" id="stone lcock-336">
+<div class="item-entry" id="stone-clock-336">
     <div class="item-image">
-      <a href="/images/misc/homedecor/stone lcock.jpg" data-lightbox="img" data-title="Stone Clock">
+      <a href="/images/misc/homedecor/stone clock.jpg" data-lightbox="img" data-title="Stone Clock">
         <div class="img-box">
-          <img src="/images/misc/homedecor/stone lcock.jpg" alt="Stone Clock" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/homedecor/stone clock.jpg" alt="Stone Clock" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>

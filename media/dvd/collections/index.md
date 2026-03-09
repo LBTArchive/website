@@ -465,6 +465,29 @@ Invasion of the Tinysauruses (XI)</li></ul>
     </div>
 </div>
 
+<div class="item-entry" id="lbt-ultimate-boxset-1092">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/lbt-ultimate-boxset.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/lbt-ultimate-boxset.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/collection/lbt-ultimate-boxset2.jpg" data-lightbox="img" data-title="The Land Before Time">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/lbt-ultimate-boxset2.jpg" alt="The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time<br/>
+      <strong>Subtitle:</strong> Ultimate Boxset<br/>
+      <strong>Year:</strong> 2011<br/>
+      <strong>Barcode:</strong> 5050582860078<br/>
+      <strong>Notes:</strong> LBT 1-13 UK Edition<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="DE-doublefeature-2-3-558">
     <div class="item-image">
       <a href="/images/media/dvd/collection/DE-doublefeature-2-3.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit 2 + 3">
@@ -751,6 +774,53 @@ The Wisdom of Friends (XIII)</li></ul>
       <strong>Region:</strong> 1<br/>
   </div>
 </div>
+<div class="item-entry" id="enchantingvalleycollection 2018-1082">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/enchantingvalleycollection 2018.jpg" data-lightbox="img" data-title="Enchanting Valley Collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/enchantingvalleycollection 2018.jpg" alt="Enchanting Valley Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Enchanting Valley Collection<br/>
+      <strong>Year:</strong> 2018<br/>
+      <strong>Region:</strong> 2,4<br/>
+      <strong>Notes:</strong> Australian version<br/>
+    </div>
+</div>
+<div class="item-entry" id="adventurecollection-1105">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/adventurecollection.jpg" data-lightbox="img" data-title="The Adventure Collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/adventurecollection.jpg" alt="The Adventure Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Adventure Collection<br/>
+      <strong>Year:</strong> 2018<br/>
+      <strong>Barcode:</strong> 9317731144547<br/>
+      <strong>Region:</strong> 2,4<br/>
+      <strong>Notes:</strong> Featuring Land Before Time 2 and 3<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="2018journeycollection-1103">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/2018journeycollection.jpg" data-lightbox="img" data-title="The Journey Collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/2018journeycollection.jpg" alt="The Journey Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Journey Collection<br/>
+      <strong>Year:</strong> 2018<br/>
+      <strong>Region:</strong> 2,4<br/>
+      <strong>Notes:</strong> Featuring Land Before Time 4 and 5<br/>
+    </div>
+</div>
 
 <div class="item-entry">
   <div class="item-image">
@@ -881,21 +951,6 @@ Journey to Big Water (IX)</li></ul>
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time 2 and 5<br/>
       <strong>Notes:</strong> UK edition (region 2)<br/>
-    </div>
-</div>
-
-<div class="item-entry" id="enchantingvalleycollection 2018-1082">
-    <div class="item-image">
-      <a href="/images/media/dvd/collection/enchantingvalleycollection 2018.jpg" data-lightbox="img" data-title="Enchanting Valley Collection">
-        <div class="img-box">
-          <img src="/images/media/dvd/collection/enchantingvalleycollection 2018.jpg" alt="Enchanting Valley Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Enchanting Valley Collection<br/>
-      <strong>Year:</strong> 2018<br/>
-      <strong>Notes:</strong> Australian version<br/>
     </div>
 </div>
 

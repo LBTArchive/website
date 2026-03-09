@@ -179,10 +179,25 @@ An archive of The Land Before Time Activity Books released over the years. If yo
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Super Coloring & Activity Book<br/>
+      <strong>Title:</strong> Super Coloring & Activity Book Littlefoot<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Publisher:</strong> Landoll's<br/>
       <strong>Barcode:</strong> 087577081045<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="supercoloringandactivitybook.ducky-1107">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/supercoloringandactivitybook.ducky.png" data-lightbox="img" data-title="Super Coloring and Activity Book Ducky">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/supercoloringandactivitybook.ducky.png" alt="Super Coloring and Activity Book Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Super Coloring and Activity Book Ducky<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Publisher:</strong> Landoll's<br/>
     </div>
 </div>
 
@@ -276,11 +291,42 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     </div>
 </div>
 
+<div class="item-entry" id="2versizebook1-poster-1104">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/oversizebook2.jpg" data-lightbox="img" data-title="Coloring & Activity Book (oversized)">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/oversizebook2.jpg" alt="Coloring & Activity Book (oversized)" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/oversizebook1.png" data-lightbox="img" data-title="Coloring & Activity Book (oversized)">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/oversizebook1.png" alt="Coloring & Activity Book (oversized)" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/oversizebook1-poster.png" data-lightbox="img" data-title="Coloring & Activity Book (oversized)">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/oversizebook1-poster.png" alt="Coloring & Activity Book (oversized)" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/2versizebook1-poster.png" data-lightbox="img" data-title="Coloring & Activity Book (oversized)">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/2versizebook1-poster.png" alt="Coloring & Activity Book (oversized)" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Coloring & Activity Book (oversized)<br/>
+      <strong>Publisher:</strong> Big Face Books<br/>
+      <strong>ISBN:</strong> 1588051935<br/>
+      <strong>Notes:</strong> 22"x17"<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="superjumbocoloringandactivitybook-781">
     <div class="item-image">
-      <a href="/images/toys/coloringbook/superjumbocoloringandactivitybook.png" data-lightbox="img" data-title="Super Jumbo Coloring and Activity Book">
+      <a href="/images/toys/coloringbook/superjumbocoloringandactivitybook.jpg" data-lightbox="img" data-title="Super Jumbo Coloring and Activity Book">
         <div class="img-box">
-          <img src="/images/toys/coloringbook/superjumbocoloringandactivitybook.png" alt="Super Jumbo Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/toys/coloringbook/superjumbocoloringandactivitybook.jpg" alt="Super Jumbo Coloring and Activity Book" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>

@@ -241,6 +241,16 @@ The Land Before Time series released several educational games. They also releas
 </div>
 <div class="item-entry">
   <div class="item-image">
+    <a href="/images/media/videogames/animatedmoviebook2-2.jpg" data-lightbox="img" data-title="The Land Before Time: Animated Movie Book">
+        <div class="img-box">
+          <img src="/images/media/videogames/animatedmoviebook2-2.jpg" alt="The Land Before Time: Animated Movie Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/videogames/animatedmoviebook2-3.jpg" data-lightbox="img" data-title="The Land Before Time: Animated Movie Book">
+        <div class="img-box">
+          <img src="/images/media/videogames/animatedmoviebook2-3.jpg" alt="The Land Before Time: Animated Movie Book" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     <a href="/images/media/videogames/animatedmoviebook2.jpg" data-lightbox="img" data-title="The Land Before Time: Animated Movie Book">
         <div class="img-box">
           <img src="/images/media/videogames/animatedmoviebook2.jpg" alt="The Land Before Time: Animated Movie Book" style="height:250px; object-fit:cover;" loading="lazy">

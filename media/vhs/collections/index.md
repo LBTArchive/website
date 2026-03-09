@@ -84,9 +84,19 @@ An archive of miscellaneous The Land Before Time VHS tapes released over the yea
           <img src="/images/media/vhs/collections/lbt1-7dutch.jpg" alt="Box with movies 1-7" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/media/vhs/collections/lbt1-7dutch-2.png" data-lightbox="img" data-title="Box with movies 1-7">
+        <div class="img-box">
+          <img src="/images/media/vhs/collections/lbt1-7dutch-2.png" alt="Box with movies 1-7" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/vhs/collections/lbt1-7dutch-3.png" data-lightbox="img" data-title="Box with movies 1-7">
+        <div class="img-box">
+          <img src="/images/media/vhs/collections/lbt1-7dutch-3.png" alt="Box with movies 1-7" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Box with movies 1-7<br/>
+      <strong>Title:</strong> Platvoet en z'n Vriendjes - Box with movies 1-7<br/>
       <strong>Language:</strong> Dutch<br/>
     </div>
   </div>
