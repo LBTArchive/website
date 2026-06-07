@@ -10,6 +10,22 @@ title: Land Before Time retailer ads
     <div class="item-image"><strong>Picture</strong></div>
     <div class="item-details"><strong>Details</strong></div>
   </div>
+
+<div class="item-entry" id="Revenue-ad-1133">
+    <div class="item-image">
+      <a href="/images/misc/ads/retailers/lbt1/Revenue-ad.jpg" data-lightbox="img" data-title="The Biggest Opening of an Animated Film Since Time Began">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/lbt1/Revenue-ad.jpg" alt="The Biggest Opening of an Animated Film Since Time Began" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Biggest Opening of an Animated Film Since Time Began<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Notes:</strong> 2-page ad from a trades magazine<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="1989-lbt1-752">
     <div class="item-image">
       <a href="/images/misc/ads/retailers/1989-lbt1.jpg" data-lightbox="img" data-title="The Land Before Time">
@@ -44,10 +60,33 @@ title: Land Before Time retailer ads
           <img src="/images/misc/ads/retailers/envelope.png" alt="The Land Before Time - Promo material envelope" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/ads/retailers/lbt1/coloring-page.jpg" data-lightbox="img" data-title="The Land Before Time - Promo material envelope">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/lbt1/coloring-page.jpg" alt="The Land Before Time - Promo material envelope" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/retailers/lbt1/littlefoots-letter.jpg" data-lightbox="img" data-title="The Land Before Time - Promo material envelope">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/lbt1/littlefoots-letter.jpg" alt="The Land Before Time - Promo material envelope" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/retailers/lbt1/media-schedule.jpg" data-lightbox="img" data-title="The Land Before Time - Promo material envelope">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/lbt1/media-schedule.jpg" alt="The Land Before Time - Promo material envelope" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time - Promo material envelope<br/>
       <strong>Year:</strong> 1989<br/>
+      <strong>Notes:</strong> Containing:<ul>
+      <li>Media Schedule</li>
+      <li>Coloring page</li>
+      <li>Letter from Littlefoot</li>
+      <li><a href="/misc/ads/posters/#englishoriginalmovieposter27x40inch-226">Poster</a></li>
+      <li><a href="/misc/ads/pointofsale/#retail-cardboard-mobile-798">Character Mobile</a></li>
+      <li><a href="/misc/stickers/#1988retailpromosticker-519">Footprint stickers</a></li>
+      </ul><br/>
     </div>
 </div>
 
@@ -396,6 +435,34 @@ title: Land Before Time retailer ads
     </div>
     <div class="item-details">
       <strong>Title:</strong> The Land Before Time VI - retailer poster<br/>
+      <strong>Year:</strong> 1998<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="1998-lbt6-print-8x11in-758">
+    <div class="item-image">
+      <a href="/images/misc/ads/retailers/1998-lbt6-print-2pages.jpg" data-lightbox="img" data-title="The Land Before Time VI - retailer ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/1998-lbt6-print-2pages.jpg" alt="The Land Before Time VI - retailer ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time VI - retailer poster - 2 pages<br/>
+      <strong>Year:</strong> 1998<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="equity-toys-ad-1135">
+    <div class="item-image">
+      <a href="/images/misc/ads/retailers/equity-toys-ad.jpg" data-lightbox="img" data-title="Equity Toys ad featuring Littlefoot plush">
+        <div class="img-box">
+          <img src="/images/misc/ads/retailers/equity-toys-ad.jpg" alt="Equity Toys ad featuring Littlefoot plush" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Equity Toys ad featuring Littlefoot plush<br/>
       <strong>Year:</strong> 1998<br/>
     </div>
 </div>

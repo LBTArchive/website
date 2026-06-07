@@ -440,7 +440,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Littlefoot<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Brand:</strong> Gipsy<br/>
       <strong>Notes:</strong> Released in France<br/>
     </div>
 </div>
@@ -455,7 +455,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Littlefoot<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Brand:</strong> Gipsy<br/>
       <strong>Notes:</strong> Released in France<br/>
     </div>
 </div>
@@ -474,6 +474,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="littlefoot-lelly-1128">
+    <div class="item-image">
+      <a href="/images/toys/plushies/littlefoot-lelly.jpg" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefoot-lelly.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Brand:</strong> Lelly<br/>
+      <strong>Size:</strong> 12 inches<br/>
+    </div>
+</div>
+
 
   <h2 id="cera">Cera</h3>
 
@@ -722,7 +739,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Cera<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Brand:</strong> Gipsy<br/>
       <strong>Notes:</strong> Released in France. Possible same item as the one above<br/>
     </div>
 </div>
@@ -738,7 +755,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Cera<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Brand:</strong> Gipsy<br/>
       <strong>Notes:</strong> Released in France<br/>
     </div>
 </div>
@@ -920,6 +937,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+  <div class="item-entry" id="cera-lelly-1124">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-lelly.jpg" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-lelly.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Brand:</strong> Lelly<br/>
+      <strong>Size:</strong> 11 inches<br/>
+    </div>
+</div>
+
+
 <h2 id="ducky">Ducky</h3>
 
 [Back to top](/toys/plushies)
@@ -988,7 +1022,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Ducky<br/>
       <strong>Brand:</strong> Unimax<br/>
-      <strong>Barcode:</strong> 0018876192095<br/>
+      <strong>Size:</strong> 0018876192095<br/>
     </div>
 </div>
 
@@ -1050,7 +1084,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Ducky with an Easter basket<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 12 inches<br/>
     </div>
 </div>
@@ -1180,6 +1214,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
 </div>
 
+<div class="item-entry" id="ducky-lelly-1123">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ducky-lelly.jpg" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ducky-lelly.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Brand:</strong> Lelly<br/>
+      <strong>Size:</strong> 6 inches<br/>
+    </div>
+</div>
+
+
 <h2 id="petrie">Petrie</h3>
 
 [Back to top](/toys/plushies)
@@ -1233,7 +1284,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Petrie Mini-Pal<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> Equity Toys<br/>
+      <strong>Brand:</strong> Equity Toys<br/>
     </div>
 </div>
 
@@ -1309,7 +1360,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Petrie<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Brand:</strong> Gipsy<br/>
       <strong>Notes:</strong> Released in France<br/>
     </div>
 </div>
@@ -1391,6 +1442,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 20 inch or 50 cm<br/>
     </div>
   </div>
+
+<div class="item-entry" id="petrie-lelly-1129">
+    <div class="item-image">
+      <a href="/images/toys/plushies/petrie-lelly.jpg" data-lightbox="img" data-title="Petrie">
+        <div class="img-box">
+          <img src="/images/toys/plushies/petrie-lelly.jpg" alt="Petrie" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Petrie<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Brand:</strong> Lelly<br/>
+      <strong>Size:</strong> 8 inches<br/>
+    </div>
+</div>
+
 
 <h2 id="spike">Spike</h3>
 
@@ -1483,8 +1551,8 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
     <div class="item-details">
       <strong>Title:</strong> Spike<br/>
-      <strong>Publisher:</strong> Kids of America Corp.<br/>
-      <strong>Barcode:</strong> 049022159709<br/>
+      <strong>Brand:</strong> Kids of America Corp.<br/>
+      <strong>Size:</strong> 049022159709<br/>
     </div>
 </div>
 <div class="item-entry" id="spike-kellytoys-651">
@@ -1513,7 +1581,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Spike<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Brand:</strong> Gipsy<br/>
       <strong>Notes:</strong> Released in France<br/>
     </div>
 </div>
@@ -1529,7 +1597,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Spike<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Brand:</strong> Gipsy<br/>
       <strong>Notes:</strong> Released in France<br/>
     </div>
 </div>
@@ -1566,7 +1634,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Spike with red top hat<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> 9 inches<br/>
     </div>
 </div>
@@ -1694,6 +1762,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+  <div class="item-entry" id="spike-lelly-1126">
+    <div class="item-image">
+      <a href="/images/toys/plushies/spike-lelly.jpg" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/spike-lelly.jpg" alt="Spike" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Brand:</strong> Lelly<br/>
+      <strong>Size:</strong> 11 inches<br/>
+    </div>
+</div>
+
+
 <h2 id="chomper">Chomper</h3>
 
 [Back to top](/toys/plushies)
@@ -1759,7 +1844,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> Algos Corporation<br/>
+      <strong>Brand:</strong> Algos Corporation<br/>
       <strong>Language:</strong> Japanese<br/>
     </div>
 </div>
@@ -1844,7 +1929,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Chomper<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Brand:</strong> Gipsy<br/>
       <strong>Notes:</strong> Released in France<br/>
     </div>
 </div>
@@ -2028,6 +2113,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="chomper-lelly-1125">
+    <div class="item-image">
+      <a href="/images/toys/plushies/chomper-lelly.jpg" data-lightbox="img" data-title="Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-lelly.jpg" alt="Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Brand:</strong> Lelly<br/>
+      <strong>Size:</strong> 9 inches<br/>
+    </div>
+</div>
+
   
 <h2 id="others">Other Characters</h3>
 
@@ -2060,7 +2162,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
     <div class="item-details">
       <strong>Title:</strong> Ali<br/>
-      <strong>Publisher:</strong> Toy Network<br/>
+      <strong>Brand:</strong> Toy Network<br/>
     </div>
 </div>
 
@@ -2122,7 +2224,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Ruby<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Gipsy<br/>
+      <strong>Brand:</strong> Gipsy<br/>
       <strong>Notes:</strong> Released in France<br/>
     </div>
 </div>
@@ -2137,10 +2239,27 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Ruby<br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Gipsy<br/>
-      <strong>Barcode:</strong> 9 inches<br/>
+      <strong>Brand:</strong> Gipsy<br/>
+      <strong>Size:</strong> 9 inches<br/>
       <strong>Notes:</strong> Released in France<br/>
     </div>
 </div>
+
+<div class="item-entry" id="ruby-lelly-1117">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ruby-lelly.jpg" data-lightbox="img" data-title="Ruby">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ruby-lelly.jpg" alt="Ruby" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ruby<br/>
+      <strong>Year:</strong> 2007<br/>
+      <strong>Brand:</strong> Lelly<br/>
+      <strong>Size:</strong> 11 inches<br/>
+    </div>
+</div>
+
 
 </div>

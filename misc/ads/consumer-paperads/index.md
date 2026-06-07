@@ -327,6 +327,22 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
     </div>
 </div>
 
+<div class="item-entry" id="mailinrebatelbt3-1112">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/mailinrebatelbt3.png" data-lightbox="img" data-title="Mail-in rebate">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/mailinrebatelbt3.png" alt="Mail-in rebate" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Mail-in rebate<br/>
+      <strong>Year:</strong> 1995<br/>
+      <strong>Notes:</strong> Included with the VHS tape for Land Before Time III<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="brochurewithearthwormjim-720">
     <div class="item-image">
       <a href="/images/misc/ads/consumer/brochurewithearthwormjim.jpg" data-lightbox="img" data-title="The Land Before Time + Earthworm Jim brochure">
@@ -465,6 +481,26 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
       <strong>Year:</strong> 1997<br/>
     </div>
 </div>
+
+<div class="item-entry" id="walmart1997-1118">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/walmart1997.png" data-lightbox="img" data-title="Walmart ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/walmart1997.png" alt="Walmart ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/walmart1997-2.png" data-lightbox="img" data-title="Walmart ad">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/walmart1997-2.png" alt="Walmart ad" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Walmart ad<br/>
+      <strong>Year:</strong> 1997<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="lbt6-magazinead-729">
     <div class="item-image">
       <a href="/images/misc/ads/consumer/lbt6-magazinead.jpg" data-lightbox="img" data-title="The Land Before Time VI - Magazine Ad">
@@ -504,6 +540,33 @@ There are many kinds of consumer focused ads. Here we focus on any sort of paper
       <strong>Notes:</strong> Interesting note is that this features art from the Land Before Time III<br/>
     </div>
 </div>
+
+<div class="item-entry" id="vhs-insert-more-singalong-songs-1-1121">
+    <div class="item-image">
+      <a href="/images/misc/ads/consumer/vhs-insert-more-singalong-songs-1.jpg" data-lightbox="img" data-title="Mail-in rebate">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/vhs-insert-more-singalong-songs-1.jpg" alt="Mail-in rebate" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/vhs-insert-more-singalong-songs-2.jpg" data-lightbox="img" data-title="Mail-in rebate">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/vhs-insert-more-singalong-songs-2.jpg" alt="Mail-in rebate" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/ads/consumer/vhs-insert-more-singalong-songs-3.jpg" data-lightbox="img" data-title="Mail-in rebate">
+        <div class="img-box">
+          <img src="/images/misc/ads/consumer/vhs-insert-more-singalong-songs-3.jpg" alt="Mail-in rebate" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Mail-in rebate<br/>
+      <strong>Year:</strong> 1999<br/>
+      <strong>Notes:</strong> Included with the Land Before Time More Sing-Along Songs VHS tape<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="lbt7andps1gameadd-732">
     <div class="item-image">
       <a href="/images/misc/ads/consumer/lbt7andps1gameadd.png" data-lightbox="img" data-title="VHS insert advertising LBT 7 and the PS1 game">

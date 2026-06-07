@@ -532,15 +532,30 @@ An archive of The Land Before Time items released over the years that did not fi
 
 <div class="item-entry" id="swim ring-1030">
     <div class="item-image">
-      <a href="/images/misc/swim ring.png" data-lightbox="img" data-title="Swim Ring">
+      <a href="/images/misc/swim ring.png" data-lightbox="img" data-title="Swim Ring - Chomper">
         <div class="img-box">
           <img src="/images/misc/swim ring.png" alt="Swim Ring" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Swim Ring<br/>
+      <strong>Title:</strong> Swim Ring - Chomper<br/>
       <strong>Barcode:</strong> 049022188464<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="swim-ring-littlefoot-1115">
+    <div class="item-image">
+      <a href="/images/misc/swim-ring-littlefoot.jpg" data-lightbox="img" data-title="Swim Ring - Littlefoot">
+        <div class="img-box">
+          <img src="/images/misc/swim-ring-littlefoot.jpg" alt="Swim Ring" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Swim Ring - Littlefoot<br/>
+      <strong>Barcode:</strong> 049022188464<br/>
+      <strong>Notes:</strong> 29"x24x<br/>
     </div>
 </div>
 

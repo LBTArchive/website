@@ -231,6 +231,22 @@ An archive of The Land Before Time Fast Food promotional items released over the
       <strong>Year:</strong> 1989<br/>
     </div>
   </div>
+
+<div class="item-entry" id="ph-bib-1114">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/ph-bib.jpg" data-lightbox="img" data-title="Paper Bib">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/ph-bib.jpg" alt="Paper Bib" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Paper Bib<br/>
+      <strong>Year:</strong> 1989<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="phbirthdaycard-1062">
     <div class="item-image">
       <a href="/images/misc/fastfood/phbirthdaycard.jpg" data-lightbox="img" data-title="Pizza Hut Birthday Card">

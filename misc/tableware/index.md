@@ -166,6 +166,20 @@ An archive of The Land Before Time Tableware released over the years.
     </div>
   </div>
 
+<div class="item-entry" id="cerabowl-1131">
+    <div class="item-image">
+      <a href="/images/misc/tableware/cerabowl.jpg" data-lightbox="img" data-title="Cera bowl">
+        <div class="img-box">
+          <img src="/images/misc/tableware/cerabowl.jpg" alt="Cera bowl" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Plastic bowl - Cera<br/>
+      <strong>Year:</strong> 1996<br/>
+    </div>
+</div>
+
 
 <div class="item-entry" id="1996swifel-202">
     <div class="item-image">

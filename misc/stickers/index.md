@@ -88,7 +88,7 @@ An archive of The Land Before Time Stickers released over the years.
     <div class="item-details">
       <strong>Title:</strong> Room Decoration Stickers of The Land Before Time<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> Priss Prints<br/>
+      <strong>Brand:</strong> Priss Prints<br/>
     </div>
   </div>
 <div class="item-entry" id="1988retailpromosticker-519">
@@ -130,7 +130,7 @@ An archive of The Land Before Time Stickers released over the years.
     <div class="item-details">
       <strong>Title:</strong> Sticker sheet<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> bsb<br/>
+      <strong>Brand:</strong> bsb<br/>
       <strong>Language:</strong> German<br/>
     </div>
   </div>
@@ -146,7 +146,7 @@ An archive of The Land Before Time Stickers released over the years.
     <div class="item-details">
       <strong>Title:</strong> Sticker of Littlefoot<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> Merchandising München / Quelle<br/>
+      <strong>Brand:</strong> Merchandising München / Quelle<br/>
       <strong>Language:</strong> German<br/>
       <strong>Notes:</strong> Found in a <a href="/misc/ads/consumers#germanad1988quellekatalog-702">Quelle toy magazine<a/><br/>
     </div>
@@ -300,7 +300,7 @@ An archive of The Land Before Time Stickers released over the years.
     <div class="item-details">
       <strong>Title:</strong> Stickers<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> Mello Smello<br/>
+      <strong>Brand:</strong> Mello Smello<br/>
     </div>
   </div>
   <div class="item-entry" id="mellosmellostickers2-524">
@@ -313,7 +313,7 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> Removable Stickers<br/>
-      <strong>Publisher:</strong> Mello Smello<br/>
+      <strong>Brand:</strong> Mello Smello<br/>
     </div>
   </div>
 
@@ -328,7 +328,7 @@ An archive of The Land Before Time Stickers released over the years.
   <div class="item-details">
     <strong>Title:</strong> Puzzle Stickers<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> Mello Smello<br/>
+      <strong>Brand:</strong> Mello Smello<br/>
   </div>
 </div>
 <div class="item-entry" id="1997stickers-527">
@@ -375,7 +375,7 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> Album Stickers<br/>
-      <strong>Publisher:</strong> Masters Edizioni (MI)<br/>
+      <strong>Brand:</strong> Masters Edizioni (MI)<br/>
       <strong>Language:</strong> Italian<br/>
     </div>
 </div>
@@ -392,7 +392,7 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Title:</strong> Tattoo Value Pack - 80 tattoos<br/>
       <strong>Subtitle:</strong> Great for Parties - Perforated for an Easy Giveaway<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> Mello Smello<br/>
+      <strong>Brand:</strong> Mello Smello<br/>
       <strong>Barcode:</strong> 03943803906<br/>
     </div>
 </div>
@@ -414,13 +414,18 @@ An archive of The Land Before Time Stickers released over the years.
     <div class="item-details">
       <strong>Title:</strong> Sticker Book<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> Mello Smello<br/>
+      <strong>Brand:</strong> Mello Smello<br/>
       <strong>Notes:</strong> With over 100 stickers, a sticker book and a prismastic sticker<br/>
     </div>
   </div>
 
 <div class="item-entry" id="1997-479">
     <div class="item-image">
+      <a href="/images/misc/stickers/mellosmello60stickeres.jpg" data-lightbox="img" data-title="Stickers featuring Littlefoot, Cera, Chomper, and Petrie">
+        <div class="img-box">
+          <img src="/images/misc/stickers/mellosmello60stickeres.jpg" alt="Stickers featuring Littlefoot, Cera, Chomper, and Petrie" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
       <a href="/images/misc/stickers/1997.jpg" data-lightbox="img" data-title="Stickers featuring Littlefoot, Cera, Chomper, and Petrie">
         <div class="img-box">
           <img src="/images/misc/stickers/1997.jpg" alt="Stickers featuring Littlefoot, Cera, Chomper, and Petrie" style="height:250px; object-fit:cover;" loading="lazy"/>
@@ -435,6 +440,7 @@ An archive of The Land Before Time Stickers released over the years.
     <div class="item-details">
       <strong>Title:</strong> Square stickers<br/>
       <strong>Year:</strong> 1997<br/>
+      <strong>Brand:</strong> Mello Smello<br/>
     </div>
   </div>
 <div class="item-entry" id="1997valentines-481">
@@ -463,7 +469,7 @@ An archive of The Land Before Time Stickers released over the years.
     <div class="item-details">
       <strong>Title:</strong> Valentines stickers of The Land Before Time<br/>
       <strong>Year:</strong> 1997<br/>
-      <strong>Publisher:</strong> Mello Smello<br/>
+      <strong>Brand:</strong> Mello Smello<br/>
     </div>
   </div>
 <div class="item-entry" id="activityscenebook-508">
@@ -483,7 +489,7 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Title:</strong> Activity Scene Board<br/>
       <strong>Subtitle:</strong> With Removable Stickers<br/>
       <strong>Year:</strong> 1998<br/>
-      <strong>Publisher:</strong> CG.G.I.<br/>
+      <strong>Brand:</strong> CG.G.I.<br/>
       <strong>Barcode:</strong> 084172275992<br/>
     </div>
   </div>
@@ -499,7 +505,7 @@ An archive of The Land Before Time Stickers released over the years.
     <div class="item-details">
       <strong>Title:</strong> Stickers of The Land Before Time V: The Mysterious Island<br/>
       <strong>Year:</strong> 1998<br/>
-      <strong>Publisher:</strong> Strottman International, Inc<br/>
+      <strong>Brand:</strong> Strottman International, Inc<br/>
     </div>
   </div>
 
@@ -539,7 +545,7 @@ An archive of The Land Before Time Stickers released over the years.
     <div class="item-details">
       <strong>Title:</strong> Stickers of The Land Before Time<br/>
       <strong>Year:</strong> 1998<br/>
-      <strong>Publisher:</strong> U-Drive<br/>
+      <strong>Brand:</strong> U-Drive<br/>
     </div>
   </div>
 
@@ -580,7 +586,7 @@ An archive of The Land Before Time Stickers released over the years.
     <div class="item-details">
       <strong>Title:</strong> Sticker sheet from <a href="/media/dvd/other/#dvdgame1-823">The Land Before Time DVD Game</a><br/>
       <strong>Year:</strong> 2007<br/>
-      <strong>Publisher:</strong> Pressman<br/>
+      <strong>Brand:</strong> Pressman<br/>
     </div>
 </div>
 
@@ -599,7 +605,7 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> Scrapbook paper<br/>
-      <strong>Publisher:</strong> Blue Sky Designs<br/>
+      <strong>Brand:</strong> Blue Sky Designs<br/>
       <strong>Barcode:</strong> 608629500033<br/>
     </div>
   </div>
@@ -610,10 +616,15 @@ An archive of The Land Before Time Stickers released over the years.
           <img src="/images/misc/stickers/digdinos.jpg" alt="Scrapbook Stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/stickers/digdinos-2.jpg" data-lightbox="img" data-title="Scrapbook Stickers">
+        <div class="img-box">
+          <img src="/images/misc/stickers/digdinos-2.jpg" alt="Scrapbook Stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Scrapbook Stickers<br/>
-      <strong>Publisher:</strong> Blue Sky Designs<br/>
+      <strong>Brand:</strong> Blue Sky Designs<br/>
     </div>
   </div>
 
@@ -627,7 +638,7 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> 4 Sticker Sheets<br/>
-      <strong>Publisher:</strong> unique<br/>
+      <strong>Brand:</strong> unique<br/>
     </div>
   </div>
 
@@ -641,7 +652,7 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> 12 Name Stickers<br/>
-      <strong>Publisher:</strong> Okee-Dokee Sticker Company LTD<br/>
+      <strong>Brand:</strong> Okee-Dokee Sticker Company LTD<br/>
       <strong>Barcode:</strong> 770235006565<br/>
     </div>
   </div>
@@ -661,7 +672,7 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> Stickers Activity Pack<br/>
-      <strong>Publisher:</strong> Okee-Dokee Sticker Company LTD<br/>
+      <strong>Brand:</strong> Okee-Dokee Sticker Company LTD<br/>
       <strong>Barcode:</strong> 770235785385<br/>
     </div>
   </div>
@@ -681,7 +692,7 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> Stickers Activity Pack<br/>
-      <strong>Publisher:</strong> Okee-Dokee Sticker Company LTD<br/>
+      <strong>Brand:</strong> Okee-Dokee Sticker Company LTD<br/>
     </div>
   </div>
 
@@ -695,7 +706,7 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
     <div class="item-details">
       <strong>Title:</strong> Stickers of The Land Before Time<br/>
-      <strong>Publisher:</strong> unique<br/>
+      <strong>Brand:</strong> unique<br/>
     </div>
   </div>
 <div class="item-entry" id="puffystickers-500">
