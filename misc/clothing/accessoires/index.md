@@ -58,6 +58,25 @@ Want to spruce up your style with some dino-riffic accessoires? This is what was
     </div>
 </div>
 
+<div class="item-entry" id="backpack-1-1144">
+    <div class="item-image">
+      <a href="/images/misc/clothing/accessoires/backpack-1.jpg" data-lightbox="img" data-title="Kids backpack">
+        <div class="img-box">
+          <img src="/images/misc/clothing/accessoires/backpack-1.jpg" alt="Kids backpack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/accessoires/backpack-2.jpg" data-lightbox="img" data-title="Kids backpack">
+        <div class="img-box">
+          <img src="/images/misc/clothing/accessoires/backpack-2.jpg" alt="Kids backpack" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Kids backpack<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="1996backpack-375">
     <div class="item-image">
       <a href="/images/misc/clothing/1996backpack.jpg" data-lightbox="img" data-title="Backpack">

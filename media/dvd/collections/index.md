@@ -774,21 +774,7 @@ The Wisdom of Friends (XIII)</li></ul>
       <strong>Region:</strong> 1<br/>
   </div>
 </div>
-<div class="item-entry" id="enchantingvalleycollection 2018-1082">
-    <div class="item-image">
-      <a href="/images/media/dvd/collection/enchantingvalleycollection 2018.jpg" data-lightbox="img" data-title="Enchanting Valley Collection">
-        <div class="img-box">
-          <img src="/images/media/dvd/collection/enchantingvalleycollection 2018.jpg" alt="Enchanting Valley Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Enchanting Valley Collection<br/>
-      <strong>Year:</strong> 2018<br/>
-      <strong>Region:</strong> 2,4<br/>
-      <strong>Notes:</strong> Australian version<br/>
-    </div>
-</div>
+
 <div class="item-entry" id="adventurecollection-1105">
     <div class="item-image">
       <a href="/images/media/dvd/collection/adventurecollection.jpg" data-lightbox="img" data-title="The Adventure Collection">
@@ -822,6 +808,56 @@ The Wisdom of Friends (XIII)</li></ul>
     </div>
 </div>
 
+<div class="item-entry" id="2018mysterycollection-1137">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/2018mysterycollection.jpg" data-lightbox="img" data-title="The Mystery Collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/2018mysterycollection.jpg" alt="The Mystery Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Mystery Collection<br/>
+      <strong>Year:</strong> 2018<br/>
+      <strong>Publisher:</strong> 2,4<br/>
+      <strong>Notes:</strong> Featuring the Land Before Time 6 and 7<br/>
+    </div>
+</div>
+
+
+<div class="item-entry" id="enchantingvalleycollection 2018-1082">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/enchantingvalleycollection 2018.jpg" data-lightbox="img" data-title="Enchanting Valley Collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/enchantingvalleycollection 2018.jpg" alt="Enchanting Valley Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Enchanting Valley Collection<br/>
+      <strong>Year:</strong> 2018<br/>
+      <strong>Region:</strong> 2,4<br/>
+      <strong>Notes:</strong> Featuring Land Before Time 8 and 9<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="2018friendshipcollection-1136">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/2018friendshipcollection.jpg" data-lightbox="img" data-title="The Friendship Collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/2018friendshipcollection.jpg" alt="The Friendship Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Friendship Collection<br/>
+      <strong>Year:</strong> 2018<br/>
+      <strong>Region:</strong> 2,4<br/>
+      <strong>Notes:</strong> Featuring the Land Before Time 12 and 13<br/>
+    </div>
+</div>
+
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/dvd/collection/5moviesandbonusplayset_orig.png" data-lightbox="img" data-title="30th Anniversary Playset">
@@ -846,6 +882,28 @@ The Big Freeze (VIII)</li><li>
 Journey to Big Water (IX)</li></ul>
   </div>
 </div>
+
+<div class="item-entry" id="universal10filmcollection-1142">
+    <div class="item-image">
+      <a href="/images/media/dvd/collection/universal10filmcollection.jpg" data-lightbox="img" data-title="Universal 10 film collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/universal10filmcollection.jpg" alt="Universal 10 film collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/collection/universal10filmcollection-2.jpg" data-lightbox="img" data-title="Universal 10 film collection">
+        <div class="img-box">
+          <img src="/images/media/dvd/collection/universal10filmcollection-2.jpg" alt="Universal 10 film collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Universal 10 film animation collection<br/>
+      <strong>Year:</strong> 2020<br/>
+      <strong>Region:</strong> 1<br/>
+      <strong>Notes:</strong> Features the original film<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="complete-set-de-574">
     <div class="item-image">
       <a href="/images/media/dvd/collection/complete-set-de.jpg" data-lightbox="img" data-title="In einem Land vor unserer Zeit">

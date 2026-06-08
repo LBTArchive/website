@@ -150,9 +150,9 @@ An archive of The Land Before Time Home decor items released over the years.
   </div>
 <div class="item-entry" id="coinbank-338">
     <div class="item-image">
-      <a href="/images/misc/homedecor/coinbank.jpg" data-lightbox="img" data-title="Littlefoot Just Hatched Coin Bank">
+      <a href="/images/misc/homedecor/justhatchedcoinbank.png" data-lightbox="img" data-title="Littlefoot Just Hatched Coin Bank">
         <div class="img-box">
-          <img src="/images/misc/homedecor/coinbank.jpg" alt="Littlefoot Just Hatched Coin Bank" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/homedecor/justhatchedcoinbank.png" alt="Littlefoot Just Hatched Coin Bank" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>

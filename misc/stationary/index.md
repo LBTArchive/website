@@ -124,6 +124,21 @@ An archive of The Land Before Time Stationary and Post Cards released over the y
       <strong>Notes:</strong> Both faces shown<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="folder-1159">
+    <div class="item-image">
+      <a href="/images/misc/stationary/folder.jpg" data-lightbox="img" data-title="Ducky folder">
+        <div class="img-box">
+          <img src="/images/misc/stationary/folder.jpg" alt="Ducky folder" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky folder<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="40 piece art set-470">
     <div class="item-image">
       <a href="/images/misc/stationary/40 piece art set.jpg" data-lightbox="img" data-title="40 piece art set">

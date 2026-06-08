@@ -77,6 +77,22 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Language:</strong> French<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="1988-stickers-characters-italian-1158">
+    <div class="item-image">
+      <a href="/images/misc/stickers/1988-stickers-characters-italian.jpg" data-lightbox="img" data-title="Character stickers">
+        <div class="img-box">
+          <img src="/images/misc/stickers/1988-stickers-characters-italian.jpg" alt="Character stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Character stickers<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="giantwallstickers-489">
     <div class="item-image">
       <a href="/images/misc/stickers/giantwallstickers.jpg" data-lightbox="img" data-title="Room Decoration Stickers of The Land Before Time">
@@ -104,6 +120,35 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Year:</strong> 1988<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="spikewithswimmers-1139">
+    <div class="item-image">
+      <a href="/images/misc/stickers/spikewithswimmers.jpg" data-lightbox="img" data-title="Sticker - Spike with swimmer siblings">
+        <div class="img-box">
+          <img src="/images/misc/stickers/spikewithswimmers.jpg" alt="Sticker - Spike with swimmer siblings" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Sticker - Spike with swimmer siblings<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="ceraslipping-1140">
+    <div class="item-image">
+      <a href="/images/misc/stickers/ceraslipping.jpg" data-lightbox="img" data-title="Sticker - Cera Slipping">
+        <div class="img-box">
+          <img src="/images/misc/stickers/ceraslipping.jpg" alt="Sticker - Cera Slipping" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Sticker - Cera Slipping<br/>
+      <strong>Year:</strong> 1988<br/>
+    </div>
+</div>
+
 
   <div class="item-entry" id="platvoetenzijnvriendjes-307">
     <div class="item-image">
@@ -180,6 +225,31 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Language:</strong> German<br/>
     </div>
   </div>
+
+
+
+  <div class="item-entry" id="italianstickerpack-1111">
+    <div class="item-image">
+      <a href="/images/misc/stickers/italianstickerpack.jpg" data-lightbox="img" data-title="Album Stickers">
+        <div class="img-box">
+          <img src="/images/misc/stickers/italianstickerpack.jpg" alt="Album Stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stickers/italianstickerpack2.jpg" data-lightbox="img" data-title="Album Stickers">
+        <div class="img-box">
+          <img src="/images/misc/stickers/italianstickerpack2.jpg" alt="Album Stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Album Stickers<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Brand:</strong> Masters Edizioni (MI)<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> The stickers in this pack would go to <a href="/toys/activitybooks/#stickeralbum-orig-1-1155">this album</a>.<br/>
+    </div>
+</div>
+
   <div class="item-entry" id="lbt2promo-494">
     <div class="item-image">
       <a href="/images/misc/stickers/lbt2promo.jpg" data-lightbox="img" data-title="Promotional Stickers for The Land Before Time II: The Great Valley Adventure">
@@ -194,6 +264,7 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Notes:</strong> Included with the <a href="/media/vhs/2/#item-1">The Land Before Time II: The Great Valley Adventure VHS Tape</a><br/>
     </div>
   </div>
+  
 <div class="item-entry" id="lbt2windowdecal-517">
     <div class="item-image">
       <a href="/images/misc/stickers/lbt2windowdecal.jpg" data-lightbox="img" data-title="The Land Before Time II: Great Valley Adventure Window Decal">
@@ -360,26 +431,6 @@ An archive of The Land Before Time Stickers released over the years.
     </div>
   </div>
 
-  <div class="item-entry" id="italianstickerpack-1111">
-    <div class="item-image">
-      <a href="/images/misc/stickers/italianstickerpack.jpg" data-lightbox="img" data-title="Album Stickers">
-        <div class="img-box">
-          <img src="/images/misc/stickers/italianstickerpack.jpg" alt="Album Stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/stickers/italianstickerpack2.jpg" data-lightbox="img" data-title="Album Stickers">
-        <div class="img-box">
-          <img src="/images/misc/stickers/italianstickerpack2.jpg" alt="Album Stickers" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Album Stickers<br/>
-      <strong>Brand:</strong> Masters Edizioni (MI)<br/>
-      <strong>Language:</strong> Italian<br/>
-    </div>
-</div>
-
 <div class="item-entry" id="mellosmellotattoos-1039">
     <div class="item-image">
       <a href="/images/misc/stickers/mellosmellotattoos.jpg" data-lightbox="img" data-title="Tattoo Value Pack - 80 tattoos">
@@ -472,6 +523,36 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Brand:</strong> Mello Smello<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="1998_strottman_international-482">
+    <div class="item-image">
+      <a href="/images/misc/stickers/1998_strottman_international_2.jpg" data-lightbox="img" data-title="Stickers of The Land Before Time">
+        <div class="img-box">
+          <img src="/images/misc/stickers/1998_strottman_international_2.jpg" alt="Stickers of The Land Before Time" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Stickers of The Land Before Time<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Brand:</strong> Strottman International, Inc<br/>
+    </div>
+  </div>
+
+<div class="item-entry" id="1998_strottman_international-482">
+    <div class="item-image">
+      <a href="/images/misc/stickers/1998_strottman_international.png" data-lightbox="img" data-title="Stickers of The Land Before Time V: The Mysterious Island">
+        <div class="img-box">
+          <img src="/images/misc/stickers/1998_strottman_international.png" alt="Stickers of The Land Before Time V: The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Stickers of The Land Before Time V: The Mysterious Island<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Brand:</strong> Strottman International, Inc<br/>
+    </div>
+  </div>
 <div class="item-entry" id="activityscenebook-508">
     <div class="item-image">
       <a href="/images/misc/stickers/activityscenebook.jpg" data-lightbox="img" data-title="Activity Scene Board">
@@ -493,22 +574,6 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Barcode:</strong> 084172275992<br/>
     </div>
   </div>
-
-<div class="item-entry" id="1998_strottman_international-482">
-    <div class="item-image">
-      <a href="/images/misc/stickers/1998_strottman_international.png" data-lightbox="img" data-title="Stickers of The Land Before Time V: The Mysterious Island">
-        <div class="img-box">
-          <img src="/images/misc/stickers/1998_strottman_international.png" alt="Stickers of The Land Before Time V: The Mysterious Island" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Stickers of The Land Before Time V: The Mysterious Island<br/>
-      <strong>Year:</strong> 1998<br/>
-      <strong>Brand:</strong> Strottman International, Inc<br/>
-    </div>
-  </div>
-
 <div class="item-entry" id="1998_Udrive-504">
     <div class="item-image">
       <a href="/images/misc/stickers/1998_Udrive.jpg" data-lightbox="img" data-title="Stickers of The Land Before Time">
@@ -574,6 +639,29 @@ An archive of The Land Before Time Stickers released over the years.
       <strong>Notes:</strong> Italian names<br/>
     </div>
 </div>
+
+<div class="item-entry" id="play-press-stickerpack-italian-1156">
+    <div class="item-image">
+      <a href="/images/misc/stickers/play-press-stickerpack-italian.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/misc/stickers/play-press-stickerpack-italian.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/stickers/play-press-stickerpack-italian-2.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/misc/stickers/play-press-stickerpack-italian-2.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla Ricerca della Valle Incantata<br/>
+      <strong>Year:</strong> 2003<br/>
+      <strong>Publisher:</strong> Play Press<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> Italian stickers for <a href="/toys/activitybooks/#stickeralbum-it-896">this</a> sticker album<br/>
+    </div>
+</div>
+
 
 <div class="item-entry" id="dvdgamestickersheet-864">
     <div class="item-image">

@@ -229,6 +229,21 @@ An archive of The Land Before Time items released over the years that did not fi
     </div>
 </div>
 
+<div class="item-entry" id="mini-hearts-box-runts-1138">
+    <div class="item-image">
+      <a href="/images/misc/mini-hearts-box-runts.jpg" data-lightbox="img" data-title="Runts Mini Hearts - small candy box">
+        <div class="img-box">
+          <img src="/images/misc/mini-hearts-box-runts.jpg" alt="Runts Mini Hearts - small candy box" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Runts Mini Hearts - small candy box<br/>
+      <strong>Year:</strong> 1997?<br/>
+      <strong>Publisher:</strong> Runts<br/>
+    </div>
+</div>
+
 
 <div class="item-entry" id="inflatablesharptooth2000rinco-668">
     <div class="item-image">
@@ -524,7 +539,22 @@ An archive of The Land Before Time items released over the years that did not fi
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> The Land Before Time Arm Rings<br/>
+      <strong>Title:</strong> The Land Before Time Arm Rings - Chomper<br/>
+      <strong>Barcode:</strong> 049022157965<br/>
+      <strong>Notes:</strong> Floaties<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="airrings-6622">
+    <div class="item-image">
+      <a href="/images/misc/armrings-littlefoot.jpg" data-lightbox="img" data-title="The Land Before Time Arm Rings">
+        <div class="img-box">
+          <img src="/images/misc/armrings-littlefoot.jpg" alt="The Land Before Time Arm Rings" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> The Land Before Time Arm Rings - Littlefoot<br/>
       <strong>Barcode:</strong> 049022157965<br/>
       <strong>Notes:</strong> Floaties<br/>
     </div>

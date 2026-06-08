@@ -388,6 +388,11 @@ An archive of The Land Before Time board games released over the years.
           <img src="/images/toys/boardgames/valleincantatagame.jpg" alt="Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/toys/boardgames/valleincantatagame-2.jpg" data-lightbox="img" data-title="Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/boardgames/valleincantatagame-2.jpg" alt="Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Valle Incantata<br/>

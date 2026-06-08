@@ -183,9 +183,14 @@ An archive of The Land Before Time Plushies released over the years. If you want
           <img src="/images/toys/plushies/littlefoot-equity1997-5inch.jpg" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy">
         </div>
       </a>
+      <a href="/images/toys/plushies/littlefoot-equity-minipalinbox.png" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefoot-equity-minipalinbox.png" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Title:</strong> Littlefoot Mini Pal<br/>
       <strong>Year:</strong> 1997<br/>
       <strong>Brand:</strong> Equity Toys<br/>
       <strong>Size:</strong> 8 inch/20 cm<br/>
@@ -332,6 +337,32 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
+<div class="item-entry" id="piedino-telecomandino-1151">
+    <div class="item-image">
+      <a href="/images/toys/plushies/piedino-telecomandino.jpg" data-lightbox="img" data-title="Piedino Telecomandino - Dancing Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/piedino-telecomandino.jpg" alt="Piedino Telecomandino - Dancing Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/piedino-telecomandino-2.jpg" data-lightbox="img" data-title="Piedino Telecomandino - Dancing Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/piedino-telecomandino-2.jpg" alt="Piedino Telecomandino - Dancing Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/piedino-telecomandino-3.jpg" data-lightbox="img" data-title="Piedino Telecomandino - Dancing Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/piedino-telecomandino-3.jpg" alt="Piedino Telecomandino - Dancing Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Piedino Telecomandino - Dancing Littlefoot<br/>
+      <strong>Subtitle:</strong> Ballo a ritmo di musica!<br/>
+      <strong>Publisher:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> "I dance to the rhythm of the music"<br/>With remote control<br/>
+    </div>
+</div>
 
   <div class="item-entry" id="littlefoot-doudou-172">
     <div class="item-image">
@@ -584,6 +615,29 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+  
+
+<div class="item-entry" id="cera-equity1997-5inch-75">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-equity1997-5inch.jpg" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-equity1997-5inch.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/toys/plushies/cera-equity-minipalinbox.png" data-lightbox="img" data-title="Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-equity-minipalinbox.png" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera Mini Pal<br/>
+      <strong>Year:</strong> 1996<br/>
+      <strong>Brand:</strong> Equity<br/>
+      <strong>Size:</strong> 6 inch / 15 cm<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="cera-1997-203">
     <div class="item-image">
       <a href="/images/toys/plushies/cera-1997.jpg" data-lightbox="img" data-title="Cera">
@@ -695,6 +749,30 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
 </div>
 
+<div class="item-entry" id="dinosauriobebe-cera-1147">
+    <div class="item-image">
+      <a href="/images/toys/plushies/dinosauriobebe-cera.png" data-lightbox="img" data-title="Dinosaurio Bebe Huevo Mágico - Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/dinosauriobebe-cera.png" alt="Dinosaurio Bebe Huevo Mágico - Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/dinosauriobebe-cera2.png" data-lightbox="img" data-title="Dinosaurio Bebe Huevo Mágico - Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/dinosauriobebe-cera2.png" alt="Dinosaurio Bebe Huevo Mágico - Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Dinosaurio Bebe Huevo Mágico - Cera<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> Spanish<br/>
+      <strong>Size:</strong> 8 inch / 20 cm<br/>
+      <strong>Notes:</strong> "Dinosaur Baby, magical egg"<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="1282527_orig-72">
     <div class="item-image">
       <a href="/images/toys/plushies/1282527_orig.jpg" data-lightbox="img" data-title="Cera">
@@ -704,12 +782,56 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Cera<br/>
+      <strong>Title:</strong> Apritidino Magische uova - Cera<br/>
       <strong>Year:</strong> ?<br/>
-      <strong>Brand:</strong> ?<br/>
+      <strong>Brand:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> Italian<br/>
       <strong>Size:</strong> 8 inch / 20 cm<br/>
+      <strong>Notes:</strong> "Hatch and grow dino, magical egg"<br/>
     </div>
   </div>
+<div class="item-entry" id="dino-ballerino-cera-1148">
+    <div class="item-image">
+      <a href="/images/toys/plushies/dino-ballerino-cera.jpg" data-lightbox="img" data-title="Dino Ballerino - Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/dino-ballerino-cera.jpg" alt="Dino Ballerino - Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/dino-ballerino-cera-2.jpg" data-lightbox="img" data-title="Dino Ballerino - Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/dino-ballerino-cera-2.jpg" alt="Dino Ballerino - Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Dino Ballerino - Cera<br/>
+      <strong>Subtitle:</strong> Ballo a ritmo di musica!<br/>
+      <strong>Publisher:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> "I dance to the rhythm of the music"<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="Cantadino-Cera-1149">
+    <div class="item-image">
+      <a href="/images/toys/plushies/Cantadino-Cera.jpg" data-lightbox="img" data-title="Cantadino - Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/Cantadino-Cera.jpg" alt="Cantadino - Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/plushies/Cantadino-Cera-2.jpg" data-lightbox="img" data-title="Cantadino - Cera">
+        <div class="img-box">
+          <img src="/images/toys/plushies/Cantadino-Cera-2.jpg" alt="Cantadino - Cera" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cantadino - Cera<br/>
+      <strong>Publisher:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+
 
 <div class="item-entry" id="5587027_orig-73">
     <div class="item-image">
@@ -789,22 +911,6 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Kellytoy<br/>
       <strong>Size:</strong> 13"<br/>
-    </div>
-  </div>
-
-<div class="item-entry" id="cera-equity1997-5inch-75">
-    <div class="item-image">
-      <a href="/images/toys/plushies/cera-equity1997-5inch.jpg" data-lightbox="img" data-title="Cera">
-        <div class="img-box">
-          <img src="/images/toys/plushies/cera-equity1997-5inch.jpg" alt="Cera" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Cera<br/>
-      <strong>Year:</strong> ?<br/>
-      <strong>Brand:</strong> Toy Network<br/>
-      <strong>Size:</strong> 6 inch / 15 cm<br/>
     </div>
   </div>
   
@@ -990,6 +1096,28 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> Flop-a-saurus + mini pal (Blockbuster Exclusive)<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="204502_orig-84">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ducky-equity1997-5inch_orig.jpg" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ducky-equity1997-5inch_orig.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+      <a href="/images/toys/plushies/ducky-equity-minipalinbox copy.png" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ducky-equity-minipalinbox copy.png" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky Mini Pal<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Brand:</strong> Equity Toys<br/>
+      <strong>Size:</strong> 6 inch / 15 cm<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="ducky1997equitytoys35cm-368">
     <div class="item-image">
       <a href="/images/toys/plushies/ducky1997equitytoys35cm.jpg" data-lightbox="img" data-title="Ducky">
@@ -1104,21 +1232,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> ?<br/>
     </div>
   </div>
-<div class="item-entry" id="204502_orig-84">
-    <div class="item-image">
-      <a href="/images/toys/plushies/ducky-equity1997-5inch_orig.jpg" data-lightbox="img" data-title="Ducky">
-        <div class="img-box">
-          <img src="/images/toys/plushies/ducky-equity1997-5inch_orig.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy">
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Ducky<br/>
-      <strong>Year:</strong> 1997<br/>
-      <strong>Brand:</strong> Equity Toys<br/>
-      <strong>Size:</strong> 6 inch / 15 cm<br/>
-    </div>
-  </div>
+
 <div class="item-entry" id="ducky-toynetwork-christmas-15inch_orig-85">
     <div class="item-image">
       <a href="/images/toys/plushies/ducky-toynetwork-christmas-15inch_orig.jpg" data-lightbox="img" data-title="Ducky">
@@ -1541,6 +1655,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> Mini Pal - Flop-A-Saurus (Blockbuster Exclusive)<br/>
     </div>
   </div>
+
+<div class="item-entry" id="204502_orig-84">
+    <div class="item-image">
+      <a href="/images/toys/plushies/spike-equity-minipalinbox.jpg" data-lightbox="img" data-title="Spike">
+        <div class="img-box">
+          <img src="/images/toys/plushies/spike-equity-minipalinbox.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy">
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Spike Mini Pal<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Brand:</strong> Equity Toys<br/>
+      <strong>Size:</strong> 6 inch / 15 cm<br/>
+    </div>
+  </div>
+
 <div class="item-entry" id="spike-kidsofamerica-915">
     <div class="item-image">
       <a href="/images/toys/plushies/spike-kidsofamerica.jpg" data-lightbox="img" data-title="Spike">
@@ -1863,12 +1994,30 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Chomper<br/>
+      <strong>Title:</strong> Cantadino - Chomper<br/>
       <strong>Brand:</strong> Giochi Preziosi<br/>
       <strong>Notes:</strong> Sings the Italian version of Peaceful Valley<br/>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/cmKL9j9g7nA?si=m_l_DjVCRZF_oAAF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
+
+<div class="item-entry" id="dino-ballerino-chomper-1150">
+    <div class="item-image">
+      <a href="/images/toys/plushies/dino-ballerino-chomper.jpg" data-lightbox="img" data-title="Dino Ballerino - Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/dino-ballerino-chomper.jpg" alt="Dino Ballerino - Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Dino Ballerino - Chomper<br/>
+      <strong>Subtitle:</strong> Ballo a ritmo di musica!<br/>
+      <strong>Publisher:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> "I dance to the rhythm of the music"<br/>
+    </div>
+</div>
+
 
 <div class="item-entry" id="chomper-8inch-194">
     <div class="item-image">

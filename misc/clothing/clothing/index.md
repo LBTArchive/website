@@ -169,6 +169,23 @@ Dinosaurs may not have worn clothes (probably...), but we humans do :) Here's a 
       <strong>Brand:</strong> J.C. Penney<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="pajamas-1143">
+    <div class="item-image">
+      <a href="/images/misc/clothing/clothes/pajamas.jpg" data-lightbox="img" data-title="Pajamas">
+        <div class="img-box">
+          <img src="/images/misc/clothing/clothes/pajamas.jpg" alt="Pajamas" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Pajamas<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Notes:</strong> With Littlefoot and Cera on the non-slip feet<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="1988jcpenneycera2-451">
     <div class="item-image">
       <a href="/images/misc/clothing/1988jcpenneycera2.jpg" data-lightbox="img" data-title="Cera Longsleeve Shirt">
@@ -297,18 +314,6 @@ Dinosaurs may not have worn clothes (probably...), but we humans do :) Here's a 
       <strong>Title:</strong> T-shirt<br/>
     </div>
   </div>
-<div class="item-entry" id="littlefootonlog-1009">
-    <div class="item-image">
-      <a href="/images/misc/clothing/littlefootonlog.jpg" data-lightbox="img" data-title="Littlefoot and Ducky on a log T-shirt">
-        <div class="img-box">
-          <img src="/images/misc/clothing/littlefootonlog.jpg" alt="Littlefoot and Ducky on a log T-shirt" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Littlefoot and Ducky on a log T-shirt<br/>
-    </div>
-</div>
 
 <div class="item-entry" id="1988promojacket-372">
     <div class="item-image">
@@ -390,6 +395,21 @@ Dinosaurs may not have worn clothes (probably...), but we humans do :) Here's a 
       <strong>Year:</strong> 1994<br/>
     </div>
   </div>
+
+  
+<div class="item-entry" id="littlefootonlog-1009">
+    <div class="item-image">
+      <a href="/images/misc/clothing/littlefootonlog.jpg" data-lightbox="img" data-title="Littlefoot and Ducky on a log T-shirt">
+        <div class="img-box">
+          <img src="/images/misc/clothing/littlefootonlog.jpg" alt="Littlefoot and Ducky on a log T-shirt" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot and Ducky on a log T-shirt<br/>
+      <strong>Year:</strong> 1997<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="ceracostume-377">
     <div class="item-image">
@@ -1092,4 +1112,24 @@ Dinosaurs may not have worn clothes (probably...), but we humans do :) Here's a 
       <strong>Brand:</strong> Boxlunch<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="adultshirtwhite-1145">
+    <div class="item-image">
+      <a href="/images/misc/clothing/clothes/adultshirtwhite.jpg" data-lightbox="img" data-title="Adult t-shirt with print on back and small print on front">
+        <div class="img-box">
+          <img src="/images/misc/clothing/clothes/adultshirtwhite.jpg" alt="Adult t-shirt with print on back and small print on front" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/clothing/clothes/adultshirtwhite2.jpg" data-lightbox="img" data-title="Adult t-shirt with print on back and small print on front">
+        <div class="img-box">
+          <img src="/images/misc/clothing/clothes/adultshirtwhite2.jpg" alt="Adult t-shirt with print on back and small print on front" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Adult t-shirt with print on back and small print on front<br/>
+      <strong>Publisher:</strong> Universal City Studios<br/>
+    </div>
+</div>
+
 </div>

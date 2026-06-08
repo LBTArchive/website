@@ -42,6 +42,95 @@ An archive of The Land Before Time Activity Books released over the years. If yo
     </div>
   </div>
 
+<div class="item-entry" id="stickeralbum-orig-1-1155">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/stickeralbum-orig-1.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-1.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-2.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-2.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-3.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-3.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-4.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-4.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-5.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-5.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-6.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-6.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-7.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-7.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-8.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-8.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-9.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-9.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-10.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-10.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-11.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-11.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-12.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-12.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-13.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-13.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-14.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-14.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-orig-15.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-orig-15.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alla Ricerca della Valle Incantata<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Publisher:</strong> Masters Edizioni (MI)<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> Italian sticker album - completed<br/>
+      Stickers would have come in packs like <a href="/misc/stickers/#italianstickerpack-1111">these</a><br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="1997cera-321">
     <div class="item-image">
       <a href="/images/toys/coloringbook/1997cera.jpg" data-lightbox="img" data-title="Sticker book">
@@ -269,6 +358,41 @@ An archive of The Land Before Time Activity Books released over the years. If yo
       <strong>ISBN:</strong> 1562973092<br/>
     </div>
   </div>
+<div class="item-entry" id="magicpen-italian-1153">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/magicpen-italian.jpg" data-lightbox="img" data-title="Albo Magico - Magic ink">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/magicpen-italian.jpg" alt="Albo Magico - Magic ink" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Albo Magico - Magic ink<br/>
+      <strong>Year:</strong> 2001<br/>
+      <strong>Publisher:</strong> Play Press<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
+<div class="item-entry" id="magicpen-italian-2002-1154">
+    <div class="item-image">
+      <a href="/images/toys/coloringbook/magicpen-italian-2002.jpg" data-lightbox="img" data-title="Albo Magico - Magic ink">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/magicpen-italian-2002.jpg" alt="Albo Magico - Magic ink" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/magicpen-italian-2002-2.jpg" data-lightbox="img" data-title="Albo Magico - Magic ink">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/magicpen-italian-2002-2.jpg" alt="Albo Magico - Magic ink" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Albo Magico - Magic ink<br/>
+      <strong>Year:</strong> 2002<br/>
+      <strong>Publisher:</strong> Play Press<br/>
+      <strong>Language:</strong> Italian<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="invisibleink-918">
     <div class="item-image">
@@ -352,12 +476,93 @@ An archive of The Land Before Time Activity Books released over the years. If yo
           <img src="/images/toys/coloringbook/stickeralbum-it3.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it4.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it4.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it5.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it5.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it6.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it6.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it7.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it7.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it8.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it8.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it9.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it9.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it10.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it10.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it11.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it11.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it12.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it12.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it13.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it13.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it14.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it14.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it15.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it15.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it16.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it16.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it17.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it17.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it18.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it18.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/toys/coloringbook/stickeralbum-it19.jpg" data-lightbox="img" data-title="Alla Ricerca della Valle Incantata">
+        <div class="img-box">
+          <img src="/images/toys/coloringbook/stickeralbum-it19.jpg" alt="Alla Ricerca della Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Alla Ricerca della Valle Incantata<br/>
       <strong>Subtitle:</strong> Collezione di figurine<br/>
-      <strong>Year:</strong> 2002<br/>
+      <strong>Year:</strong> 2003<br/>
       <strong>Notes:</strong> Italian sticker album<br/>
+      Stickers would have come in packs like <a href="/misc/stickers/#play-press-stickerpack-italian-1156">these</a><br/>
     </div>
 </div>
 
