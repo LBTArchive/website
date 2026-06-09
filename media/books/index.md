@@ -99,6 +99,24 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Language:</strong> German <br />
   </div>
 </div>
+
+<div class="item-entry" id="leprimeavventure-1168">
+    <div class="item-image">
+      <a href="/images/media/books/leprimeavventure.png" data-lightbox="img" data-title="Alle Ricerca delle Valle Incantata">
+        <div class="img-box">
+          <img src="/images/media/books/leprimeavventure.png" alt="Alle Ricerca delle Valle Incantata" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Alle Ricerca delle Valle Incantata<br/>
+      <strong>Subtitle:</strong> Le Prime Avventure<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> Belongs to <a href="/media/cassette/#leprimeavventure-1167">this cassette</a><br/>
+    </div>
+</div>
+
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/books/friendsinneed.jpg" data-lightbox="img" data-title="Friends in Need">

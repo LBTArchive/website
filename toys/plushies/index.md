@@ -363,6 +363,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> "I dance to the rhythm of the music"<br/>With remote control<br/>
     </div>
 </div>
+<div class="item-entry" id="littlefoot-giochi-1165">
+    <div class="item-image">
+      <a href="/images/toys/plushies/littlefoot-giochi.png" data-lightbox="img" data-title="Littlefoot">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefoot-giochi.png" alt="Littlefoot" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot<br/>
+      <strong>Subtitle:</strong> Ballo a ritmo di musica!<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> "I dance to the rhythm of the music"<br/>
+    </div>
+</div>
 
   <div class="item-entry" id="littlefoot-doudou-172">
     <div class="item-image">
@@ -782,7 +799,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Apritidino Magische uova - Cera<br/>
+      <strong>Title:</strong> Apritidino Magiche uova - Cera<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Giochi Preziosi<br/>
       <strong>Language:</strong> Italian<br/>
@@ -1312,11 +1329,11 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
   
-  <div class="item-entry" id="supercoloringandactivitybook.ducky-1108">
+  <div class="item-entry" id="bigducky-1108">
     <div class="item-image">
-      <a href="/images/toys/coloringbook/supercoloringandactivitybook.ducky.png" data-lightbox="img" data-title="Ducky">
+      <a href="/images/toys/plushies/ducky-eu.jpg" data-lightbox="img" data-title="Ducky">
         <div class="img-box">
-          <img src="/images/toys/coloringbook/supercoloringandactivitybook.ducky.png" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/toys/plushies/ducky-eu.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>
@@ -1325,6 +1342,40 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> ?<br/>
       <strong>Size:</strong> 40cm<br/>
+    </div>
+</div>
+<div class="item-entry" id="ducky-giochi-1164">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ducky-giochi.png" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ducky-giochi.png" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky<br/>
+      <strong>Subtitle:</strong> Ballo a ritmo di musica!<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> "I dance to the rhythm of the music"<br/>
+    </div>
+</div>
+
+<div class="item-entry" id="apritidino-ducky-1162">
+    <div class="item-image">
+      <a href="/images/toys/plushies/apritidino-ducky.png" data-lightbox="img" data-title="Apritidino Magiche uova - Ducky">
+        <div class="img-box">
+          <img src="/images/toys/plushies/apritidino-ducky.png" alt="Apritidino Magiche uova - Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Apritidino Magiche uova - Ducky<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> "Hatch and grow dino, magical egg"<br/>
     </div>
 </div>
 
@@ -1977,6 +2028,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Year:</strong> 1997<br/>
       <strong>Brand:</strong> Algos Corporation<br/>
       <strong>Language:</strong> Japanese<br/>
+    </div>
+</div>
+<div class="item-entry" id="apritidino-chomper-1161">
+    <div class="item-image">
+      <a href="/images/toys/plushies/apritidino-chomper.png" data-lightbox="img" data-title="Apritidino Magiche uova - Chomper">
+        <div class="img-box">
+          <img src="/images/toys/plushies/apritidino-chomper.png" alt="Apritidino Magiche uova - Chomper" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Apritidino Magiche uova - Chomper<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Publisher:</strong> Giochi Preziosi<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> "Hatch and grow dino, magical egg"<br/>
     </div>
 </div>
 

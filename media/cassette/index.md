@@ -73,6 +73,22 @@ An archive of The Land Before Time Cassettes released over the years.
       <strong>Notes:</strong> Part of the <a href="/media/books/#search-for-the-great-valley-book">book</a> with the same name <br />
     </div>
   </div>
+
+  <div class="item-entry" id="leprimeavventure-1167">
+    <div class="item-image">
+      <a href="/images/media/cassettes/leprimeavventure.png" data-lightbox="img" data-title="Il mangiafiabe prime avventure">
+        <div class="img-box">
+          <img src="/images/media/cassettes/leprimeavventure.png" alt="Il mangiafiabe prime avventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Il mangiafiabe prime avventure<br/>
+      <strong>Language:</strong> Italian<br/>
+      <strong>Notes:</strong> Belongs to <a href="/media/books/#leprimeavventure-1168">this book</a><br/>
+    </div>
+</div>
+
   <div class="item-entry">
     <div class="item-image">
       <a href="/images/media/cassettes/nl.jpg" data-lightbox="img" data-title="Platvoet en zijn Vriendjes - Het land voor onze jaartelling">

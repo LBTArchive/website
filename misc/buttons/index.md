@@ -457,5 +457,24 @@ An archive of The Land Before Time Buttons, keychains and pins released over the
       <strong>Year:</strong> 2025<br/>
     </div>
 </div>
+<div class="item-entry" id="loungefly-pins-26-1-1160">
+    <div class="item-image">
+      <a href="/images/misc/buttons and pins/loungefly-pins-26-1.png" data-lightbox="img" data-title="Loungefly Pins">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/loungefly-pins-26-1.png" alt="Loungefly Pins" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/buttons and pins/loungefly-pins-26-2.png" data-lightbox="img" data-title="Loungefly Pins">
+        <div class="img-box">
+          <img src="/images/misc/buttons and pins/loungefly-pins-26-2.png" alt="Loungefly Pins" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Loungefly Pins<br/>
+      <strong>Year:</strong> 2026<br/>
+      <strong>Publisher:</strong> Loungefly/Boxlunch<br/>
+    </div>
+</div>
 
   </div>
