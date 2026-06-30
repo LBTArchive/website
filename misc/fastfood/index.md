@@ -301,6 +301,20 @@ An archive of The Land Before Time Fast Food promotional items released over the
     </div>
   </div>
 
+  <div class="item-entry" id="pizzahutposter-6puppets-1170">
+    <div class="item-image">
+      <a href="/images/misc/fastfood/pizzahutposter-6puppets.jpg" data-lightbox="img" data-title="Pizza Hut Poster for all 6 puppets">
+        <div class="img-box">
+          <img src="/images/misc/fastfood/pizzahutposter-6puppets.jpg" alt="Pizza Hut Poster for all 6 puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Pizza Hut Poster for all 6 puppets<br/>
+      <strong>Year:</strong> 1989<br/>
+    </div>
+</div>
+
 <div class="item-entry" id="phhandpuppetdisplay-543">
     <div class="item-image">
       <a href="/images/misc/fastfood/phhandpuppetdisplay.jpg" data-lightbox="img" data-title="Pizza Hut Standee">

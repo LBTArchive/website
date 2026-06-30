@@ -200,6 +200,46 @@ An archive of The Land Before Time items released over the years that did not fi
       <strong>Notes:</strong> With ads and cutouts for The Land Before Time II<br/>
     </div>
 </div>
+<div class="item-entry" id="fr-porcelain-sculptures-1-1174">
+    <div class="item-image">
+      <a href="/images/misc/fr-porcelain-sculptures-1.png" data-lightbox="img" data-title="Porcelain figures">
+        <div class="img-box">
+          <img src="/images/misc/fr-porcelain-sculptures-1.png" alt="Porcelain figures" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fr-porcelain-sculptures-2.png" data-lightbox="img" data-title="Porcelain figures">
+        <div class="img-box">
+          <img src="/images/misc/fr-porcelain-sculptures-2.png" alt="Porcelain figures" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fr-porcelain-sculptures-3.png" data-lightbox="img" data-title="Porcelain figures">
+        <div class="img-box">
+          <img src="/images/misc/fr-porcelain-sculptures-3.png" alt="Porcelain figures" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fr-porcelain-sculptures-4.png" data-lightbox="img" data-title="Porcelain figures">
+        <div class="img-box">
+          <img src="/images/misc/fr-porcelain-sculptures-4.png" alt="Porcelain figures" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fr-porcelain-sculptures-5.png" data-lightbox="img" data-title="Porcelain figures">
+        <div class="img-box">
+          <img src="/images/misc/fr-porcelain-sculptures-5.png" alt="Porcelain figures" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/fr-porcelain-sculptures-6.png" data-lightbox="img" data-title="Porcelain figures">
+        <div class="img-box">
+          <img src="/images/misc/fr-porcelain-sculptures-6.png" alt="Porcelain figures" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Porcelain figures<br/>
+      <strong>Year:</strong> 1995?<br/>
+      <strong>Publisher:</strong> USC & U-Drive<br/>
+      <strong>Language:</strong> French<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="1996-3dphotoframe-763">
     <div class="item-image">
@@ -244,6 +284,39 @@ An archive of The Land Before Time items released over the years that did not fi
     </div>
 </div>
 
+
+<div class="item-entry" id="3D-magnets-collection-706">
+    <div class="item-image">
+      <a href="/images/misc/3D-magnets-collection.png" data-lightbox="img" data-title="3D Magnets Collection">
+        <div class="img-box">
+          <img src="/images/misc/3D-magnets-collection.png" alt="3D Magnets Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> 3D Magnets Collection<br/>
+      <strong>Publisher:</strong> Sweet<br/>
+    </div>
+</div>
+<div class="item-entry" id="magnetsback-828">
+    <div class="item-image">
+      <a href="/images/misc/magnetsback.jpg" data-lightbox="img" data-title="Land Before Time Magnet Set">
+        <div class="img-box">
+          <img src="/images/misc/magnetsback.jpg" alt="Land Before Time Magnet Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/misc/magnetsfront.jpg" data-lightbox="img" data-title="Land Before Time Magnet Set">
+        <div class="img-box">
+          <img src="/images/misc/magnetsfront.jpg" alt="Land Before Time Magnet Set" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Land Before Time Magnet Set<br/>
+      <strong>Year:</strong> 1998<br/>
+      <strong>Barcode:</strong> 804639014540<br/>
+    </div>
+</div>
 
 <div class="item-entry" id="inflatablesharptooth2000rinco-668">
     <div class="item-image">
@@ -452,38 +525,6 @@ An archive of The Land Before Time items released over the years that did not fi
     </div>
 </div>
 
-<div class="item-entry" id="3D-magnets-collection-706">
-    <div class="item-image">
-      <a href="/images/misc/3D-magnets-collection.png" data-lightbox="img" data-title="3D Magnets Collection">
-        <div class="img-box">
-          <img src="/images/misc/3D-magnets-collection.png" alt="3D Magnets Collection" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> 3D Magnets Collection<br/>
-      <strong>Publisher:</strong> Sweet<br/>
-    </div>
-</div>
-<div class="item-entry" id="magnetsback-828">
-    <div class="item-image">
-      <a href="/images/misc/magnetsback.jpg" data-lightbox="img" data-title="Land Before Time Magnet Set">
-        <div class="img-box">
-          <img src="/images/misc/magnetsback.jpg" alt="Land Before Time Magnet Set" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-      <a href="/images/misc/magnetsfront.jpg" data-lightbox="img" data-title="Land Before Time Magnet Set">
-        <div class="img-box">
-          <img src="/images/misc/magnetsfront.jpg" alt="Land Before Time Magnet Set" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
-    </div>
-    <div class="item-details">
-      <strong>Title:</strong> Land Before Time Magnet Set<br/>
-      <strong>Year:</strong> 1998<br/>
-      <strong>Barcode:</strong> 804639014540<br/>
-    </div>
-</div>
 
 <div class="item-entry" id="diapers-1032">
     <div class="item-image">

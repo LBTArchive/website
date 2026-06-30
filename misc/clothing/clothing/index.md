@@ -48,6 +48,22 @@ Dinosaurs may not have worn clothes (probably...), but we humans do :) Here's a 
     </div>
 </div>
 
+<div class="item-entry" id="stegosaurus-1988-jcpenney-1169">
+    <div class="item-image">
+      <a href="/images/misc/clothing/clothes/stegosaurus-1988-jcpenney.jpg" data-lightbox="img" data-title="Stegosaurus Sweater">
+        <div class="img-box">
+          <img src="/images/misc/clothing/clothes/stegosaurus-1988-jcpenney.jpg" alt="Stegosaurus Sweater" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Stegosaurus Sweater<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="tyrannosaurus-sweater-1080">
     <div class="item-image">
       <a href="/images/misc/clothing/tyrannosaurus-sweater.png" data-lightbox="img" data-title="Tyrannosaurus Sweater">
@@ -59,7 +75,7 @@ Dinosaurs may not have worn clothes (probably...), but we humans do :) Here's a 
     <div class="item-details">
       <strong>Title:</strong> Tyrannosaurus Sweater<br/>
       <strong>Year:</strong> 1988<br/>
-      <strong>Publisher:</strong> J.C. Penney<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
     </div>
 </div>
 
@@ -102,6 +118,22 @@ Dinosaurs may not have worn clothes (probably...), but we humans do :) Here's a 
     </div>
     <div class="item-details">
       <strong>Title:</strong> Littlefoot romper<br/>
+      <strong>Year:</strong> 1988<br/>
+      <strong>Brand:</strong> J.C. Penney<br/>
+    </div>
+</div>
+
+
+<div class="item-entry" id="cera-justhatched-jcpenney-1988-1171">
+    <div class="item-image">
+      <a href="/images/misc/clothing/clothes/cera-justhatched-jcpenney-1988.jpg" data-lightbox="img" data-title="Cera Just Hatched Pullover">
+        <div class="img-box">
+          <img src="/images/misc/clothing/clothes/cera-justhatched-jcpenney-1988.jpg" alt="Cera Just Hatched Pullover" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera Just Hatched Pullover<br/>
       <strong>Year:</strong> 1988<br/>
       <strong>Brand:</strong> J.C. Penney<br/>
     </div>

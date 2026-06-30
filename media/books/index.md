@@ -420,9 +420,9 @@ An archive of The Land Before Time books released over the years. These books al
         <img src="/images/media/books/grandpaandme.jpg" alt="Grandpa and me" style="height:250px; object-fit:cover;" loading="lazy">
       </div>
     </a>
-    <a href="/images/media/books/grandpaandmeset.png" data-lightbox="img" data-title="Grandpa and me">
+    <a href="/images/media/books/grandpaandmeset.jpg" data-lightbox="img" data-title="Grandpa and me">
       <div class="img-box">
-        <img src="/images/media/books/grandpaandmeset.png" alt="Grandpa and me" style="height:250px; object-fit:cover;" loading="lazy">
+        <img src="/images/media/books/grandpaandmeset.jpg" alt="Grandpa and me" style="height:250px; object-fit:cover;" loading="lazy">
       </div>
     </a>
   </div>

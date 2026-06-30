@@ -51,6 +51,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     <div class="item-details">
       <strong>Title:</strong> Hatchlings<br/>
       <strong>Year:</strong> ?<br/>
+      <strong>Size:</strong> 4" (plushies only, not counting the egg shell)<br/>
     </div>
   </div>
 
@@ -1096,6 +1097,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 10 inch / 26 cm<br/>
     </div>
   </div>
+
+  <div class="item-entry" id="ducky-1995-universal-1172">
+    <div class="item-image">
+      <a href="/images/toys/plushies/ducky-1995-universal.jpg" data-lightbox="img" data-title="Ducky">
+        <div class="img-box">
+          <img src="/images/toys/plushies/ducky-1995-universal.jpg" alt="Ducky" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Ducky<br/>
+      <strong>Year:</strong> 1995<br/>
+      <strong>Brand:</strong> USC & U-Drive<br/>
+    </div>
+</div>
+
 
   <div class="item-entry" id="ducky-flopasaurus+minipal-137">
     <div class="item-image">
