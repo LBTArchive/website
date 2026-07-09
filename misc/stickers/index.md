@@ -252,9 +252,9 @@ An archive of The Land Before Time Stickers released over the years.
 
   <div class="item-entry" id="lbt2promo-494">
     <div class="item-image">
-      <a href="/images/misc/stickers/lbt2promo.jpg" data-lightbox="img" data-title="Promotional Stickers for The Land Before Time II: The Great Valley Adventure">
+      <a href="/images/misc/stickers/lbt2promo.png" data-lightbox="img" data-title="Promotional Stickers for The Land Before Time II: The Great Valley Adventure">
         <div class="img-box">
-          <img src="/images/misc/stickers/lbt2promo.jpg" alt="Promotional Stickers for The Land Before Time II: The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
+          <img src="/images/misc/stickers/lbt2promo.png" alt="Promotional Stickers for The Land Before Time II: The Great Valley Adventure" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
     </div>

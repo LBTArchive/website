@@ -67,6 +67,11 @@ An archive of The Land Before Time Figurines released over the years.
           <img src="/images/toys/figures/phpuppets.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/toys/figures/puppetlf_orig.jpg" data-lightbox="img" data-title="Hand Puppets">
+        <div class="img-box">
+          <img src="/images/toys/figures/puppetlf_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
       <a href="/images/toys/figures/puppetcera_orig.jpg" data-lightbox="img" data-title="Hand Puppets">
         <div class="img-box">
           <img src="/images/toys/figures/puppetcera_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
@@ -77,11 +82,6 @@ An archive of The Land Before Time Figurines released over the years.
           <img src="/images/toys/figures/puppetducky_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
-      <a href="/images/toys/figures/puppetlf_orig.jpg" data-lightbox="img" data-title="Hand Puppets">
-        <div class="img-box">
-          <img src="/images/toys/figures/puppetlf_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
-        </div>
-      </a>
       <a href="/images/toys/figures/puppetspike_orig.jpg" data-lightbox="img" data-title="Hand Puppets">
         <div class="img-box">
           <img src="/images/toys/figures/puppetspike_orig.jpg" alt="Hand Puppets" style="height:250px; object-fit:cover;" loading="lazy"/>
@@ -89,7 +89,7 @@ An archive of The Land Before Time Figurines released over the years.
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Hand Puppets<br/>
+      <strong>Title:</strong> Hand Puppets: Littlefoot, Cera, Ducky and Spike<br/>
       <strong>Year:</strong> 1988<br/>
       <strong>Notes:</strong> Pizza Hut promotional giveaway. Click <a href="/misc/fastfood/#ph">here</a> to learn more.<br/>
     </div>
@@ -109,7 +109,7 @@ An archive of The Land Before Time Figurines released over the years.
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Hand Puppets<br/>
+      <strong>Title:</strong> Hand Puppets: Petrie & Sharptooth<br/>
       <strong>Year:</strong> 1989<br/>
       <strong>Notes:</strong> Pizza Hut VHS promotional giveaway<br/>
     </div>
@@ -144,7 +144,7 @@ An archive of The Land Before Time Figurines released over the years.
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Great Valley Vehicles<br/>
+      <strong>Title:</strong> Great Valley Vehicles: Littlefoot, Cera & Chomper<br/>
       <strong>Year:</strong> 1996<br/>
       <strong>Publisher:</strong> Equity Toys<br/>
       <strong>Notes:</strong> Included "Trading Cards"<br/>
@@ -170,7 +170,7 @@ An archive of The Land Before Time Figurines released over the years.
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Dinosaur Pals<br/>
+      <strong>Title:</strong> Dinosaur Pals: Littlefoot, Cera, Spike & Chomper<br/>
       <strong>Year:</strong> 1996<br/>
       <strong>Publisher:</strong> Equity Toys<br/>
       <strong>Notes:</strong> Included "Trading Cards"<br/>

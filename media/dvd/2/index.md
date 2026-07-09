@@ -212,4 +212,25 @@ An archive of The Land Before Time DVDs released over the years.
       <strong>Region:</strong> 1<br/>
   </div>
 </div>
+
+
+<div class="item-entry" id="lbt2-ja-1-1176">
+    <div class="item-image">
+      <a href="/images/media/dvd/2/lbt2-ja-1.png" data-lightbox="img" data-title="リトルフット 赤ちゃん恐竜の大冒険">
+        <div class="img-box">
+          <img src="/images/media/dvd/2/lbt2-ja-1.png" alt="リトルフット 赤ちゃん恐竜の大冒険" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+      <a href="/images/media/dvd/2/lbt2-ja-2.png" data-lightbox="img" data-title="リトルフット 赤ちゃん恐竜の大冒険">
+        <div class="img-box">
+          <img src="/images/media/dvd/2/lbt2-ja-2.png" alt="リトルフット 赤ちゃん恐竜の大冒険" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> リトルフット 赤ちゃん恐竜の大冒険<br/>
+      <strong>Language:</strong> Japanese<br/>
+    </div>
+</div>
+
 </div>

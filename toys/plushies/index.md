@@ -540,6 +540,22 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
 </div>
 
+<div class="item-entry" id="littlefoot-10-inch-1175">
+    <div class="item-image">
+      <a href="/images/toys/plushies/littlefoot-10-inch.jpg" data-lightbox="img" data-title="Littlefoot beanbag">
+        <div class="img-box">
+          <img src="/images/toys/plushies/littlefoot-10-inch.jpg" alt="Littlefoot beanbag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Littlefoot beanbag<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> ?<br/>
+      <strong>Size:</strong> 10 inches<br/>
+    </div>
+</div>
+
 
   <h2 id="cera">Cera</h3>
 
@@ -1076,6 +1092,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Size:</strong> 11 inches<br/>
     </div>
 </div>
+
+<div class="item-entry" id="cera-plush-xx-1178">
+    <div class="item-image">
+      <a href="/images/toys/plushies/cera-plush-xx.png" data-lightbox="img" data-title="Cera beanbag">
+        <div class="img-box">
+          <img src="/images/toys/plushies/cera-plush-xx.png" alt="Cera beanbag" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Cera beanbag<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> ?<br/>
+      <strong>Size:</strong> ?<br/>
+    </div>
+</div>
+
 
 
 <h2 id="ducky">Ducky</h3>
@@ -2215,6 +2248,23 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
   </div>
 
+  <div class="item-entry" id="chomper-cart-1179">
+    <div class="item-image">
+      <a href="/images/toys/plushies/chomper-cart.jpg" data-lightbox="img" data-title="Chomper in an egg car">
+        <div class="img-box">
+          <img src="/images/toys/plushies/chomper-cart.jpg" alt="Chomper in an egg car" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Chomper in an egg car<br/>
+      <strong>Year:</strong> ?<br/>
+      <strong>Brand:</strong> Toy Network<br/>
+      <strong>Size:</strong> 7 inches<br/>
+    </div>
+</div>
+
+
 <div class="item-entry" id="chomper-toynetwork-whatever-653">
     <div class="item-image">
       <a href="/images/toys/plushies/chomper-toynetwork-whatever.jpg" data-lightbox="img" data-title="Chomper">
@@ -2240,9 +2290,10 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Chomper<br/>
+      <strong>Title:</strong> Chomper with easter egg basket<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
+      <strong>Size:</strong> 7 inches<br/>
     </div>
   </div>
 
@@ -2260,7 +2311,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Chomper<br/>
+      <strong>Title:</strong> Chomper with easter egg hat<br/>
       <strong>Year:</strong> ?<br/>      
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Notes:</strong> 12 inches<br/>
@@ -2276,7 +2327,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Chomper<br/>
+      <strong>Title:</strong> Chomper with witch hat an pumpkin<br/>
       <strong>Year:</strong> 1995<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Notes:</strong> 8 inches<br/>
@@ -2293,7 +2344,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Chomper<br/>
+      <strong>Title:</strong> Chomper with an American flag<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
@@ -2308,7 +2359,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       </a>
     </div>
     <div class="item-details">
-      <strong>Title:</strong> Chomper<br/>
+      <strong>Title:</strong> Chomper with a Santa had and stocking<br/>
       <strong>Year:</strong> ?<br/>
       <strong>Brand:</strong> Toy Network<br/>
       <strong>Size:</strong> ?<br/>
@@ -2399,7 +2450,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
     </div>
 </div>
 
-<div class="item-entry" id="chomper-toynetwork-7inch_orig-104">
+<div class="item-entry" id="Mo-104">
     <div class="item-image">
       <a href="/images/toys/plushies/4260468_orig.jpg" data-lightbox="img" data-title="Mo">
         <div class="img-box">
@@ -2430,7 +2481,7 @@ An archive of The Land Before Time Plushies released over the years. If you want
       <strong>Notes:</strong> Thanks to ImpracticalDino for the picture<br/>
     </div>
   </div>
-<div class="item-entry" id="chomper-toynetwork-7inch_orig-106">
+<div class="item-entry" id="ruby-106">
     <div class="item-image">
       <a href="/images/toys/plushies/ruby-megatoys-unknown_orig.jpg" data-lightbox="img" data-title="Ruby">
         <div class="img-box">

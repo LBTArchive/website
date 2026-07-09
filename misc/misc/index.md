@@ -543,6 +543,11 @@ An archive of The Land Before Time items released over the years that did not fi
           <img src="/images/misc/diapers3.png" alt="Ultra Thins Comfort-Stretch Diapers" style="height:250px; object-fit:cover;" loading="lazy"/>
         </div>
       </a>
+      <a href="/images/misc/diapers4.jpg" data-lightbox="img" data-title="diapers">
+        <div class="img-box">
+          <img src="/images/misc/diapers4.jpg" alt="diapers" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
     </div>
     <div class="item-details">
       <strong>Title:</strong> Ultra Thins Comfort-Stretch Diapers<br/>
