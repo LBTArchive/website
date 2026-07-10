@@ -432,6 +432,7 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Year:</strong> 1998 <br />
     <strong>Publisher:</strong> Inchworm Press<br/>
     <strong>ISBN:</strong> 9780200646017 <br />
+    <strong>Archive.org link:</strong> https://archive.org/details/grandpame00titl <br />    
     <strong>Notes:</strong> Was apparently part of a "Book and Plush Gift Set" <br />
   </div>
 </div>
