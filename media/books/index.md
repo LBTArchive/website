@@ -81,6 +81,7 @@ An archive of The Land Before Time books released over the years. These books al
   <strong>Language:</strong> English <br />
   <strong>Year:</strong> 1988 <br />
   <strong>ISBN:</strong> 978-0448093581 <br />
+  <strong>Archive.org link:</strong> https://archive.org/details/landbeforetimese00razz/mode/2up <br />
   <strong>Notes:</strong> Has a <a href="/media/cassette/#search-for-the-great-valley-cassette">cassette</a> with the same name <br />
 </div>
 </div>
