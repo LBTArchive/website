@@ -34,6 +34,7 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Language:</strong> English <br />
     <strong>Year:</strong> 1988 <br />
     <strong>ISBN:</strong> 0448093553 <br />
+    <strong><a href="https://archive.org/details/landbeforetime00razz/page/n3/mode/2up">Borrow this book from archive.org</a></strong>  <br />
   </div>
 </div>
 <div class="item-entry">
@@ -81,7 +82,7 @@ An archive of The Land Before Time books released over the years. These books al
   <strong>Language:</strong> English <br />
   <strong>Year:</strong> 1988 <br />
   <strong>ISBN:</strong> 978-0448093581 <br />
-  <strong>Archive.org link:</strong> https://archive.org/details/landbeforetimese00razz/mode/2up <br />
+  <strong><a href="https://archive.org/details/landbeforetimese00razz/mode/2up">Borrow this book from archive.org</a></strong>  <br />
   <strong>Notes:</strong> Has a <a href="/media/cassette/#search-for-the-great-valley-cassette">cassette</a> with the same name <br />
 </div>
 </div>
@@ -99,6 +100,23 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Year:</strong> 1988 <br />
     <strong>Language:</strong> German <br />
   </div>
+</div>
+
+<div class="item-entry" id="search-for-the-great-valley-uk-1183">
+    <div class="item-image">
+      <a href="/images/media/books/search-for-the-great-valley-uk.png" data-lightbox="img" data-title="Search for the Great Valley">
+        <div class="img-box">
+          <img src="/images/media/books/search-for-the-great-valley-uk.png" alt="Search for the Great Valley" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Search for the Great Valley<br/>
+      <strong>Year:</strong> 1989<br/>
+      <strong>ISBN:</strong> 0552525766<br/>
+      <strong><a href="https://archive.org/details/landbeforetimese0000unse/mode/2up">Borrow this book from archive.org</a></strong> <br/>
+      <strong>Notes:</strong> UK edition<br/>
+    </div>
 </div>
 
 <div class="item-entry" id="leprimeavventure-1168">
@@ -433,7 +451,7 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Year:</strong> 1998 <br />
     <strong>Publisher:</strong> Inchworm Press<br/>
     <strong>ISBN:</strong> 9780200646017 <br />
-    <strong>Archive.org link:</strong> https://archive.org/details/grandpame00titl <br />    
+    <strong><a href="https://archive.org/details/grandpame00titl">Borrow this book from archive.org</a></strong>  <br />    
     <strong>Notes:</strong> Was apparently part of a "Book and Plush Gift Set" <br />
   </div>
 </div>
@@ -626,7 +644,8 @@ An archive of The Land Before Time books released over the years. These books al
       <strong>Title:</strong> Land Before Time Board books<br/>
       <strong>Year:</strong> 1999 / 2005 <br />
       <strong>ISBN:</strong> 978-0769602400 <br />
-      <strong>Notes:</strong> Box set came out in 2005. Possibly released in 1999 originally (see second image)</br> 4 cardboard books<ul><li>The Great, Beautiful Valley</li><li>We Did it Together</li><li>When We Grow Up</li><li>Playing in the Valley</li></ul><br/>
+      <strong>Notes:</strong> Box set came out in 2005. Possibly released in 1999 originally (see second image)</br> 4 cardboard books<ul><li><a href="
+       https://archive.org/details/greatbeautifulva00dawa">The Great, Beautiful Valley</a></li><li><a href="https://archive.org/details/wedidittogether00dawa">We Did it Together</a></li><li><a href="https://archive.org/details/whenwegrowup00dawa">When We Grow Up</a></li><li>Playing in the Valley</li></ul><br/>
     </div>
 </div>
 
@@ -658,6 +677,7 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Language:</strong> English <br />
     <strong>Year:</strong> 1999 <br />
     <strong>ISBN:</strong> 978-0737302370 <br />
+    <strong><a href="https://archive.org/details/landbeforetimeho0000pear">Borrow this book from archive.org</a></strong>  <br />
   </div>
 </div>
 <div class="item-entry" id="liftaflapcollection-775">
@@ -750,8 +770,7 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>ISBN:</strong> 9783897556324 <br />
     <strong>Language:</strong> German <br />
     <strong>Notes:</strong> "The Land Before Time - The Big Journey" <br />
-    <a href="https://archive.org/details/ineinemlandvorun0000unse/mode/2up" style="display: flex; align-items: center; gap:5px" target="_blank">
-      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org </a>
+    <strong><a href="https://archive.org/details/ineinemlandvorun0000unse/mode/2up">Borrow this book from archive.org</a></strong>  <br />
   </div>
 </div>
 <div class="item-entry">
@@ -926,6 +945,7 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Language:</strong> English <br />
     <strong>Year:</strong> 2007 <br />
     <strong>ISBN:</strong> 978-0061347771 <br />
+    <strong><a href="https://archive.org/details/cerasshinystone0000hapk">Borrow this book from archive.org</a></strong>  <br />
   </div>
 </div>
 <div class="item-entry">
@@ -958,6 +978,7 @@ An archive of The Land Before Time books released over the years. These books al
     <strong>Language:</strong> English <br />
     <strong>Year:</strong> 2008 <br />
     <strong>ISBN:</strong> 978-0061352935 <br />
+    <strong><a href="https://archive.org/details/lonelydinosaur0000hapk">Borrow this book from archive.org</a></strong>  <br />
   </div>
 </div>
 <div class="item-entry">

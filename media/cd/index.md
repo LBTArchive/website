@@ -165,6 +165,25 @@ It is the only place where the Dutch version of If We Hold on Together can be he
   </div>
 </div>
 
+<div class="item-entry" id="sangerna-fran-landet-for-langesedan-1184">
+    <div class="item-image">
+      <a href="/images/media/cd/sangerna-fran-landet-for-langesedan.png" data-lightbox="img" data-title="Sångerna från Landet för Längesedan">
+        <div class="img-box">
+          <img src="/images/media/cd/sangerna-fran-landet-for-langesedan.png" alt="Sångerna från Landet för Längesedan" style="height:250px; object-fit:cover;" loading="lazy"/>
+        </div>
+      </a>
+    </div>
+    <div class="item-details">
+      <strong>Title:</strong> Sångerna från Landet för Längesedan<br/>
+      <strong>Year:</strong> 1997<br/>
+      <strong>Language:</strong> Swedish<br/>
+      <a href="https://archive.org/details/sangerna-fran-landet-for-langesedan-swe/01+-+Vi+%C3%A4r+alla+nu+en+enda+familj.flac" style="display: flex; align-items: center; gap:5px" target="_blank">
+      <img src="/images/download-icon.svg" alt="Click here to download" style="height:13px;width:13px;" loading="lazy"> Link to this item on archive.org
+      </a>
+    </div>
+</div>
+
+
 <div class="item-entry">
   <div class="item-image">
     <a href="/images/media/cd/2-audoplays_orig.jpg" data-lightbox="img" data-title="In einem Land vor unseren Zeit">
